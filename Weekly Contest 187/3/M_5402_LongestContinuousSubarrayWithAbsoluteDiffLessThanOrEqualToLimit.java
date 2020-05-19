@@ -3,6 +3,7 @@ import java.util.TreeMap;
 
 class M_5402_LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit {
 
+    // Accepted --- 63ms 59.5MB 22.58%
     public int longestSubarray_SaveVMK(int[] nums, int limit) {
         int n = nums.length;
         TreeMap<Integer, Integer> tm = new TreeMap<>();
@@ -26,6 +27,7 @@ class M_5402_LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit {
     }
 
     //////////////////////////////////////////////////////////////////
+    // Accepted --- 66ms 70.8MB 20.63%
     public int longestSubarray_uwi(int[] a, int limit) {
         int n = a.length;
         int low = 1, high = n + 1;
@@ -82,6 +84,7 @@ class M_5402_LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit {
     }
 
     //////////////////////////////////////////////////////////////////
+    // Accepted --- 60 ms 58.7MB 24.83%
     public int longestSubarray_taran_1407(int[] nums, int limit) {
         MyTreeSet<Integer> set = new MyTreeSet<>();
         int ans = 1, ptr = 0;

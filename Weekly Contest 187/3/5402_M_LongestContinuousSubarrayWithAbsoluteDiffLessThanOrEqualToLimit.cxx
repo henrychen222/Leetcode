@@ -11,6 +11,7 @@ using namespace std;
 class Solution
 {
 public:
+    // Accepted --- 732ms 100.9MB 5.03%
     int longestSubarray_fmota(vector<int> &nums, int limit)
     {
         multiset<int> cur;
@@ -45,6 +46,7 @@ public:
         return ans;
     }
 
+    // Accepted --- 432ms 78.4MB 16.94%
     int longestSubarray_kmjp(vector<int> &nums, int limit)
     {
         int ret = 1;
@@ -63,6 +65,7 @@ public:
     }
 
     /////////////////////////////////////////////////////////////////////////////////////
+    // Accepted --- 688ms 100.8MB 5.03%
     int getLo(multiset<int> &x)
     {
         return *x.begin();
@@ -100,6 +103,7 @@ public:
     }
 
     /////////////////////////////////////////////////////////////////////////////////////
+    // Accepted --- 464ms 78.6 MB 12.22%
     int longestSubarray_superluminal(vector<int> &nums, int limit)
     {
         multiset<int> w;
@@ -116,6 +120,7 @@ public:
         return r;
     }
 
+    // Accepted --- 700ms 100.7MB 5.03%
     int longestSubarray_dancooper(vector<int> &A, int limit)
     {
         int n = A.size();
@@ -143,6 +148,7 @@ public:
         return max_len;
     }
 
+    // Accepted --- 556 ms 78.5 MB 7.56%
     int longestSubarray_wiji(vector<int> &nums, int limit)
     {
         int n = nums.size(), i, j, k, c = 0;
@@ -161,6 +167,7 @@ public:
         return ans;
     }
 
+    // Accepted --- 676ms 100.7MB 5.09%
     int longestSubarray_Heltion(vector<int> &nums, int limit)
     {
         int n = nums.size(), ans = 0;
@@ -183,28 +190,30 @@ public:
         return ans;
     }
 
+    // Accepted --- 488ms 78.5MB 10.43%
     int longestSubarray_zerotrac2(vector<int> &nums, int limit)
     {
-        int n = nums.size(), ans = 0;
-        multiset<int> ms;
-        for (int L = 0, R = 0; L < n; L += 1)
+        multiset<int> s;
+        int n = nums.size();
+        int r = -1;
+        int ans = 0;
+        for (int i = 0; i < n; ++i)
         {
-            while (R < n)
+            if (i != 0)
             {
-                ms.insert(nums[R]);
-                if (*ms.rbegin() - *ms.begin() > limit)
-                {
-                    ms.erase(ms.find(nums[R]));
-                    break;
-                }
-                R += 1;
+                s.erase(s.find(nums[i - 1]));
             }
-            ans = max(R - L, ans);
-            ms.erase(ms.find(nums[L]));
+            while (r + 1 < n && (s.empty() || max(*s.rbegin(), nums[r + 1]) - min(*s.begin(), nums[r + 1]) <= limit))
+            {
+                s.insert(nums[r + 1]);
+                ++r;
+            }
+            ans = max(ans, r - i + 1);
         }
         return ans;
     }
 
+    // Accepted --- 360ms 62.8MB 25.99%
     int longestSubarray_lympanda(vector<int> &nums, int limit)
     {
         map<int, int> mp;
@@ -243,7 +252,8 @@ public:
         return ans;
     }
 
-    int longestSubarray_uwi(vector<int> &v, int limit)
+    // Accepted --- 772ms 58.3 MB 5.03%
+    int longestSubarray_nhho(vector<int> &v, int limit)
     {
         int ans = 0;
         priority_queue<pair<int, int>> qa;
@@ -276,6 +286,7 @@ public:
         return ans;
     }
 
+    // Acccepted --- 540ms 78.6MB 7.90%
     int longestSubarray_piyifan(vector<int> &nums, int limit)
     {
         set<pair<int, int>> f;
@@ -297,6 +308,7 @@ public:
         return ans;
     }
 
+    // Accepted --- 252ms 57.1MB 40.25%
     int longestSubarray_ericlong(vector<int> &nums, int limit)
     {
         int l = 0;
@@ -406,9 +418,9 @@ int main()
     cout << s.longestSubarray_lympanda(nums3, limit3) << endl;
 
     cout << endl
-         << s.longestSubarray_uwi(nums, limit) << endl;
-    cout << s.longestSubarray_uwi(nums2, limit2) << endl;
-    cout << s.longestSubarray_uwi(nums3, limit3) << endl;
+         << s.longestSubarray_nhho(nums, limit) << endl;
+    cout << s.longestSubarray_nhho(nums2, limit2) << endl;
+    cout << s.longestSubarray_nhho(nums3, limit3) << endl;
 
     cout << endl
          << s.longestSubarray_piyifan(nums, limit) << endl;

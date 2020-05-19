@@ -1,4 +1,39 @@
-// 5.2 night
+// 5.2 night 5.17 night
+
+// not fixed
+const Deque = require("collections/deque");
+const longestSubarray_ericlong = (nums, limit) => {
+    let l = 0;
+    let mx = new Deque();
+    let mn = new Deque();
+    mx.push(nums[0], 0);
+    mn.push(nums[0], 0);
+    // console.log(mx);
+
+    let ans = 1;
+    for (let i = 0; i < nums.length; i++) {
+        while (!mx.length == 0 && nums[i] > mx.peek().key) {
+            mx.shift();
+        }
+        mx.unshift(nums[i], i);
+        while (!mn.length == 0 && nums[i] < mn.peek().key) {
+            mn.shift();
+        }
+        mn.unshift(nums[i], i);
+        while (mx.peekBack().key - mn.peekBack().key > limit) {
+            if (mx.peekBack().value == l) {
+                mx.pop();
+            }
+            if (mn.peekBack().value == l) {
+                mn.pop();
+            }
+            l++;
+        }
+        ans = Math.max(ans, i - l + 1);
+    }
+    return ans;
+};
+
 // still not fixed
 const longestSubarray_alanmiller = (nums, limit) => {
     let n = nums.length;
@@ -10,6 +45,8 @@ const longestSubarray_alanmiller = (nums, limit) => {
     // nums.map((v, i) => {
     //     mx = Math.max(mx, v);
     //     mi = Math.min(mi, v);
+    //     // console.log(mx)
+    //     // console.log(mi)
     //     while (mx - mi > limit) {
     //         if (mx == nums[j]) {
     //             mx = Math.max(nums.slice(j + 1, i + 1));
@@ -22,20 +59,48 @@ const longestSubarray_alanmiller = (nums, limit) => {
     //     ans = Math.max(ans, i - j + 1)
     // });
 
-    for (const [i, v] of nums.entries()) {
-        mx = Math.max(mx, v);
-        mi = Math.min(mi, v);
+    // for (const [i, v] of nums.entries()) {
+    //     mx = Math.max(mx, v);
+    //     mi = Math.min(mi, v);
+    //     console.log(mx)
+    //     console.log(mi)
+    //     while (mx - mi > limit) {
+    //         if (mx == nums[j]) {
+    //             mx = Math.max(nums.slice(j + 1, i + 1));
+    //         }
+    //         if (mi == nums[j]) {
+    //             mi = Math.min(nums.slice(j + 1, i + 1));
+    //         }
+    //         j++;
+    //     }
+    //     ans = Math.max(ans, i - j + 1)
+    // }
+
+    let data = [];
+    for (let i = 0; i < nums.length; i++) {
+        data.push({
+            key: i,
+            value: nums[i]
+        });
+    }
+    // console.log(data)
+    for (const item of data) {
+        mx = Math.max(mx, item.value);
+        mi = Math.min(mi, item.value);
+        // console.log(mx)
+        // console.log(mi)
         while (mx - mi > limit) {
             if (mx == nums[j]) {
-                mx = Math.max(nums.slice(j + 1, i + 1));
+                mx = Math.max(nums.slice(j + 1, item.key + 1));
             }
             if (mi == nums[j]) {
-                mi = Math.min(nums.slice(j + 1, i + 1));
+                mi = Math.min(nums.slice(j + 1, item.key + 1));
             }
             j++;
         }
-        ans = Math.max(ans, i - j + 1)
+        ans = Math.max(ans, item.key - j + 1)
     }
+
     return ans;
 };
 
@@ -64,6 +129,7 @@ const longestSubarray_SaveVMK = (nums, limit) => {
 
 const getLastKeyInMap = map => Array.from(map)[map.size - 1][0]
 const getFirstKeyInMap = map => Array.from(map)[0][0]
+
 
 // FATAL ERROR: semi-space copy Allocation failed - JavaScript heap out of memory
 const longestSubarray = (nums, limit) => {
@@ -126,6 +192,11 @@ const main = () => {
     console.log(longestSubarray_alanmiller(nums, limit));
     console.log(longestSubarray_alanmiller(nums2, limit2));
     console.log(longestSubarray_alanmiller(nums3, limit3));
+
+    console.log("");
+    console.log(longestSubarray_ericlong(nums, limit));
+    console.log(longestSubarray_ericlong(nums2, limit2));
+    console.log(longestSubarray_ericlong(nums3, limit3));
 
 
 };
