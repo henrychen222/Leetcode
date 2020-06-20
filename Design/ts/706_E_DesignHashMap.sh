@@ -1,0 +1,2 @@
+tsc 706_E_DesignHashMap.ts
+node 706_E_DesignHashMap.js

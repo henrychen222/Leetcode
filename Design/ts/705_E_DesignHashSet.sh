@@ -1,0 +1,2 @@
+tsc 705_E_DesignHashSet.ts
+node 705_E_DesignHashSet.js
