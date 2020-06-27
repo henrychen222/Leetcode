@@ -1,0 +1,2 @@
+tsc 234_E_PalindromeLinkedList.ts
+node 234_E_PalindromeLinkedList.js

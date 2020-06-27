@@ -1,6 +1,7 @@
 /**
  * 6.25 evening
  * https://leetcode.com/problems/delete-node-in-a-linked-list/
+ * reference: https://www.cnblogs.com/grandyang/p/4647576.html
  */
 
 export class ListNode {
