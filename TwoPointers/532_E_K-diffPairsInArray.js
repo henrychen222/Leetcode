@@ -1,5 +1,5 @@
 /**
- * 6.17 night
+ * 6.4 evening  6.17 night redo complete
  * https://leetcode.com/problems/k-diff-pairs-in-an-array/
  */
 
@@ -90,3 +90,21 @@ const main = () => {
 };
 
 main()
+
+
+
+// // need to fix
+// const findPairs = (nums, k) => {
+//     let res = [];
+//     for (let i = 0; i < nums.length; i++) {
+//         let a = nums[i];
+//         for (let j = i + 1; j < nums.length; j++) {
+//             let b = nums[j];
+//             if (Math.abs(a - b) == k && (!res.includes([a, b]))) {
+//                 res.push([a, b]);
+//             }
+//         }
+//     }
+//     console.log(res);
+//     return [...new Set(res)];
+// };
