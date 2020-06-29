@@ -22,6 +22,12 @@ https://leetcode.com/problems/palindrome-linked-list/discuss/707551/typescript-s
 203 Remove Linked List Elements
 https://leetcode.com/problems/remove-linked-list-elements/discuss/707509/typescript-solution
 
+589 N-ary Tree Preorder Traversal
+https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javascript-solution
+
+653 Two Sum IV - Input is a BST
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescript-solution
+
 665 Non-decreasing Array
 https://leetcode.com/problems/non-decreasing-array/discuss/707157/javascript-solution
 

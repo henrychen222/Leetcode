@@ -1,6 +1,7 @@
 /**
  * 6.27 night
  * https://leetcode.com/problems/intersection-of-two-linked-lists/
+ * reference: https://www.cnblogs.com/grandyang/p/4128461.html
  */
 
 // Accepted --- 104ms 43.4MB 36.87%
