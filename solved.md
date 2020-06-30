@@ -22,8 +22,14 @@ https://leetcode.com/problems/palindrome-linked-list/discuss/707551/typescript-s
 203 Remove Linked List Elements
 https://leetcode.com/problems/remove-linked-list-elements/discuss/707509/typescript-solution
 
+559 Maximum Depth of N-ary Tree
+https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascript-solution
+
 589 N-ary Tree Preorder Traversal
 https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javascript-solution
+
+590 N-ary Tree Postorder Traversal
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/javascript-solution
 
 653 Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescript-solution
@@ -36,6 +42,9 @@ https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
 
 876 Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascript-solution
+
+897 Increasing Order Search Tree
+https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javascript-solution
 
 1122 Relative Sort Array
 https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solution
