@@ -31,6 +31,12 @@ https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javas
 590 N-ary Tree Postorder Traversal
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/javascript-solution
 
+617 Merge Two Binary Trees
+https://leetcode.com/problems/merge-two-binary-trees/discuss/715773/javascript-solution
+
+637 Average of Levels in Binary Tree
+https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/713909/typescript-tree-to-array-solution
+
 653 Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescript-solution
 
@@ -40,11 +46,23 @@ https://leetcode.com/problems/non-decreasing-array/discuss/707157/javascript-sol
 682 Baseball Game
 https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
 
+700 Search in a Binary Search Tree
+https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/javascript-solution
+
+872 Leaf-Similar Trees
+https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-to-array-solution
+
 876 Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascript-solution
 
 897 Increasing Order Search Tree
 https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javascript-solution
+
+965 Univalued Binary Tree
+https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tree-to-array-solution
+
+1022 Sum of Root To Leaf Binary Numbers
+https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/typescript-tree-to-array-solution
 
 1122 Relative Sort Array
 https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solution
