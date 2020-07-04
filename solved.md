@@ -1,6 +1,15 @@
 83 Remove Duplicates from Sorted List
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/709582/javascript-solution
 
+101 Symmetric Tree
+https://leetcode.com/problems/symmetric-tree/discuss/717857/javascript-iteration-recursion
+
+104 Maximum Depth of Binary Tree
+https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javascript-solution
+
+108 Convert Sorted Array to Binary Search Tree
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss/717442/javascript-solution
+
 141 Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-fast-pointer
 
@@ -43,6 +52,12 @@ https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescrip
 665 Non-decreasing Array
 https://leetcode.com/problems/non-decreasing-array/discuss/707157/javascript-solution
 
+669 Trim a Binary Search Tree
+https://leetcode.com/problems/trim-a-binary-search-tree/discuss/717384/javascript-solution
+
+671 Second Minimum Node In a Binary Tree
+https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/717921/javascript-transfer-to-array-iteration-recursion
+
 682 Baseball Game
 https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
 
@@ -60,6 +75,9 @@ https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javasc
 
 965 Univalued Binary Tree
 https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tree-to-array-solution
+
+993 Cousins in Binary Tree
+https://leetcode.com/problems/cousins-in-binary-tree/discuss/717674/javascript-dfs-and-bfs-solution
 
 1022 Sum of Root To Leaf Binary Numbers
 https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/typescript-tree-to-array-solution
