@@ -10,6 +10,9 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javasc
 108 Convert Sorted Array to Binary Search Tree
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss/717442/javascript-solution
 
+112 Path Sum
+https://leetcode.com/problems/path-sum/discuss/719072/javascript-array-recursion-iteration-solution
+
 141 Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-fast-pointer
 
@@ -30,6 +33,9 @@ https://leetcode.com/problems/palindrome-linked-list/discuss/707551/typescript-s
 
 203 Remove Linked List Elements
 https://leetcode.com/problems/remove-linked-list-elements/discuss/707509/typescript-solution
+
+442 Find All Duplicates in an Array
+https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/720439/javascript-brute-force
 
 559 Maximum Depth of N-ary Tree
 https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascript-solution
@@ -61,6 +67,9 @@ https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/71792
 682 Baseball Game
 https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
 
+687 Longest Univalue Path
+https://leetcode.com/problems/longest-univalue-path/discuss/719207/javascript-recursion
+
 700 Search in a Binary Search Tree
 https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/javascript-solution
 
@@ -69,6 +78,9 @@ https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-
 
 876 Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascript-solution
+
+894 All Possible Full Binary Trees
+https://leetcode.com/problems/all-possible-full-binary-trees/discuss/719335/javascript-solution
 
 897 Increasing Order Search Tree
 https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javascript-solution
@@ -87,6 +99,12 @@ https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solu
 
 1290 Convert Binary Number in a Linked List to Integer
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/discuss/709693/javascript-solution
+
+1302 Deepest Leaves Sum
+https://leetcode.com/problems/deepest-leaves-sum/discuss/719225/javascript-parse-to-array-solution
+
+1305 All Elements in Two Binary Search Trees
+https://leetcode.com/problems/all-elements-in-two-binary-search-trees/discuss/719247/javascript-dfs-to-array
 
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
