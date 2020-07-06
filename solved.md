@@ -106,5 +106,11 @@ https://leetcode.com/problems/deepest-leaves-sum/discuss/719225/javascript-parse
 1305 All Elements in Two Binary Search Trees
 https://leetcode.com/problems/all-elements-in-two-binary-search-trees/discuss/719247/javascript-dfs-to-array
 
+1395 Count Number of Teams
+https://leetcode.com/problems/count-number-of-teams/discuss/720817/javascript-three-pointer
+
+1409 Queries on a Permutation With Key
+https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/javascript-solution
+
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
