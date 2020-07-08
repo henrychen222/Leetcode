@@ -2,8 +2,14 @@
 11 Container With Most Water
 https://leetcode.com/problems/container-with-most-water/discuss/723025/javascript-two-pointer
 
+78 Subsets
+https://leetcode.com/problems/subsets/discuss/725759/javascript-solution
+
 83 Remove Duplicates from Sorted List
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/709582/javascript-solution
+
+90 Subsets II
+https://leetcode.com/problems/subsets-ii/discuss/725831/javascript-solution
 
 101 Symmetric Tree
 https://leetcode.com/problems/symmetric-tree/discuss/717857/javascript-iteration-recursion
