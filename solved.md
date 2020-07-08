@@ -11,6 +11,9 @@ https://leetcode.com/problems/symmetric-tree/discuss/717857/javascript-iteration
 104 Maximum Depth of Binary Tree
 https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javascript-solution
 
+147 Insertion Sort List
+https://leetcode.com/problems/insertion-sort-list/discuss/724134/javascript
+
 108 Convert Sorted Array to Binary Search Tree
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss/717442/javascript-solution
 
@@ -31,6 +34,9 @@ https://leetcode.com/problems/excel-sheet-column-number/discuss/707202/javascrip
 
 206 Reverse Linked List
 https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
+
+220 Contains Duplicate III
+https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
 
 234 Palindrome Linked List
 https://leetcode.com/problems/palindrome-linked-list/discuss/707551/typescript-solution
