@@ -38,6 +38,9 @@ https://leetcode.com/problems/excel-sheet-column-title/discuss/707234/javascript
 171 Excel Sheet Column Number
 https://leetcode.com/problems/excel-sheet-column-number/discuss/707202/javascript-solution
 
+190 Reverse Bits
+https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
+
 206 Reverse Linked List
 https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 
@@ -50,8 +53,20 @@ https://leetcode.com/problems/palindrome-linked-list/discuss/707551/typescript-s
 203 Remove Linked List Elements
 https://leetcode.com/problems/remove-linked-list-elements/discuss/707509/typescript-solution
 
+350 Intersection of Two Arrays II
+https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution
+
 442 Find All Duplicates in an Array
 https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/720439/javascript-brute-force
+
+461 Hamming Distance
+https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
+
+496 Next Greater Element I
+https://leetcode.com/problems/next-greater-element-i/discuss/704481/javascript-solution
+
+532 K-diff Pairs in an Array
+https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
 
 559 Maximum Depth of N-ary Tree
 https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascript-solution
@@ -64,6 +79,9 @@ https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/java
 
 617 Merge Two Binary Trees
 https://leetcode.com/problems/merge-two-binary-trees/discuss/715773/javascript-solution
+
+633 Sum of Square Numbers
+https://leetcode.com/problems/sum-of-square-numbers/discuss/682921/javascript-hashmap-solution
 
 637 Average of Levels in Binary Tree
 https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/713909/typescript-tree-to-array-solution
@@ -101,8 +119,14 @@ https://leetcode.com/problems/all-possible-full-binary-trees/discuss/719335/java
 897 Increasing Order Search Tree
 https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javascript-solution
 
+941 Valid Mountain Array
+https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-easy
+
 965 Univalued Binary Tree
 https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tree-to-array-solution
+
+973 K Closest Points to Origin
+https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascript-1-line-code-81.61
 
 993 Cousins in Binary Tree
 https://leetcode.com/problems/cousins-in-binary-tree/discuss/717674/javascript-dfs-and-bfs-solution
@@ -125,6 +149,9 @@ https://leetcode.com/problems/all-elements-in-two-binary-search-trees/discuss/71
 1333 Filter Restaurants by Vegan-Friendly, Price and Distance
 https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/discuss/726382/javascript-solution
 
+1387 Sort Integers by The Power Value
+https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/javascript-solution
+
 1395 Count Number of Teams
 https://leetcode.com/problems/count-number-of-teams/discuss/720817/javascript-three-pointer
 
@@ -133,6 +160,9 @@ https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/j
 
 1451 Rearrange Words in a Sentence
 https://leetcode.com/problems/rearrange-words-in-a-sentence/discuss/726284/javascript-solution
+
+1452 People Whose List of Favorite Companies Is Not a Subset of Another List
+https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/discuss/727707/javascript-solution
 
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
