@@ -26,6 +26,9 @@ https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss
 112 Path Sum
 https://leetcode.com/problems/path-sum/discuss/719072/javascript-array-recursion-iteration-solution
 
+137 Single Number II
+https://leetcode.com/problems/single-number-ii/discuss/731356/javascript-3-solutions
+
 141 Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-fast-pointer
 
@@ -41,6 +44,9 @@ https://leetcode.com/problems/excel-sheet-column-number/discuss/707202/javascrip
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
 
+203 Remove Linked List Elements
+https://leetcode.com/problems/remove-linked-list-elements/discuss/707509/typescript-solution
+
 206 Reverse Linked List
 https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 
@@ -50,11 +56,17 @@ https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-t
 234 Palindrome Linked List
 https://leetcode.com/problems/palindrome-linked-list/discuss/707551/typescript-solution
 
-203 Remove Linked List Elements
-https://leetcode.com/problems/remove-linked-list-elements/discuss/707509/typescript-solution
+260 Single Number III
+https://leetcode.com/problems/single-number-iii/discuss/731387/javascript-easy
+
+318 Maximum Product of Word Lengths
+https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/javascript-two-pointer
 
 350 Intersection of Two Arrays II
 https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution
+
+421 Maximum XOR of Two Numbers in an Array
+https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
 
 442 Find All Duplicates in an Array
 https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/720439/javascript-brute-force
@@ -137,6 +149,12 @@ https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/
 1122 Relative Sort Array
 https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solution
 
+1131 Maximum of Absolute Value Expression
+https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/731413/javascript-two-pointer
+
+1239 Maximum Length of a Concatenated String with Unique Characters
+https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
+
 1290 Convert Binary Number in a Linked List to Integer
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/discuss/709693/javascript-solution
 
@@ -145,6 +163,9 @@ https://leetcode.com/problems/deepest-leaves-sum/discuss/719225/javascript-parse
 
 1305 All Elements in Two Binary Search Trees
 https://leetcode.com/problems/all-elements-in-two-binary-search-trees/discuss/719247/javascript-dfs-to-array
+
+1318 Minimum Flips to Make a OR b Equal to c
+https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/discuss/731454/javascript-String-solution-faster-than-68.18-100-memory
 
 1333 Filter Restaurants by Vegan-Friendly, Price and Distance
 https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/discuss/726382/javascript-solution
