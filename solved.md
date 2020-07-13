@@ -8,6 +8,9 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/java
 78 Subsets
 https://leetcode.com/problems/subsets/discuss/725759/javascript-solution
 
+81 Search in Rotated Sorted Array II
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/734820/javascript-linear-search
+
 83 Remove Duplicates from Sorted List
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/709582/javascript-solution
 
