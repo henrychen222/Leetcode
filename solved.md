@@ -2,6 +2,9 @@
 11 Container With Most Water
 https://leetcode.com/problems/container-with-most-water/discuss/723025/javascript-two-pointer
 
+33 Search in Rotated Sorted Array
+https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/javascript-bs-solution
+
 78 Subsets
 https://leetcode.com/problems/subsets/discuss/725759/javascript-solution
 
@@ -61,6 +64,9 @@ https://leetcode.com/problems/single-number-iii/discuss/731387/javascript-easy
 
 318 Maximum Product of Word Lengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/javascript-two-pointer
+
+338 Counting Bits
+https://leetcode.com/problems/counting-bits/discuss/733356/javascript-three-solution
 
 350 Intersection of Two Arrays II
 https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution
@@ -163,6 +169,9 @@ https://leetcode.com/problems/deepest-leaves-sum/discuss/719225/javascript-parse
 
 1305 All Elements in Two Binary Search Trees
 https://leetcode.com/problems/all-elements-in-two-binary-search-trees/discuss/719247/javascript-dfs-to-array
+
+1310 XOR Queries of a Subarray
+https://leetcode.com/problems/xor-queries-of-a-subarray/discuss/733302/javascript-solution
 
 1318 Minimum Flips to Make a OR b Equal to c
 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/discuss/731454/javascript-String-solution-faster-than-68.18-100-memory

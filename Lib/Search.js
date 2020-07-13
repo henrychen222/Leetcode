@@ -1,9 +1,9 @@
-// 6.23 evening
+// 6.23 evening 
+// only for sorted array
 const binarySearch_refine = (arr, item) => {
     let low = 0;
     let high = arr.length - 1;
     let mid;
-    arr.sort((a, b) => a - b);
     while (low <= high) {
         mid = low + ((high - low) >> 1);
         if (arr[mid] < item) {
@@ -23,7 +23,6 @@ const binarySearch = (arr, item) => {
     let high = arr.length - 1;
     let mid;
     let tmp;
-    arr.sort((a, b) => a - b);
     while (low <= high) {
         mid = low + ((high - low) >> 1);
         tmp = arr[mid];
