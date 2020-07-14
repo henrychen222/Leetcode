@@ -2,8 +2,14 @@
 11 Container With Most Water
 https://leetcode.com/problems/container-with-most-water/discuss/723025/javascript-two-pointer
 
+18 4Sum
+https://leetcode.com/problems/4sum/discuss/734863/javascript-dumb-four-pointer-brute-force-solution
+
 33 Search in Rotated Sorted Array
 https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/javascript-bs-solution
+
+34 Find First and Last Position of Element in Sorted Array
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/735025/javascript-solution
 
 78 Subsets
 https://leetcode.com/problems/subsets/discuss/725759/javascript-solution
@@ -58,6 +64,9 @@ https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 
 220 Contains Duplicate III
 https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
+
+229 Majority Element II
+https://leetcode.com/problems/majority-element-ii/discuss/735001/javascript-solution
 
 234 Palindrome Linked List
 https://leetcode.com/problems/palindrome-linked-list/discuss/707551/typescript-solution
