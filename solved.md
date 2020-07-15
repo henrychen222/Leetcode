@@ -11,6 +11,9 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/java
 34 Find First and Last Position of Element in Sorted Array
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/735025/javascript-solution
 
+74 Search a 2D Matrix
+https://leetcode.com/problems/search-a-2d-matrix/discuss/736803/javascript-easy-linear-search
+
 78 Subsets
 https://leetcode.com/problems/subsets/discuss/725759/javascript-solution
 
@@ -61,6 +64,9 @@ https://leetcode.com/problems/remove-linked-list-elements/discuss/707509/typescr
 
 206 Reverse Linked List
 https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
+
+209 Minimum Size Subarray Sum
+https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascript-two-pointer-solution
 
 220 Contains Duplicate III
 https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
@@ -136,6 +142,9 @@ https://leetcode.com/problems/longest-univalue-path/discuss/719207/javascript-re
 
 700 Search in a Binary Search Tree
 https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/javascript-solution
+
+713 Subarray Product Less Than K
+https://leetcode.com/problems/subarray-product-less-than-k/discuss/737896/javascript-sliding-window-solution-faster-than-92.06
 
 872 Leaf-Similar Trees
 https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-to-array-solution
