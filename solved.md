@@ -50,6 +50,9 @@ https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-f
 160 Intersection of Two Linked Lists
 https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/709725/javascript
 
+162 Find Peak Element
+https://leetcode.com/problems/find-peak-element/discuss/738480/javascript-solution
+
 168 Excel Sheet Column Title
 https://leetcode.com/problems/excel-sheet-column-title/discuss/707234/javascript-solution
 
@@ -70,6 +73,9 @@ https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascrip
 
 220 Contains Duplicate III
 https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
+
+228 Summary Ranges
+https://leetcode.com/problems/summary-ranges/discuss/738277/javascript-solution
 
 229 Majority Element II
 https://leetcode.com/problems/majority-element-ii/discuss/735001/javascript-solution
@@ -131,6 +137,9 @@ https://leetcode.com/problems/non-decreasing-array/discuss/707157/javascript-sol
 669 Trim a Binary Search Tree
 https://leetcode.com/problems/trim-a-binary-search-tree/discuss/717384/javascript-solution
 
+670 Maximum Swap
+https://leetcode.com/problems/maximum-swap/discuss/738507/javascript-solution
+
 671 Second Minimum Node In a Binary Tree
 https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/717921/javascript-transfer-to-array-iteration-recursion
 
@@ -145,6 +154,12 @@ https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/java
 
 713 Subarray Product Less Than K
 https://leetcode.com/problems/subarray-product-less-than-k/discuss/737896/javascript-sliding-window-solution-faster-than-92.06
+
+775 Global and Local Inversions
+https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascript-two-pointer
+
+825 Friends Of Appropriate Ages
+https://leetcode.com/problems/friends-of-appropriate-ages/discuss/738407/javascript-two-pointer
 
 872 Leaf-Similar Trees
 https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-to-array-solution
