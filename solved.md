@@ -17,6 +17,9 @@ https://leetcode.com/problems/search-a-2d-matrix/discuss/736803/javascript-easy-
 78 Subsets
 https://leetcode.com/problems/subsets/discuss/725759/javascript-solution
 
+80 Remove Duplicates from Sorted Array II
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/739705/javascript-solution
+
 81 Search in Rotated Sorted Array II
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/734820/javascript-linear-search
 
@@ -46,6 +49,9 @@ https://leetcode.com/problems/single-number-ii/discuss/731356/javascript-3-solut
 
 141 Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-fast-pointer
+
+153 Find Minimum in Rotated Sorted Array
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/discuss/739721/javascript-three-solutions
 
 160 Intersection of Two Linked Lists
 https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/709725/javascript
@@ -158,6 +164,9 @@ https://leetcode.com/problems/subarray-product-less-than-k/discuss/737896/javasc
 775 Global and Local Inversions
 https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascript-two-pointer
 
+795 Number of Subarrays with Bounded Maximum
+https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/740058/javascript-sliding-window
+
 825 Friends Of Appropriate Ages
 https://leetcode.com/problems/friends-of-appropriate-ages/discuss/738407/javascript-two-pointer
 
@@ -173,8 +182,14 @@ https://leetcode.com/problems/all-possible-full-binary-trees/discuss/719335/java
 897 Increasing Order Search Tree
 https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javascript-solution
 
+915 Partition Array into Disjoint Intervals
+https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/739772/javascript-solution
+
 941 Valid Mountain Array
 https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-easy
+
+962 Maximum Width Ramp
+https://leetcode.com/problems/maximum-width-ramp/discuss/739736/javascript-two-pointer
 
 965 Univalued Binary Tree
 https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tree-to-array-solution

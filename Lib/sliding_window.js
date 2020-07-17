@@ -67,6 +67,24 @@ const numSubarrayProductLessThanK = (nums, k) => {
     return cnt;
 };
 
+// lc 795 https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
+const numSubarrayBoundedMax = (A, L, R) => {
+    let cnt = 0;
+    let start = 0;
+    let end = 0;
+    let windowMax = 0;
+    while (end < A.length) {
+        if (A[end] >= L && A[end] <= R) {
+            windowMax = end - start + 1;
+        } else if (A[end] > R) {
+            windowMax = 0;
+            start = end + 1;
+        }
+        cnt += windowMax;
+        end++;
+    }
+    return cnt;
+};
 
 const main = () => {
     let arr = [1, 4, 2, 10, 2, 3, 1, 0, 20],
