@@ -125,6 +125,9 @@ https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javas
 590 N-ary Tree Postorder Traversal
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/javascript-solution
 
+611 Valid Triangle Number
+https://leetcode.com/problems/valid-triangle-number/discuss/741244/javascript-three-pointer-easy
+
 617 Merge Two Binary Trees
 https://leetcode.com/problems/merge-two-binary-trees/discuss/715773/javascript-solution
 
@@ -199,6 +202,9 @@ https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascri
 
 993 Cousins in Binary Tree
 https://leetcode.com/problems/cousins-in-binary-tree/discuss/717674/javascript-dfs-and-bfs-solution
+
+1014 Best Sightseeing Pair
+https://leetcode.com/problems/best-sightseeing-pair/discuss/741360/javascript-two-pointer
 
 1022 Sum of Root To Leaf Binary Numbers
 https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/typescript-tree-to-array-solution
