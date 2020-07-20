@@ -89,6 +89,9 @@ https://leetcode.com/problems/majority-element-ii/discuss/735001/javascript-solu
 234 Palindrome Linked List
 https://leetcode.com/problems/palindrome-linked-list/discuss/707551/typescript-solution
 
+238 Product of Array Except Self
+https://leetcode.com/problems/product-of-array-except-self/discuss/744838/javascript-100ms
+
 260 Single Number III
 https://leetcode.com/problems/single-number-iii/discuss/731387/javascript-easy
 
@@ -203,6 +206,9 @@ https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascri
 993 Cousins in Binary Tree
 https://leetcode.com/problems/cousins-in-binary-tree/discuss/717674/javascript-dfs-and-bfs-solution
 
+1007 Minimum Domino Rotations For Equal Row
+https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/723151/javascript-solution
+
 1014 Best Sightseeing Pair
 https://leetcode.com/problems/best-sightseeing-pair/discuss/741360/javascript-two-pointer
 
@@ -217,6 +223,9 @@ https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/73141
 
 1239 Maximum Length of a Concatenated String with Unique Characters
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
+
+1267 Count Servers that Communicate
+https://leetcode.com/problems/count-servers-that-communicate/discuss/744897/javascript-JSON-data-%2B-two-pointer-solution
 
 1290 Convert Binary Number in a Linked List to Integer
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/discuss/709693/javascript-solution
