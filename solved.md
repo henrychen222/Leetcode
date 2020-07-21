@@ -1,4 +1,7 @@
 
+8 String to Integer (atoi)
+https://leetcode.com/problems/string-to-integer-atoi/discuss/746714/javascript-solution-120ms
+
 11 Container With Most Water
 https://leetcode.com/problems/container-with-most-water/discuss/723025/javascript-two-pointer
 
@@ -50,6 +53,9 @@ https://leetcode.com/problems/single-number-ii/discuss/731356/javascript-3-solut
 141 Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-fast-pointer
 
+151 Reverse Words in a String
+https://leetcode.com/problems/reverse-words-in-a-string/discuss/746650/javascript-80ms
+
 153 Find Minimum in Rotated Sorted Array
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/discuss/739721/javascript-three-solutions
 
@@ -58,6 +64,9 @@ https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/709725/ja
 
 162 Find Peak Element
 https://leetcode.com/problems/find-peak-element/discuss/738480/javascript-solution
+
+165 Compare Version Numbers
+https://leetcode.com/problems/compare-version-numbers/discuss/746789/javascript-76ms
 
 168 Excel Sheet Column Title
 https://leetcode.com/problems/excel-sheet-column-title/discuss/707234/javascript-solution
