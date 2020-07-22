@@ -107,6 +107,9 @@ https://leetcode.com/problems/product-of-array-except-self/discuss/744838/javasc
 260 Single Number III
 https://leetcode.com/problems/single-number-iii/discuss/731387/javascript-easy
 
+290 Word Pattern
+https://leetcode.com/problems/word-pattern/discuss/748653/javascript-double-array-and-two-pointer
+
 318 Maximum Product of Word Lengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/javascript-two-pointer
 
