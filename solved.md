@@ -5,6 +5,9 @@ https://leetcode.com/problems/string-to-integer-atoi/discuss/746714/javascript-s
 11 Container With Most Water
 https://leetcode.com/problems/container-with-most-water/discuss/723025/javascript-two-pointer
 
+17 Letter Combinations of a Phone Number
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/748548/javascript-72ms
+
 18 4Sum
 https://leetcode.com/problems/4sum/discuss/734863/javascript-dumb-four-pointer-brute-force-solution
 
@@ -250,6 +253,9 @@ https://leetcode.com/problems/xor-queries-of-a-subarray/discuss/733302/javascrip
 
 1318 Minimum Flips to Make a OR b Equal to c
 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/discuss/731454/javascript-String-solution-faster-than-68.18-100-memory
+
+1328 Break a Palindrome
+https://leetcode.com/problems/break-a-palindrome/discuss/748350/javascript-72ms
 
 1333 Filter Restaurants by Vegan-Friendly, Price and Distance
 https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/discuss/726382/javascript-solution
