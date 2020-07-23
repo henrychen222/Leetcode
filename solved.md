@@ -17,6 +17,9 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/java
 34 Find First and Last Position of Element in Sorted Array
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/735025/javascript-solution
 
+49 Group Anagrams
+https://leetcode.com/problems/group-anagrams/discuss/750368/javascript-solution
+
 74 Search a 2D Matrix
 https://leetcode.com/problems/search-a-2d-matrix/discuss/736803/javascript-easy-linear-search
 
@@ -271,6 +274,9 @@ https://leetcode.com/problems/count-number-of-teams/discuss/720817/javascript-th
 
 1409 Queries on a Permutation With Key
 https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/javascript-solution
+
+1410 HTML Entity Parser
+https://leetcode.com/problems/html-entity-parser/discuss/749981/javascript-solution
 
 1451 Rearrange Words in a Sentence
 https://leetcode.com/problems/rearrange-words-in-a-sentence/discuss/726284/javascript-solution
