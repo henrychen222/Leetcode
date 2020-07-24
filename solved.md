@@ -200,6 +200,9 @@ https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-
 876 Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascript-solution
 
+890 Find and Replace Pattern
+https://leetcode.com/problems/find-and-replace-pattern/discuss/751940/javascript-Two-Hash-Table-with-MultiArray-Records-80ms-faster-than-54.31
+
 894 All Possible Full Binary Trees
 https://leetcode.com/problems/all-possible-full-binary-trees/discuss/719335/javascript-solution
 
@@ -260,11 +263,17 @@ https://leetcode.com/problems/xor-queries-of-a-subarray/discuss/733302/javascrip
 1318 Minimum Flips to Make a OR b Equal to c
 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/discuss/731454/javascript-String-solution-faster-than-68.18-100-memory
 
+1324 print Words Vertically
+https://leetcode.com/problems/print-words-vertically/discuss/751858/javascript-solution-68ms
+
 1328 Break a Palindrome
 https://leetcode.com/problems/break-a-palindrome/discuss/748350/javascript-72ms
 
 1333 Filter Restaurants by Vegan-Friendly, Price and Distance
 https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/discuss/726382/javascript-solution
+
+1347 Minimum Number of Steps to Make Two Strings Anagram
+https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/discuss/752068/javascript-solution
 
 1387 Sort Integers by The Power Value
 https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/javascript-solution
