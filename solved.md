@@ -44,6 +44,9 @@ https://leetcode.com/problems/symmetric-tree/discuss/717857/javascript-iteration
 104 Maximum Depth of Binary Tree
 https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javascript-solution
 
+146 LRU Cache
+https://leetcode.com/problems/lru-cache/discuss/753891/typescript-double-linkedlist-solution
+
 147 Insertion Sort List
 https://leetcode.com/problems/insertion-sort-list/discuss/724134/javascript
 
