@@ -155,6 +155,9 @@ https://leetcode.com/problems/valid-triangle-number/discuss/741244/javascript-th
 617 Merge Two Binary Trees
 https://leetcode.com/problems/merge-two-binary-trees/discuss/715773/javascript-solution
 
+622 Design Circular Queue
+https://leetcode.com/problems/design-circular-queue/discuss/759677/typescript-solution
+
 633 Sum of Square Numbers
 https://leetcode.com/problems/sum-of-square-numbers/discuss/682921/javascript-hashmap-solution
 
