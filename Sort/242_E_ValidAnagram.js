@@ -14,6 +14,11 @@ const isAnagram = (s, t) => {
     return sArr.join("") == tArr.join("");
 };
 
+// Accepted --- 212ms 43.3MB 6.21%    07/31 night
+const isAnagram = (s, t) => {
+    return s.split("").sort().join("") == t.split("").sort().join("");
+};
+
 const main = () => {
     let s = "anagram",
         t = "nagaram";

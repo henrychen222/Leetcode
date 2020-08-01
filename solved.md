@@ -167,6 +167,9 @@ https://leetcode.com/problems/sum-of-square-numbers/discuss/682921/javascript-ha
 637 Average of Levels in Binary Tree
 https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/713909/typescript-tree-to-array-solution
 
+648 Replace Words
+https://leetcode.com/problems/replace-words/discuss/766073/javascript-solution-use-multiArray-instead-of-Map
+
 653 Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescript-solution
 
@@ -187,6 +190,9 @@ https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
 
 687 Longest Univalue Path
 https://leetcode.com/problems/longest-univalue-path/discuss/719207/javascript-recursion
+
+692 Top K Frequent Words
+https://leetcode.com/problems/top-k-frequent-words/discuss/766175/javascript-96ms
 
 700 Search in a Binary Search Tree
 https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/javascript-solution
