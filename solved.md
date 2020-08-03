@@ -248,6 +248,9 @@ https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascri
 993 Cousins in Binary Tree
 https://leetcode.com/problems/cousins-in-binary-tree/discuss/717674/javascript-dfs-and-bfs-solution
 
+1002 Find Common Characters
+https://leetcode.com/problems/find-common-characters/discuss/770282/javascript-hashMap-records-96ms
+
 1007 Minimum Domino Rotations For Equal Row
 https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/723151/javascript-solution
 
