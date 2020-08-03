@@ -125,6 +125,9 @@ https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/jav
 338 Counting Bits
 https://leetcode.com/problems/counting-bits/discuss/733356/javascript-three-solution
 
+347 Top K Frequent Elements
+https://leetcode.com/problems/top-k-frequent-elements/discuss/767821/javascript-solution
+
 350 Intersection of Two Arrays II
 https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution
 
@@ -199,6 +202,9 @@ https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/java
 
 713 Subarray Product Less Than K
 https://leetcode.com/problems/subarray-product-less-than-k/discuss/737896/javascript-sliding-window-solution-faster-than-92.06
+
+739 Daily Temperatures
+https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-pointer
 
 775 Global and Local Inversions
 https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascript-two-pointer
