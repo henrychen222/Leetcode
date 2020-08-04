@@ -131,6 +131,9 @@ https://leetcode.com/problems/top-k-frequent-elements/discuss/767821/javascript-
 350 Intersection of Two Arrays II
 https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution
 
+389 Find the Difference
+https://leetcode.com/problems/find-the-difference/discuss/772066/javascript-84ms
+
 421 Maximum XOR of Two Numbers in an Array
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
 
@@ -148,6 +151,9 @@ https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript
 
 559 Maximum Depth of N-ary Tree
 https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascript-solution
+
+575 Distribute Candies
+https://leetcode.com/problems/distribute-candies/discuss/771804/javascript-solution-144ms
 
 589 N-ary Tree Preorder Traversal
 https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javascript-solution
@@ -265,6 +271,9 @@ https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solu
 
 1131 Maximum of Absolute Value Expression
 https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/731413/javascript-two-pointer
+
+1160 Find Words That Can Be Formed by Characters
+https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/771971/javascript-solution-100ms-faster-than-94.82
 
 1239 Maximum Length of a Concatenated String with Unique Characters
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
