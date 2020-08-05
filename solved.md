@@ -134,11 +134,17 @@ https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javas
 389 Find the Difference
 https://leetcode.com/problems/find-the-difference/discuss/772066/javascript-84ms
 
+412 Fizz Buzz
+https://leetcode.com/problems/fizz-buzz/discuss/774053/javascript-nested-if-else-84ms
+
 421 Maximum XOR of Two Numbers in an Array
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
 
 442 Find All Duplicates in an Array
 https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/720439/javascript-brute-force
+
+451 Sort Characters By Frequency
+https://leetcode.com/problems/sort-characters-by-frequency/discuss/773823/javascript-solution
 
 461 Hamming Distance
 https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
@@ -161,14 +167,23 @@ https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javas
 590 N-ary Tree Postorder Traversal
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/javascript-solution
 
+595 Big Countries
+https://leetcode.com/problems/big-countries/discuss/773640/MySQL-faster-than-33.54-memory-100.00
+
 611 Valid Triangle Number
 https://leetcode.com/problems/valid-triangle-number/discuss/741244/javascript-three-pointer-easy
 
 617 Merge Two Binary Trees
 https://leetcode.com/problems/merge-two-binary-trees/discuss/715773/javascript-solution
 
+620 Not Boring Movies
+https://leetcode.com/problems/not-boring-movies/discuss/773851/MySQL-faster-than-84.14-memory-100
+
 622 Design Circular Queue
 https://leetcode.com/problems/design-circular-queue/discuss/759677/typescript-solution
+
+627 Swap Salary
+https://leetcode.com/problems/swap-salary/discuss/773722/MySQL-faster-than-47.93-memory-100
 
 633 Sum of Square Numbers
 https://leetcode.com/problems/sum-of-square-numbers/discuss/682921/javascript-hashmap-solution
@@ -218,8 +233,14 @@ https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascr
 795 Number of Subarrays with Bounded Maximum
 https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/740058/javascript-sliding-window
 
+821 Shortest Distance to a Character
+https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/javascript-solution-compare-with-left-closest-and-right-closest-char-get-min
+
 825 Friends Of Appropriate Ages
 https://leetcode.com/problems/friends-of-appropriate-ages/discuss/738407/javascript-two-pointer
+
+832 Flipping an Image
+https://leetcode.com/problems/flipping-an-image/discuss/773759/javascript-solution
 
 872 Leaf-Similar Trees
 https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-to-array-solution
@@ -265,6 +286,9 @@ https://leetcode.com/problems/best-sightseeing-pair/discuss/741360/javascript-tw
 
 1022 Sum of Root To Leaf Binary Numbers
 https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/typescript-tree-to-array-solution
+
+1047 Remove All Adjacent Duplicates In String
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/773787/javascript-stack-solution
 
 1122 Relative Sort Array
 https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solution
