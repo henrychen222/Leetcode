@@ -66,7 +66,7 @@ https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-f
 https://leetcode.com/problems/reverse-words-in-a-string/discuss/746650/javascript-80ms
 
 153 Find Minimum in Rotated Sorted Array
-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/discuss/739721/javascript-three-solutions
+https://leetcode.com/problems /find-minimum-in-rotated-sorted-array/discuss/739721/javascript-three-solutions
 
 160 Intersection of Two Linked Lists
 https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/709725/javascript
@@ -251,6 +251,9 @@ https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascrip
 890 Find and Replace Pattern
 https://leetcode.com/problems/find-and-replace-pattern/discuss/751940/javascript-Two-Hash-Table-with-MultiArray-Records-80ms-faster-than-54.31
 
+893 Groups of Special-Equivalent Strings
+https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/775563/javascript-Solution%3A-total-odd-char-sort()-%2B-total-even-char-sort()-and-get-category
+
 894 All Possible Full Binary Trees
 https://leetcode.com/problems/all-possible-full-binary-trees/discuss/719335/javascript-solution
 
@@ -271,6 +274,12 @@ https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tr
 
 973 K Closest Points to Origin
 https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascript-1-line-code-81.61
+
+985 Sum of Even Numbers After Queries
+https://leetcode.com/problems/sum-of-even-numbers-after-queries/discuss/777239/javascript-132ms-faster-than-72.94
+
+989 Add to Array-Form of Integer
+https://leetcode.com/problems/add-to-array-form-of-integer/discuss/777169/java-BigInteger-easy
 
 993 Cousins in Binary Tree
 https://leetcode.com/problems/cousins-in-binary-tree/discuss/717674/javascript-dfs-and-bfs-solution
@@ -298,6 +307,9 @@ https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/73141
 
 1160 Find Words That Can Be Formed by Characters
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/771971/javascript-solution-100ms-faster-than-94.82
+
+1185 Day of the Week
+https://leetcode.com/problems/day-of-the-week/discuss/777347/javascript-64ms-faster-than-88.83
 
 1239 Maximum Length of a Concatenated String with Unique Characters
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
