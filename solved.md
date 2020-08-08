@@ -83,6 +83,9 @@ https://leetcode.com/problems/excel-sheet-column-title/discuss/707234/javascript
 171 Excel Sheet Column Number
 https://leetcode.com/problems/excel-sheet-column-number/discuss/707202/javascript-solution
 
+175 Combine Two Tables
+https://leetcode.com/problems/combine-two-tables/discuss/779145/MySQL-solution
+
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
 
@@ -233,6 +236,9 @@ https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascr
 795 Number of Subarrays with Bounded Maximum
 https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/740058/javascript-sliding-window
 
+811 Subdomain Visit Count
+https://leetcode.com/problems/subdomain-visit-count/discuss/778845/javascript-HashSet-solution-112ms
+
 821 Shortest Distance to a Character
 https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/javascript-solution-compare-with-left-closest-and-right-closest-char-get-min
 
@@ -241,6 +247,9 @@ https://leetcode.com/problems/friends-of-appropriate-ages/discuss/738407/javascr
 
 832 Flipping an Image
 https://leetcode.com/problems/flipping-an-image/discuss/773759/javascript-solution
+
+844 Backspace String Compare
+https://leetcode.com/problems/backspace-string-compare/discuss/779205/javascript-stack-two-solutions
 
 872 Leaf-Similar Trees
 https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-to-array-solution
@@ -343,6 +352,9 @@ https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-dis
 
 1347 Minimum Number of Steps to Make Two Strings Anagram
 https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/discuss/752068/javascript-solution
+
+1360 Number of Days Between Two Dates
+https://leetcode.com/problems/number-of-days-between-two-dates/discuss/778894/javascript-80ms-compared-with-01-01-1971
 
 1387 Sort Integers by The Power Value
 https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/javascript-solution
