@@ -164,6 +164,9 @@ https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascr
 575 Distribute Candies
 https://leetcode.com/problems/distribute-candies/discuss/771804/javascript-solution-144ms
 
+581 Shortest Unsorted Continuous Subarray
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/discuss/780222/javascript-92ms-faster-than-83.06
+
 589 N-ary Tree Preorder Traversal
 https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javascript-solution
 
@@ -172,6 +175,9 @@ https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/java
 
 595 Big Countries
 https://leetcode.com/problems/big-countries/discuss/773640/MySQL-faster-than-33.54-memory-100.00
+
+605 Can Place Flowers
+https://leetcode.com/problems/can-place-flowers/discuss/780317/javascript-solution-80ms
 
 611 Valid Triangle Number
 https://leetcode.com/problems/valid-triangle-number/discuss/741244/javascript-three-pointer-easy
@@ -187,6 +193,9 @@ https://leetcode.com/problems/design-circular-queue/discuss/759677/typescript-so
 
 627 Swap Salary
 https://leetcode.com/problems/swap-salary/discuss/773722/MySQL-faster-than-47.93-memory-100
+
+628 Maximum Product of Three Numbers
+https://leetcode.com/problems/maximum-product-of-three-numbers/discuss/780189/javascript-sort()-solution
 
 633 Sum of Square Numbers
 https://leetcode.com/problems/sum-of-square-numbers/discuss/682921/javascript-hashmap-solution
