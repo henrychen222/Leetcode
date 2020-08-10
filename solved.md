@@ -155,6 +155,12 @@ https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
 496 Next Greater Element I
 https://leetcode.com/problems/next-greater-element-i/discuss/704481/javascript-solution
 
+504 Base 7
+https://leetcode.com/problems/base-7/discuss/778907/javascript-toString()-easy-76ms
+
+506 Relative Ranks
+https://leetcode.com/problems/relative-ranks/discuss/783132/javascript-solution
+
 532 K-diff Pairs in an Array
 https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
 
@@ -230,6 +236,9 @@ https://leetcode.com/problems/longest-univalue-path/discuss/719207/javascript-re
 692 Top K Frequent Words
 https://leetcode.com/problems/top-k-frequent-words/discuss/766175/javascript-96ms
 
+697 Degree of an Array
+https://leetcode.com/problems/degree-of-an-array/discuss/783316/javascript-item-freq-brute-force-solution
+
 700 Search in a Binary Search Tree
 https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/javascript-solution
 
@@ -245,6 +254,9 @@ https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascr
 795 Number of Subarrays with Bounded Maximum
 https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/740058/javascript-sliding-window
 
+796 Rotate String
+https://leetcode.com/problems/rotate-string/discuss/783198/javascript-stack-solution-76ms
+
 811 Subdomain Visit Count
 https://leetcode.com/problems/subdomain-visit-count/discuss/778845/javascript-HashSet-solution-112ms
 
@@ -259,6 +271,9 @@ https://leetcode.com/problems/flipping-an-image/discuss/773759/javascript-soluti
 
 844 Backspace String Compare
 https://leetcode.com/problems/backspace-string-compare/discuss/779205/javascript-stack-two-solutions
+
+849 Maximize Distance to Closest Person
+https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/783439/javascript-two-pointer-left-and-right-search-84ms
 
 872 Leaf-Similar Trees
 https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-to-array-solution
@@ -385,3 +400,16 @@ https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-s
 
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
+
+
+
+
+
+
+Contest:
+
+1544 Make The String Great
+https://leetcode.com/problems/make-the-string-great/discuss/781194/javascript-stack-128ms
+
+1545 Find Kth Bit in Nth Binary String
+https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/discuss/781197/javascript-brute-force
