@@ -1,34 +1,26 @@
 /**
- * 6.9 afternoon
+ * 6.9 afternoon  8.10 morning complete
  * https://leetcode.com/problems/monotonic-array/
+ * 
+ * similar to 941
  */
+
+// Accepted --- 92ms 42.8MB 62.40%
 const isMonotonic = (A) => {
-    let flag = false;
-    let records = [];
-    for (let i = 0; i < A.length; i++) {
-        for (let j = i; j < A.length; j++) {
-            let arr = A.slice(i, j + 1);
-            console.log(arr);
-            if (arr.every(x => A[i] <= x)) { // problem
-                flag = true;
-            } else if (arr.every(x => A[i] >= x)) {
-                flag = true;
-            }
-        }
-    }
-    return flag;
+    if (isAscending(A) || isDescending(A)) return true;
+    return false;
 };
 
-const isMonotonic1 = (A) => {
-    let data = [];
-    for (let i = 0; i < A.length; i++) {
-        for (let j = i; j < A.length; j++) {
-            let map = new Map();
-            data.push(map.set(A[i], A[j]));
-        }
-    }
-    console.log(data);
-    return true;
+const isAscending = (arr) => {
+    return arr.every((x, i) => {
+        return i === 0 || x >= arr[i - 1];
+    });
+};
+
+const isDescending = (arr) => {
+    return arr.every((x, i) => {
+        return i === 0 || x <= arr[i - 1];
+    });
 };
 
 const main = () => {
@@ -45,3 +37,34 @@ const main = () => {
 };
 
 main()
+
+
+
+// const isMonotonic = (A) => {
+//     let flag = false;
+//     let records = [];
+//     for (let i = 0; i < A.length; i++) {
+//         for (let j = i; j < A.length; j++) {
+//             let arr = A.slice(i, j + 1);
+//             console.log(arr);
+//             if (arr.every(x => A[i] <= x)) { // problem
+//                 flag = true;
+//             } else if (arr.every(x => A[i] >= x)) {
+//                 flag = true;
+//             }
+//         }
+//     }
+//     return flag;
+// };
+
+// const isMonotonic1 = (A) => {
+//     let data = [];
+//     for (let i = 0; i < A.length; i++) {
+//         for (let j = i; j < A.length; j++) {
+//             let map = new Map();
+//             data.push(map.set(A[i], A[j]));
+//         }
+//     }
+//     console.log(data);
+//     return true;
+// };

@@ -44,6 +44,9 @@ https://leetcode.com/problems/symmetric-tree/discuss/717857/javascript-iteration
 104 Maximum Depth of Binary Tree
 https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javascript-solution
 
+118 Pascal's Triangle
+https://leetcode.com/problems/pascals-triangle/discuss/784960/javascript-72ms
+
 146 LRU Cache
 https://leetcode.com/problems/lru-cache/discuss/753891/typescript-double-linkedlist-solution
 
@@ -281,6 +284,9 @@ https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-
 876 Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascript-solution
 
+888 Fair Candy Swap
+https://leetcode.com/problems/fair-candy-swap/discuss/783921/javascript-solution
+
 890 Find and Replace Pattern
 https://leetcode.com/problems/find-and-replace-pattern/discuss/751940/javascript-Two-Hash-Table-with-MultiArray-Records-80ms-faster-than-54.31
 
@@ -290,8 +296,14 @@ https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/77556
 894 All Possible Full Binary Trees
 https://leetcode.com/problems/all-possible-full-binary-trees/discuss/719335/javascript-solution
 
+896 Monotonic Array
+https://leetcode.com/problems/monotonic-array/discuss/783828/javascript-every()-solution-92ms
+
 897 Increasing Order Search Tree
 https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javascript-solution
+
+914 X of a Kind in a Deck of Cards
+https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/discuss/784226/javascript-solution-104ms
 
 915 Partition Array into Disjoint Intervals
 https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/739772/javascript-solution
