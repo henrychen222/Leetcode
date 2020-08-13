@@ -47,6 +47,9 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javasc
 118 Pascal's Triangle
 https://leetcode.com/problems/pascals-triangle/discuss/784960/javascript-72ms
 
+119 Pascal's Triangle II
+https://leetcode.com/problems/pascals-triangle-ii/discuss/786617/javascript-76ms
+
 146 LRU Cache
 https://leetcode.com/problems/lru-cache/discuss/753891/typescript-double-linkedlist-solution
 
