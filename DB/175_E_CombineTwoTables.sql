@@ -24,3 +24,8 @@ ON p.PersonId = a.AddressId;
 SELECT p.FirstName, p.LastName, a.City, a.State FROM Person AS p
 LEFT OUTER JOIN Address AS a
 ON p.PersonId = a.PersonId;
+
+--- Accepted --- 352ms 0B 83.91%
+SELECT p.FirstName, p.LastName, a.City, a.State FROM Person AS p
+LEFT JOIN Address AS a
+ON p.PersonId = a.PersonId;

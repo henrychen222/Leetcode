@@ -158,6 +158,9 @@ https://leetcode.com/problems/sort-characters-by-frequency/discuss/773823/javasc
 461 Hamming Distance
 https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
 
+485 Max Consecutive Ones
+https://leetcode.com/problems/max-consecutive-ones/discuss/788802/javascript-stack-solution-84ms
+
 496 Next Greater Element I
 https://leetcode.com/problems/next-greater-element-i/discuss/704481/javascript-solution
 
@@ -346,6 +349,9 @@ https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/
 
 1047 Remove All Adjacent Duplicates In String
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/773787/javascript-stack-solution
+
+1089 Duplicate Zeros
+https://leetcode.com/problems/duplicate-zeros/discuss/788831/javascript-stack-solution-80ms-faster-than-88.45
 
 1122 Relative Sort Array
 https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solution
