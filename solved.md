@@ -218,6 +218,9 @@ https://leetcode.com/problems/sum-of-square-numbers/discuss/682921/javascript-ha
 637 Average of Levels in Binary Tree
 https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/713909/typescript-tree-to-array-solution
 
+643 Maximum Average Subarray I
+https://leetcode.com/problems/maximum-average-subarray-i/discuss/790654/javascript-stack-solution-160ms
+
 648 Replace Words
 https://leetcode.com/problems/replace-words/discuss/766073/javascript-solution-use-multiArray-instead-of-Map
 
