@@ -50,6 +50,9 @@ https://leetcode.com/problems/pascals-triangle/discuss/784960/javascript-72ms
 119 Pascal's Triangle II
 https://leetcode.com/problems/pascals-triangle-ii/discuss/786617/javascript-76ms
 
+121 Best Time to Buy and Sell Stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/792461/javascript-two-pointer
+
 146 LRU Cache
 https://leetcode.com/problems/lru-cache/discuss/753891/typescript-double-linkedlist-solution
 
@@ -239,6 +242,9 @@ https://leetcode.com/problems/maximum-swap/discuss/738507/javascript-solution
 671 Second Minimum Node In a Binary Tree
 https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/717921/javascript-transfer-to-array-iteration-recursion
 
+674 Longest Continuous Increasing Subsequence
+https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/792532/javascript-stack-solution-76ms
+
 682 Baseball Game
 https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
 
@@ -256,6 +262,9 @@ https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/java
 
 713 Subarray Product Less Than K
 https://leetcode.com/problems/subarray-product-less-than-k/discuss/737896/javascript-sliding-window-solution-faster-than-92.06
+
+717 1-bit and 2-bit Characters
+https://leetcode.com/problems/1-bit-and-2-bit-characters/discuss/792776/javascript-stack-68ms-faster-than-90.70
 
 739 Daily Temperatures
 https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-pointer
@@ -343,6 +352,9 @@ https://leetcode.com/problems/find-common-characters/discuss/770282/javascript-h
 
 1007 Minimum Domino Rotations For Equal Row
 https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/723151/javascript-solution
+
+1013 Partition Array Into Three Parts With Equal Sum
+https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/discuss/792308/javascript-92ms
 
 1014 Best Sightseeing Pair
 https://leetcode.com/problems/best-sightseeing-pair/discuss/741360/javascript-two-pointer
