@@ -155,6 +155,9 @@ https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731
 442 Find All Duplicates in an Array
 https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/720439/javascript-brute-force
 
+443 String Compression
+https://leetcode.com/problems/string-compression/discuss/794984/javascript-stack-solution-80ms-faster-than-77.70
+
 451 Sort Characters By Frequency
 https://leetcode.com/problems/sort-characters-by-frequency/discuss/773823/javascript-solution
 
@@ -286,6 +289,9 @@ https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/ja
 
 825 Friends Of Appropriate Ages
 https://leetcode.com/problems/friends-of-appropriate-ages/discuss/738407/javascript-two-pointer
+
+830 Positions of Large Groups
+https://leetcode.com/problems/positions-of-large-groups/discuss/793980/javascript-stack-96ms
 
 832 Flipping an Image
 https://leetcode.com/problems/flipping-an-image/discuss/773759/javascript-solution
@@ -449,3 +455,9 @@ https://leetcode.com/problems/make-the-string-great/discuss/781194/javascript-st
 
 1545 Find Kth Bit in Nth Binary String
 https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/discuss/781197/javascript-brute-force
+
+1551 Minimum Operations to Make Array Equal
+https://leetcode.com/problems/minimum-operations-to-make-array-equal/discuss/794464/javascript-solution
+
+1553 Minimum Number of Days to Eat N Oranges
+https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/discuss/794353/javascript-dp-memo-with-queue-100.00
