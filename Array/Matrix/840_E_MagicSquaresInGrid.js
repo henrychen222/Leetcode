@@ -1,20 +1,44 @@
 /**
- * 6.4 night
+ * 6.4 night  8.16 night still not done
  * https://leetcode.com/problems/magic-squares-in-grid/
+ * 
+ * 10 * 10, 共8 * 8 = 64个 3 * 3 grid
  */
 
 // don't know how to do
 const numMagicSquaresInside = (grid) => {
     let m = grid.length;
     let n = grid[0].length;
-    let arr = [];
-    for (let i = 0; i < m; i++) {
-        // arr.push(grid[i]);
-        for (let j = 0; j < 3; j++) {
-            arr.push(grid[i][j]);
+    // let data = [];
+    // for (let i = 0; i < m; i++) {
+    //     let tmp = [];
+    //     for (let j = 0; j < 3; j++) {
+    //         tmp.push(grid[i][j]);
+    //     }
+    //     data.push(tmp);
+    // }
+    // console.log(data);
+
+    // for (let i = 0; i < m; i++) {
+    //     for (let j = 0; j < n; j++) {
+    //         let tmp = grid[i].slice(j, j + 3);
+    //         if (tmp.length == 3) {
+    //             console.log(tmp)
+    //         }
+    //     }
+    // }
+
+    let data = [];
+    for (let i = 0; i < grid.length; i++) {
+        for (let j = 0; j < grid[0].length; j++) {
+            data.push({
+                item: grid[i][j],
+                row: i + 1,
+                col: j + 1,
+            });
         }
     }
-    console.log(arr);
+    console.log(data)
 };
 
 const main = () => {

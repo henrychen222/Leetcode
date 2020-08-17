@@ -182,6 +182,9 @@ https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript
 559 Maximum Depth of N-ary Tree
 https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascript-solution
 
+566 Reshape the Matrix
+https://leetcode.com/problems/reshape-the-matrix/discuss/796160/javascript-solution-104ms
+
 575 Distribute Candies
 https://leetcode.com/problems/distribute-candies/discuss/771804/javascript-solution-144ms
 
@@ -302,6 +305,9 @@ https://leetcode.com/problems/backspace-string-compare/discuss/779205/javascript
 849 Maximize Distance to Closest Person
 https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/783439/javascript-two-pointer-left-and-right-search-84ms
 
+859 Buddy Strings
+https://leetcode.com/problems/buddy-strings/discuss/796395/javascript-88ms
+
 872 Leaf-Similar Trees
 https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-to-array-solution
 
@@ -389,6 +395,9 @@ https://leetcode.com/problems/day-of-the-week/discuss/777347/javascript-64ms-fas
 1239 Maximum Length of a Concatenated String with Unique Characters
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
 
+1260 Shift 2D Grid
+https://leetcode.com/problems/shift-2d-grid/discuss/796102/javascript-solution-120ms
+
 1267 Count Servers that Communicate
 https://leetcode.com/problems/count-servers-that-communicate/discuss/744897/javascript-JSON-data-%2B-two-pointer-solution
 
@@ -427,6 +436,9 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/ja
 
 1395 Count Number of Teams
 https://leetcode.com/problems/count-number-of-teams/discuss/720817/javascript-three-pointer
+
+1399 Count Largest Group
+https://leetcode.com/problems/count-largest-group/discuss/796222/javascript-solution-132ms
 
 1409 Queries on a Permutation With Key
 https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/javascript-solution
