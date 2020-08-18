@@ -179,6 +179,9 @@ https://leetcode.com/problems/relative-ranks/discuss/783132/javascript-solution
 532 K-diff Pairs in an Array
 https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
 
+541 Reverse String II
+https://leetcode.com/problems/reverse-string-ii/discuss/797805/javascript-64ms-faster-than-98.25
+
 559 Maximum Depth of N-ary Tree
 https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascript-solution
 
@@ -253,6 +256,9 @@ https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/
 
 682 Baseball Game
 https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
+
+686 Repeated String Match
+https://leetcode.com/problems/repeated-string-match/discuss/797846/javascript-solution-endless-loop
 
 687 Longest Univalue Path
 https://leetcode.com/problems/longest-univalue-path/discuss/719207/javascript-recursion
