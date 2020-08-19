@@ -182,6 +182,9 @@ https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript
 541 Reverse String II
 https://leetcode.com/problems/reverse-string-ii/discuss/797805/javascript-64ms-faster-than-98.25
 
+551 Student Attendance Record I
+https://leetcode.com/problems/student-attendance-record-i/discuss/799631/javascript-80ms
+
 559 Maximum Depth of N-ary Tree
 https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascript-solution
 
