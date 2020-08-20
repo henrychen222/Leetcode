@@ -20,6 +20,9 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 49 Group Anagrams
 https://leetcode.com/problems/group-anagrams/discuss/750368/javascript-solution
 
+67 Add Binary
+https://leetcode.com/problems/add-binary/discuss/800764/javascript-92ms
+
 74 Search a 2D Matrix
 https://leetcode.com/problems/search-a-2d-matrix/discuss/736803/javascript-easy-linear-search
 
@@ -97,6 +100,9 @@ https://leetcode.com/problems/combine-two-tables/discuss/779145/MySQL-solution
 
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
+
+202 Happy Number
+https://leetcode.com/problems/happy-number/discuss/801437/javascript-endless-loop-88ms
 
 203 Remove Linked List Elements
 https://leetcode.com/problems/remove-linked-list-elements/discuss/707509/typescript-solution
@@ -395,6 +401,9 @@ https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solu
 1131 Maximum of Absolute Value Expression
 https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/731413/javascript-two-pointer
 
+1137 N-th Tribonacci Number
+https://leetcode.com/problems/n-th-tribonacci-number/discuss/801530/javascript-100ms-endless-loop
+
 1160 Find Words That Can Be Formed by Characters
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/771971/javascript-solution-100ms-faster-than-94.82
 
@@ -409,6 +418,9 @@ https://leetcode.com/problems/shift-2d-grid/discuss/796102/javascript-solution-1
 
 1267 Count Servers that Communicate
 https://leetcode.com/problems/count-servers-that-communicate/discuss/744897/javascript-JSON-data-%2B-two-pointer-solution
+
+1275 Find Winner on a Tic Tac Toe Game
+https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/discuss/801481/javascript-96ms-three-pointer-checking-coordinates
 
 1290 Convert Binary Number in a Linked List to Integer
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/discuss/709693/javascript-solution
