@@ -1,35 +1,42 @@
 /**
- * 6.19 evening
+ * 6.19 evening  8.20 evening complete
  * https://leetcode.com/problems/verifying-an-alien-dictionary/
  */
 
-// need to fix
+// Accepted --- 72ms 36.8MB 79.86%
+let map = new Map();
 const isAlienSorted = (words, order) => {
-    for (let i = 1; i < words.length; i++) {
-        // console.log(words[i - 1].length);
-        // console.log(words[i].length);
-        if (words[i - 1].length <= words[i].length) {
-            return isLexicographical(words[i - 1], words[i], order, words);
+    for (let i = 0; i < order.length; i++) {
+        map.set(order[i], i + 1);
+    }
+    for (let i = 0; i + 1 < words.length; i++) {
+        let left = words[i];
+        let right = words[i + 1];
+        if (left.length <= right.length) {
+            if (check(left, right) == 's>l') { // if left > right not sorted
+                return false;
+            }
         } else {
-            return isLexicographical(words[i], words[i - 1], order, words);
-        }
-    }
-};
-
-const isLexicographical = (short, long, order, words) => {
-    let flag = true;
-    if (long.includes(short) && words.indexOf(long) < words.indexOf(short)) {
-        flag = false;
-    }
-    for (let i = 0; i < short.length; i++) {
-        if (short[i] != long[i]) {
-            if (order.indexOf(short[i]) < order.indexOf(long[i])) {
-                flag = false;
-                break;
+            if (check(right, left) == 's<l') {
+                return false;
             }
         }
     }
-    return flag;
+    return true;
+};
+
+const check = (short, long) => {
+    let n = short.length;
+    for (let i = 0; i < n; i++) {
+        if (map.get(short[i]) > map.get(long[i])) {
+            return 's>l';
+        } else if (map.get(short[i]) < map.get(long[i])) {
+            return 's<l';
+        } else {
+            continue;
+        }
+    }
+    return 's<l'; // if all equal, long should be larger, which means long put after short
 };
 
 const main = () => {
@@ -48,3 +55,33 @@ const main = () => {
 };
 
 main()
+
+
+// // need to fix
+// const isAlienSorted = (words, order) => {
+//     for (let i = 1; i < words.length; i++) {
+//         // console.log(words[i - 1].length);
+//         // console.log(words[i].length);
+//         if (words[i - 1].length <= words[i].length) {
+//             return isLexicographical(words[i - 1], words[i], order, words);
+//         } else {
+//             return isLexicographical(words[i], words[i - 1], order, words);
+//         }
+//     }
+// };
+
+// const isLexicographical = (short, long, order, words) => {
+//     let flag = true;
+//     if (long.includes(short) && words.indexOf(long) < words.indexOf(short)) {
+//         flag = false;
+//     }
+//     for (let i = 0; i < short.length; i++) {
+//         if (short[i] != long[i]) {
+//             if (order.indexOf(short[i]) < order.indexOf(long[i])) {
+//                 flag = false;
+//                 break;
+//             }
+//         }
+//     }
+//     return flag;
+// };

@@ -356,6 +356,9 @@ https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/73
 941 Valid Mountain Array
 https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-easy
 
+953 Verifying an Alien Dictionary
+https://leetcode.com/problems/verifying-an-alien-dictionary/discuss/803210/javascript-72ms-faster-than-79.86
+
 962 Maximum Width Ramp
 https://leetcode.com/problems/maximum-width-ramp/discuss/739736/javascript-two-pointer
 
@@ -373,6 +376,9 @@ https://leetcode.com/problems/add-to-array-form-of-integer/discuss/777169/java-B
 
 993 Cousins in Binary Tree
 https://leetcode.com/problems/cousins-in-binary-tree/discuss/717674/javascript-dfs-and-bfs-solution
+
+997 Find the Town Judge
+https://leetcode.com/problems/find-the-town-judge/discuss/803171/javascript-solution-204ms
 
 1002 Find Common Characters
 https://leetcode.com/problems/find-common-characters/discuss/770282/javascript-hashMap-records-96ms
@@ -394,6 +400,9 @@ https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/7
 
 1089 Duplicate Zeros
 https://leetcode.com/problems/duplicate-zeros/discuss/788831/javascript-stack-solution-80ms-faster-than-88.45
+
+1103 Distribute Candies to People
+https://leetcode.com/problems/distribute-candies-to-people/discuss/803598/javascript-brute-force-calculate-each-step-100ms
 
 1122 Relative Sort Array
 https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solution
