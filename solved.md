@@ -155,6 +155,9 @@ https://leetcode.com/problems/find-the-difference/discuss/772066/javascript-84ms
 412 Fizz Buzz
 https://leetcode.com/problems/fizz-buzz/discuss/774053/javascript-nested-if-else-84ms
 
+415 Add Strings
+https://leetcode.com/problems/add-strings/discuss/804734/javascript-112ms
+
 421 Maximum XOR of Two Numbers in an Array
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
 
@@ -247,6 +250,9 @@ https://leetcode.com/problems/replace-words/discuss/766073/javascript-solution-u
 
 653 Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescript-solution
+
+661 Image Smoother
+https://leetcode.com/problems/image-smoother/discuss/805052/javascript-144ms-faster-than-85.92
 
 665 Non-decreasing Array
 https://leetcode.com/problems/non-decreasing-array/discuss/707157/javascript-solution
@@ -421,6 +427,9 @@ https://leetcode.com/problems/day-of-the-week/discuss/777347/javascript-64ms-fas
 
 1239 Maximum Length of a Concatenated String with Unique Characters
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
+
+1252 Cells with Odd Values in a Matrix
+https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/804868/javascript-72ms-fast-than-92.69
 
 1260 Shift 2D Grid
 https://leetcode.com/problems/shift-2d-grid/discuss/796102/javascript-solution-120ms

@@ -1,8 +1,7 @@
 /**
- * 6.3 evening
+ * 6.3 evening  8.18 evening still not solved
  * https://leetcode.com/problems/count-binary-substrings/
  */
-
 
 // Time Limit 76/90
 const countBinarySubstrings = (s) => {
@@ -38,7 +37,20 @@ const findAllSubstrIndices = (str, regex) => {
     return indices;
 };
 
+const main = () => {
+    let s = "00110011";
+    let s2 = "10101";
+    console.log(countBinarySubstrings(s)); // ["0011", "01", "1100", "10", "0011", "01"
+    console.log(countBinarySubstrings(s2));
 
+    // console.log(findAllSubstrIndices("I learned to play the Ukulele in Lebanon.", /le/gi));
+};
+
+main()
+
+
+
+///////////////////////////////////// 8.18 evening //////////////////////////////////////
 // const countBinarySubstrings = (s) => {
 //     let set = new Set();
 //     let memo = new Map();
@@ -58,19 +70,8 @@ const findAllSubstrIndices = (str, regex) => {
 //     return set.size;
 // };
 
-const main = () => {
-    let s = "00110011";
-    let s2 = "10101";
-    console.log(countBinarySubstrings(s)); // ["0011", "01", "1100", "10", "0011", "01"
-    console.log(countBinarySubstrings(s2));
 
-    // console.log(findAllSubstrIndices("I learned to play the Ukulele in Lebanon.", /le/gi));
-};
-
-main()
-
-
-
+///////////////////////////////////// 6.3 evening //////////////////////////////////////
 // // need to fix  Time Limit exceed
 // const countBinarySubstrings = (s) => {
 //     let res = [];
