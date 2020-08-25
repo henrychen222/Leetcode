@@ -137,6 +137,12 @@ https://leetcode.com/problems/single-number-iii/discuss/731387/javascript-easy
 290 Word Pattern
 https://leetcode.com/problems/word-pattern/discuss/748653/javascript-double-array-and-two-pointer
 
+299 Bulls and Cows
+https://leetcode.com/problems/bulls-and-cows/discuss/810523/javascript-HashMap-and-HashSet-two-solutions
+
+303 Range Sum Query - Immutable
+https://leetcode.com/problems/range-sum-query-immutable/discuss/810365/javascript-easy-solution
+
 318 Maximum Product of Word Lengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/javascript-two-pointer
 
@@ -172,6 +178,9 @@ https://leetcode.com/problems/sort-characters-by-frequency/discuss/773823/javasc
 
 461 Hamming Distance
 https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
+
+482 License Key Formatting
+https://leetcode.com/problems/license-key-formatting/discuss/810436/javascript-solution
 
 485 Max Consecutive Ones
 https://leetcode.com/problems/max-consecutive-ones/discuss/788802/javascript-stack-solution-84ms
@@ -214,6 +223,9 @@ https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/java
 
 595 Big Countries
 https://leetcode.com/problems/big-countries/discuss/773640/MySQL-faster-than-33.54-memory-100.00
+
+596 Classes More Than 5 Students
+https://leetcode.com/problems/classes-more-than-5-students/discuss/810339/MySQL-group-by-having
 
 605 Can Place Flowers
 https://leetcode.com/problems/can-place-flowers/discuss/780317/javascript-solution-80ms
