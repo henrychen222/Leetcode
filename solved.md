@@ -470,6 +470,9 @@ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagra
 1360 Number of Days Between Two Dates
 https://leetcode.com/problems/number-of-days-between-two-dates/discuss/778894/javascript-80ms-compared-with-01-01-1971
 
+1370 Increasing Decreasing String
+https://leetcode.com/problems/increasing-decreasing-string/discuss/806355/javascript-stack-brute-force-solution
+
 1387 Sort Integers by The Power Value
 https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/javascript-solution
 
@@ -512,3 +515,13 @@ https://leetcode.com/problems/minimum-operations-to-make-array-equal/discuss/794
 
 1553 Minimum Number of Days to Eat N Oranges
 https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/discuss/794353/javascript-dp-memo-with-queue-100.00
+
+1556 Thousand Separator
+https://leetcode.com/problems/thousand-separator/discuss/805893/javascript-solution
+
+1560 Most Visited Sector in a Circular Track
+https://leetcode.com/problems/most-visited-sector-in-a-circular-track/discuss/806952/javascript-hashMap-solution
+
+
+1562 Find Latest Group of Size M
+https://leetcode.com/problems/find-latest-group-of-size-m/discuss/808591/javascript-union-find-%2B-binary-search
