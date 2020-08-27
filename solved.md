@@ -383,6 +383,9 @@ https://leetcode.com/problems/maximum-width-ramp/discuss/739736/javascript-two-p
 965 Univalued Binary Tree
 https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tree-to-array-solution
 
+970 Powerful Integers
+https://leetcode.com/problems/powerful-integers/discuss/811935/javascript-64ms-faster-than-100.00
+
 973 K Closest Points to Origin
 https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascript-1-line-code-81.61
 
