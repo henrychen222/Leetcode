@@ -227,6 +227,9 @@ https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/java
 595 Big Countries
 https://leetcode.com/problems/big-countries/discuss/773640/MySQL-faster-than-33.54-memory-100.00
 
+594 Longest Harmonious Subsequence
+https://leetcode.com/problems/longest-harmonious-subsequence/discuss/814434/javascript-solution
+
 596 Classes More Than 5 Students
 https://leetcode.com/problems/classes-more-than-5-students/discuss/810339/MySQL-group-by-having
 
