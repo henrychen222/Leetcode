@@ -179,6 +179,9 @@ https://leetcode.com/problems/sort-characters-by-frequency/discuss/773823/javasc
 461 Hamming Distance
 https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
 
+475 Heaters
+https://leetcode.com/problems/heaters/discuss/813881/javascript-two-pointer-with-two-maps-solution
+
 482 License Key Formatting
 https://leetcode.com/problems/license-key-formatting/discuss/810436/javascript-solution
 
@@ -373,6 +376,9 @@ https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/73
 
 941 Valid Mountain Array
 https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-easy
+
+949 Largest Time for Given Digits
+https://leetcode.com/problems/largest-time-for-given-digits/discuss/814105/javascript-brute-force-by-listing-all-permutations-84ms
 
 953 Verifying an Alien Dictionary
 https://leetcode.com/problems/verifying-an-alien-dictionary/discuss/803210/javascript-72ms-faster-than-79.86
