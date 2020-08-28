@@ -3,33 +3,40 @@
  * https://leetcode.com/problems/largest-triangle-area/
  */
 
-// don't know why
-const largestTriangleArea = (points) => {
-    let res = [];
-    for (let i = 0; i < points.length; i++) {
-        for (let j = i + 1; j < points.length; j++) {
-            for (let k = j + 1; k < points.length; k++) {
-                res.push(getTriangleArea(points[i], points[j], points[k]));
-            }
-        }
-    }
-    res.sort((a, b) => a - b);
-    return roundToXDigits(res[res.length - 1]);
-};
-
-// issue with Math.max return NaN
+// Accepted --- 88ms 68.00%  (fixed, issue with Math.max return NaN)
 const largestTriangleArea1 = (points) => {
     let max = Number.MIN_VALUE;
     for (let i = 0; i < points.length; i++) {
         for (let j = i + 1; j < points.length; j++) {
             for (let k = j + 1; k < points.length; k++) {
-                max = Math.max(max, getTriangleArea(points[i], points[j], points[k]));
-                // max = Math.max.apply((max, getTriangleArea(points[i], points[j], points[k])));
+                let tmp = getTriangleArea(points[i], points[j], points[k]);
+                if (!isNaN(tmp)) { // fixed, because getTriangleArea() will return NaN in some cases
+                    max = Math.max(max, tmp);
+                }
+                // max = Math.max(max, getTriangleArea(points[i], points[j], points[k]));
                 // console.log(max);
             }
         }
     }
     return roundToXDigits(max, 2);
+};
+
+// Accepted --- 140ms 20.00% (fixed same issue)
+const largestTriangleArea = (points) => {
+    let res = [];
+    for (let i = 0; i < points.length; i++) {
+        for (let j = i + 1; j < points.length; j++) {
+            for (let k = j + 1; k < points.length; k++) {
+                let tmp = getTriangleArea(points[i], points[j], points[k]);
+                if (!isNaN(tmp)) { // fixed
+                    res.push(tmp);
+                }
+                // res.push(getTriangleArea(points[i], points[j], points[k]));
+            }
+        }
+    }
+    res.sort((a, b) => a - b);
+    return roundToXDigits(res[res.length - 1]);
 };
 
 const getTriangleArea = (point1, point2, point3) => {
@@ -194,11 +201,12 @@ const main = () => {
     console.log(largestTriangleArea1(debug3));
     console.log(largestTriangleArea1(debug4));
 
+    console.log("");
     console.log(largestTriangleArea(points)); // 2
     console.log(largestTriangleArea(debug1)); // 0.5
     console.log(largestTriangleArea(debug2)); // 3627
     console.log(largestTriangleArea(debug3)); // 4128  why lc is 3952
-    console.log(largestTriangleArea(debug4)); // 4494.5  why lc is 4465
+    console.log(largestTriangleArea(debug4)); // 4494.5  why lc is 4465 (fixed, same issue, because of NaN)
 };
 
 main()

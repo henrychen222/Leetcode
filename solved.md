@@ -179,6 +179,9 @@ https://leetcode.com/problems/sort-characters-by-frequency/discuss/773823/javasc
 461 Hamming Distance
 https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
 
+463 Island Perimeter
+https://leetcode.com/problems/island-perimeter/discuss/815931/javascript-JSON-data-check-each-island-solution-208ms-faster-than-82.14
+
 475 Heaters
 https://leetcode.com/problems/heaters/discuss/813881/javascript-two-pointer-with-two-maps-solution
 
@@ -326,6 +329,9 @@ https://leetcode.com/problems/rotate-string/discuss/783198/javascript-stack-solu
 811 Subdomain Visit Count
 https://leetcode.com/problems/subdomain-visit-count/discuss/778845/javascript-HashSet-solution-112ms
 
+812 Largest Triangle Area
+https://leetcode.com/problems/largest-triangle-area/discuss/815771/javascript-three-pointer-with-Heron's-formula-88ms
+
 821 Shortest Distance to a Character
 https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/javascript-solution-compare-with-left-closest-and-right-closest-char-get-min
 
@@ -397,6 +403,9 @@ https://leetcode.com/problems/powerful-integers/discuss/811935/javascript-64ms-f
 
 973 K Closest Points to Origin
 https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascript-1-line-code-81.61
+
+974 Subarray Sums Divisible by K
+https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/816163/javascript-prefix-sum-solution
 
 985 Sum of Even Numbers After Queries
 https://leetcode.com/problems/sum-of-even-numbers-after-queries/discuss/777239/javascript-132ms-faster-than-72.94
