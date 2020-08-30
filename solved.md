@@ -317,6 +317,9 @@ https://leetcode.com/problems/1-bit-and-2-bit-characters/discuss/792776/javascri
 739 Daily Temperatures
 https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-pointer
 
+766 Toeplitz Matrix
+https://leetcode.com/problems/toeplitz-matrix/discuss/817560/javascript-JSON-data-check-diagonals-96ms
+
 775 Global and Local Inversions
 https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascript-two-pointer
 
@@ -343,6 +346,9 @@ https://leetcode.com/problems/positions-of-large-groups/discuss/793980/javascrip
 
 832 Flipping an Image
 https://leetcode.com/problems/flipping-an-image/discuss/773759/javascript-solution
+
+840 Magic Squares In Grid
+https://leetcode.com/problems/magic-squares-in-grid/discuss/817807/javascript-solution-80ms
 
 844 Backspace String Compare
 https://leetcode.com/problems/backspace-string-compare/discuss/779205/javascript-stack-two-solutions
@@ -419,6 +425,9 @@ https://leetcode.com/problems/cousins-in-binary-tree/discuss/717674/javascript-d
 997 Find the Town Judge
 https://leetcode.com/problems/find-the-town-judge/discuss/803171/javascript-solution-204ms
 
+999 Available Captures for Rook
+https://leetcode.com/problems/available-captures-for-rook/discuss/817609/javascript-solution-68ms-top-down-left-right-search
+
 1002 Find Common Characters
 https://leetcode.com/problems/find-common-characters/discuss/770282/javascript-hashMap-records-96ms
 
@@ -433,6 +442,9 @@ https://leetcode.com/problems/best-sightseeing-pair/discuss/741360/javascript-tw
 
 1022 Sum of Root To Leaf Binary Numbers
 https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/typescript-tree-to-array-solution
+
+1025 Divisor Game
+https://leetcode.com/problems/divisor-game/discuss/817690/javascript-endless-loop-68ms
 
 1047 Remove All Adjacent Duplicates In String
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/773787/javascript-stack-solution
@@ -469,6 +481,9 @@ https://leetcode.com/problems/shift-2d-grid/discuss/796102/javascript-solution-1
 
 1267 Count Servers that Communicate
 https://leetcode.com/problems/count-servers-that-communicate/discuss/744897/javascript-JSON-data-%2B-two-pointer-solution
+
+1237 Find Positive Integer Solution for a Given Equation
+https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/discuss/817523/javascript-brute-force
 
 1275 Find Winner on a Tic Tac Toe Game
 https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/discuss/801481/javascript-96ms-three-pointer-checking-coordinates
