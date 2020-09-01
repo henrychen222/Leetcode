@@ -392,6 +392,9 @@ https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/73
 941 Valid Mountain Array
 https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-easy
 
+946 Validate Stack Sequences
+https://leetcode.com/problems/validate-stack-sequences/discuss/822778/javascript-endless-loop-88ms
+
 949 Largest Time for Given Digits
 https://leetcode.com/problems/largest-time-for-given-digits/discuss/814105/javascript-brute-force-by-listing-all-permutations-84ms
 
@@ -457,6 +460,9 @@ https://leetcode.com/problems/distribute-candies-to-people/discuss/803598/javasc
 
 1122 Relative Sort Array
 https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solution
+
+1124 Longest Well-Performing Interval
+https://leetcode.com/problems/longest-well-performing-interval/discuss/821293/javascript-prefix-sum-80ms-100
 
 1131 Maximum of Absolute Value Expression
 https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/731413/javascript-two-pointer
@@ -573,3 +579,9 @@ https://leetcode.com/problems/most-visited-sector-in-a-circular-track/discuss/80
 
 1562 Find Latest Group of Size M
 https://leetcode.com/problems/find-latest-group-of-size-m/discuss/808591/javascript-union-find-%2B-binary-search
+
+1566 Detect Pattern of Length M Repeated K or More Times
+https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/discuss/819367/javascript-String-repeat()-easy-solution
+
+1567 Maximum Length of Subarray With Positive Product
+https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/discuss/819658/javascript-100ms
