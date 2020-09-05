@@ -161,6 +161,9 @@ https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javas
 389 Find the Difference
 https://leetcode.com/problems/find-the-difference/discuss/772066/javascript-84ms
 
+394 Decode String
+https://leetcode.com/problems/decode-string/discuss/827690/javascript-stack-solution-56ms-faster-than-99.48
+
 412 Fizz Buzz
 https://leetcode.com/problems/fizz-buzz/discuss/774053/javascript-nested-if-else-84ms
 
