@@ -200,6 +200,9 @@ https://leetcode.com/problems/max-consecutive-ones/discuss/788802/javascript-sta
 496 Next Greater Element I
 https://leetcode.com/problems/next-greater-element-i/discuss/704481/javascript-solution
 
+503 Next Greater Element II
+https://leetcode.com/problems/next-greater-element-ii/discuss/830254/javascript-two-pointer-132ms
+
 504 Base 7
 https://leetcode.com/problems/base-7/discuss/778907/javascript-toString()-easy-76ms
 
