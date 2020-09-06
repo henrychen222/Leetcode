@@ -392,6 +392,9 @@ https://leetcode.com/problems/monotonic-array/discuss/783828/javascript-every()-
 897 Increasing Order Search Tree
 https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javascript-solution
 
+901 Online Stock Span
+https://leetcode.com/problems/online-stock-span/discuss/831084/javascript-two-pointer-solution
+
 914 X of a Kind in a Deck of Cards
 https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/discuss/784226/javascript-solution-104ms
 
@@ -530,6 +533,9 @@ https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-dis
 1347 Minimum Number of Steps to Make Two Strings Anagram
 https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/discuss/752068/javascript-solution
 
+1352 Product of the Last K Numbers
+https://leetcode.com/problems/product-of-the-last-k-numbers/discuss/830867/javascript-easy-solution
+
 1360 Number of Days Between Two Dates
 https://leetcode.com/problems/number-of-days-between-two-dates/discuss/778894/javascript-80ms-compared-with-01-01-1971
 
@@ -594,3 +600,13 @@ https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-time
 
 1567 Maximum Length of Subarray With Positive Product
 https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/discuss/819658/javascript-100ms
+
+
+1576 Replace All ?'s to Avoid Consecutive Repeating Characters
+https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/discuss/831802/javascript-replace()-solution
+
+1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers
+https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/discuss/831789/javascript-brute-force
+
+1578 Minimum Deletion Cost to Avoid Repeating Letters
+https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/discuss/831714/javascript-two-pointer
