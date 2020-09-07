@@ -323,8 +323,14 @@ https://leetcode.com/problems/subarray-product-less-than-k/discuss/737896/javasc
 717 1-bit and 2-bit Characters
 https://leetcode.com/problems/1-bit-and-2-bit-characters/discuss/792776/javascript-stack-68ms-faster-than-90.70
 
+720 Longest Word in Dictionary
+https://leetcode.com/problems/longest-word-in-dictionary/discuss/834101/javascript-brute-force-solution
+
 739 Daily Temperatures
 https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-pointer
+
+748 Shortest Completing Word
+https://leetcode.com/problems/shortest-completing-word/discuss/834038/javascript-92ms-faster-than-81.42
 
 766 Toeplitz Matrix
 https://leetcode.com/problems/toeplitz-matrix/discuss/817560/javascript-JSON-data-check-diagonals-96ms
@@ -364,6 +370,9 @@ https://leetcode.com/problems/backspace-string-compare/discuss/779205/javascript
 
 849 Maximize Distance to Closest Person
 https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/783439/javascript-two-pointer-left-and-right-search-84ms
+
+856 Score of Parentheses
+https://leetcode.com/problems/score-of-parentheses/discuss/833444/javascript-stack-solution-72ms
 
 859 Buddy Strings
 https://leetcode.com/problems/buddy-strings/discuss/796395/javascript-88ms
@@ -455,6 +464,9 @@ https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/di
 1014 Best Sightseeing Pair
 https://leetcode.com/problems/best-sightseeing-pair/discuss/741360/javascript-two-pointer
 
+1021 Remove Outermost Parentheses
+https://leetcode.com/problems/remove-outermost-parentheses/discuss/833748/javascript-stack-84ms
+
 1022 Sum of Root To Leaf Binary Numbers
 https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/typescript-tree-to-array-solution
 
@@ -487,6 +499,9 @@ https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discus
 
 1185 Day of the Week
 https://leetcode.com/problems/day-of-the-week/discuss/777347/javascript-64ms-faster-than-88.83
+
+1190 Reverse Substrings Between Each Pair of Parentheses
+https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/discuss/833705/javascript-stack-80ms
 
 1239 Maximum Length of a Concatenated String with Unique Characters
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
