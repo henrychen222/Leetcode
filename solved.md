@@ -158,6 +158,9 @@ https://leetcode.com/problems/top-k-frequent-elements/discuss/767821/javascript-
 350 Intersection of Two Arrays II
 https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution
 
+380 Insert Delete GetRandom O(1)
+https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/834971/javascript-array-shuffle
+
 389 Find the Difference
 https://leetcode.com/problems/find-the-difference/discuss/772066/javascript-84ms
 
@@ -556,6 +559,9 @@ https://leetcode.com/problems/number-of-days-between-two-dates/discuss/778894/ja
 
 1370 Increasing Decreasing String
 https://leetcode.com/problems/increasing-decreasing-string/discuss/806355/javascript-stack-brute-force-solution
+
+1381 Design a Stack With Increment Operation
+https://leetcode.com/problems/design-a-stack-with-increment-operation/discuss/834894/javascript-solution-168ms
 
 1387 Sort Integers by The Power Value
 https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/javascript-solution
