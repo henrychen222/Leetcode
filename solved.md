@@ -227,6 +227,9 @@ https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascr
 566 Reshape the Matrix
 https://leetcode.com/problems/reshape-the-matrix/discuss/796160/javascript-solution-104ms
 
+567 Permutation in String
+https://leetcode.com/problems/permutation-in-string/discuss/836590/javascript-solution
+
 575 Distribute Candies
 https://leetcode.com/problems/distribute-candies/discuss/771804/javascript-solution-144ms
 
@@ -359,6 +362,9 @@ https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/ja
 825 Friends Of Appropriate Ages
 https://leetcode.com/problems/friends-of-appropriate-ages/discuss/738407/javascript-two-pointer
 
+826 Most Profit Assigning Work
+https://leetcode.com/problems/most-profit-assigning-work/discuss/836396/javascript-brute-force
+
 830 Positions of Large Groups
 https://leetcode.com/problems/positions-of-large-groups/discuss/793980/javascript-stack-96ms
 
@@ -406,6 +412,9 @@ https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javasc
 
 901 Online Stock Span
 https://leetcode.com/problems/online-stock-span/discuss/831084/javascript-two-pointer-solution
+
+904 Fruit Into Baskets
+https://leetcode.com/problems/fruit-into-baskets/discuss/836455/javascript-two-pointer-188ms
 
 914 X of a Kind in a Deck of Cards
 https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/discuss/784226/javascript-solution-104ms
