@@ -158,6 +158,12 @@ https://leetcode.com/problems/top-k-frequent-elements/discuss/767821/javascript-
 350 Intersection of Two Arrays II
 https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution
 
+373 Find K Pairs with Smallest Sums
+https://leetcode.com/problems/find-k-pairs-with-smallest-sums/discuss/838781/javascript-brute-force
+
+378 Kth Smallest Element in a Sorted Matrix
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/838813/javascript-easy-brute-force-100ms
+
 380 Insert Delete GetRandom O(1)
 https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/834971/javascript-array-shuffle
 
@@ -287,6 +293,9 @@ https://leetcode.com/problems/replace-words/discuss/766073/javascript-solution-u
 653 Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescript-solution
 
+658 Find K Closest Elements
+https://leetcode.com/problems/find-k-closest-elements/discuss/840146/javascript-one-line-code-108ms-faster-than-82.32
+
 661 Image Smoother
 https://leetcode.com/problems/image-smoother/discuss/805052/javascript-144ms-faster-than-85.92
 
@@ -322,6 +331,9 @@ https://leetcode.com/problems/degree-of-an-array/discuss/783316/javascript-item-
 
 700 Search in a Binary Search Tree
 https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/javascript-solution
+
+703 Kth Largest Element in a Stream
+https://leetcode.com/problems/kth-largest-element-in-a-stream/discuss/838832/javascript-easy
 
 713 Subarray Product Less Than K
 https://leetcode.com/problems/subarray-product-less-than-k/discuss/737896/javascript-sliding-window-solution-faster-than-92.06
