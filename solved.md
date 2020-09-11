@@ -20,6 +20,9 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 49 Group Anagrams
 https://leetcode.com/problems/group-anagrams/discuss/750368/javascript-solution
 
+50 Pow(x, n)
+https://leetcode.com/problems/powx-n/discuss/840631/javascript-cheating-64ms
+
 67 Add Binary
 https://leetcode.com/problems/add-binary/discuss/800764/javascript-92ms
 
