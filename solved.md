@@ -185,6 +185,9 @@ https://leetcode.com/problems/add-strings/discuss/804734/javascript-112ms
 421 Maximum XOR of Two Numbers in an Array
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
 
+436 Find Right Interval
+https://leetcode.com/problems/find-right-interval/discuss/842240/javascript-brute-force
+
 442 Find All Duplicates in an Array
 https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/720439/javascript-brute-force
 
