@@ -17,6 +17,12 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/java
 34 Find First and Last Position of Element in Sorted Array
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/735025/javascript-solution
 
+46 Permutations
+https://leetcode.com/problems/permutations/discuss/843596/javascript-recursion-92ms
+
+47 Permutations II
+https://leetcode.com/problems/permutations-ii/discuss/843581/javascript-brute-force
+
 49 Group Anagrams
 https://leetcode.com/problems/group-anagrams/discuss/750368/javascript-solution
 
