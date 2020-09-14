@@ -60,7 +60,7 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javasc
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss/717442/javascript-solution
 
 112 Path Sum
-https://leetcode.com/problems/path-sum/discuss/719072/javascript-array-recursion-iteration-solution
+https://leetcode.com/problems/path-sum/discuss/719072/javascript-array-recursion-iteration-solution (1)
 
 118 Pascal's Triangle
 https://leetcode.com/problems/pascals-triangle/discuss/784960/javascript-72ms
@@ -108,7 +108,7 @@ https://leetcode.com/problems/excel-sheet-column-title/discuss/707234/javascript
 https://leetcode.com/problems/excel-sheet-column-number/discuss/707202/javascript-solution
 
 175 Combine Two Tables
-https://leetcode.com/problems/combine-two-tables/discuss/779145/MySQL-solution
+https://leetcode.com/problems/combine-two-tables/discuss/779145/MySQL-solution (1)
 
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
@@ -129,7 +129,7 @@ https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascript-two-pointer-solution
 
 220 Contains Duplicate III
-https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
+https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer (-1)
 
 228 Summary Ranges
 https://leetcode.com/problems/summary-ranges/discuss/738277/javascript-solution
@@ -164,8 +164,8 @@ https://leetcode.com/problems/counting-bits/discuss/733356/javascript-three-solu
 347 Top K Frequent Elements
 https://leetcode.com/problems/top-k-frequent-elements/discuss/767821/javascript-solution
 
-350 Intersection of Two Arrays II
-https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution
+350 Intersection of Two Arrays II   (1)
+https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution 
 
 373 Find K Pairs with Smallest Sums
 https://leetcode.com/problems/find-k-pairs-with-smallest-sums/discuss/838781/javascript-brute-force
@@ -231,10 +231,10 @@ https://leetcode.com/problems/base-7/discuss/778907/javascript-toString()-easy-7
 https://leetcode.com/problems/relative-ranks/discuss/783132/javascript-solution
 
 532 K-diff Pairs in an Array
-https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
+https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer (1)
 
 541 Reverse String II
-https://leetcode.com/problems/reverse-string-ii/discuss/797805/javascript-64ms-faster-than-98.25
+https://leetcode.com/problems/reverse-string-ii/discuss/797805/javascript-64ms-faster-than-98.25 (1)
 
 551 Student Attendance Record I
 https://leetcode.com/problems/student-attendance-record-i/discuss/799631/javascript-80ms
@@ -260,11 +260,11 @@ https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javas
 590 N-ary Tree Postorder Traversal
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/javascript-solution
 
-595 Big Countries
-https://leetcode.com/problems/big-countries/discuss/773640/MySQL-faster-than-33.54-memory-100.00
-
 594 Longest Harmonious Subsequence
 https://leetcode.com/problems/longest-harmonious-subsequence/discuss/814434/javascript-solution
+
+595 Big Countries
+https://leetcode.com/problems/big-countries/discuss/773640/MySQL-faster-than-33.54-memory-100.00
 
 596 Classes More Than 5 Students
 https://leetcode.com/problems/classes-more-than-5-students/discuss/810339/MySQL-group-by-having
@@ -330,7 +330,7 @@ https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/
 https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
 
 686 Repeated String Match
-https://leetcode.com/problems/repeated-string-match/discuss/797846/javascript-solution-endless-loop
+https://leetcode.com/problems/repeated-string-match/discuss/797846/javascript-solution-endless-loop (1)
 
 687 Longest Univalue Path
 https://leetcode.com/problems/longest-univalue-path/discuss/719207/javascript-recursion
@@ -468,7 +468,7 @@ https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tr
 https://leetcode.com/problems/powerful-integers/discuss/811935/javascript-64ms-faster-than-100.00
 
 973 K Closest Points to Origin
-https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascript-1-line-code-81.61
+https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascript-1-line-code-81.61 (1)
 
 974 Subarray Sums Divisible by K
 https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/816163/javascript-prefix-sum-solution
