@@ -476,6 +476,9 @@ https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascri
 974 Subarray Sums Divisible by K
 https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/816163/javascript-prefix-sum-solution
 
+
+https://leetcode.com/problems/string-without-aaa-or-bbb/discuss/850112/javascript-mock-stack-solution-80ms
+
 985 Sum of Even Numbers After Queries
 https://leetcode.com/problems/sum-of-even-numbers-after-queries/discuss/777239/javascript-132ms-faster-than-72.94
 
