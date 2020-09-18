@@ -455,6 +455,9 @@ https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-eas
 946 Validate Stack Sequences
 https://leetcode.com/problems/validate-stack-sequences/discuss/822778/javascript-endless-loop-88ms
 
+948 Bag of Tokens
+https://leetcode.com/problems/bag-of-tokens/discuss/851372/javascript-similar-stack-solution-88ms
+
 949 Largest Time for Given Digits
 https://leetcode.com/problems/largest-time-for-given-digits/discuss/814105/javascript-brute-force-by-listing-all-permutations-84ms
 
@@ -545,7 +548,7 @@ https://leetcode.com/problems/day-of-the-week/discuss/777347/javascript-64ms-fas
 1190 Reverse Substrings Between Each Pair of Parentheses
 https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/discuss/833705/javascript-stack-80ms
 
-1239 Maximum Length of a Concatenated String with Unique Characters
+1239 Maximum Length of a Concatenated String with Unique Characters (1)
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
 
 1252 Cells with Odd Values in a Matrix
@@ -593,7 +596,7 @@ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagra
 1352 Product of the Last K Numbers
 https://leetcode.com/problems/product-of-the-last-k-numbers/discuss/830867/javascript-easy-solution
 
-1360 Number of Days Between Two Dates
+1360 Number of Days Between Two Dates (-1)
 https://leetcode.com/problems/number-of-days-between-two-dates/discuss/778894/javascript-80ms-compared-with-01-01-1971
 
 1370 Increasing Decreasing String
@@ -614,7 +617,7 @@ https://leetcode.com/problems/count-largest-group/discuss/796222/javascript-solu
 1409 Queries on a Permutation With Key
 https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/javascript-solution
 
-1410 HTML Entity Parser
+1410 HTML Entity Parser (-2)
 https://leetcode.com/problems/html-entity-parser/discuss/749981/javascript-solution
 
 1451 Rearrange Words in a Sentence
