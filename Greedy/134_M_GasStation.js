@@ -3,7 +3,7 @@
  * https://leetcode.com/problems/gas-station/
  */
 
-// Accepted --- 108ms 33.85% 39.23%
+// Accepted --- 108ms 39.23%
 const canCompleteCircuit2 = (gas, cost) => {
     let n = gas.length;
     for (let i = 0; i < n; i++) {
