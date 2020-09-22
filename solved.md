@@ -302,6 +302,9 @@ https://leetcode.com/problems/maximum-average-subarray-i/discuss/790654/javascri
 648 Replace Words
 https://leetcode.com/problems/replace-words/discuss/766073/javascript-solution-use-multiArray-instead-of-Map
 
+649 Dota2 Senate
+https://leetcode.com/problems/dota2-senate/discuss/858603/javascript-greedy-brute-force
+
 653 Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescript-solution
 
@@ -673,3 +676,12 @@ https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-
 
 1578 Minimum Deletion Cost to Avoid Repeating Letters
 https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/discuss/831714/javascript-two-pointer
+
+1589 Maximum Sum Obtained of Any Permutation
+https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/discuss/854772/javascript-212ms
+
+1590 Make Sum Divisible by P
+https://leetcode.com/problems/make-sum-divisible-by-p/discuss/854720/javascript-prefix-144ms
+
+1592 Rearrange Spaces Between Words
+https://leetcode.com/problems/rearrange-spaces-between-words/discuss/855264/javascript-108ms
