@@ -311,6 +311,9 @@ https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescrip
 658 Find K Closest Elements
 https://leetcode.com/problems/find-k-closest-elements/discuss/840146/javascript-one-line-code-108ms-faster-than-82.32
 
+659 Split Array into Consecutive Subsequences
+https://leetcode.com/problems/split-array-into-consecutive-subsequences/discuss/860234/javascript-solution-with-references
+
 661 Image Smoother
 https://leetcode.com/problems/image-smoother/discuss/805052/javascript-144ms-faster-than-85.92
 
@@ -482,7 +485,7 @@ https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascri
 974 Subarray Sums Divisible by K
 https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/816163/javascript-prefix-sum-solution
 
-
+984 String Without AAA or BBB
 https://leetcode.com/problems/string-without-aaa-or-bbb/discuss/850112/javascript-mock-stack-solution-80ms
 
 985 Sum of Even Numbers After Queries
