@@ -71,6 +71,9 @@ https://leetcode.com/problems/pascals-triangle-ii/discuss/786617/javascript-76ms
 121 Best Time to Buy and Sell Stock
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/792461/javascript-two-pointer
 
+134 Gas Station
+https://leetcode.com/problems/gas-station/discuss/853266/javascript-two-pointer-116ms
+
 137 Single Number II
 https://leetcode.com/problems/single-number-ii/discuss/731356/javascript-3-solutions
 
