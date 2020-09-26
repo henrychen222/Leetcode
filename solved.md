@@ -530,6 +530,9 @@ https://leetcode.com/problems/divisor-game/discuss/817690/javascript-endless-loo
 1047 Remove All Adjacent Duplicates In String
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/773787/javascript-stack-solution
 
+1053 Previous Permutation With One Swap
+https://leetcode.com/problems/previous-permutation-with-one-swap/discuss/864908/javascript-104ms
+
 1089 Duplicate Zeros
 https://leetcode.com/problems/duplicate-zeros/discuss/788831/javascript-stack-solution-80ms-faster-than-88.45
 
@@ -574,6 +577,9 @@ https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equatio
 
 1275 Find Winner on a Tic Tac Toe Game
 https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/discuss/801481/javascript-96ms-three-pointer-checking-coordinates
+
+1276 Number of Burgers with No Waste of Ingredients
+https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/discuss/864618/javascript-88ms-faster-85.71-using-linear-equation-in-two-unknowns
 
 1290 Convert Binary Number in a Linked List to Integer
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/discuss/709693/javascript-solution
