@@ -632,6 +632,9 @@ https://leetcode.com/problems/count-number-of-teams/discuss/720817/javascript-th
 1399 Count Largest Group
 https://leetcode.com/problems/count-largest-group/discuss/796222/javascript-solution-132ms
 
+1405 Longest Happy String
+https://leetcode.com/problems/longest-happy-string/discuss/873032/javascript-greedy-80ms
+
 1409 Queries on a Permutation With Key
 https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/javascript-solution
 
