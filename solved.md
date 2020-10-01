@@ -11,6 +11,9 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/7485
 18 4Sum
 https://leetcode.com/problems/4sum/discuss/734863/javascript-dumb-four-pointer-brute-force-solution
 
+31 Next Permutation
+https://leetcode.com/problems/next-permutation/discuss/866139/javascript-88ms
+
 33 Search in Rotated Sorted Array
 https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/javascript-bs-solution
 
@@ -26,7 +29,7 @@ https://leetcode.com/problems/permutations-ii/discuss/843581/javascript-brute-fo
 49 Group Anagrams
 https://leetcode.com/problems/group-anagrams/discuss/750368/javascript-solution
 
-50 Pow(x, n)
+50 Pow(x, n)  (-2)
 https://leetcode.com/problems/powx-n/discuss/840631/javascript-cheating-64ms
 
 67 Add Binary
@@ -59,8 +62,8 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javasc
 108 Convert Sorted Array to Binary Search Tree
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss/717442/javascript-solution
 
-112 Path Sum
-https://leetcode.com/problems/path-sum/discuss/719072/javascript-array-recursion-iteration-solution (1)
+112 Path Sum  (1)
+https://leetcode.com/problems/path-sum/discuss/719072/javascript-array-recursion-iteration-solution
 
 118 Pascal's Triangle
 https://leetcode.com/problems/pascals-triangle/discuss/784960/javascript-72ms
@@ -93,7 +96,7 @@ https://leetcode.com/problems/evaluate-reverse-polish-notation/discuss/825695/ja
 https://leetcode.com/problems/reverse-words-in-a-string/discuss/746650/javascript-80ms
 
 153 Find Minimum in Rotated Sorted Array
-https://leetcode.com/problems /find-minimum-in-rotated-sorted-array/discuss/739721/javascript-three-solutions
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/discuss/739721/javascript-three-solutions
 
 160 Intersection of Two Linked Lists
 https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/709725/javascript
@@ -110,8 +113,8 @@ https://leetcode.com/problems/excel-sheet-column-title/discuss/707234/javascript
 171 Excel Sheet Column Number
 https://leetcode.com/problems/excel-sheet-column-number/discuss/707202/javascript-solution
 
-175 Combine Two Tables
-https://leetcode.com/problems/combine-two-tables/discuss/779145/MySQL-solution (1)
+175 Combine Two Tables (1)
+https://leetcode.com/problems/combine-two-tables/discuss/779145/MySQL-solution
 
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
@@ -131,8 +134,8 @@ https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 209 Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascript-two-pointer-solution
 
-220 Contains Duplicate III
-https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer (-1)
+220 Contains Duplicate III (-1)
+https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
 
 228 Summary Ranges
 https://leetcode.com/problems/summary-ranges/discuss/738277/javascript-solution
@@ -233,11 +236,11 @@ https://leetcode.com/problems/base-7/discuss/778907/javascript-toString()-easy-7
 506 Relative Ranks
 https://leetcode.com/problems/relative-ranks/discuss/783132/javascript-solution
 
-532 K-diff Pairs in an Array
-https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer (1)
+532 K-diff Pairs in an Array (1)
+https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
 
-541 Reverse String II
-https://leetcode.com/problems/reverse-string-ii/discuss/797805/javascript-64ms-faster-than-98.25 (1)
+541 Reverse String II  (1) -> (0)
+https://leetcode.com/problems/reverse-string-ii/discuss/797805/javascript-64ms-faster-than-98.25
 
 551 Student Attendance Record I
 https://leetcode.com/problems/student-attendance-record-i/discuss/799631/javascript-80ms
@@ -341,8 +344,8 @@ https://leetcode.com/problems/valid-palindrome-ii/discuss/847078/javascript-recu
 682 Baseball Game
 https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
 
-686 Repeated String Match
-https://leetcode.com/problems/repeated-string-match/discuss/797846/javascript-solution-endless-loop (1)
+686 Repeated String Match (1)
+https://leetcode.com/problems/repeated-string-match/discuss/797846/javascript-solution-endless-loop
 
 687 Longest Univalue Path
 https://leetcode.com/problems/longest-univalue-path/discuss/719207/javascript-recursion
@@ -389,7 +392,7 @@ https://leetcode.com/problems/rotate-string/discuss/783198/javascript-stack-solu
 811 Subdomain Visit Count
 https://leetcode.com/problems/subdomain-visit-count/discuss/778845/javascript-HashSet-solution-112ms
 
-812 Largest Triangle Area
+812 Largest Triangle Area  (0) -> (-1)
 https://leetcode.com/problems/largest-triangle-area/discuss/815771/javascript-three-pointer-with-Heron's-formula-88ms
 
 821 Shortest Distance to a Character
@@ -482,8 +485,8 @@ https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tr
 970 Powerful Integers
 https://leetcode.com/problems/powerful-integers/discuss/811935/javascript-64ms-faster-than-100.00
 
-973 K Closest Points to Origin
-https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascript-1-line-code-81.61 (1)
+973 K Closest Points to Origin (1)
+https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascript-1-line-code-81.61
 
 974 Subarray Sums Divisible by K
 https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/816163/javascript-prefix-sum-solution
@@ -623,7 +626,7 @@ https://leetcode.com/problems/design-a-stack-with-increment-operation/discuss/83
 1387 Sort Integers by The Power Value
 https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/javascript-solution
 
-1395 Count Number of Teams
+1395 Count Number of Teams (2)
 https://leetcode.com/problems/count-number-of-teams/discuss/720817/javascript-three-pointer
 
 1399 Count Largest Group
@@ -697,3 +700,12 @@ https://leetcode.com/problems/make-sum-divisible-by-p/discuss/854720/javascript-
 
 1592 Rearrange Spaces Between Words
 https://leetcode.com/problems/rearrange-spaces-between-words/discuss/855264/javascript-108ms
+
+1598 Crawler Log Folder
+https://leetcode.com/problems/crawler-log-folder/discuss/866872/javascript-solution
+
+1599 Maximum Profit of Operating a Centennial Wheel
+https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/discuss/866867/javascript-endless-loop
+
+1600 Throne Inheritance
+https://leetcode.com/problems/throne-inheritance/discuss/868601/javascript-dfs-solution-class-%2B-function-prototype
