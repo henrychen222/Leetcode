@@ -587,6 +587,9 @@ https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/discuss/801481/j
 1276 Number of Burgers with No Waste of Ingredients
 https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/discuss/864618/javascript-88ms-faster-85.71-using-linear-equation-in-two-unknowns
 
+1288 Remove Covered Intervals
+https://leetcode.com/problems/remove-covered-intervals/discuss/874675/javascript-two-pointer-end-to-begin-search-100ms
+
 1290 Convert Binary Number in a Linked List to Integer
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/discuss/709693/javascript-solution
 
