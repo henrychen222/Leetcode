@@ -398,7 +398,7 @@ https://leetcode.com/problems/largest-triangle-area/discuss/815771/javascript-th
 821 Shortest Distance to a Character
 https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/javascript-solution-compare-with-left-closest-and-right-closest-char-get-min
 
-825 Friends Of Appropriate Ages
+825 Friends Of Appropriate Ages  (0) -> (1)
 https://leetcode.com/problems/friends-of-appropriate-ages/discuss/738407/javascript-two-pointer
 
 826 Most Profit Assigning Work
@@ -424,6 +424,9 @@ https://leetcode.com/problems/score-of-parentheses/discuss/833444/javascript-sta
 
 859 Buddy Strings
 https://leetcode.com/problems/buddy-strings/discuss/796395/javascript-88ms
+
+870 Advantage Shuffle
+https://leetcode.com/problems/advantage-shuffle/discuss/874496/javascript-greedy-brute-force-solution
 
 872 Leaf-Similar Trees
 https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-to-array-solution
