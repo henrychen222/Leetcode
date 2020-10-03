@@ -593,6 +593,9 @@ https://leetcode.com/problems/remove-covered-intervals/discuss/874675/javascript
 1290 Convert Binary Number in a Linked List to Integer
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/discuss/709693/javascript-solution
 
+1296 Divide Array in Sets of K Consecutive Numbers
+https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/discuss/876066/javascript-ordered-map-(mock-java-treemap)-solution
+
 1302 Deepest Leaves Sum
 https://leetcode.com/problems/deepest-leaves-sum/discuss/719225/javascript-parse-to-array-solution
 
