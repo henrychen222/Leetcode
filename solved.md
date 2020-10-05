@@ -721,3 +721,18 @@ https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/dis
 
 1600 Throne Inheritance
 https://leetcode.com/problems/throne-inheritance/discuss/868601/javascript-dfs-solution-class-%2B-function-prototype
+
+1604 Alert Using Same Key-Card Three or More Times in a One Hour Period
+https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/discuss/877377/javascript-ordered-map-196ms
+
+1605 Find Valid Matrix Given Row and Column Sums
+https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/discuss/877429/javascript-solution
+
+1608 Special Array With X Elements Greater Than or Equal X
+https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/discuss/877952/javascript-easy
+
+1609 Even Odd Tree
+https://leetcode.com/problems/even-odd-tree/discuss/877974/javascript-parse-into-array-level-Order-BFS
+
+1611 Minimum One Bit Operations to Make Integers Zero
+https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/discuss/877960/php-gray-code-generator-12ms
