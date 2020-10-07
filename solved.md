@@ -197,6 +197,9 @@ https://leetcode.com/problems/add-strings/discuss/804734/javascript-112ms
 421 Maximum XOR of Two Numbers in an Array
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
 
+435 Non-overlapping Intervals
+https://leetcode.com/problems/non-overlapping-intervals/discuss/882933/javascript-84ms
+
 436 Find Right Interval
 https://leetcode.com/problems/find-right-interval/discuss/842240/javascript-brute-force
 
