@@ -632,6 +632,9 @@ https://leetcode.com/problems/increasing-decreasing-string/discuss/806355/javasc
 1381 Design a Stack With Increment Operation
 https://leetcode.com/problems/design-a-stack-with-increment-operation/discuss/834894/javascript-solution-168ms
 
+1386 Cinema Seat Allocation
+https://leetcode.com/problems/cinema-seat-allocation/discuss/881190/javascript-solution-check-each-row
+
 1387 Sort Integers by The Power Value
 https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/javascript-solution
 
