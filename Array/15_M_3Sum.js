@@ -3,53 +3,43 @@
  * https://leetcode.com/problems/3sum/
  */
 
+// Accepted --- 152ms 58.08%
+// reference: https://www.programcreek.com/2012/12/leetcode-3sum/  
 const threeSum = (nums) => {
-    let res = [];
     nums.sort((a, b) => a - b);
-    for (let i = 0; i < nums.length; i++) {
-        for (let j = i + 1; j < nums.length; j++) {
-            let rest = 0 - nums[i] - nums[j];
-            if (nums.indexOf(rest) != -1 && nums.indexOf(rest) != i && nums.indexOf(rest) != j) {
-                let target = [nums[i], nums[j], rest].sort((a, b) => a - b);
-                res.push(target);
+    let res = [];
+    let n = nums.length;
+    for (let i = 0; i < n; i++) {
+        let j = i + 1;
+        let k = n - 1;
+        if (i > 0 && nums[i] == nums[i - 1]) continue;
+        while (j < k) {
+            if (k < n - 1 && nums[k] == nums[k + 1]) {
+                k--;
+                continue;
+            }
+            if (nums[i] + nums[j] + nums[k] > 0) {
+                k--;
+            } else if (nums[i] + nums[j] + nums[k] < 0) {
+                j++;
+            } else {
+                let l = [];
+                l.push(nums[i]);
+                l.push(nums[j]);
+                l.push(nums[k]);
+                res.push(l);
+                j++;
+                k--;
             }
         }
     }
-    console.log(res);
-    return multiDimensionalUnique(res);
-};
-
-// Time Limit exceed  311/313
-const threeSum1 = (nums) => {
-    let res = [];
-    nums.sort((a, b) => a - b);
-    for (let i = 0; i < nums.length; i++) {
-        for (let j = i + 1; j < nums.length; j++) {
-            for (let k = j + 1; k < nums.length; k++) {
-                if ((nums[i] + nums[j] + nums[k]) == 0) {
-                    res.push([nums[i], nums[j], nums[k]]);
-                }
-            }
-        }
-    }
-    console.log(res);
-    return multiDimensionalUnique(res);
-};
-
-const multiDimensionalUnique = (arr) => {
-    let uniques = [];
-    let itemsFound = {};
-    for (let i = 0, l = arr.length; i < l; i++) {
-        let stringified = JSON.stringify(arr[i]);
-        if (itemsFound[stringified]) continue;
-        uniques.push(arr[i]);
-        itemsFound[stringified] = true;
-    }
-    return uniques;
+    return res;
 };
 
 const main = () => {
     let nums = [-1, 0, 1, 2, -1, -4];
+    let nums2 = [];
+    let nums3 = [0];
     let debug1 = [0, 0, 0, 0];
     let debug2 = [82597, -9243, 62390, 83030, -97960, -26521, -61011, 83390, -38677, 12333, 75987, 46091, 83794, 19355, -71037, -6242, -28801, 324, 1202, -90885, -2989, -95597, -34333, 35528, 5680, 89093, -90606, 50360, -29393, -27012, 53313, 65213, 99818, -82405, -41661, -3333, -51952, 72135, -1523, 26377, 74685, 96992, 92263, 15929, 5467, -99555, -43348, -41689, -60383, -3990, 32165, 65265, -72973, -58372, 12741, -48568, -46596, 72419, -1859, 34153, 62937, 81310, -61823, -96770, -54944, 8845, -91184, 24208, -29078, 31495, 65258, 14198, 85395, 70506, -40908, 56740, -12228, -40072, 32429, 93001, 68445, -73927, 25731, -91859, -24150, 10093, -60271, -81683, -18126, 51055, 48189, -6468, 25057, 81194, -58628, 74042, 66158, -14452, -49851, -43667, 11092, 39189, -17025, -79173, 13606, 83172, 92647, -59741, 19343, -26644, -57607, 82908, -20655, 1637, 80060, 98994, 39331, -31274, -61523, 91225, -72953, 13211,
         -75116, -98421, -41571, -69074, 99587, 39345, 42151, -2460, 98236, 15690, -52507, -95803, -48935, -46492, -45606, -79254, -99851, 52533, 73486, 39948, -7240, 71815, -585, -96252, 90990, -93815, 93340, -71848, 58733, -14859, -83082, -75794, -82082, -24871, -15206, 91207, -56469, -93618, 67131, -8682, 75719, 87429, -98757, -7535, -24890, -94160, 85003, 33928, 75538, 97456, -66424, -60074, -8527, -28697, -22308, 2246, -70134, -82319, -10184, 87081, -34949, -28645, -47352, -83966, -60418, -15293, -53067, -25921, 55172, 75064, 95859, 48049, 34311, -86931, -38586, 33686, -36714, 96922, 76713, -22165, -80585, -34503, -44516, 39217, -28457, 47227, -94036, 43457, 24626, -87359, 26898, -70819, 30528, -32397, -69486, 84912, -1187, -98986, -32958, 4280, -79129, -65604, 9344, 58964, 50584, 71128, -55480, 24986, 15086, -62360, -42977, -49482, -77256, -36895, -74818, 20, 3063, -49426, 28152, -97329, 6086, 86035,
@@ -75,9 +65,142 @@ const main = () => {
         89650, 51908, 58181, 66480, -68177, 34323, -3046, -49656, -59758, 43564, -10960, -30796, 15473, -20216, 46085, -85355, 41515, -30669, -87498, 57711, 56067, 63199, -83805, 62042, 91213, -14606, 4394, -562, 74913, 10406, 96810, -61595, 32564, 31640, -9732, 42058, 98052, -7908, -72330, 1558, -80301, 34878, 32900, 3939, -8824, 88316, 20937, 21566, -3218, -66080, -31620, 86859, 54289, 90476, -42889, -15016, -18838, 75456, 30159, -67101, 42328, -92703, 85850, -5475, 23470, -80806, 68206, 17764, 88235, 46421, -41578, 74005, -81142, 80545, 20868, -1560, 64017, 83784, 68863, -97516, -13016, -72223, 79630, -55692, 82255, 88467, 28007, -34686, -69049, -41677, 88535, -8217, 68060, -51280, 28971, 49088, 49235, 26905, -81117, -44888, 40623, 74337, -24662, 97476, 79542, -72082, -35093, 98175, -61761, -68169, 59697, -62542, -72965, 59883, -64026, -37656, -92392, -12113, -73495, 98258, 68379, -21545, 64607, -70957, -92254, -97460, -63436, -8853, -19357, -51965, -76582, 12687, -49712, 45413, -60043, 33496, 31539, -57347, 41837, 67280, -68813, 52088, -13155, -86430, -15239, -45030, 96041, 18749, -23992, 46048, 35243, -79450, 85425, -58524, 88781, -39454, 53073, -48864, -82289, 39086, 82540, -11555, 25014, -5431, -39585, -89526, 2705, 31953, -81611, 36985, -56022, 68684, -27101, 11422, 64655, -26965, -63081, -13840, -91003, -78147, -8966, 41488, 1988, 99021,
         -61575, -47060, 65260, -23844, -21781, -91865, -19607, 44808, 2890, 63692, -88663, -58272, 15970, -65195, -45416, -48444, -78226, -65332, -24568, 42833, -1806, -71595, 80002, -52250, 30952, 48452, -90106, 31015, -22073, 62339, 63318, 78391, 28699, 77900, -4026, -76870, -45943, 33665, 9174, -84360, -22684, -16832, -67949, -38077, -38987, -32847, 51443, -53580, -13505, 9344, -92337, 26585, 70458, -52764, -67471, -68411, -1119, -2072, -93476, 67981, 40887, -89304, -12235, 41488, 1454, 5355, -34855, -72080, 24514, -58305, 3340, 34331, 8731, 77451, -64983, -57876, 82874, 62481, -32754, -39902, 22451, -79095, -23904, 78409, -7418, 77916
     ]
+    let debug3 = [3, 0, -2, -1, 1, 2];
+    let debug4 = [-1, 0, 1, 2, -1, -4, -2, -3, 3, 0, 4];
     console.log(threeSum(nums));
+    console.log(threeSum(nums2));
+    console.log(threeSum(nums3));
     console.log(threeSum(debug1));
     console.log(threeSum(debug2));
+    console.log(threeSum(debug3)); // [[-2,-1,3],[-2,0,2],[-1,0,1]]
+    console.log(threeSum(debug4)); // [[-4,0,4],[-4,1,3],[-3,-1,4],[-3,0,3],[-3,1,2],[-2,-1,3],[-2,0,2],[-1,-1,2],[-1,0,1]]
 };
 
 main()
+
+
+//////////////////////////////////////// 10.6 night /////////////////////////////
+// // wrong
+// const threeSum = (nums) => {
+//     let res = [];
+//     let n = nums.length;
+//     for (let i = 0; i < n; i++) {
+//         // let ts = twoSum(nums, 0 - nums[i]);
+//         let map = new Map();
+//         console.log(nums[i], nums[ts[0]], nums[ts[1]]);
+//         if (ts == -1) continue;
+//         if ((i == ts[0]) || (i == ts[1])) continue;
+//         let tmp = ts.map(x => nums[x]);
+//         tmp.push(nums[i]);
+//         tmp.sort((a, b) => a - b);
+//         // console.log(tmp);
+//         res.push(tmp);
+//     }
+//     // console.log(res);
+//     // return removeDuplicatesMultiArray(res);
+// };
+
+// const twoSum = (nums, target) => {
+//     let map = new Map();
+//     let idx = [];
+//     for (let i = 0; i < nums.length; i++) {
+//         let rest = target - nums[i];
+//         if (map.has(rest)) {
+//             return [map.get(rest), i];
+//             // return [nums[map.get(rest)], nums[i]];
+//         }
+//         map.set(nums[i], i);
+//         console.log(map);
+//     }
+//     return -1;
+// };
+
+// // Time limit 262/313
+// const threeSum3 = (nums) => {
+//     let res = [];
+//     let n = nums.length;
+//     nums.sort((a, b) => a - b);
+//     let map = new Map();
+//     for (let i = 0; i < n; i++) {
+//         for (let j = i + 1; j < n; j++) {
+//             let tmp = nums[i] + nums[j];
+//             if (map.has(tmp)) {
+//                 // map.get(tmp).push([nums[i], nums[j]]);
+//                 map.get(tmp).push([i, j]);
+//             } else {
+//                 // map.set(tmp, [[nums[i], nums[j]]]);
+//                 map.set(tmp, [
+//                     [i, j]
+//                 ]);
+//             }
+//         }
+//     }
+//     // console.log(map);
+//     for (let i = 0; i < n; i++) {
+//         let twoSum = 0 - nums[i];
+//         if (map.has(twoSum)) {
+//             let arr = map.get(twoSum);
+//             for (const a of arr) {
+//                 if ((i == a[0]) || (i == a[1])) continue;
+//                 let tmp = a.map(x => nums[x]).concat([nums[i]]);
+//                 tmp.sort((a, b) => a - b);
+//                 res.push(tmp);
+//             }
+//         }
+//     }
+//     // console.log(res);
+//     return removeDuplicatesMultiArray(res);
+// };
+
+// const removeDuplicatesMultiArray = (arr) => {
+//     return arr.map(JSON.stringify).reverse().filter((item, index, arr) => {
+//         return arr.indexOf(item, index + 1) === -1;
+//     }).reverse().map(JSON.parse);
+// };
+
+//////////////////////////////////////// 7.6 afternoon /////////////////////////////
+// // Time Limit exceed  311/313
+// const threeSum2 = (nums) => {
+//     let res = [];
+//     nums.sort((a, b) => a - b);
+//     for (let i = 0; i < nums.length; i++) {
+//         for (let j = i + 1; j < nums.length; j++) {
+//             let rest = 0 - nums[i] - nums[j];
+//             if (nums.indexOf(rest) != -1 && nums.indexOf(rest) != i && nums.indexOf(rest) != j) {
+//                 let target = [nums[i], nums[j], rest].sort((a, b) => a - b);
+//                 res.push(target);
+//             }
+//         }
+//     }
+//     console.log(res);
+//     return multiDimensionalUnique(res);
+// };
+
+// // Time Limit exceed  311/313
+// const threeSum1 = (nums) => {
+//     let res = [];
+//     nums.sort((a, b) => a - b);
+//     for (let i = 0; i < nums.length; i++) {
+//         for (let j = i + 1; j < nums.length; j++) {
+//             for (let k = j + 1; k < nums.length; k++) {
+//                 if ((nums[i] + nums[j] + nums[k]) == 0) {
+//                     res.push([nums[i], nums[j], nums[k]]);
+//                 }
+//             }
+//         }
+//     }
+//     console.log(res);
+//     return multiDimensionalUnique(res);
+// };
+
+// const multiDimensionalUnique = (arr) => {
+//     let uniques = [];
+//     let itemsFound = {};
+//     for (let i = 0, l = arr.length; i < l; i++) {
+//         let stringified = JSON.stringify(arr[i]);
+//         if (itemsFound[stringified]) continue;
+//         uniques.push(arr[i]);
+//         itemsFound[stringified] = true;
+//     }
+//     return uniques;
+// };
