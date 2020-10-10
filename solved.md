@@ -419,6 +419,9 @@ https://leetcode.com/problems/magic-squares-in-grid/discuss/817807/javascript-so
 844 Backspace String Compare
 https://leetcode.com/problems/backspace-string-compare/discuss/779205/javascript-stack-two-solutions
 
+846 Hand of Straights
+https://leetcode.com/problems/hand-of-straights/discuss/876092/javascript-ordered-map
+
 849 Maximize Distance to Closest Person
 https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/783439/javascript-two-pointer-left-and-right-search-84ms
 
