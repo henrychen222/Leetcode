@@ -668,6 +668,8 @@ https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-s
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
 
+1536 Minimum Swaps to Arrange a Binary Grid
+https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/discuss/887726/javascript-92ms
 
 
 
@@ -745,3 +747,10 @@ https://leetcode.com/problems/even-odd-tree/discuss/877974/javascript-parse-into
 
 1611 Minimum One Bit Operations to Make Integers Zero
 https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/discuss/877960/php-gray-code-generator-12ms
+
+
+1615 Maximal Network Rank
+https://leetcode.com/problems/maximal-network-rank/discuss/889529/javascript-92ms
+
+1616 Split Two Strings to Make Palindrome
+https://leetcode.com/problems/split-two-strings-to-make-palindrome/discuss/889359/javascript-solutions
