@@ -572,6 +572,9 @@ https://leetcode.com/problems/day-of-the-week/discuss/777347/javascript-64ms-fas
 1190 Reverse Substrings Between Each Pair of Parentheses
 https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/discuss/833705/javascript-stack-80ms
 
+1237 Find Positive Integer Solution for a Given Equation
+https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/discuss/817523/javascript-brute-force
+
 1239 Maximum Length of a Concatenated String with Unique Characters (1)
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
 
@@ -583,9 +586,6 @@ https://leetcode.com/problems/shift-2d-grid/discuss/796102/javascript-solution-1
 
 1267 Count Servers that Communicate
 https://leetcode.com/problems/count-servers-that-communicate/discuss/744897/javascript-JSON-data-%2B-two-pointer-solution
-
-1237 Find Positive Integer Solution for a Given Equation
-https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/discuss/817523/javascript-brute-force
 
 1275 Find Winner on a Tic Tac Toe Game
 https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/discuss/801481/javascript-96ms-three-pointer-checking-coordinates
@@ -671,6 +671,9 @@ https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-s
 1536 Minimum Swaps to Arrange a Binary Grid
 https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/discuss/887726/javascript-92ms
 
+1594 Maximum Non Negative Product in a Matrix
+https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/discuss/890723/javascript-dp
+
 
 
 
@@ -695,7 +698,6 @@ https://leetcode.com/problems/thousand-separator/discuss/805893/javascript-solut
 1560 Most Visited Sector in a Circular Track
 https://leetcode.com/problems/most-visited-sector-in-a-circular-track/discuss/806952/javascript-hashMap-solution
 
-
 1562 Find Latest Group of Size M
 https://leetcode.com/problems/find-latest-group-of-size-m/discuss/808591/javascript-union-find-%2B-binary-search
 
@@ -704,7 +706,6 @@ https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-time
 
 1567 Maximum Length of Subarray With Positive Product
 https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/discuss/819658/javascript-100ms
-
 
 1576 Replace All ?'s to Avoid Consecutive Repeating Characters
 https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/discuss/831802/javascript-replace()-solution
@@ -747,7 +748,6 @@ https://leetcode.com/problems/even-odd-tree/discuss/877974/javascript-parse-into
 
 1611 Minimum One Bit Operations to Make Integers Zero
 https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/discuss/877960/php-gray-code-generator-12ms
-
 
 1615 Maximal Network Rank
 https://leetcode.com/problems/maximal-network-rank/discuss/889529/javascript-92ms
