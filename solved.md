@@ -398,6 +398,9 @@ https://leetcode.com/problems/subdomain-visit-count/discuss/778845/javascript-Ha
 812 Largest Triangle Area  (0) -> (-1)
 https://leetcode.com/problems/largest-triangle-area/discuss/815771/javascript-three-pointer-with-Heron's-formula-88ms
 
+813 Largest Sum of Averages
+https://leetcode.com/problems/largest-sum-of-averages/discuss/892364/javascript-DFS-DP
+
 821 Shortest Distance to a Character
 https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/javascript-solution-compare-with-left-closest-and-right-closest-char-get-min
 
