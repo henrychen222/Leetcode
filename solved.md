@@ -473,6 +473,9 @@ https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/discuss/784226/java
 915 Partition Array into Disjoint Intervals
 https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/739772/javascript-solution
 
+931 Minimum Falling Path Sum
+https://leetcode.com/problems/minimum-falling-path-sum/discuss/895173/javascript-dp
+
 941 Valid Mountain Array
 https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-easy
 
@@ -613,6 +616,9 @@ https://leetcode.com/problems/all-elements-in-two-binary-search-trees/discuss/71
 
 1310 XOR Queries of a Subarray
 https://leetcode.com/problems/xor-queries-of-a-subarray/discuss/733302/javascript-solution
+
+1314 Matrix Block Sum
+https://leetcode.com/problems/matrix-block-sum/discuss/894633/javascript-brute-force
 
 1318 Minimum Flips to Make a OR b Equal to c
 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/discuss/731454/javascript-String-solution-faster-than-68.18-100-memory
