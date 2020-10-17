@@ -506,6 +506,9 @@ https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascri
 974 Subarray Sums Divisible by K
 https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/816163/javascript-prefix-sum-solution
 
+983 Minimum Cost For Tickets
+https://leetcode.com/problems/minimum-cost-for-tickets/discuss/897900/javascript-dp-76ms
+
 984 String Without AAA or BBB
 https://leetcode.com/problems/string-without-aaa-or-bbb/discuss/850112/javascript-mock-stack-solution-80ms
 
