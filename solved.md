@@ -116,6 +116,9 @@ https://leetcode.com/problems/excel-sheet-column-number/discuss/707202/javascrip
 175 Combine Two Tables (1)
 https://leetcode.com/problems/combine-two-tables/discuss/779145/MySQL-solution
 
+179 Largest Number
+https://leetcode.com/problems/largest-number/discuss/899301/javascript-sort-84ms
+
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
 
@@ -766,3 +769,15 @@ https://leetcode.com/problems/maximal-network-rank/discuss/889529/javascript-92m
 
 1616 Split Two Strings to Make Palindrome
 https://leetcode.com/problems/split-two-strings-to-make-palindrome/discuss/889359/javascript-solutions
+
+1619 Mean of Array After Removing Some Elements (1)
+https://leetcode.com/problems/mean-of-array-after-removing-some-elements/discuss/899089/javascript-76ms
+
+1622 Fancy Sequence
+https://leetcode.com/problems/fancy-sequence/discuss/899613/javascript-brute-force
+
+1624 Largest Substring Between Two Equal Characters
+https://leetcode.com/problems/largest-substring-between-two-equal-characters/discuss/899632/javascript-two-pointer-108ms
+
+1625 Lexicographically Smallest String After Applying Operations
+https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/discuss/899798/javacript-DFS-with-endless-loop-768ms
