@@ -16,6 +16,7 @@
     "@datastructures-js/heap": "^2.0.0",
     "@datastructures-js/priority-queue": "^4.1.1",
     "collections": "^5.1.9",
-    "js-priority-queue": "^0.1.5"
+    "js-priority-queue": "^0.1.5",
+    "lodash": "^4.17.20"
   }
 }

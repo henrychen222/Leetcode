@@ -35,11 +35,17 @@ https://leetcode.com/problems/powx-n/discuss/840631/javascript-cheating-64ms
 67 Add Binary
 https://leetcode.com/problems/add-binary/discuss/800764/javascript-92ms
 
+73 Set Matrix Zeroes
+https://leetcode.com/problems/set-matrix-zeroes/discuss/905167/javascript-JSON-data-solution-112ms
+
 74 Search a 2D Matrix
 https://leetcode.com/problems/search-a-2d-matrix/discuss/736803/javascript-easy-linear-search
 
 78 Subsets
 https://leetcode.com/problems/subsets/discuss/725759/javascript-solution
+
+79 Word Search
+https://leetcode.com/problems/word-search/discuss/905333/javascript-dfs-92ms
 
 80 Remove Duplicates from Sorted Array II
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/739705/javascript-solution
@@ -230,6 +236,9 @@ https://leetcode.com/problems/license-key-formatting/discuss/810436/javascript-s
 485 Max Consecutive Ones
 https://leetcode.com/problems/max-consecutive-ones/discuss/788802/javascript-stack-solution-84ms
 
+494 Target Sum
+https://leetcode.com/problems/target-sum/discuss/908810/JavaScript-DFS-DP
+
 496 Next Greater Element I
 https://leetcode.com/problems/next-greater-element-i/discuss/704481/javascript-solution
 
@@ -310,6 +319,9 @@ https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/713909/ty
 
 643 Maximum Average Subarray I
 https://leetcode.com/problems/maximum-average-subarray-i/discuss/790654/javascript-stack-solution-160ms
+
+646 Maximum Length of Pair Chain
+https://leetcode.com/problems/maximum-length-of-pair-chain/discuss/906510/javascript-greedy-with-stack-96ms
 
 648 Replace Words
 https://leetcode.com/problems/replace-words/discuss/766073/javascript-solution-use-multiArray-instead-of-Map
@@ -781,3 +793,6 @@ https://leetcode.com/problems/largest-substring-between-two-equal-characters/dis
 
 1625 Lexicographically Smallest String After Applying Operations
 https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/discuss/899798/javacript-DFS-with-endless-loop-768ms
+
+1621 Number of Sets of K Non-Overlapping Line Segments
+https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/discuss/901559/JavaScript-BigInt-with-Math-combination-88ms
