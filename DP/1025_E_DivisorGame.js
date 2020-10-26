@@ -1,5 +1,5 @@
 /**
- * 8.28 night
+ * 6.15 evening  8.28 night complete
  * https://leetcode.com/problems/divisor-game/
  */
 
@@ -42,8 +42,23 @@ const main = () => {
     let N2 = 3;
     let debug1 = 5;
     console.log(divisorGame(N));
-    console.log(divisorGame(N2));
+    console.log(divisorGame(N2)); // Alice 1 Bob 1 Alice lose  Alice
     console.log(divisorGame(debug1)); // false
 };
 
 main()
+
+
+// need to fix
+// const divisorGame = (N) => {
+//     let flag = 'A';
+//     for (let x = 1; x < N; x++) {
+//         if (N % x == 0 && N - x >= 0) {
+//             N = N - x;
+//             flag = 'B';
+//             divisorGame(N);
+//         }
+//     }
+//     console.log(N)
+//     console.log(flag);
+// };

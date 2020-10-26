@@ -161,6 +161,9 @@ https://leetcode.com/problems/product-of-array-except-self/discuss/744838/javasc
 260 Single Number III
 https://leetcode.com/problems/single-number-iii/discuss/731387/javascript-easy
 
+278 First Bad Version
+https://leetcode.com/problems/first-bad-version/discuss/910187/javascript-binary-search-80ms
+
 290 Word Pattern
 https://leetcode.com/problems/word-pattern/discuss/748653/javascript-double-array-and-two-pointer
 
@@ -389,6 +392,9 @@ https://leetcode.com/problems/1-bit-and-2-bit-characters/discuss/792776/javascri
 720 Longest Word in Dictionary
 https://leetcode.com/problems/longest-word-in-dictionary/discuss/834101/javascript-brute-force-solution
 
+733 Flood Fill
+https://leetcode.com/problems/flood-fill/discuss/910362/javascript-direct-solution-104ms
+
 739 Daily Temperatures
 https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-pointer
 
@@ -494,6 +500,9 @@ https://leetcode.com/problems/minimum-falling-path-sum/discuss/895173/javascript
 941 Valid Mountain Array
 https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-easy
 
+942 DI String Match
+https://leetcode.com/problems/di-string-match/discuss/910145/javascript-continuously-swap-until-match-128ms
+
 946 Validate Stack Sequences
 https://leetcode.com/problems/validate-stack-sequences/discuss/822778/javascript-endless-loop-88ms
 
@@ -589,6 +598,9 @@ https://leetcode.com/problems/n-th-tribonacci-number/discuss/801530/javascript-1
 
 1160 Find Words That Can Be Formed by Characters
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/771971/javascript-solution-100ms-faster-than-94.82
+
+1175 Prime Arrangements
+https://leetcode.com/problems/prime-arrangements/discuss/909827/javascript-BigInt-with-Math-84ms
 
 1185 Day of the Week
 https://leetcode.com/problems/day-of-the-week/discuss/777347/javascript-64ms-faster-than-88.83
@@ -796,3 +808,12 @@ https://leetcode.com/problems/lexicographically-smallest-string-after-applying-o
 
 1621 Number of Sets of K Non-Overlapping Line Segments
 https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/discuss/901559/JavaScript-BigInt-with-Math-combination-88ms
+
+1629 Slowest Key (1)
+https://leetcode.com/problems/slowest-key/discuss/909180/javascript-sortedMap-100ms
+
+1630 Arithmetic Subarrays
+https://leetcode.com/problems/arithmetic-subarrays/discuss/909185/javascript-248ms
+
+1631 Path With Minimum Effort
+https://leetcode.com/problems/path-with-minimum-effort/discuss/909263/javascript-Union-Find-248ms
