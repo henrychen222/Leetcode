@@ -203,6 +203,9 @@ https://leetcode.com/problems/decode-string/discuss/827690/javascript-stack-solu
 412 Fizz Buzz
 https://leetcode.com/problems/fizz-buzz/discuss/774053/javascript-nested-if-else-84ms
 
+413 Arithmetic Slices
+https://leetcode.com/problems/arithmetic-slices/discuss/897962/javascript-two-pointer-and-DP
+
 415 Add Strings
 https://leetcode.com/problems/add-strings/discuss/804734/javascript-112ms
 
@@ -253,6 +256,9 @@ https://leetcode.com/problems/base-7/discuss/778907/javascript-toString()-easy-7
 
 506 Relative Ranks
 https://leetcode.com/problems/relative-ranks/discuss/783132/javascript-solution
+
+523 Continuous Subarray Sum
+https://leetcode.com/problems/continuous-subarray-sum/discuss/911549/javascript-two-pointer-brute-force
 
 532 K-diff Pairs in an Array (1)
 https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
@@ -370,6 +376,9 @@ https://leetcode.com/problems/repeated-string-match/discuss/797846/javascript-so
 
 687 Longest Univalue Path
 https://leetcode.com/problems/longest-univalue-path/discuss/719207/javascript-recursion
+
+690 Employee Importance
+https://leetcode.com/problems/employee-importance/discuss/911504/javascript-dfs-100ms
 
 692 Top K Frequent Words
 https://leetcode.com/problems/top-k-frequent-words/discuss/766175/javascript-96ms
@@ -571,6 +580,9 @@ https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/
 
 1025 Divisor Game
 https://leetcode.com/problems/divisor-game/discuss/817690/javascript-endless-loop-68ms
+
+1033 Moving Stones Until Consecutive
+https://leetcode.com/problems/moving-stones-until-consecutive/discuss/911685/javascript-84ms
 
 1047 Remove All Adjacent Duplicates In String
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/773787/javascript-stack-solution
