@@ -125,6 +125,9 @@ https://leetcode.com/problems/combine-two-tables/discuss/779145/MySQL-solution
 179 Largest Number
 https://leetcode.com/problems/largest-number/discuss/899301/javascript-sort-84ms
 
+18 Employees Earning More Than Their Managers
+https://leetcode.com/problems/employees-earning-more-than-their-managers/discuss/914040/MySQL-subquery
+
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
 
@@ -422,6 +425,9 @@ https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/7
 796 Rotate String
 https://leetcode.com/problems/rotate-string/discuss/783198/javascript-stack-solution-76ms
 
+806 Number of Lines To Write String
+https://leetcode.com/problems/number-of-lines-to-write-string/discuss/914398/javascript-76ms
+
 811 Subdomain Visit Count
 https://leetcode.com/problems/subdomain-visit-count/discuss/778845/javascript-HashSet-solution-112ms
 
@@ -505,6 +511,9 @@ https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/73
 
 931 Minimum Falling Path Sum
 https://leetcode.com/problems/minimum-falling-path-sum/discuss/895173/javascript-dp
+
+933 Number of Recent Calls
+https://leetcode.com/problems/number-of-recent-calls/discuss/912766/javascript-array-and-queue-solutions
 
 941 Valid Mountain Array
 https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-easy
@@ -596,6 +605,9 @@ https://leetcode.com/problems/duplicate-zeros/discuss/788831/javascript-stack-so
 1103 Distribute Candies to People
 https://leetcode.com/problems/distribute-candies-to-people/discuss/803598/javascript-brute-force-calculate-each-step-100ms
 
+1114 Print in Order
+https://leetcode.com/problems/print-in-order/discuss/913919/java-Thread-sleep()-solution-11ms
+
 1122 Relative Sort Array
 https://leetcode.com/problems/relative-sort-array/discuss/709518/javascript-solution
 
@@ -613,6 +625,9 @@ https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discus
 
 1175 Prime Arrangements
 https://leetcode.com/problems/prime-arrangements/discuss/909827/javascript-BigInt-with-Math-84ms
+
+1179 Reformat Department Tables
+https://leetcode.com/problems/reformat-department-table/discuss/914421/MySQL-Two-solutions
 
 1185 Day of the Week
 https://leetcode.com/problems/day-of-the-week/discuss/777347/javascript-64ms-faster-than-88.83
