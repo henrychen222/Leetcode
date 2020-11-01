@@ -410,6 +410,9 @@ https://leetcode.com/problems/flood-fill/discuss/910362/javascript-direct-soluti
 739 Daily Temperatures
 https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-pointer
 
+746 Min Cost Climbing Stairs
+https://leetcode.com/problems/min-cost-climbing-stairs/discuss/918250/javascript-dfs-with-memo-92ms
+
 748 Shortest Completing Word
 https://leetcode.com/problems/shortest-completing-word/discuss/834038/javascript-92ms-faster-than-81.42
 
@@ -844,3 +847,18 @@ https://leetcode.com/problems/arithmetic-subarrays/discuss/909185/javascript-248
 
 1631 Path With Minimum Effort
 https://leetcode.com/problems/path-with-minimum-effort/discuss/909263/javascript-Union-Find-248ms
+
+1636 Sort Array by Increasing Frequency
+https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/917808/javascript-hashmap-96ms
+
+1637 Widest Vertical Area Between Two Points Containing No Points
+https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/discuss/917846/javascript-three-pointer-220ms
+
+1638 Count Substrings That Differ by One Character
+https://leetcode.com/problems/count-substrings-that-differ-by-one-character/discuss/917818/javascript-brute-force
+
+1641 Count Sorted Vowel Strings
+https://leetcode.com/problems/count-sorted-vowel-strings/discuss/918674/javascript-combination-72ms
+
+1642 Furthest Building You Can Reach
+https://leetcode.com/problems/furthest-building-you-can-reach/discuss/918611/javascript-greedy
