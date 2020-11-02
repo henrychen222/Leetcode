@@ -236,6 +236,9 @@ https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
 463 Island Perimeter
 https://leetcode.com/problems/island-perimeter/discuss/815931/javascript-JSON-data-check-each-island-solution-208ms-faster-than-82.14
 
+467 Unique Substrings in Wraparound String
+https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/920115/javascript-dp-92ms
+
 475 Heaters
 https://leetcode.com/problems/heaters/discuss/813881/javascript-two-pointer-with-two-maps-solution
 
@@ -857,7 +860,7 @@ https://leetcode.com/problems/widest-vertical-area-between-two-points-containing
 1638 Count Substrings That Differ by One Character
 https://leetcode.com/problems/count-substrings-that-differ-by-one-character/discuss/917818/javascript-brute-force
 
-1641 Count Sorted Vowel Strings
+1641 Count Sorted Vowel Strings (1)
 https://leetcode.com/problems/count-sorted-vowel-strings/discuss/918674/javascript-combination-72ms
 
 1642 Furthest Building You Can Reach
