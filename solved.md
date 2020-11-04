@@ -179,6 +179,9 @@ https://leetcode.com/problems/range-sum-query-immutable/discuss/810365/javascrip
 318 Maximum Product of Word Lengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/javascript-two-pointer
 
+322 Coin Change
+https://leetcode.com/problems/coin-change/discuss/921182/javascript-dfs-88ms-98.97-fast
+
 338 Counting Bits
 https://leetcode.com/problems/counting-bits/discuss/733356/javascript-three-solution
 
@@ -388,6 +391,9 @@ https://leetcode.com/problems/employee-importance/discuss/911504/javascript-dfs-
 
 692 Top K Frequent Words
 https://leetcode.com/problems/top-k-frequent-words/discuss/766175/javascript-96ms
+
+696 Count Binary Substrings
+https://leetcode.com/problems/count-binary-substrings/discuss/921435/javascript-two-pointer-brute-force
 
 697 Degree of an Array
 https://leetcode.com/problems/degree-of-an-array/discuss/783316/javascript-item-freq-brute-force-solution
