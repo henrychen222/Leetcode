@@ -644,6 +644,9 @@ https://leetcode.com/problems/reformat-department-table/discuss/914421/MySQL-Two
 1185 Day of the Week
 https://leetcode.com/problems/day-of-the-week/discuss/777347/javascript-64ms-faster-than-88.83
 
+1186 Maximum Subarray Sum with One Deletion
+https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/discuss/922875/javascript-dp
+
 1190 Reverse Substrings Between Each Pair of Parentheses
 https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/discuss/833705/javascript-stack-80ms
 
