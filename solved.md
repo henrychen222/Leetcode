@@ -374,6 +374,9 @@ https://leetcode.com/problems/maximum-swap/discuss/738507/javascript-solution
 671 Second Minimum Node In a Binary Tree
 https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/717921/javascript-transfer-to-array-iteration-recursion
 
+673 Number of Longest Increasing Subsequence
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/925259/javascript-dfs-and-dp
+
 674 Longest Continuous Increasing Subsequence
 https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/792532/javascript-stack-solution-76ms
 
