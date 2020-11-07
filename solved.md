@@ -548,6 +548,9 @@ https://leetcode.com/problems/bag-of-tokens/discuss/851372/javascript-similar-st
 949 Largest Time for Given Digits
 https://leetcode.com/problems/largest-time-for-given-digits/discuss/814105/javascript-brute-force-by-listing-all-permutations-84ms
 
+950 Reveal Cards In Increasing Order
+https://leetcode.com/problems/reveal-cards-in-increasing-order/discuss/926556/javascript-84ms-87.65-fast
+
 953 Verifying an Alien Dictionary
 https://leetcode.com/problems/verifying-an-alien-dictionary/discuss/803210/javascript-72ms-faster-than-79.86
 
@@ -706,6 +709,9 @@ https://leetcode.com/problems/print-words-vertically/discuss/751858/javascript-s
 
 1328 Break a Palindrome
 https://leetcode.com/problems/break-a-palindrome/discuss/748350/javascript-72ms
+
+1332 Remove Palindromic Subsequences
+https://leetcode.com/problems/remove-palindromic-subsequences/discuss/926501/javascript-68ms-95.05-fast
 
 1333 Filter Restaurants by Vegan-Friendly, Price and Distance
 https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/discuss/726382/javascript-solution
