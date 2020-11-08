@@ -886,3 +886,12 @@ https://leetcode.com/problems/count-sorted-vowel-strings/discuss/918674/javascri
 
 1642 Furthest Building You Can Reach
 https://leetcode.com/problems/furthest-building-you-can-reach/discuss/918611/javascript-greedy
+
+1646 Get Maximum in Generated Array
+https://leetcode.com/problems/get-maximum-in-generated-array/discuss/927612/javascript-96ms
+
+1647 Minimum Deletions to Make Character Frequencies Unique
+https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/discuss/927677/javascript-hashmap-164ms
+
+1648 Sell Diminishing-Valued Colored Balls
+https://leetcode.com/problems/sell-diminishing-valued-colored-balls/discuss/927847/javascript-Math-756ms
