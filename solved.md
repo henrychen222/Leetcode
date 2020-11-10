@@ -521,11 +521,17 @@ https://leetcode.com/problems/online-stock-span/discuss/831084/javascript-two-po
 904 Fruit Into Baskets
 https://leetcode.com/problems/fruit-into-baskets/discuss/836455/javascript-two-pointer-188ms
 
+905 Sort Array By Parity
+https://leetcode.com/problems/sort-array-by-parity/discuss/679588/javascript-92ms
+
 914 X of a Kind in a Deck of Cards
 https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/discuss/784226/javascript-solution-104ms
 
 915 Partition Array into Disjoint Intervals
 https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/739772/javascript-solution
+
+922 Sort Array By Parity II
+https://leetcode.com/problems/sort-array-by-parity-ii/discuss/928709/javascript-136ms
 
 931 Minimum Falling Path Sum
 https://leetcode.com/problems/minimum-falling-path-sum/discuss/895173/javascript-dp
@@ -895,3 +901,6 @@ https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-un
 
 1648 Sell Diminishing-Valued Colored Balls
 https://leetcode.com/problems/sell-diminishing-valued-colored-balls/discuss/927847/javascript-Math-756ms
+
+1649 Create Sorted Array through Instructions
+https://leetcode.com/problems/create-sorted-array-through-instructions/discuss/928659/javascript-Fenwick-tree-244ms
