@@ -437,6 +437,9 @@ https://leetcode.com/problems/toeplitz-matrix/discuss/817560/javascript-JSON-dat
 775 Global and Local Inversions
 https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascript-two-pointer
 
+787 Cheapest Flights Within K Stops
+https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/934002/javascript-Dijkstra-%2B-PQ-DFS-BFS-DP-solutions-overview
+
 795 Number of Subarrays with Bounded Maximum
 https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/740058/javascript-sliding-window
 
@@ -902,7 +905,7 @@ https://leetcode.com/problems/get-maximum-in-generated-array/discuss/927612/java
 1647 Minimum Deletions to Make Character Frequencies Unique
 https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/discuss/927677/javascript-hashmap-164ms
 
-1648 Sell Diminishing-Valued Colored Balls
+1648 Sell Diminishing-Valued Colored Balls (1)
 https://leetcode.com/problems/sell-diminishing-valued-colored-balls/discuss/927847/javascript-Math-756ms
 
 1649 Create Sorted Array through Instructions
