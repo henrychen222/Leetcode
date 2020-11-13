@@ -443,6 +443,9 @@ https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/7
 796 Rotate String
 https://leetcode.com/problems/rotate-string/discuss/783198/javascript-stack-solution-76ms
 
+801 Minimum Swaps To Make Sequences Increasing
+https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/discuss/931458/javascript-dfs-and-dp
+
 806 Number of Lines To Write String
 https://leetcode.com/problems/number-of-lines-to-write-string/discuss/914398/javascript-76ms
 
