@@ -176,6 +176,9 @@ https://leetcode.com/problems/bulls-and-cows/discuss/810523/javascript-HashMap-a
 303 Range Sum Query - Immutable
 https://leetcode.com/problems/range-sum-query-immutable/discuss/810365/javascript-easy-solution
 
+304 Range Sum Query 2D - Immutable
+https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/934932/javascript-easy-180ms
+
 318 Maximum Product of Word Lengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/javascript-two-pointer
 
@@ -196,6 +199,9 @@ https://leetcode.com/problems/largest-divisible-subset/discuss/923944/javascript
 
 373 Find K Pairs with Smallest Sums
 https://leetcode.com/problems/find-k-pairs-with-smallest-sums/discuss/838781/javascript-brute-force
+
+376 Wiggle Subsequence
+https://leetcode.com/problems/wiggle-subsequence/discuss/935056/javascript-dp-greedy
 
 378 Kth Smallest Element in a Sorted Matrix
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/838813/javascript-easy-brute-force-100ms
@@ -442,6 +448,9 @@ https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/934002/jav
 
 795 Number of Subarrays with Bounded Maximum
 https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/740058/javascript-sliding-window
+
+790 Domino and Tromino Tiling
+https://leetcode.com/problems/domino-and-tromino-tiling/discuss/934923/javascript-dp-88ms
 
 796 Rotate String
 https://leetcode.com/problems/rotate-string/discuss/783198/javascript-stack-solution-76ms
