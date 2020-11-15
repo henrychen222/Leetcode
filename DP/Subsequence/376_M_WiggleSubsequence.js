@@ -1,6 +1,10 @@
 /**
  * 11.13 evening night
  * https://leetcode.com/problems/wiggle-subsequence/
+ * 
+ * reference:
+ * https://www.cnblogs.com/grandyang/p/5697621.html
+ * https://leetcode.com/problems/wiggle-subsequence/discuss/84883/two-solutions-one-is-dp-the-other-is-greedy-8-lines
  */
 
 // Accepted --- 72ms 88.24% Greedy

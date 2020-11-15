@@ -919,3 +919,12 @@ https://leetcode.com/problems/sell-diminishing-valued-colored-balls/discuss/9278
 
 1649 Create Sorted Array through Instructions
 https://leetcode.com/problems/create-sorted-array-through-instructions/discuss/928659/javascript-Fenwick-tree-244ms
+
+1652 Defuse the Bomb
+https://leetcode.com/problems/defuse-the-bomb/discuss/935741/javascript-sliced-array-concat-80ms
+
+1653 Minimum Deletions to Make String Balanced
+https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/discuss/935713/javascript-greedy-172ms
+
+1656 Design an Ordered Stream
+https://leetcode.com/problems/design-an-ordered-stream/discuss/936227/javascript-solution
