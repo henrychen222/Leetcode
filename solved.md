@@ -164,6 +164,9 @@ https://leetcode.com/problems/product-of-array-except-self/discuss/744838/javasc
 260 Single Number III
 https://leetcode.com/problems/single-number-iii/discuss/731387/javascript-easy
 
+264 Ugly Number II
+https://leetcode.com/problems/ugly-number-ii/discuss/937584/javascript-PriorityQueue-and-DP
+
 278 First Bad Version
 https://leetcode.com/problems/first-bad-version/discuss/910187/javascript-binary-search-80ms
 
@@ -199,6 +202,9 @@ https://leetcode.com/problems/largest-divisible-subset/discuss/923944/javascript
 
 373 Find K Pairs with Smallest Sums
 https://leetcode.com/problems/find-k-pairs-with-smallest-sums/discuss/838781/javascript-brute-force
+
+375 Guess Number Higher or Lower II
+https://leetcode.com/problems/guess-number-higher-or-lower-ii/discuss/937323/javascript-dfs-dp
 
 376 Wiggle Subsequence
 https://leetcode.com/problems/wiggle-subsequence/discuss/935056/javascript-dp-greedy
@@ -460,6 +466,9 @@ https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/discuss
 
 806 Number of Lines To Write String
 https://leetcode.com/problems/number-of-lines-to-write-string/discuss/914398/javascript-76ms
+
+808 Soup Servings
+https://leetcode.com/problems/soup-servings/discuss/937252/javascript-dfs-76ms
 
 811 Subdomain Visit Count
 https://leetcode.com/problems/subdomain-visit-count/discuss/778845/javascript-HashSet-solution-112ms
