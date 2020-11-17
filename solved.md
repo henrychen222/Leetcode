@@ -257,6 +257,9 @@ https://leetcode.com/problems/island-perimeter/discuss/815931/javascript-JSON-da
 467 Unique Substrings in Wraparound String
 https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/920115/javascript-dp-92ms
 
+474 Ones and Zeroes
+https://leetcode.com/problems/ones-and-zeroes/discuss/938741/javascript-dp-140ms
+
 475 Heaters
 https://leetcode.com/problems/heaters/discuss/813881/javascript-two-pointer-with-two-maps-solution
 
