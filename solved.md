@@ -239,6 +239,9 @@ https://leetcode.com/problems/non-overlapping-intervals/discuss/882933/javascrip
 436 Find Right Interval
 https://leetcode.com/problems/find-right-interval/discuss/842240/javascript-brute-force
 
+438 Find All Anagrams in a String
+https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/939895/javascript-onlogn-brute-force-with-map-slow
+
 442 Find All Duplicates in an Array
 https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/720439/javascript-brute-force
 
@@ -463,6 +466,9 @@ https://leetcode.com/problems/domino-and-tromino-tiling/discuss/934923/javascrip
 
 796 Rotate String
 https://leetcode.com/problems/rotate-string/discuss/783198/javascript-stack-solution-76ms
+
+799 Champagne Tower
+https://leetcode.com/problems/champagne-tower/discuss/939954/javascript-2D-DP-%2B-1D-DP
 
 801 Minimum Swaps To Make Sequences Increasing
 https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/discuss/931458/javascript-dfs-and-dp
