@@ -230,6 +230,9 @@ https://leetcode.com/problems/arithmetic-slices/discuss/897962/javascript-two-po
 415 Add Strings
 https://leetcode.com/problems/add-strings/discuss/804734/javascript-112ms
 
+416 Partition Equal Subset Sum
+https://leetcode.com/problems/partition-equal-subset-sum/discuss/941291/javascript-solutions-overview
+
 421 Maximum XOR of Two Numbers in an Array
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
 
@@ -655,6 +658,9 @@ https://leetcode.com/problems/moving-stones-until-consecutive/discuss/911685/jav
 
 1047 Remove All Adjacent Duplicates In String
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/773787/javascript-stack-solution
+
+1049 Last Stone Weight II
+https://leetcode.com/problems/last-stone-weight-ii/discuss/941011/javascript-dp
 
 1053 Previous Permutation With One Swap
 https://leetcode.com/problems/previous-permutation-with-one-swap/discuss/864908/javascript-104ms
