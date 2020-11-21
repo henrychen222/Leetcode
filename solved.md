@@ -425,6 +425,9 @@ https://leetcode.com/problems/count-binary-substrings/discuss/921435/javascript-
 697 Degree of an Array
 https://leetcode.com/problems/degree-of-an-array/discuss/783316/javascript-item-freq-brute-force-solution
 
+698 Partition to K Equal Sum Subsets
+https://leetcode.com/problems/partition-to-k-equal-sum-subsets/discuss/942509/javascript-dfs-68ms-99.41-fast
+
 700 Search in a Binary Search Tree
 https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/javascript-solution
 
