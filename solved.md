@@ -458,6 +458,9 @@ https://leetcode.com/problems/min-cost-climbing-stairs/discuss/918250/javascript
 748 Shortest Completing Word
 https://leetcode.com/problems/shortest-completing-word/discuss/834038/javascript-92ms-faster-than-81.42
 
+764 Largest Plus Sign
+https://leetcode.com/problems/largest-plus-sign/discuss/946068/javascript-brute-force-and-dp
+
 766 Toeplitz Matrix
 https://leetcode.com/problems/toeplitz-matrix/discuss/817560/javascript-JSON-data-check-diagonals-96ms
 
@@ -616,6 +619,9 @@ https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascri
 
 974 Subarray Sums Divisible by K
 https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/816163/javascript-prefix-sum-solution
+
+978 Longest Turbulent Subarray
+https://leetcode.com/problems/longest-turbulent-subarray/discuss/946173/javascript-two-pointer-brute-force
 
 983 Minimum Cost For Tickets
 https://leetcode.com/problems/minimum-cost-for-tickets/discuss/897900/javascript-dp-76ms
