@@ -209,6 +209,9 @@ https://leetcode.com/problems/guess-number-higher-or-lower-ii/discuss/937323/jav
 376 Wiggle Subsequence
 https://leetcode.com/problems/wiggle-subsequence/discuss/935056/javascript-dp-greedy
 
+377 Combination Sum IV
+https://leetcode.com/problems/combination-sum-iv/discuss/943490/javascript-dfs-dp
+
 378 Kth Smallest Element in a Sorted Matrix
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/838813/javascript-easy-brute-force-100ms
 
@@ -955,3 +958,9 @@ https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/discuss/
 
 1656 Design an Ordered Stream
 https://leetcode.com/problems/design-an-ordered-stream/discuss/936227/javascript-solution
+
+1662 Check If Two String Arrays are Equivalent
+https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/discuss/944656/javascript-easy-80ms
+
+1664 Ways to Make a Fair Array
+https://leetcode.com/problems/ways-to-make-a-fair-array/discuss/944646/javascript-prefix-odd-and-even-sum-120ms
