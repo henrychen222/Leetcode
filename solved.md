@@ -716,6 +716,9 @@ https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/discuss/922
 1190 Reverse Substrings Between Each Pair of Parentheses
 https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/discuss/833705/javascript-stack-80ms
 
+1223 Dice Roll Simulation
+https://leetcode.com/problems/dice-roll-simulation/discuss/947015/javascript-dp-80ms-100-fast
+
 1237 Find Positive Integer Solution for a Given Equation
 https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/discuss/817523/javascript-brute-force
 
