@@ -170,6 +170,9 @@ https://leetcode.com/problems/ugly-number-ii/discuss/937584/javascript-PriorityQ
 278 First Bad Version
 https://leetcode.com/problems/first-bad-version/discuss/910187/javascript-binary-search-80ms
 
+279 Perfect Squares
+https://leetcode.com/problems/perfect-squares/discuss/950476/javascript-dp-and-Math-number-theory
+
 290 Word Pattern
 https://leetcode.com/problems/word-pattern/discuss/748653/javascript-double-array-and-two-pointer
 
@@ -181,6 +184,9 @@ https://leetcode.com/problems/range-sum-query-immutable/discuss/810365/javascrip
 
 304 Range Sum Query 2D - Immutable
 https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/934932/javascript-easy-180ms
+
+309 Best Time to Buy and Sell Stock with Cooldown
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/949505/javascript-80ms-82.12-fast
 
 318 Maximum Product of Word Lengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/javascript-two-pointer
@@ -452,6 +458,9 @@ https://leetcode.com/problems/flood-fill/discuss/910362/javascript-direct-soluti
 739 Daily Temperatures
 https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-pointer
 
+740 Delete and Earn
+https://leetcode.com/problems/delete-and-earn/discuss/950618/javascript-76ms-100
+
 746 Min Cost Climbing Stairs
 https://leetcode.com/problems/min-cost-climbing-stairs/discuss/918250/javascript-dfs-with-memo-92ms
 
@@ -697,6 +706,9 @@ https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/73141
 
 1137 N-th Tribonacci Number
 https://leetcode.com/problems/n-th-tribonacci-number/discuss/801530/javascript-100ms-endless-loop
+
+1155 Number of Dice Rolls With Target Sum
+https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/949302/javascript-dfs-dp
 
 1160 Find Words That Can Be Formed by Characters
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/771971/javascript-solution-100ms-faster-than-94.82
