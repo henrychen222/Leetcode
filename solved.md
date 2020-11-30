@@ -671,6 +671,9 @@ https://leetcode.com/problems/remove-outermost-parentheses/discuss/833748/javasc
 1022 Sum of Root To Leaf Binary Numbers
 https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/713781/typescript-tree-to-array-solution
 
+1024 Video Stitching
+https://leetcode.com/problems/video-stitching/discuss/954545/javascript-greedy-and-dp
+
 1025 Divisor Game
 https://leetcode.com/problems/divisor-game/discuss/817690/javascript-endless-loop-68ms
 
@@ -944,7 +947,7 @@ https://leetcode.com/problems/arithmetic-subarrays/discuss/909185/javascript-248
 1631 Path With Minimum Effort
 https://leetcode.com/problems/path-with-minimum-effort/discuss/909263/javascript-Union-Find-248ms
 
-1636 Sort Array by Increasing Frequency
+1636 Sort Array by Increasing Frequency (1)
 https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/917808/javascript-hashmap-96ms
 
 1637 Widest Vertical Area Between Two Points Containing No Points
@@ -985,3 +988,18 @@ https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/discuss/
 
 1664 Ways to Make a Fair Array
 https://leetcode.com/problems/ways-to-make-a-fair-array/discuss/944646/javascript-prefix-odd-and-even-sum-120ms
+
+1668 Maximum Repeating Substring
+https://leetcode.com/problems/maximum-repeating-substring/discuss/952711/javascript-108ms
+
+1669 Merge In Between Linked Lists
+https://leetcode.com/problems/merge-in-between-linked-lists/discuss/954236/javascript-transfer-to-array-solution-264ms
+
+1670 Design Front Middle Back Queue
+https://leetcode.com/problems/design-front-middle-back-queue/discuss/952716/javascript-solution-176ms
+
+1672 Richest Customer Wealth
+https://leetcode.com/problems/richest-customer-wealth/discuss/952882/javascript-72ms
+
+1673 Find the Most Competitive Subsequence (1)
+https://leetcode.com/problems/find-the-most-competitive-subsequence/discuss/952928/javascript-stack-224ms
