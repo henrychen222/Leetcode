@@ -3,6 +3,42 @@
  * https://leetcode.com/problems/split-array-into-consecutive-subsequences/discuss/106496/Java-O(n)-Time-O(n)-Space
  */
 
+// Accepted --- 124ms 62.79%  11.30 afternoon added
+const isPossible_modify = (nums) => {
+    let freq = new Map();
+    let appendfreq = new Map();
+    for (const i of nums) {
+        freq.set(i, freq.getOrDefault(i, 0) + 1);
+    }
+    for (const i of nums) {
+        if (freq.get(i) == 0) continue;
+        if (appendfreq.getOrDefault(i, 0) > 0) {
+            appendfreq.set(i, appendfreq.get(i) - 1);
+            appendfreq.set(i + 1, appendfreq.getOrDefault(i + 1, 0) + 1);
+        } else if (freq.getOrDefault(i + 1, 0) > 0 && freq.getOrDefault(i + 2, 0) > 0) {
+            freq.set(i + 1, freq.get(i + 1) - 1);
+            freq.set(i + 2, freq.get(i + 2) - 1);
+            appendfreq.set(i + 3, appendfreq.getOrDefault(i + 3, 0) + 1);
+        } else {
+            return false;
+        }
+        freq.set(i, freq.get(i) - 1);
+    }
+    return true;
+};
+
+Map.prototype.getOrDefault1 = function (k, v) {
+    if (!this.has(k)) {
+        return v;
+    }
+    return this.get(k);
+};
+
+// Accepted --- 108ms 93.02%  11.30 evening added
+Map.prototype.getOrDefault = function (k, v) {
+    return this.has(k) ? this.get(k) : v;
+};
+
 // Accepted --- 96ms 90.65%
 const isPossible = (nums) => {
     let freq = new Map();
