@@ -380,6 +380,9 @@ https://leetcode.com/problems/replace-words/discuss/766073/javascript-solution-u
 649 Dota2 Senate
 https://leetcode.com/problems/dota2-senate/discuss/858603/javascript-greedy-brute-force
 
+650 2 Keys Keyboard
+https://leetcode.com/problems/2-keys-keyboard/discuss/955487/javascript-dfs-dp
+
 653 Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescript-solution
 
