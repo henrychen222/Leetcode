@@ -197,6 +197,9 @@ https://leetcode.com/problems/coin-change/discuss/921182/javascript-dfs-88ms-98.
 338 Counting Bits
 https://leetcode.com/problems/counting-bits/discuss/733356/javascript-three-solution
 
+343 Integer Break
+https://leetcode.com/problems/integer-break/discuss/957304/javascript-dp-dfs-80ms
+
 347 Top K Frequent Elements
 https://leetcode.com/problems/top-k-frequent-elements/discuss/767821/javascript-solution
 
@@ -479,7 +482,7 @@ https://leetcode.com/problems/toeplitz-matrix/discuss/817560/javascript-JSON-dat
 775 Global and Local Inversions
 https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascript-two-pointer
 
-787 Cheapest Flights Within K Stops
+787 Cheapest Flights Within K Stops (1)
 https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/934002/javascript-Dijkstra-%2B-PQ-DFS-BFS-DP-solutions-overview
 
 795 Number of Subarrays with Bounded Maximum
@@ -680,6 +683,9 @@ https://leetcode.com/problems/video-stitching/discuss/954545/javascript-greedy-a
 1025 Divisor Game
 https://leetcode.com/problems/divisor-game/discuss/817690/javascript-endless-loop-68ms
 
+1027 Longest Arithmetic Subsequence
+https://leetcode.com/problems/longest-arithmetic-subsequence/discuss/957428/javascript-three-pointer-brute-force
+
 1033 Moving Stones Until Consecutive
 https://leetcode.com/problems/moving-stones-until-consecutive/discuss/911685/javascript-84ms
 
@@ -712,6 +718,9 @@ https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/73141
 
 1137 N-th Tribonacci Number
 https://leetcode.com/problems/n-th-tribonacci-number/discuss/801530/javascript-100ms-endless-loop
+
+1143 Longest Common Subsequence
+https://leetcode.com/problems/longest-common-subsequence/discuss/957504/javascript-dp-112ms
 
 1155 Number of Dice Rolls With Target Sum
 https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/949302/javascript-dfs-dp
