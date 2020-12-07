@@ -302,6 +302,9 @@ https://leetcode.com/problems/base-7/discuss/778907/javascript-toString()-easy-7
 506 Relative Ranks
 https://leetcode.com/problems/relative-ranks/discuss/783132/javascript-solution
 
+516 Longest Palindromic Subsequence
+https://leetcode.com/problems/longest-palindromic-subsequence/discuss/958781/javascript-dp-116ms-97.52-fast
+
 523 Continuous Subarray Sum
 https://leetcode.com/problems/continuous-subarray-sum/discuss/911549/javascript-two-pointer-brute-force
 
@@ -370,6 +373,9 @@ https://leetcode.com/problems/sum-of-square-numbers/discuss/682921/javascript-ha
 
 637 Average of Levels in Binary Tree
 https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/713909/typescript-tree-to-array-solution
+
+638 Shopping Offers
+https://leetcode.com/problems/shopping-offers/discuss/958702/javascript-76ms-100-fast
 
 643 Maximum Average Subarray I
 https://leetcode.com/problems/maximum-average-subarray-i/discuss/790654/javascript-stack-solution-160ms
@@ -968,7 +974,7 @@ https://leetcode.com/problems/widest-vertical-area-between-two-points-containing
 1638 Count Substrings That Differ by One Character
 https://leetcode.com/problems/count-substrings-that-differ-by-one-character/discuss/917818/javascript-brute-force
 
-1641 Count Sorted Vowel Strings (1)
+1641 Count Sorted Vowel Strings (1) -> (0)
 https://leetcode.com/problems/count-sorted-vowel-strings/discuss/918674/javascript-combination-72ms
 
 1642 Furthest Building You Can Reach
@@ -1015,3 +1021,12 @@ https://leetcode.com/problems/richest-customer-wealth/discuss/952882/javascript-
 
 1673 Find the Most Competitive Subsequence (1)
 https://leetcode.com/problems/find-the-most-competitive-subsequence/discuss/952928/javascript-stack-224ms
+
+1678 Goal Parser Interpretation
+https://leetcode.com/problems/goal-parser-interpretation/discuss/961699/javascript-92ms
+
+1679 Max Number of K-Sum Pairs
+https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/961764/javascript-two-pointer-and-HashMap
+
+1680 Concatenation of Consecutive Binary Numbers
+https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/discuss/961983/javascript-solutions
