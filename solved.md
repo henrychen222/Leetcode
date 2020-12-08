@@ -698,6 +698,9 @@ https://leetcode.com/problems/moving-stones-until-consecutive/discuss/911685/jav
 1047 Remove All Adjacent Duplicates In String
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/773787/javascript-stack-solution
 
+1048 Longest String Chain
+https://leetcode.com/problems/longest-string-chain/discuss/963393/javascript-dp
+
 1049 Last Stone Weight II
 https://leetcode.com/problems/last-stone-weight-ii/discuss/941011/javascript-dp
 
@@ -709,6 +712,9 @@ https://leetcode.com/problems/duplicate-zeros/discuss/788831/javascript-stack-so
 
 1103 Distribute Candies to People
 https://leetcode.com/problems/distribute-candies-to-people/discuss/803598/javascript-brute-force-calculate-each-step-100ms
+
+1105 Filling Bookcase Shelves
+https://leetcode.com/problems/filling-bookcase-shelves/discuss/963528/javascript-dp
 
 1114 Print in Order
 https://leetcode.com/problems/print-in-order/discuss/913919/java-Thread-sleep()-solution-11ms
@@ -1025,7 +1031,7 @@ https://leetcode.com/problems/find-the-most-competitive-subsequence/discuss/9529
 1678 Goal Parser Interpretation
 https://leetcode.com/problems/goal-parser-interpretation/discuss/961699/javascript-92ms
 
-1679 Max Number of K-Sum Pairs
+1679 Max Number of K-Sum Pairs (1)
 https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/961764/javascript-two-pointer-and-HashMap
 
 1680 Concatenation of Consecutive Binary Numbers
