@@ -455,6 +455,9 @@ https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/715877/java
 703 Kth Largest Element in a Stream
 https://leetcode.com/problems/kth-largest-element-in-a-stream/discuss/838832/javascript-easy
 
+712 Minimum ASCII Delete Sum for Two Strings
+https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/discuss/965099/javasscript-dp-116ms
+
 713 Subarray Product Less Than K
 https://leetcode.com/problems/subarray-product-less-than-k/discuss/737896/javascript-sliding-window-solution-faster-than-92.06
 
@@ -757,6 +760,9 @@ https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parenthese
 
 1223 Dice Roll Simulation
 https://leetcode.com/problems/dice-roll-simulation/discuss/947015/javascript-dp-80ms-100-fast
+
+1227 Airplane Seat Assignment Probability
+https://leetcode.com/problems/airplane-seat-assignment-probability/discuss/965127/javascript-1-line-80ms
 
 1237 Find Positive Integer Solution for a Given Equation
 https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/discuss/817523/javascript-brute-force
