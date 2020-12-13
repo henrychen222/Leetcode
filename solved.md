@@ -758,6 +758,9 @@ https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/discuss/922
 1190 Reverse Substrings Between Each Pair of Parentheses
 https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/discuss/833705/javascript-stack-80ms
 
+1191 K-Concatenation Maximum Sum
+https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascript-prefix-suffix-sum-96ms-75
+
 1223 Dice Roll Simulation
 https://leetcode.com/problems/dice-roll-simulation/discuss/947015/javascript-dp-80ms-100-fast
 
@@ -1042,3 +1045,15 @@ https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/961764/javascrip
 
 1680 Concatenation of Consecutive Binary Numbers
 https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/discuss/961983/javascript-solutions
+
+1684 Count the Number of Consistent Strings
+https://leetcode.com/problems/count-the-number-of-consistent-strings/discuss/969604/javascript-easy
+
+1685 Sum of Absolute Differences in a Sorted Array
+https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/discuss/969709/javascript-220ms
+
+1686 Stone Game VI
+https://leetcode.com/problems/stone-game-vi/discuss/969659/javascript-268ms
+
+1688 Count of Matches in Tournament
+https://leetcode.com/problems/count-of-matches-in-tournament/discuss/970579/javascript-88ms
