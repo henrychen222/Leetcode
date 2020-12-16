@@ -644,6 +644,9 @@ https://leetcode.com/problems/k-closest-points-to-origin/discuss/727596/javascri
 974 Subarray Sums Divisible by K
 https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/816163/javascript-prefix-sum-solution
 
+977 Squares of a Sorted Array
+https://leetcode.com/problems/squares-of-a-sorted-array/discuss/679593/javascript-easy-99.58
+
 978 Longest Turbulent Subarray
 https://leetcode.com/problems/longest-turbulent-subarray/discuss/946173/javascript-two-pointer-brute-force
 
@@ -788,6 +791,9 @@ https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/discuss/801481/j
 1276 Number of Burgers with No Waste of Ingredients
 https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/discuss/864618/javascript-88ms-faster-85.71-using-linear-equation-in-two-unknowns
 
+1277 Count Square Submatrices with All Ones
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/discuss/973281/javascript-dp-104ms
+
 1288 Remove Covered Intervals
 https://leetcode.com/problems/remove-covered-intervals/discuss/874675/javascript-two-pointer-end-to-begin-search-100ms
 
@@ -868,6 +874,9 @@ https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-s
 
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
+
+1504 Count Submatrices With All Ones
+https://leetcode.com/problems/count-submatrices-with-all-ones/discuss/973684/javascript-solutions
 
 1536 Minimum Swaps to Arrange a Binary Grid
 https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/discuss/887726/javascript-92ms
@@ -1043,7 +1052,7 @@ https://leetcode.com/problems/goal-parser-interpretation/discuss/961699/javascri
 1679 Max Number of K-Sum Pairs (1)
 https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/961764/javascript-two-pointer-and-HashMap
 
-1680 Concatenation of Consecutive Binary Numbers
+1680 Concatenation of Consecutive Binary Numbers (1)
 https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/discuss/961983/javascript-solutions
 
 1684 Count the Number of Consistent Strings
