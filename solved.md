@@ -287,6 +287,9 @@ https://leetcode.com/problems/license-key-formatting/discuss/810436/javascript-s
 485 Max Consecutive Ones
 https://leetcode.com/problems/max-consecutive-ones/discuss/788802/javascript-stack-solution-84ms
 
+486 Predict the Winner
+https://leetcode.com/problems/predict-the-winner/discuss/975826/javascript-dfs-and-dp
+
 494 Target Sum
 https://leetcode.com/problems/target-sum/discuss/908810/JavaScript-DFS-DP
 
@@ -737,6 +740,9 @@ https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/73141
 1137 N-th Tribonacci Number
 https://leetcode.com/problems/n-th-tribonacci-number/discuss/801530/javascript-100ms-endless-loop
 
+1139 Largest 1-Bordered Square
+https://leetcode.com/problems/largest-1-bordered-square/discuss/976151/javascript-dp
+
 1143 Longest Common Subsequence
 https://leetcode.com/problems/longest-common-subsequence/discuss/957504/javascript-dp-112ms
 
@@ -781,6 +787,9 @@ https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/804868/j
 
 1260 Shift 2D Grid
 https://leetcode.com/problems/shift-2d-grid/discuss/796102/javascript-solution-120ms
+
+1262 Greatest Sum Divisible by Three
+https://leetcode.com/problems/greatest-sum-divisible-by-three/discuss/974570/javascript-128ms
 
 1267 Count Servers that Communicate
 https://leetcode.com/problems/count-servers-that-communicate/discuss/744897/javascript-JSON-data-%2B-two-pointer-solution
