@@ -179,6 +179,9 @@ https://leetcode.com/problems/word-pattern/discuss/748653/javascript-double-arra
 299 Bulls and Cows
 https://leetcode.com/problems/bulls-and-cows/discuss/810523/javascript-HashMap-and-HashSet-two-solutions
 
+300 Longest Increasing Subsequence
+https://leetcode.com/problems/longest-increasing-subsequence/discuss/977286/javascript-dp-and-binary-search
+
 303 Range Sum Query - Immutable
 https://leetcode.com/problems/range-sum-query-immutable/discuss/810365/javascript-easy-solution
 
@@ -566,6 +569,9 @@ https://leetcode.com/problems/advantage-shuffle/discuss/874496/javascript-greedy
 872 Leaf-Similar Trees
 https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-to-array-solution
 
+873 Length of Longest Fibonacci Subsequence
+https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/discuss/976821/javascript-three-pointer-brute-force
+
 876 Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascript-solution
 
@@ -769,6 +775,9 @@ https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parenthese
 
 1191 K-Concatenation Maximum Sum
 https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascript-prefix-suffix-sum-96ms-75
+
+1218 Longest Arithmetic Subsequence of Given Difference
+https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/977144/javascript-dp-120ms-97.06-fast
 
 1223 Dice Roll Simulation
 https://leetcode.com/problems/dice-roll-simulation/discuss/947015/javascript-dp-80ms-100-fast
@@ -1075,3 +1084,9 @@ https://leetcode.com/problems/stone-game-vi/discuss/969659/javascript-268ms
 
 1688 Count of Matches in Tournament
 https://leetcode.com/problems/count-of-matches-in-tournament/discuss/970579/javascript-88ms
+
+1694 Reformat Phone Number
+https://leetcode.com/problems/reformat-phone-number/discuss/978600/javascript-84ms
+
+1695 Maximum Erasure Value
+https://leetcode.com/problems/maximum-erasure-value/discuss/978720/javascript-sliding-window-%2B-HashSet-196ms
