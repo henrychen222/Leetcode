@@ -230,6 +230,9 @@ https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/83
 380 Insert Delete GetRandom O(1)
 https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/834971/javascript-array-shuffle
 
+386 Lexicographical Numbers
+https://leetcode.com/problems/lexicographical-numbers/discuss/981327/javascript-two-solutions
+
 389 Find the Difference
 https://leetcode.com/problems/find-the-difference/discuss/772066/javascript-84ms
 
@@ -274,6 +277,9 @@ https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
 
 463 Island Perimeter
 https://leetcode.com/problems/island-perimeter/discuss/815931/javascript-JSON-data-check-each-island-solution-208ms-faster-than-82.14
+
+464 Can I Win
+https://leetcode.com/problems/can-i-win/discuss/982539/javascript-dfs-with-bit-mask-124ms-98.21-fast
 
 467 Unique Substrings in Wraparound String
 https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/920115/javascript-dp-92ms
@@ -890,6 +896,9 @@ https://leetcode.com/problems/rearrange-words-in-a-sentence/discuss/726284/javas
 1452 People Whose List of Favorite Companies Is Not a Subset of Another List
 https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/discuss/727707/javascript-solution
 
+1477 Find Two Non-overlapping Sub-arrays Each With Target Sum
+https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/discuss/982835/javascript-sliding-window-with-dp-table
+
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
 
@@ -1090,3 +1099,6 @@ https://leetcode.com/problems/reformat-phone-number/discuss/978600/javascript-84
 
 1695 Maximum Erasure Value
 https://leetcode.com/problems/maximum-erasure-value/discuss/978720/javascript-sliding-window-%2B-HashSet-196ms
+
+1696 Jump Game VI
+https://leetcode.com/problems/jump-game-vi/discuss/981037/javascript-SegmentTreeRMQ-312ms
