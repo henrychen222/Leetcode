@@ -146,6 +146,9 @@ https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 209 Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascript-two-pointer-solution
 
+215 Kth Largest Element in an Array
+https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/838343/javascript-one-line-80ms
+
 220 Contains Duplicate III (-1)
 https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
 
@@ -340,6 +343,9 @@ https://leetcode.com/problems/permutation-in-string/discuss/836590/javascript-so
 
 575 Distribute Candies
 https://leetcode.com/problems/distribute-candies/discuss/771804/javascript-solution-144ms
+
+576 Out of Boundary Paths
+https://leetcode.com/problems/out-of-boundary-paths/discuss/984238/javascript-dp
 
 581 Shortest Unsorted Continuous Subarray
 https://leetcode.com/problems/shortest-unsorted-continuous-subarray/discuss/780222/javascript-92ms-faster-than-83.06
@@ -550,6 +556,9 @@ https://leetcode.com/problems/positions-of-large-groups/discuss/793980/javascrip
 
 832 Flipping an Image
 https://leetcode.com/problems/flipping-an-image/discuss/773759/javascript-solution
+
+837 New 21 Game
+https://leetcode.com/problems/new-21-game/discuss/983952/javascript-solutions-overview
 
 840 Magic Squares In Grid
 https://leetcode.com/problems/magic-squares-in-grid/discuss/817807/javascript-solution-80ms
