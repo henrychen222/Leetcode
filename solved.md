@@ -764,6 +764,9 @@ https://leetcode.com/problems/n-th-tribonacci-number/discuss/801530/javascript-1
 1139 Largest 1-Bordered Square
 https://leetcode.com/problems/largest-1-bordered-square/discuss/976151/javascript-dp
 
+1140 Stone Game II
+https://leetcode.com/problems/stone-game-ii/discuss/986939/javascript-dfs-%2B-memo(maparray)-two-solutions
+
 1143 Longest Common Subsequence
 https://leetcode.com/problems/longest-common-subsequence/discuss/957504/javascript-dp-112ms
 
@@ -916,6 +919,9 @@ https://leetcode.com/problems/count-submatrices-with-all-ones/discuss/973684/jav
 
 1536 Minimum Swaps to Arrange a Binary Grid
 https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/discuss/887726/javascript-92ms
+
+1546 Maximum Number of Non-Overlapping Subarrays With Sum Equals Target
+https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/discuss/986783/javascript-136ms
 
 1594 Maximum Non Negative Product in a Matrix
 https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/discuss/890723/javascript-dp
@@ -1111,3 +1117,9 @@ https://leetcode.com/problems/maximum-erasure-value/discuss/978720/javascript-sl
 
 1696 Jump Game VI
 https://leetcode.com/problems/jump-game-vi/discuss/981037/javascript-SegmentTreeRMQ-312ms
+
+1700 Number of Students Unable to Eat Lunch
+https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/discuss/987417/javascript-84ms
+
+1701 Average Waiting Time
+https://leetcode.com/problems/average-waiting-time/discuss/987425/javascript-224ms
