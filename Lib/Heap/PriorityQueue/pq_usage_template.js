@@ -9,7 +9,7 @@ const {
 // https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115541/JavaPython-Priority-Queue-Solution
 const template = (a, b, c, d, e) => {
     let pq = new MinPriorityQueue({
-        priority: (x) => x.first
+        priority: x => x.first
     });
     pq.enqueue({
         first: a,

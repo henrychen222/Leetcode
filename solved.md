@@ -1123,3 +1123,9 @@ https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/discuss/987
 
 1701 Average Waiting Time
 https://leetcode.com/problems/average-waiting-time/discuss/987425/javascript-224ms
+
+1703 Minimum Adjacent Swaps for K Consecutive Ones
+https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/discuss/987574/javascript-132ms
+
+1704 Determine if String Halves Are Alike
+https://leetcode.com/problems/determine-if-string-halves-are-alike/discuss/988276/javascript-84ms
