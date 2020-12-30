@@ -11,6 +11,9 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/7485
 18 4Sum
 https://leetcode.com/problems/4sum/discuss/734863/javascript-dumb-four-pointer-brute-force-solution
 
+24 Swap Nodes in Pairs
+https://leetcode.com/problems/swap-nodes-in-pairs/discuss/991952/javascript-transfer-to-array-72ms-93.62-fast
+
 31 Next Permutation
 https://leetcode.com/problems/next-permutation/discuss/866139/javascript-88ms
 
@@ -25,6 +28,9 @@ https://leetcode.com/problems/permutations/discuss/843596/javascript-recursion-9
 
 47 Permutations II
 https://leetcode.com/problems/permutations-ii/discuss/843581/javascript-brute-force
+
+48 Rotate Image
+https://leetcode.com/problems/rotate-image/discuss/991746/javascript-72ms-93.85-fast
 
 49 Group Anagrams
 https://leetcode.com/problems/group-anagrams/discuss/750368/javascript-solution
