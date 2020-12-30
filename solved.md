@@ -1,4 +1,7 @@
 
+2 Add Two Numbers
+https://leetcode.com/problems/add-two-numbers/discuss/993258/javascript-transfer-to-array-and-using-BigInt-140ms
+
 8 String to Integer (atoi)
 https://leetcode.com/problems/string-to-integer-atoi/discuss/746714/javascript-solution-120ms
 
@@ -11,8 +14,14 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/7485
 18 4Sum
 https://leetcode.com/problems/4sum/discuss/734863/javascript-dumb-four-pointer-brute-force-solution
 
+19 Remove Nth Node From End of List
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/993283/javascript-transfer-to-array-72ms-98.78-fast
+
 24 Swap Nodes in Pairs
 https://leetcode.com/problems/swap-nodes-in-pairs/discuss/991952/javascript-transfer-to-array-72ms-93.62-fast
+
+25 Reverse Nodes in k-Group
+https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/993341/javascript-transfer-to-array-92ms-91.38-fast
 
 31 Next Permutation
 https://leetcode.com/problems/next-permutation/discuss/866139/javascript-88ms
@@ -37,6 +46,9 @@ https://leetcode.com/problems/group-anagrams/discuss/750368/javascript-solution
 
 50 Pow(x, n)  (-2)
 https://leetcode.com/problems/powx-n/discuss/840631/javascript-cheating-64ms
+
+61 Rotate List
+https://leetcode.com/problems/rotate-list/discuss/993225/javascript-transfer-to-array-88ms-88.21-fast
 
 67 Add Binary
 https://leetcode.com/problems/add-binary/discuss/800764/javascript-92ms
