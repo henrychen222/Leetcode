@@ -71,6 +71,9 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/739
 81 Search in Rotated Sorted Array II
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/734820/javascript-linear-search
 
+82 Remove Duplicates from Sorted List II
+https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/discuss/994334/javascript-88ms
+
 83 Remove Duplicates from Sorted List
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/709582/javascript-solution
 
@@ -106,6 +109,9 @@ https://leetcode.com/problems/single-number-ii/discuss/731356/javascript-3-solut
 
 141 Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-fast-pointer
+
+143 Reorder List
+https://leetcode.com/problems/reorder-list/discuss/994435/javascript-using-array-168ms
 
 146 LRU Cache
 https://leetcode.com/problems/lru-cache/discuss/753891/typescript-double-linkedlist-solution
