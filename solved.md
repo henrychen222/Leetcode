@@ -233,6 +233,9 @@ https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/jav
 322 Coin Change
 https://leetcode.com/problems/coin-change/discuss/921182/javascript-dfs-88ms-98.97-fast
 
+328 Odd Even Linked List
+https://leetcode.com/problems/odd-even-linked-list/discuss/997849/javascript-using-array-100ms
+
 338 Counting Bits
 https://leetcode.com/problems/counting-bits/discuss/733356/javascript-three-solution
 
@@ -304,6 +307,9 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/720439/jav
 
 443 String Compression
 https://leetcode.com/problems/string-compression/discuss/794984/javascript-stack-solution-80ms-faster-than-77.70
+
+445 Add Two Numbers II
+https://leetcode.com/problems/add-two-numbers-ii/discuss/997826/javascript-one-line-with-code-templates-132ms-83.94-fast
 
 451 Sort Characters By Frequency
 https://leetcode.com/problems/sort-characters-by-frequency/discuss/773823/javascript-solution
