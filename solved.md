@@ -77,8 +77,14 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/discuss/9943
 83 Remove Duplicates from Sorted List
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/709582/javascript-solution
 
+86 Partition List
+https://leetcode.com/problems/partition-list/discuss/996152/javascript-88ms-using-array
+
 90 Subsets II
 https://leetcode.com/problems/subsets-ii/discuss/725831/javascript-solution
+
+92 Reverse Linked List II
+https://leetcode.com/problems/reverse-linked-list-ii/discuss/996101/javascript-88ms-using-array
 
 101 Symmetric Tree
 https://leetcode.com/problems/symmetric-tree/discuss/717857/javascript-iteration-recursion
@@ -118,6 +124,9 @@ https://leetcode.com/problems/lru-cache/discuss/753891/typescript-double-linkedl
 
 147 Insertion Sort List
 https://leetcode.com/problems/insertion-sort-list/discuss/724134/javascript
+
+148 Sort List
+https://leetcode.com/problems/sort-list/discuss/996162/javascript-using-array-156ms
 
 150 Evaluate Reverse Polish Notation
 https://leetcode.com/problems/evaluate-reverse-polish-notation/discuss/825695/javascript-stack-solution-104ms
@@ -508,6 +517,9 @@ https://leetcode.com/problems/1-bit-and-2-bit-characters/discuss/792776/javascri
 
 720 Longest Word in Dictionary
 https://leetcode.com/problems/longest-word-in-dictionary/discuss/834101/javascript-brute-force-solution
+
+725 Split Linked List in Parts
+https://leetcode.com/problems/split-linked-list-in-parts/discuss/996372/javascript-using-array-92ms
 
 733 Flood Fill
 https://leetcode.com/problems/flood-fill/discuss/910362/javascript-direct-solution-104ms
