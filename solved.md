@@ -14,13 +14,16 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/7485
 18 4Sum
 https://leetcode.com/problems/4sum/discuss/734863/javascript-dumb-four-pointer-brute-force-solution
 
-19 Remove Nth Node From End of List
+19 Remove Nth Node From End of List (1)
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/993283/javascript-transfer-to-array-72ms-98.78-fast
+
+23 Merge k Sorted Lists
+https://leetcode.com/problems/merge-k-sorted-lists/discuss/1023674/javascript-using-array-104ms-91.53-fast
 
 24 Swap Nodes in Pairs
 https://leetcode.com/problems/swap-nodes-in-pairs/discuss/991952/javascript-transfer-to-array-72ms-93.62-fast
 
-25 Reverse Nodes in k-Group
+25 Reverse Nodes in k-Group (1)
 https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/993341/javascript-transfer-to-array-92ms-91.38-fast
 
 31 Next Permutation
@@ -434,6 +437,9 @@ https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/713909/ty
 638 Shopping Offers
 https://leetcode.com/problems/shopping-offers/discuss/958702/javascript-76ms-100-fast
 
+640 Solve the Equation
+https://leetcode.com/problems/solve-the-equation/discuss/1023947/javascript-72ms
+
 643 Maximum Average Subarray I
 https://leetcode.com/problems/maximum-average-subarray-i/discuss/790654/javascript-stack-solution-160ms
 
@@ -749,6 +755,9 @@ https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/di
 1014 Best Sightseeing Pair
 https://leetcode.com/problems/best-sightseeing-pair/discuss/741360/javascript-two-pointer
 
+1019 Next Greater Node In Linked List
+https://leetcode.com/problems/next-greater-node-in-linked-list/discuss/1023564/javascript-transfer-to-array-384ms
+
 1021 Remove Outermost Parentheses
 https://leetcode.com/problems/remove-outermost-parentheses/discuss/833748/javascript-stack-84ms
 
@@ -817,6 +826,9 @@ https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/94930
 
 1160 Find Words That Can Be Formed by Characters
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/771971/javascript-solution-100ms-faster-than-94.82
+
+1171 Remove Zero Sum Consecutive Nodes from Linked List
+https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/discuss/1023606/javascript-using-array-and-two-pointer-deletion-124ms
 
 1175 Prime Arrangements
 https://leetcode.com/problems/prime-arrangements/discuss/909827/javascript-BigInt-with-Math-84ms
@@ -1171,3 +1183,37 @@ https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/disc
 
 1704 Determine if String Halves Are Alike
 https://leetcode.com/problems/determine-if-string-halves-are-alike/discuss/988276/javascript-84ms
+
+1710 Maximum Units on a Truck (-1)
+https://leetcode.com/problems/maximum-units-on-a-truck/discuss/999412/javascript-92ms
+
+1711 Count Good Meals (-1)
+https://leetcode.com/problems/count-good-meals/discuss/999305/javascript-136ms-using-map
+
+1716 Calculate Money in Leetcode Bank
+https://leetcode.com/problems/calculate-money-in-leetcode-bank/discuss/1009903/javascript-116ms-Math
+
+1717 Maximum Score From Removing Substrings
+https://leetcode.com/problems/maximum-score-from-removing-substrings/discuss/1015817/javascript-stack-188ms
+
+1718 Construct the Lexicographically Largest Valid Sequence
+https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/discuss/1015857/javascript-dfs-bitmask-80ms
+
+1720 Decode XORed Array
+https://leetcode.com/problems/decode-xored-array/discuss/1009897/javascript-104ms
+
+1721 Swapping Nodes in a Linked List
+https://leetcode.com/problems/swapping-nodes-in-a-linked-list/discuss/1009889/javascript-using-array
+
+1722 Minimize Hamming Distance After Swap Operations
+https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/discuss/1011964/javascript-union-find-316ms
+https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/discuss/1010851/JS-Simple-Union-Find-Solution
+
+1723 Find Minimum Time to Finish All Jobs
+https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/discuss/1012143/javascript-dp-mask-with-binary-search
+
+1725 Number Of Rectangles That Can Form The Largest Square (1)
+https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/discuss/1020768/javascript-three-lines-124ms
+
+1726 Tuple with Same Product
+https://leetcode.com/problems/tuple-with-same-product/discuss/1020792/javascript-Set-inside-Map-Math-combination
