@@ -1,10 +1,26 @@
 /**
- * 7.10 evening
+ * 7.10 evening   fixed 01/24/21
  * https://leetcode.com/problems/repeated-dna-sequences/
  */
 
-// Time Limit 31/32
+// Accepted --- 96ms 90.77%
 const findRepeatedDnaSequences = (s) => {
+    let set = new Set();
+    let res = new Set();
+    for (let i = 10; i <= s.length; i++) {
+        let str = s.slice(i - 10, i);
+        if (set.has(str) && !res.has(str)) {
+            res.add(str);
+        } else {
+            set.add(str);
+        }
+    }
+    // return [...new Set(res)];
+    return [...res]; // Accepted --- 84ms 99.49%
+};
+
+// Time Limit 31/32
+const findRepeatedDnaSequences3 = (s) => {
     let data = [];
     let res = [];
     for (let i = 10; i <= s.length; i++) {

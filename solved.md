@@ -164,6 +164,9 @@ https://leetcode.com/problems/largest-number/discuss/899301/javascript-sort-84ms
 18 Employees Earning More Than Their Managers
 https://leetcode.com/problems/employees-earning-more-than-their-managers/discuss/914040/MySQL-subquery
 
+187 Repeated DNA Sequences
+https://leetcode.com/problems/repeated-dna-sequences/discuss/1032393/javascript-use-HashSet-84ms-99.49-fast
+
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
 
@@ -1217,3 +1220,15 @@ https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-squ
 
 1726 Tuple with Same Product
 https://leetcode.com/problems/tuple-with-same-product/discuss/1020792/javascript-Set-inside-Map-Math-combination
+
+1732 Find the Highest Altitude
+https://leetcode.com/problems/find-the-highest-altitude/discuss/1031923/javascript-prefix-sum-92ms
+
+1733 Minimum Number of People to Teach
+https://leetcode.com/problems/minimum-number-of-people-to-teach/discuss/1031921/javascript-176ms
+
+1736 Latest Time by Replacing Hidden Digits
+https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/discuss/1032332/javascript-92ms
+
+1737 Change Minimum Characters to Satisfy One of Three Conditions
+https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/discuss/1032293/javascript-solution-772ms
