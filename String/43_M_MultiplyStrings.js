@@ -1,11 +1,11 @@
 /**
- * 7.21 evening
+ * 7.21 evening  01/31/21 morning fix
  * https://leetcode.com/problems/multiply-strings/
  */
 
-// need to fix
+// Accepted --- 128ms 22.41%
 const multiply = (num1, num2) => {
-    return Number(num1) * Number(num2) + '';
+    return BigInt(num1) * BigInt(num2) + '';
 };
 
 const main = () => {
@@ -21,3 +21,9 @@ const main = () => {
 };
 
 main()
+
+
+// need to fix
+// const multiply = (num1, num2) => {
+//     return Number(num1) * Number(num2) + '';
+// };

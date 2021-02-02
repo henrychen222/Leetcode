@@ -9,6 +9,21 @@ typedef pair<int, int> ii;
 class Solution
 {
 public:
+    void print_2DVector(vector<vector<int>> &a)
+    {
+        cout << "[";
+        for (int i = 0; i < a.size(); i++)
+        {
+            cout << "[";
+            for (int j = 0; j < a[i].size(); j++)
+            {
+                cout << a[i][j] << " ";
+            }
+            cout << "]";
+        }
+        cout << "]" << endl;
+    }
+
     void print(vector<int> const &input)
     {
         for (int i = 0; i < input.size(); i++)
@@ -45,3 +60,13 @@ public:
         cout << endl;
     }
 };
+
+int main()
+{
+    Solution s;
+    vector<vector<int>> a{
+        {1, 2, 3},
+        {4, 5, 6},
+        {7, 8, 9}};
+    s.print_2DVector(a);
+}

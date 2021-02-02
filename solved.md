@@ -35,6 +35,9 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/java
 34 Find First and Last Position of Element in Sorted Array
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/735025/javascript-solution
 
+43 Multiply Strings (-1)
+https://leetcode.com/problems/multiply-strings/discuss/1043895/javascript-one-line-128ms
+
 46 Permutations
 https://leetcode.com/problems/permutations/discuss/843596/javascript-recursion-92ms
 
@@ -791,6 +794,9 @@ https://leetcode.com/problems/last-stone-weight-ii/discuss/941011/javascript-dp
 1053 Previous Permutation With One Swap
 https://leetcode.com/problems/previous-permutation-with-one-swap/discuss/864908/javascript-104ms
 
+1073 Adding Two Negabinary Numbers
+https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/1044015/javascript-use-BigInt-96ms
+
 1089 Duplicate Zeros
 https://leetcode.com/problems/duplicate-zeros/discuss/788831/javascript-stack-solution-80ms-faster-than-88.45
 
@@ -1016,7 +1022,7 @@ https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-time
 1567 Maximum Length of Subarray With Positive Product
 https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/discuss/819658/javascript-100ms
 
-1576 Replace All ?'s to Avoid Consecutive Repeating Characters
+1576 Replace All ?'s to Avoid Consecutive Repeating Characters (0) -> (-1)
 https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/discuss/831802/javascript-replace()-solution
 
 1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers
@@ -1097,7 +1103,7 @@ https://leetcode.com/problems/widest-vertical-area-between-two-points-containing
 1638 Count Substrings That Differ by One Character
 https://leetcode.com/problems/count-substrings-that-differ-by-one-character/discuss/917818/javascript-brute-force
 
-1641 Count Sorted Vowel Strings (1) -> (0)
+1641 Count Sorted Vowel Strings (1) -> (0) -> (1)
 https://leetcode.com/problems/count-sorted-vowel-strings/discuss/918674/javascript-combination-72ms
 
 1642 Furthest Building You Can Reach
@@ -1142,7 +1148,7 @@ https://leetcode.com/problems/design-front-middle-back-queue/discuss/952716/java
 1672 Richest Customer Wealth
 https://leetcode.com/problems/richest-customer-wealth/discuss/952882/javascript-72ms
 
-1673 Find the Most Competitive Subsequence (1)
+1673 Find the Most Competitive Subsequence (1) -> (3)
 https://leetcode.com/problems/find-the-most-competitive-subsequence/discuss/952928/javascript-stack-224ms
 
 1678 Goal Parser Interpretation
@@ -1151,7 +1157,7 @@ https://leetcode.com/problems/goal-parser-interpretation/discuss/961699/javascri
 1679 Max Number of K-Sum Pairs (1)
 https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/961764/javascript-two-pointer-and-HashMap
 
-1680 Concatenation of Consecutive Binary Numbers (1)
+1680 Concatenation of Consecutive Binary Numbers (1) -> (2) -> (3)
 https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/discuss/961983/javascript-solutions
 
 1684 Count the Number of Consistent Strings
@@ -1232,3 +1238,9 @@ https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/discuss/103
 
 1737 Change Minimum Characters to Satisfy One of Three Conditions
 https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/discuss/1032293/javascript-solution-772ms
+
+1742 Maximum Number of Balls in a Box
+https://leetcode.com/problems/maximum-number-of-balls-in-a-box/discuss/1043141/javascript-directly
+
+1743 Restore the Array From Adjacent Pairs
+https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/discuss/1043212/javascript-greedy-with-map-436ms
