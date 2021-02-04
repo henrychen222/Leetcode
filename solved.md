@@ -2,6 +2,10 @@
 2 Add Two Numbers
 https://leetcode.com/problems/add-two-numbers/discuss/993258/javascript-transfer-to-array-and-using-BigInt-140ms
 
+4 Median of Two Sorted Arrays
+https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1046838/javascript-direct-solution-160ms
+https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/868822/JS-faster-than-95
+
 8 String to Integer (atoi)
 https://leetcode.com/problems/string-to-integer-atoi/discuss/746714/javascript-solution-120ms
 
@@ -623,6 +627,9 @@ https://leetcode.com/problems/backspace-string-compare/discuss/779205/javascript
 846 Hand of Straights
 https://leetcode.com/problems/hand-of-straights/discuss/876092/javascript-ordered-map
 
+848 Shifting Letters
+https://leetcode.com/problems/shifting-letters/discuss/1046728/javascript-brute-force
+
 849 Maximize Distance to Closest Person
 https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/783439/javascript-two-pointer-left-and-right-search-84ms
 
@@ -760,6 +767,9 @@ https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/di
 
 1014 Best Sightseeing Pair
 https://leetcode.com/problems/best-sightseeing-pair/discuss/741360/javascript-two-pointer
+
+1017 Convert to Base -2
+https://leetcode.com/problems/convert-to-base-2/discuss/1046761/javascript-72ms-100
 
 1019 Next Greater Node In Linked List
 https://leetcode.com/problems/next-greater-node-in-linked-list/discuss/1023564/javascript-transfer-to-array-384ms
@@ -965,6 +975,9 @@ https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/j
 1410 HTML Entity Parser (-2)
 https://leetcode.com/problems/html-entity-parser/discuss/749981/javascript-solution
 
+1447 Simplified Fractions
+https://leetcode.com/problems/simplified-fractions/discuss/1046935/javascript-GCD-120ms-85.19-fast
+
 1451 Rearrange Words in a Sentence
 https://leetcode.com/problems/rearrange-words-in-a-sentence/discuss/726284/javascript-solution
 
@@ -976,6 +989,9 @@ https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-targ
 
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
+
+1492 The kth Factor of n
+https://leetcode.com/problems/the-kth-factor-of-n/discuss/1046895/javascript-direct-way-132ms
 
 1504 Count Submatrices With All Ones
 https://leetcode.com/problems/count-submatrices-with-all-ones/discuss/973684/javascript-solutions
