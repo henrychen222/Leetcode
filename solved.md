@@ -39,7 +39,7 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/java
 34 Find First and Last Position of Element in Sorted Array
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/735025/javascript-solution
 
-43 Multiply Strings (-1)
+43 Multiply Strings (-1) -> (-2) -> (-3)
 https://leetcode.com/problems/multiply-strings/discuss/1043895/javascript-one-line-128ms
 
 46 Permutations
@@ -305,6 +305,9 @@ https://leetcode.com/problems/partition-equal-subset-sum/discuss/941291/javascri
 
 421 Maximum XOR of Two Numbers in an Array
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
+
+430 Flatten a Multilevel Doubly Linked List
+https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/discuss/1053210/javascript-using-array-with-DFS-84ms
 
 435 Non-overlapping Intervals
 https://leetcode.com/problems/non-overlapping-intervals/discuss/882933/javascript-84ms
@@ -1260,3 +1263,15 @@ https://leetcode.com/problems/maximum-number-of-balls-in-a-box/discuss/1043141/j
 
 1743 Restore the Array From Adjacent Pairs
 https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/discuss/1043212/javascript-greedy-with-map-436ms
+
+1748 Sum of Unique Elements
+https://leetcode.com/problems/sum-of-unique-elements/discuss/1052897/javascript-96ms
+
+1752 Check if Array Is Sorted and Rotated
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/discuss/1053686/javascript-108ms
+
+1753 Maximum Score From Removing Stones
+https://leetcode.com/problems/maximum-score-from-removing-stones/discuss/1053703/javascript-greedy-select-two-max-328ms
+
+
+https://leetcode.com/problems/largest-merge-of-two-strings/discuss/1053846/javascript-greedy-with-sliding-window-156ms
