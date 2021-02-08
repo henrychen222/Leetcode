@@ -2,6 +2,9 @@
 2 Add Two Numbers
 https://leetcode.com/problems/add-two-numbers/discuss/993258/javascript-transfer-to-array-and-using-BigInt-140ms
 
+3 Longest Substring Without Repeating Characters
+https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1055158/javascript-two-pointer-with-Set-316ms
+
 4 Median of Two Sorted Arrays
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1046838/javascript-direct-solution-160ms
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/868822/JS-faster-than-95
@@ -681,6 +684,9 @@ https://leetcode.com/problems/fruit-into-baskets/discuss/836455/javascript-two-p
 905 Sort Array By Parity
 https://leetcode.com/problems/sort-array-by-parity/discuss/679588/javascript-92ms
 
+907 Sum of Subarray Minimums
+https://leetcode.com/problems/sum-of-subarray-minimums/discuss/1055398/javascript-two-pointer-brute-force
+
 914 X of a Kind in a Deck of Cards
 https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/discuss/784226/javascript-solution-104ms
 
@@ -947,6 +953,9 @@ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagra
 
 1352 Product of the Last K Numbers
 https://leetcode.com/problems/product-of-the-last-k-numbers/discuss/830867/javascript-easy-solution
+
+1358 Number of Substrings Containing All Three Characters
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/discuss/1055471/javascript-sliding-window-92ms
 
 1360 Number of Days Between Two Dates (-1)
 https://leetcode.com/problems/number-of-days-between-two-dates/discuss/778894/javascript-80ms-compared-with-01-01-1971
@@ -1267,11 +1276,14 @@ https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/discuss/1043
 1748 Sum of Unique Elements
 https://leetcode.com/problems/sum-of-unique-elements/discuss/1052897/javascript-96ms
 
+1749 Maximum Absolute Sum of Any Subarray
+https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/discuss/1055294/javascript-Kadane-max-min-96ms
+
 1752 Check if Array Is Sorted and Rotated
 https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/discuss/1053686/javascript-108ms
 
 1753 Maximum Score From Removing Stones
 https://leetcode.com/problems/maximum-score-from-removing-stones/discuss/1053703/javascript-greedy-select-two-max-328ms
 
-
+1754 Largest Merge Of Two Strings
 https://leetcode.com/problems/largest-merge-of-two-strings/discuss/1053846/javascript-greedy-with-sliding-window-156ms
