@@ -108,6 +108,9 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javasc
 108 Convert Sorted Array to Binary Search Tree
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss/717442/javascript-solution
 
+109 Convert Sorted List to Binary Search Tree
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/1058559/javascript-100ms-70.80-fast
+
 112 Path Sum  (1)
 https://leetcode.com/problems/path-sum/discuss/719072/javascript-array-recursion-iteration-solution
 
@@ -606,6 +609,9 @@ https://leetcode.com/problems/largest-triangle-area/discuss/815771/javascript-th
 813 Largest Sum of Averages
 https://leetcode.com/problems/largest-sum-of-averages/discuss/892364/javascript-DFS-DP
 
+817 Linked List Components
+https://leetcode.com/problems/linked-list-components/discuss/1053345/javascript-using-array-80ms-96.72-fast
+
 821 Shortest Distance to a Character
 https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/javascript-solution-compare-with-left-closest-and-right-closest-char-get-min
 
@@ -959,6 +965,9 @@ https://leetcode.com/problems/number-of-substrings-containing-all-three-characte
 
 1360 Number of Days Between Two Dates (-1)
 https://leetcode.com/problems/number-of-days-between-two-dates/discuss/778894/javascript-80ms-compared-with-01-01-1971
+
+1367 Linked List in Binary Tree
+https://leetcode.com/problems/linked-list-in-binary-tree/discuss/1058639/javascript-using-array-check-isSubArray
 
 1370 Increasing Decreasing String
 https://leetcode.com/problems/increasing-decreasing-string/discuss/806355/javascript-stack-brute-force-solution
