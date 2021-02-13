@@ -228,6 +228,9 @@ https://leetcode.com/problems/single-number-iii/discuss/731387/javascript-easy
 264 Ugly Number II
 https://leetcode.com/problems/ugly-number-ii/discuss/937584/javascript-PriorityQueue-and-DP
 
+274 H-Index
+https://leetcode.com/problems/h-index/discuss/1063227/javascript-final-solution-76ms-84.06-fast
+
 278 First Bad Version
 https://leetcode.com/problems/first-bad-version/discuss/910187/javascript-binary-search-80ms
 
