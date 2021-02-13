@@ -2,7 +2,7 @@
 2 Add Two Numbers
 https://leetcode.com/problems/add-two-numbers/discuss/993258/javascript-transfer-to-array-and-using-BigInt-140ms
 
-3 Longest Substring Without Repeating Characters
+3 Longest Substring Without Repeating Characters (0) -> (1)
 https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1055158/javascript-two-pointer-with-Set-316ms
 
 4 Median of Two Sorted Arrays
@@ -113,6 +113,12 @@ https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/
 
 112 Path Sum  (1)
 https://leetcode.com/problems/path-sum/discuss/719072/javascript-array-recursion-iteration-solution
+
+113 Path Sum II
+https://leetcode.com/problems/path-sum-ii/discuss/1061384/javascript-using-array-80ms-99.76
+
+114 Flatten Binary Tree to Linked List
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/1061633/javascript-using-array-%2B-BFS-to-create-new-Tree-100ms
 
 118 Pascal's Triangle
 https://leetcode.com/problems/pascals-triangle/discuss/784960/javascript-72ms
@@ -759,6 +765,9 @@ https://leetcode.com/problems/string-without-aaa-or-bbb/discuss/850112/javascrip
 985 Sum of Even Numbers After Queries
 https://leetcode.com/problems/sum-of-even-numbers-after-queries/discuss/777239/javascript-132ms-faster-than-72.94
 
+988 Smallest String Starting From Leaf
+https://leetcode.com/problems/smallest-string-starting-from-leaf/discuss/1061367/javascript-using-array-from-tree-paths-108ms
+
 989 Add to Array-Form of Integer
 https://leetcode.com/problems/add-to-array-form-of-integer/discuss/777169/java-BigInteger-easy
 
@@ -803,6 +812,9 @@ https://leetcode.com/problems/divisor-game/discuss/817690/javascript-endless-loo
 
 1027 Longest Arithmetic Subsequence
 https://leetcode.com/problems/longest-arithmetic-subsequence/discuss/957428/javascript-three-pointer-brute-force
+
+1030 Matrix Cells in Distance Order
+https://leetcode.com/problems/matrix-cells-in-distance-order/discuss/679526/javascript-faster-than-97.89
 
 1033 Moving Stones Until Consecutive
 https://leetcode.com/problems/moving-stones-until-consecutive/discuss/911685/javascript-84ms
