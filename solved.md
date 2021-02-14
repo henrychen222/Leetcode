@@ -129,6 +129,9 @@ https://leetcode.com/problems/pascals-triangle-ii/discuss/786617/javascript-76ms
 121 Best Time to Buy and Sell Stock
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/792461/javascript-two-pointer
 
+129 Sum Root to Leaf Numbers
+https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/1064860/javascript-use-array-with-paths-72ms-97.61-fast
+
 134 Gas Station
 https://leetcode.com/problems/gas-station/discuss/853266/javascript-two-pointer-116ms
 
@@ -230,6 +233,9 @@ https://leetcode.com/problems/ugly-number-ii/discuss/937584/javascript-PriorityQ
 
 274 H-Index
 https://leetcode.com/problems/h-index/discuss/1063227/javascript-final-solution-76ms-84.06-fast
+
+275 H-Index II
+https://leetcode.com/problems/h-index-ii/discuss/1064842/javascript-solution
 
 278 First Bad Version
 https://leetcode.com/problems/first-bad-version/discuss/910187/javascript-binary-search-80ms
@@ -1023,6 +1029,9 @@ https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-s
 1477 Find Two Non-overlapping Sub-arrays Each With Target Sum
 https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/discuss/982835/javascript-sliding-window-with-dp-table
 
+1481 Least Number of Unique Integers after K Removals
+https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/discuss/1064218/javascript-twp-solutions
+
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
 
@@ -1311,3 +1320,12 @@ https://leetcode.com/problems/maximum-score-from-removing-stones/discuss/1053703
 
 1754 Largest Merge Of Two Strings
 https://leetcode.com/problems/largest-merge-of-two-strings/discuss/1053846/javascript-greedy-with-sliding-window-156ms
+
+1758 Minimum Changes To Make Alternating Binary String
+https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/discuss/1064679/javascript-solution
+
+1759 Count Number of Homogenous Substrings
+https://leetcode.com/problems/count-number-of-homogenous-substrings/discuss/1064670/javascript-count-for-each-string-with-unique-char-92ms
+
+1760 Minimum Limit of Balls in a Bag
+https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/discuss/1064786/javascript-binary-search-204ms
