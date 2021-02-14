@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/henrychen222/Leetcode#readme",
   "dependencies": {
+    "@datastructures-js/priority-queue": "^5.0.0",
     "collections": "^5.1.11"
   }
 }
