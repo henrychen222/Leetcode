@@ -102,6 +102,9 @@ https://leetcode.com/problems/reverse-linked-list-ii/discuss/996101/javascript-8
 101 Symmetric Tree
 https://leetcode.com/problems/symmetric-tree/discuss/717857/javascript-iteration-recursion
 
+102 Binary Tree Level Order Traversal
+https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/1065958/javascript-bfs-recursion-92ms
+
 104 Maximum Depth of Binary Tree
 https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/717226/javascript-solution
 
@@ -143,6 +146,9 @@ https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-f
 
 143 Reorder List
 https://leetcode.com/problems/reorder-list/discuss/994435/javascript-using-array-168ms
+
+144 Binary Tree Preorder Traversal
+https://leetcode.com/problems/binary-tree-preorder-traversal/discuss/1065966/javascript-dfs-80ms
 
 146 LRU Cache
 https://leetcode.com/problems/lru-cache/discuss/753891/typescript-double-linkedlist-solution
@@ -741,6 +747,9 @@ https://leetcode.com/problems/largest-time-for-given-digits/discuss/814105/javas
 950 Reveal Cards In Increasing Order
 https://leetcode.com/problems/reveal-cards-in-increasing-order/discuss/926556/javascript-84ms-87.65-fast
 
+951 Flip Equivalent Binary Trees
+https://leetcode.com/problems/flip-equivalent-binary-trees/discuss/1066074/javascript-use-array-check-in-level-order-and-paths-84ms-66.13
+
 953 Verifying an Alien Dictionary
 https://leetcode.com/problems/verifying-an-alien-dictionary/discuss/803210/javascript-72ms-faster-than-79.86
 
@@ -818,6 +827,9 @@ https://leetcode.com/problems/video-stitching/discuss/954545/javascript-greedy-a
 
 1025 Divisor Game
 https://leetcode.com/problems/divisor-game/discuss/817690/javascript-endless-loop-68ms
+
+1026 Maximum Difference Between Node and Ancestor
+https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/discuss/1066400/javascript-use-array-final-version-80ms-90.41-fast
 
 1027 Longest Arithmetic Subsequence
 https://leetcode.com/problems/longest-arithmetic-subsequence/discuss/957428/javascript-three-pointer-brute-force
@@ -992,6 +1004,9 @@ https://leetcode.com/problems/linked-list-in-binary-tree/discuss/1058639/javascr
 
 1370 Increasing Decreasing String
 https://leetcode.com/problems/increasing-decreasing-string/discuss/806355/javascript-stack-brute-force-solution
+
+1372 Longest ZigZag Path in a Binary Tree
+https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/discuss/1066177/javascript-use-array-brute-force
 
 1381 Design a Stack With Increment Operation
 https://leetcode.com/problems/design-a-stack-with-increment-operation/discuss/834894/javascript-solution-168ms
