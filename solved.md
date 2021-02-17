@@ -894,6 +894,9 @@ https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/94930
 1160 Find Words That Can Be Formed by Characters
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/771971/javascript-solution-100ms-faster-than-94.82
 
+1161 Maximum Level Sum of a Binary Tree
+https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/discuss/1067949/javascript-use-array-200ms-75.43
+
 1171 Remove Zero Sum Consecutive Nodes from Linked List
 https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/discuss/1023606/javascript-using-array-and-two-pointer-deletion-124ms
 
@@ -1034,6 +1037,9 @@ https://leetcode.com/problems/html-entity-parser/discuss/749981/javascript-solut
 
 1447 Simplified Fractions
 https://leetcode.com/problems/simplified-fractions/discuss/1046935/javascript-GCD-120ms-85.19-fast
+
+1448 Count Good Nodes in Binary Tree
+https://leetcode.com/problems/count-good-nodes-in-binary-tree/discuss/1068038/javascript-use-array-via-paths
 
 1451 Rearrange Words in a Sentence
 https://leetcode.com/problems/rearrange-words-in-a-sentence/discuss/726284/javascript-solution

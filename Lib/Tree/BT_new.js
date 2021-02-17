@@ -9,10 +9,7 @@ const levelOrder_BFS = (root) => {
 
 const getAllLevels = (root, level, data) => {
     if (!root) return;
-    if (level >= data.length) {
-        let list = [];
-        data.push(list);
-    }
+    if (level >= data.length) data.push([]);
     data[level].push(root.val);
     getAllLevels(root.left, level + 1, data);
     getAllLevels(root.right, level + 1, data);
