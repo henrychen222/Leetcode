@@ -17,11 +17,7 @@ class DJSet {
         x = this.find(x);
         y = this.find(y);
         if (x != y) {
-            if (this.upper[x] < this.upper[y]) {
-                let tmp = x;
-                x = y;
-                y = tmp;
-            }
+            if (this.upper[x] < this.upper[y]) [x, y] = [y, x];
             this.upper[x] += this.upper[y];
             this.upper[y] = x;
         }
@@ -58,11 +54,7 @@ class DJSet {
         x = this.find(x);
         y = this.find(y);
         if (x != y) {
-            if (this.upper[y] < this.upper[x]) {
-                let d = x;
-                x = y;
-                y = d;
-            }
+            if (this.upper[y] < this.upper[x]) [x, y] = [y, x];
             this.upper[x] += this.upper[y];
             this.upper[y] = x;
             this.cycle[x] |= this.cycle[y];

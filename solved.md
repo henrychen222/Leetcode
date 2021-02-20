@@ -7,7 +7,7 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/dis
 
 4 Median of Two Sorted Arrays
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1046838/javascript-direct-solution-160ms
-https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/868822/JS-faster-than-95
+https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/868822/JS-faster-than-95 (0) -> (1)
 
 8 String to Integer (atoi)
 https://leetcode.com/problems/string-to-integer-atoi/discuss/746714/javascript-solution-120ms
@@ -1275,7 +1275,7 @@ https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/disc
 1704 Determine if String Halves Are Alike
 https://leetcode.com/problems/determine-if-string-halves-are-alike/discuss/988276/javascript-84ms
 
-1710 Maximum Units on a Truck (-1)
+1710 Maximum Units on a Truck (-1) -> (0)
 https://leetcode.com/problems/maximum-units-on-a-truck/discuss/999412/javascript-92ms
 
 1711 Count Good Meals (-1)
