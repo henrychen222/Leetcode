@@ -723,6 +723,9 @@ https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/73
 922 Sort Array By Parity II
 https://leetcode.com/problems/sort-array-by-parity-ii/discuss/928709/javascript-136ms
 
+930 Binary Subarrays With Sum
+https://leetcode.com/problems/binary-subarrays-with-sum/discuss/1074007/javascript-two-pointer-and-sliding-window
+
 931 Minimum Falling Path Sum
 https://leetcode.com/problems/minimum-falling-path-sum/discuss/895173/javascript-dp
 
@@ -1350,3 +1353,15 @@ https://leetcode.com/problems/count-number-of-homogenous-substrings/discuss/1064
 
 1760 Minimum Limit of Balls in a Bag
 https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/discuss/1064786/javascript-binary-search-204ms
+
+1768 Merge Strings Alternately
+https://leetcode.com/problems/merge-strings-alternately/discuss/1075640/javascript-136ms-one-pointer
+
+1769 Minimum Number of Operations to Move All Balls to Each Box
+https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/discuss/1075648/javascript-direct-solution-232ms
+
+1770 Maximum Score from Performing Multiplication Operations
+https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/discuss/1076064/javascript-dfs-%2B-memo
+
+1771 Maximize Palindrome Length From Subsequences
+https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/discuss/1075730/javascript-dfs-%2B-memo-352ms
