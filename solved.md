@@ -438,6 +438,9 @@ https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javas
 590 N-ary Tree Postorder Traversal
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/712496/javascript-solution
 
+592 Fraction Addition and Subtraction
+https://leetcode.com/problems/fraction-addition-and-subtraction/discuss/1076968/javascript-lcm-gcd-80ms-8857
+
 594 Longest Harmonious Subsequence
 https://leetcode.com/problems/longest-harmonious-subsequence/discuss/814434/javascript-solution
 
@@ -1353,6 +1356,12 @@ https://leetcode.com/problems/count-number-of-homogenous-substrings/discuss/1064
 
 1760 Minimum Limit of Balls in a Bag
 https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/discuss/1064786/javascript-binary-search-204ms
+
+1763 Longest Nice Substring
+https://leetcode.com/problems/longest-nice-substring/discuss/1076734/javascript-direct-way-200ms
+
+1764 Form Array by Concatenating Subarrays of Another Array
+https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/discuss/1076884/javascript-greedy
 
 1768 Merge Strings Alternately
 https://leetcode.com/problems/merge-strings-alternately/discuss/1075640/javascript-136ms-one-pointer
