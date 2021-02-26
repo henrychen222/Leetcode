@@ -357,6 +357,9 @@ https://leetcode.com/problems/add-two-numbers-ii/discuss/997826/javascript-one-l
 451 Sort Characters By Frequency
 https://leetcode.com/problems/sort-characters-by-frequency/discuss/773823/javascript-solution
 
+454 4Sum II
+https://leetcode.com/problems/4sum-ii/discuss/1080260/javascript-136ms-98.30-fast
+
 461 Hamming Distance
 https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
 
@@ -404,6 +407,9 @@ https://leetcode.com/problems/longest-palindromic-subsequence/discuss/958781/jav
 
 523 Continuous Subarray Sum
 https://leetcode.com/problems/continuous-subarray-sum/discuss/911549/javascript-two-pointer-brute-force
+
+524 Longest Word in Dictionary through Deleting
+https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/discuss/1079723/javascript-use-hashmap-116ms-54.78
 
 532 K-diff Pairs in an Array (1)
 https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
