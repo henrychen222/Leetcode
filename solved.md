@@ -318,6 +318,9 @@ https://leetcode.com/problems/find-the-difference/discuss/772066/javascript-84ms
 394 Decode String
 https://leetcode.com/problems/decode-string/discuss/827690/javascript-stack-solution-56ms-faster-than-99.48
 
+396 Rotate Function
+https://leetcode.com/problems/rotate-function/discuss/1084388/javascript-direct-solution
+
 412 Fizz Buzz
 https://leetcode.com/problems/fizz-buzz/discuss/774053/javascript-nested-if-else-84ms
 
@@ -731,6 +734,9 @@ https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/73
 
 922 Sort Array By Parity II
 https://leetcode.com/problems/sort-array-by-parity-ii/discuss/928709/javascript-136ms
+
+923 3Sum With Multiplicity
+https://leetcode.com/problems/3sum-with-multiplicity/discuss/1084679/javascript-use-hashmap-records-%2B-hashset-memo-%2B-Math-combination-260ms
 
 930 Binary Subarrays With Sum
 https://leetcode.com/problems/binary-subarrays-with-sum/discuss/1074007/javascript-two-pointer-and-sliding-window
