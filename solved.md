@@ -270,6 +270,9 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/disc
 318 Maximum Product of Word Lengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/javascript-two-pointer
 
+319 Bulb Switcher
+https://leetcode.com/problems/bulb-switcher/discuss/1088900/javascript-one-line-68ms-100
+
 322 Coin Change
 https://leetcode.com/problems/coin-change/discuss/921182/javascript-dfs-88ms-98.97-fast
 
@@ -683,6 +686,9 @@ https://leetcode.com/problems/score-of-parentheses/discuss/833444/javascript-sta
 
 859 Buddy Strings
 https://leetcode.com/problems/buddy-strings/discuss/796395/javascript-88ms
+
+869 Reordered Power of 2
+https://leetcode.com/problems/reordered-power-of-2/discuss/1089159/javascript-min-max-range-hashmap-76ms-100
 
 870 Advantage Shuffle
 https://leetcode.com/problems/advantage-shuffle/discuss/874496/javascript-greedy-brute-force-solution
@@ -1369,7 +1375,7 @@ https://leetcode.com/problems/count-number-of-homogenous-substrings/discuss/1064
 1760 Minimum Limit of Balls in a Bag
 https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/discuss/1064786/javascript-binary-search-204ms
 
-1763 Longest Nice Substring
+1763 Longest Nice Substring (0) -> (1)
 https://leetcode.com/problems/longest-nice-substring/discuss/1076734/javascript-direct-way-200ms
 
 1764 Form Array by Concatenating Subarrays of Another Array
@@ -1386,3 +1392,9 @@ https://leetcode.com/problems/maximum-score-from-performing-multiplication-opera
 
 1771 Maximize Palindrome Length From Subsequences
 https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/discuss/1075730/javascript-dfs-%2B-memo-352ms
+
+1773 Count Items Matching a Rule
+https://leetcode.com/problems/count-items-matching-a-rule/discuss/1086300/javascript-84ms
+
+1774 Closest Dessert Cost
+https://leetcode.com/problems/closest-dessert-cost/discuss/1086383/javascript-dfs-84ms
