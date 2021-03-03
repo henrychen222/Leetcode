@@ -33,6 +33,9 @@ https://leetcode.com/problems/swap-nodes-in-pairs/discuss/991952/javascript-tran
 25 Reverse Nodes in k-Group (1)
 https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/993341/javascript-transfer-to-array-92ms-91.38-fast
 
+30 Substring with Concatenation of All Words
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/discuss/1090940/javascript-WA-but-AC
+
 31 Next Permutation
 https://leetcode.com/problems/next-permutation/discuss/866139/javascript-88ms
 
@@ -881,6 +884,9 @@ https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/1044015/java
 
 1089 Duplicate Zeros
 https://leetcode.com/problems/duplicate-zeros/discuss/788831/javascript-stack-solution-80ms-faster-than-88.45
+
+1093 Statistics from a Large Sample
+https://leetcode.com/problems/statistics-from-a-large-sample/discuss/1090671/javascript-solution-kth-element-84ms
 
 1103 Distribute Candies to People
 https://leetcode.com/problems/distribute-candies-to-people/discuss/803598/javascript-brute-force-calculate-each-step-100ms
