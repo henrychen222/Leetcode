@@ -240,6 +240,9 @@ https://leetcode.com/problems/single-number-iii/discuss/731387/javascript-easy
 264 Ugly Number II
 https://leetcode.com/problems/ugly-number-ii/discuss/937584/javascript-PriorityQueue-and-DP
 
+268 Missing Number (0) -> -1
+https://leetcode.com/problems/missing-number/discuss/1092400/javascript-sort-100ms
+
 274 H-Index
 https://leetcode.com/problems/h-index/discuss/1063227/javascript-final-solution-76ms-84.06-fast
 
@@ -341,6 +344,9 @@ https://leetcode.com/problems/partition-equal-subset-sum/discuss/941291/javascri
 
 421 Maximum XOR of Two Numbers in an Array
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
+
+424 Longest Repeating Character Replacement
+https://leetcode.com/problems/longest-repeating-character-replacement/discuss/1092739/javascript-sliding-window
 
 430 Flatten a Multilevel Doubly Linked List
 https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/discuss/1053210/javascript-using-array-with-DFS-84ms
@@ -828,6 +834,9 @@ https://leetcode.com/problems/available-captures-for-rook/discuss/817609/javascr
 1002 Find Common Characters
 https://leetcode.com/problems/find-common-characters/discuss/770282/javascript-hashMap-records-96ms
 
+1004 Max Consecutive Ones III
+https://leetcode.com/problems/max-consecutive-ones-iii/discuss/1092892/javascript-two-pointer-brute-force
+
 1007 Minimum Domino Rotations For Equal Row
 https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/723151/javascript-solution
 
@@ -1263,7 +1272,7 @@ https://leetcode.com/problems/richest-customer-wealth/discuss/952882/javascript-
 1673 Find the Most Competitive Subsequence (1) -> (3)
 https://leetcode.com/problems/find-the-most-competitive-subsequence/discuss/952928/javascript-stack-224ms
 
-1678 Goal Parser Interpretation
+1678 Goal Parser Interpretation (0) -> (1)
 https://leetcode.com/problems/goal-parser-interpretation/discuss/961699/javascript-92ms
 
 1679 Max Number of K-Sum Pairs (1)
