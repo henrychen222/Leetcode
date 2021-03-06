@@ -327,6 +327,9 @@ https://leetcode.com/problems/find-the-difference/discuss/772066/javascript-84ms
 394 Decode String
 https://leetcode.com/problems/decode-string/discuss/827690/javascript-stack-solution-56ms-faster-than-99.48
 
+395 Longest Substring with At Least K Repeating Characters
+https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/discuss/1094255/javascript-two-pointer-120ms
+
 396 Rotate Function
 https://leetcode.com/problems/rotate-function/discuss/1084388/javascript-direct-solution
 
