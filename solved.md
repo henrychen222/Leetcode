@@ -660,6 +660,9 @@ https://leetcode.com/problems/largest-sum-of-averages/discuss/892364/javascript-
 817 Linked List Components
 https://leetcode.com/problems/linked-list-components/discuss/1053345/javascript-using-array-80ms-96.72-fast
 
+820 Short Encoding of Words
+https://leetcode.com/problems/short-encoding-of-words/discuss/1096716/javascript-continuously-search-hashset-filter-words
+
 821 Shortest Distance to a Character
 https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/javascript-solution-compare-with-left-closest-and-right-closest-char-get-min
 
@@ -1416,3 +1419,21 @@ https://leetcode.com/problems/count-items-matching-a-rule/discuss/1086300/javasc
 
 1774 Closest Dessert Cost
 https://leetcode.com/problems/closest-dessert-cost/discuss/1086383/javascript-dfs-84ms
+
+1779 Find Nearest Point That Has the Same X or Y Coordinate
+https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/discuss/1096415/javascript-104ms
+
+1780 Check if Number is a Sum of Powers of Three
+https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/discuss/1096453/javascript-4-lines-64ms
+
+1781 Sum of Beauty of All Substrings
+https://leetcode.com/problems/sum-of-beauty-of-all-substrings/discuss/1096428/javascript-direct-solution-476ms
+
+1784 Check if Binary String Has at Most One Segment of Ones
+https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/discuss/1097659/javascript-split-by-0-easy-100ms
+
+1785 Minimum Elements to Add to Form a Given Sum
+https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/discuss/1097798/javascript-greedy-2-lines-112ms
+
+1787 Make the XOR of All Segments Equal to Zero (0) -> (1) -> (0)
+https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/discuss/1097722/javascript-nested-dp-304ms
