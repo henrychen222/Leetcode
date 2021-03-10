@@ -489,6 +489,9 @@ https://leetcode.com/problems/not-boring-movies/discuss/773851/MySQL-faster-than
 622 Design Circular Queue
 https://leetcode.com/problems/design-circular-queue/discuss/759677/typescript-solution
 
+623 Add One Row to Tree
+https://leetcode.com/problems/add-one-row-to-tree/discuss/1101354/javascript-dfs-96ms-100
+
 627 Swap Salary
 https://leetcode.com/problems/swap-salary/discuss/773722/MySQL-faster-than-47.93-memory-100
 
