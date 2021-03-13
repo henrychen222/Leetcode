@@ -279,6 +279,9 @@ https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/934932/javasc
 309 Best Time to Buy and Sell Stock with Cooldown
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/949505/javascript-80ms-82.12-fast
 
+316 Remove Duplicate Letters
+https://leetcode.com/problems/remove-duplicate-letters/discuss/1106814/javascript-stack-greedy-88ms-92.25
+
 318 Maximum Product of Word Lengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/731331/javascript-two-pointer
 
@@ -971,6 +974,9 @@ https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parenthese
 
 1191 K-Concatenation Maximum Sum
 https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascript-prefix-suffix-sum-96ms-75
+
+1209 Remove All Adjacent Duplicates in String II
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/discuss/1106266/javascript-easy-replaceAll()-192ms
 
 1218 Longest Arithmetic Subsequence of Given Difference
 https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/977144/javascript-dp-120ms-97.06-fast
