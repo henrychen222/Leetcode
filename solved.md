@@ -102,6 +102,9 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/709582/
 86 Partition List
 https://leetcode.com/problems/partition-list/discuss/996152/javascript-88ms-using-array
 
+89 Gray Code
+https://leetcode.com/problems/gray-code/discuss/1107897/javascript-recursion-and-iteration
+
 90 Subsets II
 https://leetcode.com/problems/subsets-ii/discuss/725831/javascript-solution
 
@@ -221,6 +224,9 @@ https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 
 209 Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascript-two-pointer-solution
+
+211 Design Add and Search Words Data Structure
+https://leetcode.com/problems/design-add-and-search-words-data-structure/discuss/1111460/javascript-use-Set-%2B-Map-memorization-176ms-97.90-fast
 
 215 Kth Largest Element in an Array
 https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/838343/javascript-one-line-80ms
@@ -678,6 +684,9 @@ https://leetcode.com/problems/short-encoding-of-words/discuss/1096716/javascript
 821 Shortest Distance to a Character
 https://leetcode.com/problems/shortest-distance-to-a-character/discuss/774005/javascript-solution-compare-with-left-closest-and-right-closest-char-get-min
 
+823 Binary Trees With Factors
+https://leetcode.com/problems/binary-trees-with-factors/discuss/1108099/javascript-dp-248ms-70
+
 825 Friends Of Appropriate Ages  (0) -> (1)
 https://leetcode.com/problems/friends-of-appropriate-ages/discuss/738407/javascript-two-pointer
 
@@ -990,6 +999,9 @@ https://leetcode.com/problems/airplane-seat-assignment-probability/discuss/96512
 1237 Find Positive Integer Solution for a Given Equation
 https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/discuss/817523/javascript-brute-force
 
+1238 Circular Permutation in Binary Representation
+https://leetcode.com/problems/circular-permutation-in-binary-representation/discuss/1107873/javascript-gray-code-generate-256ms
+
 1239 Maximum Length of a Concatenated String with Unique Characters (1)
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/731112/javascript-solution
 
@@ -1049,6 +1061,9 @@ https://leetcode.com/problems/remove-palindromic-subsequences/discuss/926501/jav
 
 1333 Filter Restaurants by Vegan-Friendly, Price and Distance
 https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/discuss/726382/javascript-solution
+
+1344 Angle Between Hands of a Clock
+https://leetcode.com/problems/angle-between-hands-of-a-clock/discuss/1107808/javascript-4-lines-76ms-76.34
 
 1347 Minimum Number of Steps to Make Two Strings Anagram
 https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/discuss/752068/javascript-solution
@@ -1452,3 +1467,16 @@ https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/discus
 
 1787 Make the XOR of All Segments Equal to Zero (0) -> (1) -> (0)
 https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/discuss/1097722/javascript-nested-dp-304ms
+
+1790 Check if One String Swap Can Make Strings Equal
+https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/discuss/1108538/javascript-100ms
+
+1791 Find Center of Star Graph
+https://leetcode.com/problems/find-center-of-star-graph/discuss/1108571/javascript-ordered-map-288ms
+
+1792 Maximum Average Pass Ratio
+https://leetcode.com/problems/maximum-average-pass-ratio/discuss/1108680/javascript-priority-queue-1056ms
+
+1793 Maximum Score of a Good Subarray
+https://leetcode.com/problems/maximum-score-of-a-good-subarray/discuss/1110277/javascript-two-pointer-left-right-search-from-k-112ms
+https://leetcode.com/problems/maximum-score-of-a-good-subarray/discuss/1111279/Java-TreeSet-%2B-Binary-Search-295ms
