@@ -1,39 +1,46 @@
 /**
- * 9.5 afternoon
+ * 9.5 afternoon   03/15/21 evening fixed
  * https://leetcode.com/problems/design-add-and-search-words-data-structure/
  */
 
-// Time limit 12/13
+// Accepted --- 176ms 97.90%
 function WordDictionary() {
-    this.words = [];
+    this.a = [];
+    this.memoT = new Set();
+    this.memoF = new Map();
 };
 
 WordDictionary.prototype.addWord = function (word) {
-    this.words.push([word]);
+    this.a.push(word);
 };
 
 WordDictionary.prototype.search = function (word) {
-    let memo = new Map();
-    if (memo.has(word)) {
-        return memo.get(word);
-    } else {
-        for (const w of this.words) {
-            if (word == w[0]) {
-                memo.set(word, true);
-                return true;
-            }
-            if (check(word, w[0])) {
-                memo.set(word, true);
+    if (this.memoT.has(word)) return true;
+    if (this.memoF.has(word)) {
+        let idx = this.memoF.get(word);
+        for (let i = idx; i < this.a.length; i++) {
+            if (check(word, this.a[i])) {
+                this.memoT.add(word);
                 return true;
             }
         }
+        this.memoF.set(word, this.a.length);
         return false;
     }
+    for (const e of this.a) {
+        if (check(word, e)) {
+            this.memoT.add(word);
+            return true;
+        }
+    }
+    this.memoF.set(word, this.a.length);
+    return false;
 };
 
 const check = (w1, w2) => {
-    if (w1.length != w2.length) return false;
-    for (let i = 0; i < w1.length; i++) {
+    let n = w1.length;
+    if (n != w2.length) return false;
+    for (let i = 0; i < n; i++) {
         if (w1[i] == '.') continue;
         if (w1[i] != w2[i]) return false;
     }
@@ -64,8 +71,45 @@ const main = () => {
 
 main()
 
+/////////////////////////////////// 9.5 afternoon /////////////////////////////////////////
+// // Time limit 12/13
+// function WordDictionary() {
+//     this.words = [];
+// };
 
+// WordDictionary.prototype.addWord = function (word) {
+//     this.words.push([word]);
+// };
 
+// WordDictionary.prototype.search = function (word) {
+//     let memo = new Map();
+//     if (memo.has(word)) {
+//         return memo.get(word);
+//     } else {
+//         for (const w of this.words) {
+//             if (word == w[0]) {
+//                 memo.set(word, true);
+//                 return true;
+//             }
+//             if (check(word, w[0])) {
+//                 memo.set(word, true);
+//                 return true;
+//             }
+//         }
+//         return false;
+//     }
+// };
+
+// const check = (w1, w2) => {
+//     if (w1.length != w2.length) return false;
+//     for (let i = 0; i < w1.length; i++) {
+//         if (w1[i] == '.') continue;
+//         if (w1[i] != w2[i]) return false;
+//     }
+//     return true;
+// };
+
+////////////////////////////////////////////////////////////////////////////
 // Time Limit 12/13
 // function WordDictionary() {
 //     this.words = [];
