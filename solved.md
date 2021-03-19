@@ -222,6 +222,9 @@ https://leetcode.com/problems/isomorphic-strings/discuss/761606/javascript-two-p
 206 Reverse Linked List
 https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 
+208 Implement Trie (Prefix Tree)
+https://leetcode.com/problems/implement-trie-prefix-tree/discuss/1115906/javascript-use-HashSet-easy-256ms
+
 209 Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascript-two-pointer-solution
 
@@ -269,6 +272,9 @@ https://leetcode.com/problems/perfect-squares/discuss/950476/javascript-dp-and-M
 
 290 Word Pattern
 https://leetcode.com/problems/word-pattern/discuss/748653/javascript-double-array-and-two-pointer
+
+295 Find Median from Data Stream
+https://leetcode.com/problems/find-median-from-data-stream/discuss/1116125/javascript-brute-force
 
 299 Bulls and Cows
 https://leetcode.com/problems/bulls-and-cows/discuss/810523/javascript-HashMap-and-HashSet-two-solutions
