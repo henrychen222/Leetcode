@@ -48,6 +48,9 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/java
 34 Find First and Last Position of Element in Sorted Array
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/735025/javascript-solution
 
+41 First Missing Positive
+https://leetcode.com/problems/first-missing-positive/discuss/1117913/javascript-array-sort-%2B-HashSet-searching-76ms-91.44
+
 43 Multiply Strings (-1) -> (-2) -> (-3)
 https://leetcode.com/problems/multiply-strings/discuss/1043895/javascript-one-line-128ms
 
@@ -189,7 +192,7 @@ https://leetcode.com/problems/find-peak-element/discuss/738480/javascript-soluti
 165 Compare Version Numbers
 https://leetcode.com/problems/compare-version-numbers/discuss/746789/javascript-76ms
 
-168 Excel Sheet Column Title
+168 Excel Sheet Column Title (0) -> (-1)
 https://leetcode.com/problems/excel-sheet-column-title/discuss/707234/javascript-solution
 
 171 Excel Sheet Column Number
@@ -201,7 +204,7 @@ https://leetcode.com/problems/combine-two-tables/discuss/779145/MySQL-solution
 179 Largest Number
 https://leetcode.com/problems/largest-number/discuss/899301/javascript-sort-84ms
 
-18 Employees Earning More Than Their Managers
+181 Employees Earning More Than Their Managers
 https://leetcode.com/problems/employees-earning-more-than-their-managers/discuss/914040/MySQL-subquery
 
 187 Repeated DNA Sequences
@@ -222,7 +225,7 @@ https://leetcode.com/problems/isomorphic-strings/discuss/761606/javascript-two-p
 206 Reverse Linked List
 https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 
-208 Implement Trie (Prefix Tree)
+208 Implement Trie (Prefix Tree)  (0) -> (-1) -> (-2)
 https://leetcode.com/problems/implement-trie-prefix-tree/discuss/1115906/javascript-use-HashSet-easy-256ms
 
 209 Minimum Size Subarray Sum
@@ -264,7 +267,7 @@ https://leetcode.com/problems/h-index/discuss/1063227/javascript-final-solution-
 275 H-Index II
 https://leetcode.com/problems/h-index-ii/discuss/1064842/javascript-solution
 
-278 First Bad Version
+278 First Bad Version (0) -> (1)
 https://leetcode.com/problems/first-bad-version/discuss/910187/javascript-binary-search-80ms
 
 279 Perfect Squares
@@ -710,6 +713,9 @@ https://leetcode.com/problems/new-21-game/discuss/983952/javascript-solutions-ov
 
 840 Magic Squares In Grid
 https://leetcode.com/problems/magic-squares-in-grid/discuss/817807/javascript-solution-80ms
+
+841 Keys and Rooms
+https://leetcode.com/problems/keys-and-rooms/discuss/1117991/javascript-dfs-84ms-69.38
 
 844 Backspace String Compare
 https://leetcode.com/problems/backspace-string-compare/discuss/779205/javascript-stack-two-solutions
@@ -1486,3 +1492,13 @@ https://leetcode.com/problems/maximum-average-pass-ratio/discuss/1108680/javascr
 1793 Maximum Score of a Good Subarray
 https://leetcode.com/problems/maximum-score-of-a-good-subarray/discuss/1110277/javascript-two-pointer-left-right-search-from-k-112ms
 https://leetcode.com/problems/maximum-score-of-a-good-subarray/discuss/1111279/Java-TreeSet-%2B-Binary-Search-295ms
+
+1796 Second Largest Digit in a String
+https://leetcode.com/problems/second-largest-digit-in-a-string/discuss/1118977/javascript-array-sort-%2B-HashSet-searching-with-index-192ms
+
+1797 Design Authentication Manager
+https://leetcode.com/problems/design-authentication-manager/discuss/1118933/javascript-hashmap-176ms
+https://leetcode.com/problems/design-authentication-manager/discuss/1118837/JS-Short-and-easy-with-one-Map-only
+
+1798 Maximum Number of Consecutive Values You Can Make
+https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/discuss/1119019/javascript-greedy-176ms
