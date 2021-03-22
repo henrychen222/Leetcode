@@ -1110,6 +1110,9 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/ja
 1395 Count Number of Teams (2)
 https://leetcode.com/problems/count-number-of-teams/discuss/720817/javascript-three-pointer
 
+1396 Design Underground System
+https://leetcode.com/problems/design-underground-system/discuss/1119505/javascript-two-maps-%2B-JSON-data-direct-way-524ms
+
 1399 Count Largest Group
 https://leetcode.com/problems/count-largest-group/discuss/796222/javascript-solution-132ms
 
@@ -1502,3 +1505,9 @@ https://leetcode.com/problems/design-authentication-manager/discuss/1118837/JS-S
 
 1798 Maximum Number of Consecutive Values You Can Make
 https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/discuss/1119019/javascript-greedy-176ms
+
+1800 Maximum Ascending Subarray Sum
+https://leetcode.com/problems/maximum-ascending-subarray-sum/discuss/1121533/javascript-direct-way-156ms
+
+1801 Number of Orders in the Backlog
+https://leetcode.com/problems/number-of-orders-in-the-backlog/discuss/1121741/java-two-TreeMap-(increase-%2B-decrease-order)-54ms

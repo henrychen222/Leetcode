@@ -48,6 +48,11 @@ const isLowerCaseLetter = (c) => {
     return c.charCodeAt() >= 97 && c.charCodeAt() <= 122;
 };
 
+/**
+ *  Be careful: this is only works for string only contains (uppercase and lowercase English letters)
+ *  if '#' will hack it, should be false, but will be true
+ *  get stuck of this issue in this question: https://www.codechef.com/problems/PASSWD
+ */
 // Accepted --- 220ms
 // const isLowerCaseLetter = (c) => {
 //     return c == c.toLowerCase();
