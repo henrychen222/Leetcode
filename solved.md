@@ -5,7 +5,7 @@ https://leetcode.com/problems/add-two-numbers/discuss/993258/javascript-transfer
 3 Longest Substring Without Repeating Characters (0) -> (1)
 https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1055158/javascript-two-pointer-with-Set-316ms
 
-4 Median of Two Sorted Arrays
+4 Median of Two Sorted Arrays (0) -> (1)
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1046838/javascript-direct-solution-160ms
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/868822/JS-faster-than-95 (0) -> (1)
 
@@ -738,7 +738,7 @@ https://leetcode.com/problems/buddy-strings/discuss/796395/javascript-88ms
 869 Reordered Power of 2
 https://leetcode.com/problems/reordered-power-of-2/discuss/1089159/javascript-min-max-range-hashmap-76ms-100
 
-870 Advantage Shuffle
+870 Advantage Shuffle (0) -> (1)
 https://leetcode.com/problems/advantage-shuffle/discuss/874496/javascript-greedy-brute-force-solution
 
 872 Leaf-Similar Trees
@@ -1038,6 +1038,9 @@ https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/dis
 1277 Count Square Submatrices with All Ones
 https://leetcode.com/problems/count-square-submatrices-with-all-ones/discuss/973281/javascript-dp-104ms
 
+1286 Iterator for Combination
+https://leetcode.com/problems/iterator-for-combination/discuss/1125002/javascript-dfs-112ms-79.03
+
 1288 Remove Covered Intervals
 https://leetcode.com/problems/remove-covered-intervals/discuss/874675/javascript-two-pointer-end-to-begin-search-100ms
 
@@ -1136,6 +1139,9 @@ https://leetcode.com/problems/rearrange-words-in-a-sentence/discuss/726284/javas
 
 1452 People Whose List of Favorite Companies Is Not a Subset of Another List
 https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/discuss/727707/javascript-solution
+
+1472 Design Browser History
+https://leetcode.com/problems/design-browser-history/discuss/1124802/javascript-use-array-directly-200ms-72.68-fast
 
 1477 Find Two Non-overlapping Sub-arrays Each With Target Sum
 https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/discuss/982835/javascript-sliding-window-with-dp-table
@@ -1503,7 +1509,7 @@ https://leetcode.com/problems/second-largest-digit-in-a-string/discuss/1118977/j
 https://leetcode.com/problems/design-authentication-manager/discuss/1118933/javascript-hashmap-176ms
 https://leetcode.com/problems/design-authentication-manager/discuss/1118837/JS-Short-and-easy-with-one-Map-only
 
-1798 Maximum Number of Consecutive Values You Can Make
+1798 Maximum Number of Consecutive Values You Can Make (0) -> (1)
 https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/discuss/1119019/javascript-greedy-176ms
 
 1800 Maximum Ascending Subarray Sum
