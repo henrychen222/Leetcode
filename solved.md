@@ -534,6 +534,9 @@ https://leetcode.com/problems/shopping-offers/discuss/958702/javascript-76ms-100
 640 Solve the Equation
 https://leetcode.com/problems/solve-the-equation/discuss/1023947/javascript-72ms
 
+641 Design Circular Deque
+https://leetcode.com/problems/design-circular-deque/discuss/1126430/javascript-use-array-directly-136ms
+
 643 Maximum Average Subarray I
 https://leetcode.com/problems/maximum-average-subarray-i/discuss/790654/javascript-stack-solution-160ms
 
@@ -779,6 +782,9 @@ https://leetcode.com/problems/sort-array-by-parity/discuss/679588/javascript-92m
 
 907 Sum of Subarray Minimums
 https://leetcode.com/problems/sum-of-subarray-minimums/discuss/1055398/javascript-two-pointer-brute-force
+
+912 Sort an Array
+https://leetcode.com/problems/sort-an-array/discuss/1126467/javascript-1-line-116ms
 
 914 X of a Kind in a Deck of Cards
 https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/discuss/784226/javascript-solution-104ms
