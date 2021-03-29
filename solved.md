@@ -324,6 +324,9 @@ https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javas
 368 Largest Divisible Subset
 https://leetcode.com/problems/largest-divisible-subset/discuss/923944/javascript-dfs-and-dp
 
+372 Super Pow
+https://leetcode.com/problems/super-pow/discuss/1132201/javascript-BigInt-pow-mod-one-line-192ms
+
 373 Find K Pairs with Smallest Sums
 https://leetcode.com/problems/find-k-pairs-with-smallest-sums/discuss/838781/javascript-brute-force
 
@@ -374,6 +377,9 @@ https://leetcode.com/problems/pacific-atlantic-water-flow/discuss/1127641/javasc
 
 421 Maximum XOR of Two Numbers in an Array
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/731419/javascript-two-pointer
+
+423 Reconstruct Original Digits from English
+https://leetcode.com/problems/reconstruct-original-digits-from-english/discuss/1132264/javascript-112ms
 
 424 Longest Repeating Character Replacement
 https://leetcode.com/problems/longest-repeating-character-replacement/discuss/1092739/javascript-sliding-window
@@ -1526,3 +1532,15 @@ https://leetcode.com/problems/maximum-ascending-subarray-sum/discuss/1121533/jav
 
 1801 Number of Orders in the Backlog
 https://leetcode.com/problems/number-of-orders-in-the-backlog/discuss/1121741/java-two-TreeMap-(increase-%2B-decrease-order)-54ms
+
+1805 Number of Different Integers in a String
+https://leetcode.com/problems/number-of-different-integers-in-a-string/discuss/1130730/javascript-direct-way-116ms
+
+1806 Minimum Number of Operations to Reinitialize a Permutation (0) -> (1)
+https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/discuss/1130714/javascript-direct-way-with-endless-loop-96ms
+
+1807 Evaluate the Bracket Pairs of a String
+https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/discuss/1130738/javascript-mock-stack-solution-820ms
+
+1808 Maximize Number of Nice Divisors (0) -> (2)
+https://leetcode.com/problems/maximize-number-of-nice-divisors/discuss/1130822/javascript-BigInt-%2B-pow-mod-72ms
