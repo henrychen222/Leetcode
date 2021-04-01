@@ -792,7 +792,7 @@ https://leetcode.com/problems/sort-array-by-parity/discuss/679588/javascript-92m
 907 Sum of Subarray Minimums
 https://leetcode.com/problems/sum-of-subarray-minimums/discuss/1055398/javascript-two-pointer-brute-force
 
-912 Sort an Array
+912 Sort an Array (0) -> (-1)
 https://leetcode.com/problems/sort-an-array/discuss/1126467/javascript-1-line-116ms
 
 914 X of a Kind in a Deck of Cards
@@ -1542,5 +1542,5 @@ https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-per
 1807 Evaluate the Bracket Pairs of a String
 https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/discuss/1130738/javascript-mock-stack-solution-820ms
 
-1808 Maximize Number of Nice Divisors (0) -> (2)
+1808 Maximize Number of Nice Divisors (0) -> (2) -> (3)
 https://leetcode.com/problems/maximize-number-of-nice-divisors/discuss/1130822/javascript-BigInt-%2B-pow-mod-72ms
