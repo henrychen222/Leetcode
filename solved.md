@@ -411,6 +411,9 @@ https://leetcode.com/problems/sort-characters-by-frequency/discuss/773823/javasc
 454 4Sum II
 https://leetcode.com/problems/4sum-ii/discuss/1080260/javascript-136ms-98.30-fast
 
+456 132 Pattern
+https://leetcode.com/problems/132-pattern/discuss/1139923/javascript-stack-two-pointer-sliding-window-three-ways-review
+
 461 Hamming Distance
 https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
 
