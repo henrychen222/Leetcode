@@ -468,6 +468,9 @@ https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/discus
 532 K-diff Pairs in an Array (1)
 https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
 
+540 Single Element in a Sorted Array
+https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/1144727/javascript-direct-way-88ms
+
 541 Reverse String II  (1) -> (0)
 https://leetcode.com/problems/reverse-string-ii/discuss/797805/javascript-64ms-faster-than-98.25
 
@@ -593,6 +596,9 @@ https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/9
 
 674 Longest Continuous Increasing Subsequence
 https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/792532/javascript-stack-solution-76ms
+
+676 Implement Magic Dictionary
+https://leetcode.com/problems/implement-magic-dictionary/discuss/1144672/javascript-hashset-direct-check-104ms
 
 680 Valid Palindrome II
 https://leetcode.com/problems/valid-palindrome-ii/discuss/847078/javascript-recursion
@@ -1550,3 +1556,21 @@ https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/discuss/113
 
 1808 Maximize Number of Nice Divisors (0) -> (2) -> (3)
 https://leetcode.com/problems/maximize-number-of-nice-divisors/discuss/1130822/javascript-BigInt-%2B-pow-mod-72ms
+
+1812 Determine Color of a Chessboard Square
+https://leetcode.com/problems/determine-color-of-a-chessboard-square/discuss/1140712/javascript-direct-odd-even-check-76ms
+
+1813 Sentence Similarity III
+https://leetcode.com/problems/sentence-similarity-iii/discuss/1140688/javascript-left-right-remove-80ms
+
+1814 Count Nice Pairs in an Array
+https://leetcode.com/problems/count-nice-pairs-in-an-array/discuss/1140653/javascript-168ms
+
+1816 Truncate Sentence
+https://leetcode.com/problems/truncate-sentence/discuss/1141510/javascript-one-line-76ms
+
+1817 Finding the Users Active Minutes (0) -> (1)
+https://leetcode.com/problems/finding-the-users-active-minutes/discuss/1141551/javascript-direct-way-348ms-set-inside-map
+
+1818 Minimum Absolute Sum Difference
+https://leetcode.com/problems/minimum-absolute-sum-difference/discuss/1143217/java-TreeSet-with-lower-bound-search-188ms
