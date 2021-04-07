@@ -432,6 +432,9 @@ https://leetcode.com/problems/ones-and-zeroes/discuss/938741/javascript-dp-140ms
 475 Heaters
 https://leetcode.com/problems/heaters/discuss/813881/javascript-two-pointer-with-two-maps-solution
 
+477 Total Hamming Distance
+https://leetcode.com/problems/total-hamming-distance/discuss/1145952/javascript-96ms
+
 482 License Key Formatting
 https://leetcode.com/problems/license-key-formatting/discuss/810436/javascript-solution
 
@@ -464,6 +467,9 @@ https://leetcode.com/problems/continuous-subarray-sum/discuss/911549/javascript-
 
 524 Longest Word in Dictionary through Deleting
 https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/discuss/1079723/javascript-use-hashmap-116ms-54.78
+
+528 Random Pick with Weight
+https://leetcode.com/problems/random-pick-with-weight/discuss/1146047/javascript-binary-search-180ms-90.92
 
 532 K-diff Pairs in an Array (1)
 https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
@@ -873,6 +879,9 @@ https://leetcode.com/problems/squares-of-a-sorted-array/discuss/679593/javascrip
 978 Longest Turbulent Subarray
 https://leetcode.com/problems/longest-turbulent-subarray/discuss/946173/javascript-two-pointer-brute-force
 
+981 Time Based Key-Value Store
+https://leetcode.com/problems/time-based-key-value-store/discuss/1146437/javascript-map-directly-420ms-82.64
+
 983 Minimum Cost For Tickets
 https://leetcode.com/problems/minimum-cost-for-tickets/discuss/897900/javascript-dp-76ms
 
@@ -1118,6 +1127,9 @@ https://leetcode.com/problems/number-of-substrings-containing-all-three-characte
 
 1360 Number of Days Between Two Dates (-1)
 https://leetcode.com/problems/number-of-days-between-two-dates/discuss/778894/javascript-80ms-compared-with-01-01-1971
+
+1366 Rank Teams by Votes
+https://leetcode.com/problems/rank-teams-by-votes/discuss/1144523/javascript-count-map-custom-sort-100ms
 
 1367 Linked List in Binary Tree
 https://leetcode.com/problems/linked-list-in-binary-tree/discuss/1058639/javascript-using-array-check-isSubArray
