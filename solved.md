@@ -273,6 +273,9 @@ https://leetcode.com/problems/first-bad-version/discuss/910187/javascript-binary
 279 Perfect Squares
 https://leetcode.com/problems/perfect-squares/discuss/950476/javascript-dp-and-Math-number-theory
 
+284 Peeking Iterator
+https://leetcode.com/problems/peeking-iterator/discuss/1151213/javascript-use-array-80ms
+
 290 Word Pattern
 https://leetcode.com/problems/word-pattern/discuss/748653/javascript-double-array-and-two-pointer
 
@@ -308,6 +311,9 @@ https://leetcode.com/problems/coin-change/discuss/921182/javascript-dfs-88ms-98.
 
 328 Odd Even Linked List
 https://leetcode.com/problems/odd-even-linked-list/discuss/997849/javascript-using-array-100ms
+
+329 Longest Increasing Path in a Matrix
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/1151349/javascript-dfs-%2B-memo-100ms-93.73
 
 338 Counting Bits
 https://leetcode.com/problems/counting-bits/discuss/733356/javascript-three-solution
@@ -1121,6 +1127,9 @@ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagra
 
 1352 Product of the Last K Numbers
 https://leetcode.com/problems/product-of-the-last-k-numbers/discuss/830867/javascript-easy-solution
+
+1357 Apply Discount Every n Orders
+https://leetcode.com/problems/apply-discount-every-n-orders/discuss/1151166/javascript-direct-way-176ms
 
 1358 Number of Substrings Containing All Three Characters
 https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/discuss/1055471/javascript-sliding-window-92ms
