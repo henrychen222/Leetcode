@@ -474,7 +474,7 @@ https://leetcode.com/problems/random-pick-with-weight/discuss/1146047/javascript
 532 K-diff Pairs in an Array (1)
 https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
 
-540 Single Element in a Sorted Array
+540 Single Element in a Sorted Array (0) -> (-1)
 https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/1144727/javascript-direct-way-88ms
 
 541 Reverse String II  (1) -> (0)
@@ -1166,6 +1166,9 @@ https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/j
 
 1410 HTML Entity Parser (-2)
 https://leetcode.com/problems/html-entity-parser/discuss/749981/javascript-solution
+
+1418 Display Table of Food Orders in a Restaurant
+https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/discuss/1149490/javascript-hashset-hashmap-sort-160ms-98.31
 
 1447 Simplified Fractions
 https://leetcode.com/problems/simplified-fractions/discuss/1046935/javascript-GCD-120ms-85.19-fast
