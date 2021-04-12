@@ -48,7 +48,7 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/java
 34 Find First and Last Position of Element in Sorted Array
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/735025/javascript-solution
 
-41 First Missing Positive
+41 First Missing Positive (0) -> (1)
 https://leetcode.com/problems/first-missing-positive/discuss/1117913/javascript-array-sort-%2B-HashSet-searching-76ms-91.44
 
 43 Multiply Strings (-1) -> (-2) -> (-3)
@@ -1598,3 +1598,12 @@ https://leetcode.com/problems/finding-the-users-active-minutes/discuss/1141551/j
 
 1818 Minimum Absolute Sum Difference
 https://leetcode.com/problems/minimum-absolute-sum-difference/discuss/1143217/java-TreeSet-with-lower-bound-search-188ms
+
+1822 Sign of the Product of an Array (0) -> (2)
+https://leetcode.com/problems/sign-of-the-product-of-an-array/discuss/1152657/javascript-just-negative-count-84ms
+
+1823 Find the Winner of the Circular Game
+https://leetcode.com/problems/find-the-winner-of-the-circular-game/discuss/1152631/javascript-Joseph-Ring-(rotated-array)-100ms
+
+1825 Finding MK Average
+https://leetcode.com/problems/finding-mk-average/discuss/1153106/javascript-brute-force
