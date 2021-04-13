@@ -318,6 +318,9 @@ https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/115134
 338 Counting Bits
 https://leetcode.com/problems/counting-bits/discuss/733356/javascript-three-solution
 
+341 Flatten Nested List Iterator
+https://leetcode.com/problems/flatten-nested-list-iterator/discuss/1155117/javascript-use-array-with-dfs-112ms
+
 343 Integer Break
 https://leetcode.com/problems/integer-break/discuss/957304/javascript-dp-dfs-80ms
 
@@ -326,6 +329,9 @@ https://leetcode.com/problems/top-k-frequent-elements/discuss/767821/javascript-
 
 350 Intersection of Two Arrays II   (1)
 https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution 
+
+355 Design Twitter
+https://leetcode.com/problems/design-twitter/discuss/1154945/javascript-hashmap-%2B-hashset-%2B-array-sort-based-on-timestamp-76ms-91.09
 
 368 Largest Divisible Subset
 https://leetcode.com/problems/largest-divisible-subset/discuss/923944/javascript-dfs-and-dp
@@ -593,6 +599,9 @@ https://leetcode.com/problems/image-smoother/discuss/805052/javascript-144ms-fas
 
 665 Non-decreasing Array
 https://leetcode.com/problems/non-decreasing-array/discuss/707157/javascript-solution
+
+667 Beautiful Arrangement II
+https://leetcode.com/problems/beautiful-arrangement-ii/discuss/1155654/javascript-88ms
 
 669 Trim a Binary Search Tree
 https://leetcode.com/problems/trim-a-binary-search-tree/discuss/717384/javascript-solution

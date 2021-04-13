@@ -19,3 +19,13 @@ String.prototype.replaceAt2 = function (idx, replace) {
     arr[idx] = replace;
     return arr.join('');
 }
+
+const isPalindrome = (s) => {
+    let n = s.length;
+    let i = 0;
+    let j = n - 1;
+    while (i < j) {
+        if (s[i++] != s[j--]) return false;
+    }
+    return true;
+};
