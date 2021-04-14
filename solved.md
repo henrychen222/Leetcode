@@ -1047,6 +1047,9 @@ https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parenthese
 1191 K-Concatenation Maximum Sum
 https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascript-prefix-suffix-sum-96ms-75
 
+1206 Design Skiplist
+https://leetcode.com/problems/design-skiplist/discuss/1156831/javascript-hashmap-168ms-100
+
 1209 Remove All Adjacent Duplicates in String II
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/discuss/1106266/javascript-easy-replaceAll()-192ms
 
@@ -1133,6 +1136,9 @@ https://leetcode.com/problems/angle-between-hands-of-a-clock/discuss/1107808/jav
 
 1347 Minimum Number of Steps to Make Two Strings Anagram
 https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/discuss/752068/javascript-solution
+
+1348 Tweet Counts Per Frequency
+https://leetcode.com/problems/tweet-counts-per-frequency/discuss/1156741/javascript-hashmap-with-array-388ms
 
 1352 Product of the Last K Numbers
 https://leetcode.com/problems/product-of-the-last-k-numbers/discuss/830867/javascript-easy-solution
