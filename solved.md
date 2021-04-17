@@ -48,6 +48,9 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/734804/java
 34 Find First and Last Position of Element in Sorted Array
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/735025/javascript-solution
 
+36 Valid Sudoku
+https://leetcode.com/problems/valid-sudoku/discuss/1162273/javascript-direct-way-104ms
+
 41 First Missing Positive (0) -> (1)
 https://leetcode.com/problems/first-missing-positive/discuss/1117913/javascript-array-sort-%2B-HashSet-searching-76ms-91.44
 
