@@ -426,6 +426,9 @@ https://leetcode.com/problems/4sum-ii/discuss/1080260/javascript-136ms-98.30-fas
 456 132 Pattern
 https://leetcode.com/problems/132-pattern/discuss/1139923/javascript-stack-two-pointer-sliding-window-three-ways-review
 
+460 LFU Cache
+https://leetcode.com/problems/lfu-cache/discuss/1158428/javascript-hashmap-records-%2B-array-sort
+
 461 Hamming Distance
 https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
 
@@ -1522,7 +1525,7 @@ https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-a
 1768 Merge Strings Alternately
 https://leetcode.com/problems/merge-strings-alternately/discuss/1075640/javascript-136ms-one-pointer
 
-1769 Minimum Number of Operations to Move All Balls to Each Box
+1769 Minimum Number of Operations to Move All Balls to Each Box (0) -> (1)
 https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/discuss/1075648/javascript-direct-solution-232ms
 
 1770 Maximum Score from Performing Multiplication Operations
