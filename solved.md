@@ -813,6 +813,9 @@ https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/77556
 894 All Possible Full Binary Trees
 https://leetcode.com/problems/all-possible-full-binary-trees/discuss/719335/javascript-solution
 
+895 Maximum Frequency Stack
+https://leetcode.com/problems/maximum-frequency-stack/discuss/1163858/javascript-388ms
+
 896 Monotonic Array
 https://leetcode.com/problems/monotonic-array/discuss/783828/javascript-every()-solution-92ms
 
@@ -1148,6 +1151,9 @@ https://leetcode.com/problems/tweet-counts-per-frequency/discuss/1156741/javascr
 
 1352 Product of the Last K Numbers
 https://leetcode.com/problems/product-of-the-last-k-numbers/discuss/830867/javascript-easy-solution
+
+1356 Sort Integers by The Number of 1 Bits
+https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/679534/javascript-solution-80ms-78.47
 
 1357 Apply Discount Every n Orders
 https://leetcode.com/problems/apply-discount-every-n-orders/discuss/1151166/javascript-direct-way-176ms
@@ -1628,3 +1634,18 @@ https://leetcode.com/problems/find-the-winner-of-the-circular-game/discuss/11526
 
 1825 Finding MK Average
 https://leetcode.com/problems/finding-mk-average/discuss/1153106/javascript-brute-force
+
+1827 Minimum Operations to Make the Array Increasing
+https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/discuss/1163600/javascript-direct-way-92ms
+
+1828 Queries on Number of Points Inside a Circle
+https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/discuss/1163610/javascript-direct-way-148ms
+
+1829 Maximum XOR for Each Query
+https://leetcode.com/problems/maximum-xor-for-each-query/discuss/1163580/javascript-prexor-264ms
+
+1833 Maximum Ice Cream Bars
+https://leetcode.com/problems/maximum-ice-cream-bars/discuss/1164209/javascript-greedy-320ms
+
+1832 Check if the Sentence Is Pangram
+https://leetcode.com/problems/check-if-the-sentence-is-pangram/discuss/1164238/javascript-direct-a-z-check-96ms
