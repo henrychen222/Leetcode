@@ -1122,6 +1122,9 @@ https://leetcode.com/problems/all-elements-in-two-binary-search-trees/discuss/71
 1310 XOR Queries of a Subarray
 https://leetcode.com/problems/xor-queries-of-a-subarray/discuss/733302/javascript-solution
 
+1311 Get Watched Videos by Your Friends
+https://leetcode.com/problems/get-watched-videos-by-your-friends/discuss/1165697/javascript-bfs-%2B-sort-228ms
+
 1314 Matrix Block Sum
 https://leetcode.com/problems/matrix-block-sum/discuss/894633/javascript-brute-force
 
@@ -1649,3 +1652,6 @@ https://leetcode.com/problems/maximum-ice-cream-bars/discuss/1164209/javascript-
 
 1832 Check if the Sentence Is Pangram
 https://leetcode.com/problems/check-if-the-sentence-is-pangram/discuss/1164238/javascript-direct-a-z-check-96ms
+
+1834 Single-Threaded CPU
+https://leetcode.com/problems/single-threaded-cpu/discuss/1166027/javascript-PQ-904ms
