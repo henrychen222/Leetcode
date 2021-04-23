@@ -360,6 +360,9 @@ https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/83
 380 Insert Delete GetRandom O(1)
 https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/834971/javascript-array-shuffle
 
+381 Insert Delete GetRandom O(1) - Duplicates allowed
+https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/discuss/1168430/javascript-array-esay-%2B-hashmap-tricky-two-solutions
+
 386 Lexicographical Numbers
 https://leetcode.com/problems/lexicographical-numbers/discuss/981327/javascript-two-solutions
 
@@ -417,7 +420,7 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/720439/jav
 443 String Compression
 https://leetcode.com/problems/string-compression/discuss/794984/javascript-stack-solution-80ms-faster-than-77.70
 
-445 Add Two Numbers II
+445 Add Two Numbers II (0) -> (-1)
 https://leetcode.com/problems/add-two-numbers-ii/discuss/997826/javascript-one-line-with-code-templates-132ms-83.94-fast
 
 451 Sort Characters By Frequency
@@ -492,7 +495,7 @@ https://leetcode.com/problems/random-pick-with-weight/discuss/1146047/javascript
 532 K-diff Pairs in an Array (1)
 https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/693032/javascript-two-pointer
 
-540 Single Element in a Sorted Array (0) -> (-1)
+540 Single Element in a Sorted Array (0) -> (-1) -> (-2)
 https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/1144727/javascript-direct-way-88ms
 
 541 Reverse String II  (1) -> (0)
@@ -681,7 +684,7 @@ https://leetcode.com/problems/flood-fill/discuss/910362/javascript-direct-soluti
 735 Asteroid Collision
 https://leetcode.com/problems/asteroid-collision/discuss/1136947/javascript-stack-88ms-90.34
 
-739 Daily Temperatures
+739 Daily Temperatures (0) -> (1)
 https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-pointer
 
 740 Delete and Earn
@@ -705,11 +708,11 @@ https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascr
 787 Cheapest Flights Within K Stops (1)
 https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/934002/javascript-Dijkstra-%2B-PQ-DFS-BFS-DP-solutions-overview
 
-795 Number of Subarrays with Bounded Maximum
-https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/740058/javascript-sliding-window
-
 790 Domino and Tromino Tiling
 https://leetcode.com/problems/domino-and-tromino-tiling/discuss/934923/javascript-dp-88ms
+
+795 Number of Subarrays with Bounded Maximum
+https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/740058/javascript-sliding-window
 
 796 Rotate String
 https://leetcode.com/problems/rotate-string/discuss/783198/javascript-stack-solution-76ms
@@ -882,7 +885,7 @@ https://leetcode.com/problems/flip-equivalent-binary-trees/discuss/1066074/javas
 953 Verifying an Alien Dictionary
 https://leetcode.com/problems/verifying-an-alien-dictionary/discuss/803210/javascript-72ms-faster-than-79.86
 
-962 Maximum Width Ramp
+962 Maximum Width Ramp (0) -> (-1)
 https://leetcode.com/problems/maximum-width-ramp/discuss/739736/javascript-two-pointer
 
 965 Univalued Binary Tree

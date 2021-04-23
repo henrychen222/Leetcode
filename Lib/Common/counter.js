@@ -1,5 +1,12 @@
 // 11.7 night
 
+// final version --- 04/19/21 afternoon
+const counter = (a_or_s) => {
+    let map = new Map();
+    for (const i of a_or_s) map.set(i, map.get(i) + 1 || 1);
+    return map;
+};
+
 // improve https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/917808/javascript-hashmap-96ms
 // string
 const getRecord2 = (s) => {
