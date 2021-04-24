@@ -1483,7 +1483,7 @@ https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/di
 1723 Find Minimum Time to Finish All Jobs
 https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/discuss/1012143/javascript-dp-mask-with-binary-search
 
-1725 Number Of Rectangles That Can Form The Largest Square (1)
+1725 Number Of Rectangles That Can Form The Largest Square (1) -> (2)
 https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/discuss/1020768/javascript-three-lines-124ms
 
 1726 Tuple with Same Product
