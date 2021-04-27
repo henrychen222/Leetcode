@@ -1059,6 +1059,9 @@ https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parenthese
 1191 K-Concatenation Maximum Sum
 https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascript-prefix-suffix-sum-96ms-75
 
+1192 Critical Connections in a Network
+https://leetcode.com/problems/critical-connections-in-a-network/discuss/1174923/javascript-Tarjandfs-728ms-73.55
+
 1206 Design Skiplist
 https://leetcode.com/problems/design-skiplist/discuss/1156831/javascript-hashmap-168ms-100
 
@@ -1658,3 +1661,12 @@ https://leetcode.com/problems/check-if-the-sentence-is-pangram/discuss/1164238/j
 
 1834 Single-Threaded CPU
 https://leetcode.com/problems/single-threaded-cpu/discuss/1166027/javascript-PQ-904ms
+
+1837 Sum of Digits in Base K (0) -> (1)
+https://leetcode.com/problems/sum-of-digits-in-base-k/discuss/1175197/javascript-direct-way-88ms
+
+1838 Frequency of the Most Frequent Element
+https://leetcode.com/problems/frequency-of-the-most-frequent-element/discuss/1175373/javascript-sliding-window-216ms
+
+1839 Longest Substring Of All Vowels in Order
+https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/discuss/1175307/javascript-sliding-window-100ms
