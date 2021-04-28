@@ -1158,7 +1158,7 @@ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagra
 1348 Tweet Counts Per Frequency
 https://leetcode.com/problems/tweet-counts-per-frequency/discuss/1156741/javascript-hashmap-with-array-388ms
 
-1352 Product of the Last K Numbers
+1352 Product of the Last K Numbers (0) -> (1)
 https://leetcode.com/problems/product-of-the-last-k-numbers/discuss/830867/javascript-easy-solution
 
 1356 Sort Integers by The Number of 1 Bits
@@ -1233,8 +1233,11 @@ https://leetcode.com/problems/design-browser-history/discuss/1124802/javascript-
 1477 Find Two Non-overlapping Sub-arrays Each With Target Sum
 https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/discuss/982835/javascript-sliding-window-with-dp-table
 
-1481 Least Number of Unique Integers after K Removals
+1481 Least Number of Unique Integers after K Removals (0) -> (1)
 https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/discuss/1064218/javascript-twp-solutions
+
+1487 Making File Names Unique
+https://leetcode.com/problems/making-file-names-unique/discuss/1178459/javascript-hashmap-%2B-hashset-156ms-100
 
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
@@ -1371,7 +1374,7 @@ https://leetcode.com/problems/count-substrings-that-differ-by-one-character/disc
 1641 Count Sorted Vowel Strings (1) -> (0) -> (1)
 https://leetcode.com/problems/count-sorted-vowel-strings/discuss/918674/javascript-combination-72ms
 
-1642 Furthest Building You Can Reach
+1642 Furthest Building You Can Reach (0) -> (-1)
 https://leetcode.com/problems/furthest-building-you-can-reach/discuss/918611/javascript-greedy
 
 1646 Get Maximum in Generated Array
@@ -1668,5 +1671,5 @@ https://leetcode.com/problems/sum-of-digits-in-base-k/discuss/1175197/javascript
 1838 Frequency of the Most Frequent Element
 https://leetcode.com/problems/frequency-of-the-most-frequent-element/discuss/1175373/javascript-sliding-window-216ms
 
-1839 Longest Substring Of All Vowels in Order
+1839 Longest Substring Of All Vowels in Order (0) -> (1)
 https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/discuss/1175307/javascript-sliding-window-100ms
