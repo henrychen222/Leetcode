@@ -312,6 +312,9 @@ https://leetcode.com/problems/bulb-switcher/discuss/1088900/javascript-one-line-
 322 Coin Change
 https://leetcode.com/problems/coin-change/discuss/921182/javascript-dfs-88ms-98.97-fast
 
+326 Power of Three
+https://leetcode.com/problems/power-of-three/discuss/1179853/javascript-direct-way-use-log
+
 328 Odd Even Linked List
 https://leetcode.com/problems/odd-even-linked-list/discuss/997849/javascript-using-array-100ms
 
@@ -1133,6 +1136,9 @@ https://leetcode.com/problems/get-watched-videos-by-your-friends/discuss/1165697
 
 1314 Matrix Block Sum
 https://leetcode.com/problems/matrix-block-sum/discuss/894633/javascript-brute-force
+
+1315 Sum of Nodes with Even-Valued Grandparent
+https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/discuss/1179983/javascript-dfs-96ms-98.93
 
 1318 Minimum Flips to Make a OR b Equal to c
 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/discuss/731454/javascript-String-solution-faster-than-68.18-100-memory

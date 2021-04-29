@@ -37,3 +37,21 @@ const postOrder_DFS = (root) => {
     let right = postOrder_DFS(root.right);
     return left.concat(right).concat(root.val);
 };
+
+
+//////////////////////////////// PATH /////////////////////////////////////
+const getAllPathNew = (root) => {
+    let res = [];
+    let path = [];
+    dfs(root, path, res);
+    return res;
+};
+
+const dfs = (node, path, res) => {
+    if (!node) return;
+    path.push(node.val);
+    if (!node.left && !node.right) res.push([...path]);
+    dfs(node.left, path, res);
+    dfs(node.right, path, res);
+    path.pop();
+};
