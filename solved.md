@@ -840,7 +840,7 @@ https://leetcode.com/problems/sort-array-by-parity/discuss/679588/javascript-92m
 907 Sum of Subarray Minimums
 https://leetcode.com/problems/sum-of-subarray-minimums/discuss/1055398/javascript-two-pointer-brute-force
 
-912 Sort an Array (0) -> (-1)
+912 Sort an Array (0) -> (-1) -> (-2)
 https://leetcode.com/problems/sort-an-array/discuss/1126467/javascript-1-line-116ms
 
 914 X of a Kind in a Deck of Cards
@@ -1679,3 +1679,21 @@ https://leetcode.com/problems/frequency-of-the-most-frequent-element/discuss/117
 
 1839 Longest Substring Of All Vowels in Order (0) -> (1)
 https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/discuss/1175307/javascript-sliding-window-100ms
+
+1844 Replace All Digits with Characters
+https://leetcode.com/problems/replace-all-digits-with-characters/discuss/1186331/javascript-direct-way-112ms
+
+1845 Seat Reservation Manager
+https://leetcode.com/problems/seat-reservation-manager/discuss/1186349/javascript-direct-PQ-1252ms
+
+1846 Maximum Element After Decreasing and Rearranging
+https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/discuss/1186421/javascript-direct-reorganize-92ms
+
+1847 Closest Room
+https://leetcode.com/problems/closest-room/discuss/1186546/java-TreeSet-81ms
+
+1848 Minimum Distance to the Target Element
+https://leetcode.com/problems/minimum-distance-to-the-target-element/discuss/1187073/javascript-direct-left-right-search-closest-index-96ms
+
+1849 Splitting a String Into Descending Consecutive Values
+https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/discuss/1186975/javascript-direct-way-build-from-first-124ms
