@@ -1597,6 +1597,7 @@ https://leetcode.com/problems/maximum-average-pass-ratio/discuss/1108680/javascr
 1793 Maximum Score of a Good Subarray
 https://leetcode.com/problems/maximum-score-of-a-good-subarray/discuss/1110277/javascript-two-pointer-left-right-search-from-k-112ms
 https://leetcode.com/problems/maximum-score-of-a-good-subarray/discuss/1111279/Java-TreeSet-%2B-Binary-Search-295ms
+https://leetcode.com/problems/maximum-score-of-a-good-subarray/discuss/1190376/javascript-treeset-via-binary-search-1612ms
 
 1796 Second Largest Digit in a String
 https://leetcode.com/problems/second-largest-digit-in-a-string/discuss/1118977/javascript-array-sort-%2B-HashSet-searching-with-index-192ms
@@ -1643,6 +1644,7 @@ https://leetcode.com/problems/finding-the-users-active-minutes/discuss/1141551/j
 
 1818 Minimum Absolute Sum Difference
 https://leetcode.com/problems/minimum-absolute-sum-difference/discuss/1143217/java-TreeSet-with-lower-bound-search-188ms
+https://leetcode.com/problems/minimum-absolute-sum-difference/discuss/1190388/javascript-treeset-via-binary-search-500ms
 
 1822 Sign of the Product of an Array (0) -> (2)
 https://leetcode.com/problems/sign-of-the-product-of-an-array/discuss/1152657/javascript-just-negative-count-84ms
@@ -1691,6 +1693,7 @@ https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/d
 
 1847 Closest Room
 https://leetcode.com/problems/closest-room/discuss/1186546/java-TreeSet-81ms
+https://leetcode.com/problems/closest-room/discuss/1190285/javascript-treeset-444ms-100
 
 1848 Minimum Distance to the Target Element
 https://leetcode.com/problems/minimum-distance-to-the-target-element/discuss/1187073/javascript-direct-left-right-search-closest-index-96ms
