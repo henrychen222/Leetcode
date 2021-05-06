@@ -693,6 +693,9 @@ https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-p
 740 Delete and Earn
 https://leetcode.com/problems/delete-and-earn/discuss/950618/javascript-76ms-100
 
+745 Prefix and Suffix Search
+https://leetcode.com/problems/prefix-and-suffix-search/discuss/1191792/javascript-ordered-map-1188ms
+
 746 Min Cost Climbing Stairs
 https://leetcode.com/problems/min-cost-climbing-stairs/discuss/918250/javascript-dfs-with-memo-92ms
 
@@ -1700,3 +1703,6 @@ https://leetcode.com/problems/minimum-distance-to-the-target-element/discuss/118
 
 1849 Splitting a String Into Descending Consecutive Values
 https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/discuss/1186975/javascript-direct-way-build-from-first-124ms
+
+1850 Minimum Adjacent Swaps to Reach the Kth Smallest Number
+https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/discuss/1191993/javascript-next-permutation-%2B-adjacent-swap-160ms
