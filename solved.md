@@ -57,6 +57,9 @@ https://leetcode.com/problems/first-missing-positive/discuss/1117913/javascript-
 43 Multiply Strings (-1) -> (-2) -> (-3)
 https://leetcode.com/problems/multiply-strings/discuss/1043895/javascript-one-line-128ms
 
+45 Jump Game II
+https://leetcode.com/problems/jump-game-ii/discuss/1193839/javascript-greedy-80ms
+
 46 Permutations
 https://leetcode.com/problems/permutations/discuss/843596/javascript-recursion-92ms
 
