@@ -300,6 +300,9 @@ https://leetcode.com/problems/range-sum-query-immutable/discuss/810365/javascrip
 304 Range Sum Query 2D - Immutable
 https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/934932/javascript-easy-180ms
 
+307 Range Sum Query - Mutable
+https://leetcode.com/problems/range-sum-query-mutable/discuss/1196722/javascript-direct-way-sum-of-smaller-range-544ms-77.08
+
 309 Best Time to Buy and Sell Stock with Cooldown
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/949505/javascript-80ms-82.12-fast
 
@@ -317,6 +320,9 @@ https://leetcode.com/problems/coin-change/discuss/921182/javascript-dfs-88ms-98.
 
 326 Power of Three
 https://leetcode.com/problems/power-of-three/discuss/1179853/javascript-direct-way-use-log
+
+327 Count of Range Sum
+https://leetcode.com/problems/count-of-range-sum/discuss/1200700/javascript-segment-tree-848ms
 
 328 Odd Even Linked List
 https://leetcode.com/problems/odd-even-linked-list/discuss/997849/javascript-using-array-100ms
@@ -1173,6 +1179,9 @@ https://leetcode.com/problems/tweet-counts-per-frequency/discuss/1156741/javascr
 1352 Product of the Last K Numbers (0) -> (1)
 https://leetcode.com/problems/product-of-the-last-k-numbers/discuss/830867/javascript-easy-solution
 
+1354 Construct Target Array With Multiple Sums
+https://leetcode.com/problems/construct-target-array-with-multiple-sums/discuss/1200812/javascript-PQ-120ms-92.86
+
 1356 Sort Integers by The Number of 1 Bits
 https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/679534/javascript-solution-80ms-78.47
 
@@ -1691,7 +1700,7 @@ https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/discuss/1
 1844 Replace All Digits with Characters
 https://leetcode.com/problems/replace-all-digits-with-characters/discuss/1186331/javascript-direct-way-112ms
 
-1845 Seat Reservation Manager
+1845 Seat Reservation Manager (0) -> (1)
 https://leetcode.com/problems/seat-reservation-manager/discuss/1186349/javascript-direct-PQ-1252ms
 
 1846 Maximum Element After Decreasing and Rearranging
@@ -1699,7 +1708,7 @@ https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/d
 
 1847 Closest Room
 https://leetcode.com/problems/closest-room/discuss/1186546/java-TreeSet-81ms
-https://leetcode.com/problems/closest-room/discuss/1190285/javascript-treeset-444ms-100
+https://leetcode.com/problems/closest-room/discuss/1190285/javascript-treeset-444ms-100 (0) -> (1)
 
 1848 Minimum Distance to the Target Element
 https://leetcode.com/problems/minimum-distance-to-the-target-element/discuss/1187073/javascript-direct-left-right-search-closest-index-96ms
@@ -1709,3 +1718,12 @@ https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-val
 
 1850 Minimum Adjacent Swaps to Reach the Kth Smallest Number
 https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/discuss/1191993/javascript-next-permutation-%2B-adjacent-swap-160ms
+
+1854 Maximum Population Year
+https://leetcode.com/problems/maximum-population-year/discuss/1198747/javascript-ordered-map-92ms
+
+1855 Maximum Distance Between a Pair of Values
+https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/discuss/1198943/javascript-segment-tree-range-min-query-296ms
+
+1856 Maximum Subarray Min-Product
+https://leetcode.com/problems/maximum-subarray-min-product/discuss/1199112/javascript-union-find-600ms

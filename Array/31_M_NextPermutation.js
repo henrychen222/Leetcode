@@ -6,15 +6,32 @@
  * similar to 1850
  */
 
-// Accepted --- 100ms 14.39% Submit again 96ms 36.08%
+// 05/06/21 night Accepted --- 92ms 58/32% from uwi
 const nextPermutation = (A) => {
+    let res = np(A);
+    if (!res) A.sort((x, y) => x - y);
+};
+
+const np = (a) => {
+    let n = a.length;
+    let i, j;
+    for (i = n - 2; i >= 0 && a[i] >= a[i + 1]; i--);
+    if (i === -1) return false;
+    for (j = i + 1; j < n && a[i] < a[j]; j++);
+    [a[i], a[j - 1]] = [a[j - 1], a[i]];
+    for (let p = i + 1, q = n - 1; p < q; p++, q--)[a[p], a[q]] = [a[q], a[p]];
+    return true;
+};
+
+// 05/04/21 night Accepted --- 100ms 14.39% Submit again 96ms 36.08%
+const nextPermutation3 = (A) => {
     let res = [...A];
-    np(res);
+    np3(res);
     for (let i = 0; i < A.length; i++) A[i] = res[i];
     console.log(A);
 };
 
-const np = (a) => { // uwi https://leetcode.com/contest/weekly-contest-239/ranking/2/
+const np3 = (a) => { // uwi https://leetcode.com/contest/weekly-contest-239/ranking/2/
     let n = a.length;
     let i, j;
     for (i = n - 2; i >= 0 && a[i] >= a[i + 1]; i--);
@@ -26,7 +43,7 @@ const np = (a) => { // uwi https://leetcode.com/contest/weekly-contest-239/ranki
     return true;
 };
 
-// 05/04/21 modify
+// 05/04/21 night modify
 // Accepted --- 100ms 14.39% Submit again 96ms 36.08%
 const nextPermutation2 = (A) => {
     let res = next_permutation(A);
