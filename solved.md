@@ -477,6 +477,9 @@ https://leetcode.com/problems/max-consecutive-ones/discuss/788802/javascript-sta
 486 Predict the Winner
 https://leetcode.com/problems/predict-the-winner/discuss/975826/javascript-dfs-and-dp
 
+493 Reverse Pairs
+https://leetcode.com/problems/reverse-pairs/discuss/1202344/javascript-fenwick
+
 494 Target Sum
 https://leetcode.com/problems/target-sum/discuss/908810/JavaScript-DFS-DP
 
@@ -1669,6 +1672,7 @@ https://leetcode.com/problems/find-the-winner-of-the-circular-game/discuss/11526
 
 1825 Finding MK Average
 https://leetcode.com/problems/finding-mk-average/discuss/1153106/javascript-brute-force
+https://leetcode.com/problems/finding-mk-average/discuss/1203833/javascript-Treap-(randomized-binary-search-tree)-3412ms-52.27
 
 1827 Minimum Operations to Make the Array Increasing
 https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/discuss/1163600/javascript-direct-way-92ms
