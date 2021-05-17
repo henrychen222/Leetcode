@@ -306,6 +306,9 @@ https://leetcode.com/problems/range-sum-query-mutable/discuss/1196722/javascript
 309 Best Time to Buy and Sell Stock with Cooldown
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/949505/javascript-80ms-82.12-fast
 
+315 Count of Smaller Numbers After Self
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/1204643/javascript-segment-tree-676ms
+
 316 Remove Duplicate Letters
 https://leetcode.com/problems/remove-duplicate-letters/discuss/1106814/javascript-stack-greedy-88ms-92.25
 
@@ -1729,5 +1732,30 @@ https://leetcode.com/problems/maximum-population-year/discuss/1198747/javascript
 1855 Maximum Distance Between a Pair of Values
 https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/discuss/1198943/javascript-segment-tree-range-min-query-296ms
 
-1856 Maximum Subarray Min-Product
+1856 Maximum Subarray Min-Product (0) -> (1)
 https://leetcode.com/problems/maximum-subarray-min-product/discuss/1199112/javascript-union-find-600ms
+
+1859 Sorting the Sentence (0) -> (-1)
+https://leetcode.com/problems/sorting-the-sentence/discuss/1210284/javascript-direct-way-96ms
+https://leetcode.com/problems/sorting-the-sentence/discuss/1210659/TypescriptJavaScript-~-(64-ms-39.1-MB)-Functional-approach-with-lodash-sortBy-and-map (0) -> (1)
+
+1860 Incremental Memory Leak
+https://leetcode.com/problems/incremental-memory-leak/discuss/1210316/javascript-direct-way-136ms
+
+1861 Rotating the Box
+https://leetcode.com/problems/rotating-the-box/discuss/1210270/javascript-rotate-and-fall-process-1040ms
+
+1862 Sum of Floored Pairs
+https://leetcode.com/problems/sum-of-floored-pairs/discuss/1210349/javascript-prefix-sum-2112ms
+
+1863 Sum of All Subset XOR Totals
+https://leetcode.com/problems/sum-of-all-subset-xor-totals/discuss/1211334/javascript-get-all-subsequence-116ms
+
+1864 Minimum Number of Swaps to Make the Binary String Alternating
+https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/discuss/1211264/javascript-greedy-132ms
+
+1865 Finding Pairs With a Certain Sum
+https://leetcode.com/problems/finding-pairs-with-a-certain-sum/discuss/1211306/javascript-hashmap-records-292ms
+
+1866 Number of Ways to Rearrange Sticks With K Sticks Visible
+https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/discuss/1211458/javascript-dp-812ms
