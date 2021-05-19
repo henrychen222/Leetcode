@@ -7,12 +7,53 @@
  * https://leetcode.com/problems/online-majority-element-in-subarray/discuss/355848/Python-Binary-Search-%2B-Find-the-Majority-Element
  */
 
+
+function Bisect() {
+    return {
+        insort_right,
+        insort_left,
+        bisect_left,
+        bisect_right
+    }
+
+    function insort_right(a, x, lo = 0, hi = null) {
+        lo = bisect_right(a, x, lo, hi);
+        a.splice(lo, 0, x);
+    }
+
+    function bisect_right(a, x, lo = 0, hi = null) {
+        if (lo < 0) throw new Error('lo must be non-negative');
+        if (hi == null) hi = a.length;
+        while (lo < hi) {
+            let mid = lo + hi >> 1;
+            x < a[mid] ? hi = mid : lo = mid + 1;
+        }
+        return lo;
+    }
+
+    function insort_left(a, x, lo = 0, hi = null) {
+        lo = bisect_left(a, x, lo, hi);
+        a.splice(lo, 0, x);
+    }
+
+    function bisect_left(a, x, lo = 0, hi = null) {
+        if (lo < 0) throw new Error('lo must be non-negative');
+        if (hi == null) hi = a.length;
+        while (lo < hi) {
+            let mid = lo + hi >> 1;
+            a[mid] < x ? lo = mid + 1 : hi = mid;
+        }
+        return lo;
+    }
+}
+
 function SegmentTreeRQ(m, A, n) {
     /*
        Accepted --- 872ms 66.67%
        let h = Math.ceil(Math.log2(n));
        const MAX = 2 * 2 ** h - 1;
      */
+    let bisect = new Bisect();
     const MAX = 4 * n;
     let tree = Array(MAX).fill(-1);
     let a = [...A];
@@ -74,7 +115,19 @@ function SegmentTreeRQ(m, A, n) {
         };
     }
 
+    // 05/17/21 evening 
+    // Accepted --- 260ms
+    // Accepyed --- 272ms use another MAX
     function get_occurrence(num, l, r) {
+        if (!m.has(num)) return 0;
+        let a = m.get(num);
+        let lbv = bisect.bisect_left(a, l);
+        if (lbv == a.length) return 0;
+        let ubv = bisect.bisect_right(a, r);
+        return ubv - lbv;
+    }
+
+    function get_occurrence1(num, l, r) {
         if (!m.has(num)) return 0;
         let a = m.get(num);
         let lbv = lower_bound(a, l);
@@ -84,6 +137,7 @@ function SegmentTreeRQ(m, A, n) {
         return ubv - lbv;
     }
 
+    // still have bugs, won't work in lc 911 https://leetcode.com/submissions/detail/494673981/
     function lower_bound(a, t) { // replace lower_bound Accepted --- 860ms 66.67%
         let low = 0;
         let n = a.length;

@@ -58,12 +58,12 @@ function TreeSet(elements) {
             se.add(e);
         }
     }
-    function ceiling(e) {
+    function ceiling(e) { // >=  c++ set lower_bound https://www.geeksforgeeks.org/set-lower_bound-function-in-c-stl/
         let idx = bisect.bisect_right(ts, e);
         if (ts[idx - 1] == e) return e;
         return ts[bisect.bisect_right(ts, e)];
     }
-    function floor(e) {
+    function floor(e) { // <= 
         let idx = bisect.bisect_left(ts, e);
         if (ts[idx] == e) {
             return e;
@@ -71,7 +71,7 @@ function TreeSet(elements) {
             return ts[bisect.bisect_left(ts, e) - 1];
         }
     }
-    function lower(e) {
+    function lower(e) { // <
         let idx = bisect.bisect_left(ts, e);
         if (ts[idx] < e) {
             return ts[idx];

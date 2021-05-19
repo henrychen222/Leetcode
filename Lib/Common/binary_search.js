@@ -1,3 +1,40 @@
+//////////////////////// from treeset.js //////////////////////////////
+// c++ vector upper_bound lower_bound
+/**
+ * Example:
+ * https://leetcode.com/problems/online-majority-element-in-subarray/
+ * https://leetcode.com/problems/online-election/
+ */
+function Bisect() {
+    return { insort_right, insort_left, bisect_left, bisect_right }
+    function insort_right(a, x, lo = 0, hi = null) {
+        lo = bisect_right(a, x, lo, hi);
+        a.splice(lo, 0, x);
+    }
+    function bisect_right(a, x, lo = 0, hi = null) { // > upper_bound
+        if (lo < 0) throw new Error('lo must be non-negative');
+        if (hi == null) hi = a.length;
+        while (lo < hi) {
+            let mid = lo + hi >> 1;
+            x < a[mid] ? hi = mid : lo = mid + 1;
+        }
+        return lo;
+    }
+    function insort_left(a, x, lo = 0, hi = null) {
+        lo = bisect_left(a, x, lo, hi);
+        a.splice(lo, 0, x);
+    }
+    function bisect_left(a, x, lo = 0, hi = null) { // >= lower_bound
+        if (lo < 0) throw new Error('lo must be non-negative');
+        if (hi == null) hi = a.length;
+        while (lo < hi) {
+            let mid = lo + hi >> 1;
+            a[mid] < x ? lo = mid + 1 : hi = mid;
+        }
+        return lo;
+    }
+}
+
 /////////////////////////////////////////////////////////////////////////////////////////
 // 06/23/21 evening  only for sorted array
 const binarySearch_refine = (arr, item) => {
@@ -67,6 +104,7 @@ const binarySearch_unsortedArr = (arr, item) => {
 };
 
 /////////////////////////////////// Test //////////////////////////////////////////
+const pr = console.log;
 const main = () => {
     let arr = [1, 3, 5, 7, 8, 9];
     let x = 5;
@@ -82,6 +120,27 @@ const main = () => {
     console.log(binarySearch(arr, x));
     console.log(binarySearch_refine(arr, x));
     console.log(linearSearch(arr, x));
+
+    lower_upper_bound_test();
 }
+
+const lower_upper_bound_test = () => {
+    // c++ vector upper_bound (>) test https://www.geeksforgeeks.org/upper_bound-in-cpp/
+    pr()
+    let bisect = new Bisect();
+    let a = [10, 20, 30, 30, 40, 50];
+    let a2 = [10, 20, 30, 40, 50];
+    pr(bisect.bisect_right(a, 30)) // 4
+    pr(bisect.bisect_right(a2, 45)) // 4
+    pr(bisect.bisect_right(a2, 60)) // 5
+
+    // c++ vector lower_bound (>=) test https://www.geeksforgeeks.org/lower_bound-in-cpp/
+    pr()
+    pr(bisect.bisect_left(a2, 30)) // 2
+    pr(bisect.bisect_left(a2, 35)) // 3
+    pr(bisect.bisect_left(a2, 55)) // 5
+    let a3 = [10, 20, 30, 30, 30, 40, 50];
+    pr(bisect.bisect_left(a3, 30)) // 2
+};
 
 main()

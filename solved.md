@@ -561,6 +561,9 @@ https://leetcode.com/problems/classes-more-than-5-students/discuss/810339/MySQL-
 605 Can Place Flowers
 https://leetcode.com/problems/can-place-flowers/discuss/780317/javascript-solution-80ms
 
+609 Find Duplicate File in System
+https://leetcode.com/problems/find-duplicate-file-in-system/discuss/1216671/javascript-hashmap-128ms-89.74
+
 611 Valid Triangle Number
 https://leetcode.com/problems/valid-triangle-number/discuss/741244/javascript-three-pointer-easy
 
@@ -857,6 +860,9 @@ https://leetcode.com/problems/sort-array-by-parity/discuss/679588/javascript-92m
 
 907 Sum of Subarray Minimums
 https://leetcode.com/problems/sum-of-subarray-minimums/discuss/1055398/javascript-two-pointer-brute-force
+
+911 Online Election
+https://leetcode.com/problems/online-election/discuss/1214969/javascript-binary-search-332ms
 
 912 Sort an Array (0) -> (-1) -> (-2)
 https://leetcode.com/problems/sort-an-array/discuss/1126467/javascript-1-line-116ms
