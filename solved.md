@@ -78,6 +78,10 @@ https://leetcode.com/problems/powx-n/discuss/840631/javascript-cheating-64ms
 61 Rotate List
 https://leetcode.com/problems/rotate-list/discuss/993225/javascript-transfer-to-array-88ms-88.21-fast
 
+65 Valid Number
+https://leetcode.com/problems/valid-number/discuss/1217086/javascript-three-lines-112ms
+https://leetcode.com/problems/valid-number/discuss/547952/Javascript-State-Machine
+
 67 Add Binary
 https://leetcode.com/problems/add-binary/discuss/800764/javascript-92ms
 
