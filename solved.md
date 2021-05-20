@@ -78,7 +78,7 @@ https://leetcode.com/problems/powx-n/discuss/840631/javascript-cheating-64ms
 61 Rotate List
 https://leetcode.com/problems/rotate-list/discuss/993225/javascript-transfer-to-array-88ms-88.21-fast
 
-65 Valid Number
+65 Valid Number (0) -> (1)
 https://leetcode.com/problems/valid-number/discuss/1217086/javascript-three-lines-112ms
 https://leetcode.com/problems/valid-number/discuss/547952/Javascript-State-Machine
 
@@ -456,6 +456,9 @@ https://leetcode.com/problems/lfu-cache/discuss/1158428/javascript-hashmap-recor
 
 461 Hamming Distance
 https://leetcode.com/problems/hamming-distance/discuss/692959/JavaScript-97.08
+
+462 Minimum Moves to Equal Array Elements II
+https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/discuss/1218161/javascript-min-max-possible-middle-872ms
 
 463 Island Perimeter
 https://leetcode.com/problems/island-perimeter/discuss/815931/javascript-JSON-data-check-each-island-solution-208ms-faster-than-82.14
@@ -1680,7 +1683,7 @@ https://leetcode.com/problems/minimum-absolute-sum-difference/discuss/1190388/ja
 1822 Sign of the Product of an Array (0) -> (2)
 https://leetcode.com/problems/sign-of-the-product-of-an-array/discuss/1152657/javascript-just-negative-count-84ms
 
-1823 Find the Winner of the Circular Game
+1823 Find the Winner of the Circular Game (0) -> (1)
 https://leetcode.com/problems/find-the-winner-of-the-circular-game/discuss/1152631/javascript-Joseph-Ring-(rotated-array)-100ms
 
 1825 Finding MK Average
