@@ -337,6 +337,9 @@ https://leetcode.com/problems/odd-even-linked-list/discuss/997849/javascript-usi
 329 Longest Increasing Path in a Matrix
 https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/1151349/javascript-dfs-%2B-memo-100ms-93.73
 
+336 Palindrome Pairs
+https://leetcode.com/problems/palindrome-pairs/discuss/1219796/javascript-brute-force-%2B-hashmap
+
 338 Counting Bits
 https://leetcode.com/problems/counting-bits/discuss/733356/javascript-three-solution
 
@@ -981,6 +984,9 @@ https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/di
 
 1014 Best Sightseeing Pair
 https://leetcode.com/problems/best-sightseeing-pair/discuss/741360/javascript-two-pointer
+
+1015 Smallest Integer Divisible by K (0) -> (1)
+https://leetcode.com/problems/smallest-integer-divisible-by-k/discuss/1108039/javascript-240ms
 
 1017 Convert to Base -2
 https://leetcode.com/problems/convert-to-base-2/discuss/1046761/javascript-72ms-100

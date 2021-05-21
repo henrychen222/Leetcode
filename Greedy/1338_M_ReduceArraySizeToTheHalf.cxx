@@ -21,6 +21,11 @@ public:
         for (const auto &p : map) 
         cout << "map[" << p.first << "] = " << p.second << '\n';
     }
+    
+    void print_map(unordered_map<string, int> map){
+        for (const auto &p : map) 
+        cout << "map[" << p.first << "] = " << p.second << '\n';
+    }
 
     int minSetSize(vector<int> &arr)
     {
