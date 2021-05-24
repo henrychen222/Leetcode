@@ -75,6 +75,12 @@ https://leetcode.com/problems/group-anagrams/discuss/750368/javascript-solution
 50 Pow(x, n)  (-2)
 https://leetcode.com/problems/powx-n/discuss/840631/javascript-cheating-64ms
 
+54 Spiral Matrix
+https://leetcode.com/problems/spiral-matrix/discuss/1224381/javascript-76ms
+
+59 Spiral Matrix II
+https://leetcode.com/problems/spiral-matrix-ii/discuss/1224414/javascript-76ms-79.88
+
 61 Rotate List
 https://leetcode.com/problems/rotate-list/discuss/993225/javascript-transfer-to-array-88ms-88.21-fast
 
@@ -222,6 +228,9 @@ https://leetcode.com/problems/repeated-dna-sequences/discuss/1032393/javascript-
 
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
+
+201 Bitwise AND of Numbers Range
+https://leetcode.com/problems/bitwise-and-of-numbers-range/discuss/1224246/javascript-check-if-pow-of-2-in-range-208ms
 
 202 Happy Number
 https://leetcode.com/problems/happy-number/discuss/801437/javascript-endless-loop-88ms
@@ -399,6 +408,9 @@ https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-charac
 
 396 Rotate Function
 https://leetcode.com/problems/rotate-function/discuss/1084388/javascript-direct-solution
+
+400 Nth Digit
+https://leetcode.com/problems/nth-digit/discuss/1224499/javascript-72ms-95.74
 
 412 Fizz Buzz
 https://leetcode.com/problems/fizz-buzz/discuss/774053/javascript-nested-if-else-84ms
@@ -1778,3 +1790,10 @@ https://leetcode.com/problems/finding-pairs-with-a-certain-sum/discuss/1211306/j
 
 1866 Number of Ways to Rearrange Sticks With K Sticks Visible
 https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/discuss/1211458/javascript-dp-812ms
+
+1869 Longer Contiguous Segments of Ones than Zeros
+https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/discuss/1224785/javascript-direct-way-220ms
+
+1870 Minimum Speed to Arrive on Time
+https://leetcode.com/problems/minimum-speed-to-arrive-on-time/discuss/1224964/javascript-binary-search-244ms
+https://leetcode.com/problems/minimum-speed-to-arrive-on-time/discuss/1224892/javascript-binary-search (1)
