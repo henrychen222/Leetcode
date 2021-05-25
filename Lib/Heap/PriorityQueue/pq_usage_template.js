@@ -32,3 +32,22 @@ const template = (a, b, c, d, e) => {
     }
     return -1;
 };
+
+/**
+ * save Array in pq
+ * 
+ * Example:
+ * https://leetcode.com/problems/distant-barcodes/
+ * https://leetcode.com/problems/maximum-average-pass-ratio/
+ */
+const template = () => {
+    let pq = new MaxPriorityQueue({priority: x => x[1]});
+    for (const [k, occ] of map) pq.enqueue([k, occ]);
+    let res = [];
+    while (!pq.isEmpty()) {
+        let cur = pq.dequeue().element;
+        cur[1]--;
+        if (cur[1] > 0) pq.enqueue(f);
+    }
+    return res;
+};

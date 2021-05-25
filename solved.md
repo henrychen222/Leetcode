@@ -511,6 +511,9 @@ https://leetcode.com/problems/target-sum/discuss/908810/JavaScript-DFS-DP
 496 Next Greater Element I
 https://leetcode.com/problems/next-greater-element-i/discuss/704481/javascript-solution
 
+498 Diagonal Traverse
+https://leetcode.com/problems/diagonal-traverse/discuss/1228949/javascript-diagonal_traverse_bottomLeft_to_topRight-120ms
+
 503 Next Greater Element II
 https://leetcode.com/problems/next-greater-element-ii/discuss/830254/javascript-two-pointer-132ms
 
@@ -1042,6 +1045,9 @@ https://leetcode.com/problems/last-stone-weight-ii/discuss/941011/javascript-dp
 1053 Previous Permutation With One Swap
 https://leetcode.com/problems/previous-permutation-with-one-swap/discuss/864908/javascript-104ms
 
+1054 Distant Barcodes
+https://leetcode.com/problems/distant-barcodes/discuss/1228119/javascript-priority-queue-212ms
+
 1073 Adding Two Negabinary Numbers
 https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/1044015/javascript-use-BigInt-96ms
 
@@ -1197,6 +1203,9 @@ https://leetcode.com/problems/print-words-vertically/discuss/751858/javascript-s
 
 1328 Break a Palindrome
 https://leetcode.com/problems/break-a-palindrome/discuss/748350/javascript-72ms
+
+1329 Sort the Matrix Diagonally
+https://leetcode.com/problems/sort-the-matrix-diagonally/discuss/1228348/javascript-96ms-74.42
 
 1332 Remove Palindromic Subsequences
 https://leetcode.com/problems/remove-palindromic-subsequences/discuss/926501/javascript-68ms-95.05-fast
