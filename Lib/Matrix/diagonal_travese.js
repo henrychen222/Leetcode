@@ -4,7 +4,29 @@
  * example:
  * https://leetcode.com/problems/sort-the-matrix-diagonally/
  * https://leetcode.com/problems/diagonal-traverse/
+ * https://leetcode.com/problems/diagonal-traverse-ii/
  */
+
+const diagonal_traverse_bottomLeft_to_topRight2 = (g) => {
+    let n = g.length;
+    let m = g[0].length;
+    let ma = new Map();
+    for (let i = 0; i < n; i++) {
+        for (let j = 0; j < m; j++) {
+            let sum = i + j;
+            if (!ma.has(sum)) ma.set(sum, []);
+            ma.get(sum).push([g[i][j], j]);
+        }
+    }
+    let res = [];
+    for (const [, a] of ma) {
+        a.sort((x, y) => x[1] - y[1]);
+        let tmp = [];
+        for (const e of a) tmp.push(e[0]);
+        res.push(tmp);
+    }
+    return res;
+};
 
 const diagonal_traverse_bottomLeft_to_topRight = (g) => { // think in middle diagonal
     let n = g.length;
@@ -31,9 +53,19 @@ const diagonal_traverse_bottomLeft_to_topRight = (g) => { // think in middle dia
         }
         top.unshift(tmp);
     }
+    // for (let i = 0; i < n; i++) { // also works
+    //     let tmp = [];
+    //     let share = 0;
+    //     while (i - share >= 0 && share < m) {
+    //         tmp.push(g[i - share][share]);
+    //         share++;
+    //     }
+    //     top.push(tmp);
+    // }
     return top.concat(down);
 };
 
+////////////////////////////////////////////////////////////////////////////////////////////////////
 const diagonal_traverse_topLeft_to_bottomRight = (g) => { // think in middle diagonal
     let n = g.length;
     let m = g[0].length;

@@ -1282,6 +1282,12 @@ https://leetcode.com/problems/html-entity-parser/discuss/749981/javascript-solut
 1418 Display Table of Food Orders in a Restaurant
 https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/discuss/1149490/javascript-hashset-hashmap-sort-160ms-98.31
 
+1424 Diagonal Traverse II
+https://leetcode.com/problems/diagonal-traverse-ii/discuss/1230922/javascript-ordered-map-496ms
+
+1437 Check If All 1's Are at Least Length K Places Away
+https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/discuss/1231024/javascript-direct-pre-check-92ms
+
 1447 Simplified Fractions
 https://leetcode.com/problems/simplified-fractions/discuss/1046935/javascript-GCD-120ms-85.19-fast
 

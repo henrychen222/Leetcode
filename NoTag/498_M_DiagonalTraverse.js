@@ -3,11 +3,58 @@
  * https://leetcode.com/problems/diagonal-traverse/
  */
 
+// 05/25/21 evening idea from 1424
+// Accepted --- 140ms 24.48%
+const findDiagonalOrder2 = (g) => {
+    let n = g.length;
+    let m = g[0].length;
+    let ma = new Map();
+    for (let i = 0; i < n; i++) {
+        for (let j = 0; j < m; j++) {
+            let sum = i + j;
+            if (!ma.has(sum)) ma.set(sum, []);
+            ma.get(sum).push([g[i][j], j]);
+        }
+    }
+    let res = [];
+    let i = 0;
+    for (const [, a] of ma) {
+        i & 1 ? a.sort((x, y) => y[1] - x[1]) : a.sort((x, y) => x[1] - y[1]);
+        // pr(a);
+        for (const e of a) res.push(e[0]);
+        i++;
+    }
+    return res;
+};
+
+// 05/25/21 evening idea from 1424
+// Accepted --- 164ms 19.09%
+const diagonal_traverse_bottomLeft_to_topRight2 = (g) => {
+    let n = g.length;
+    let m = g[0].length;
+    let ma = new Map();
+    for (let i = 0; i < n; i++) {
+        for (let j = 0; j < m; j++) {
+            let sum = i + j;
+            if (!ma.has(sum)) ma.set(sum, []);
+            ma.get(sum).push([g[i][j], j]);
+        }
+    }
+    let res = [];
+    for (const [, a] of ma) {
+        a.sort((x, y) => x[1] - y[1]);
+        let tmp = [];
+        for (const e of a) tmp.push(e[0]);
+        res.push(tmp);
+    }
+    return res;
+};
+
+////////////////////////////////////////////////////////////////////////////////
 const findDiagonalOrder = (mat) => {
     let g = diagonal_traverse_bottomLeft_to_topRight(mat);
     // pr(g);
     let n = g.length;
-    // pr(g);
     let res = [];
     for (let i = 0; i < n; i++) {
         let m = g[i].length;
