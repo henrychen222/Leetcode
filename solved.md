@@ -9,6 +9,9 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/dis
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1046838/javascript-direct-solution-160ms
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/868822/JS-faster-than-95 (0) -> (1)
 
+6 ZigZag Conversion
+https://leetcode.com/problems/zigzag-conversion/discuss/1232446/javascript-use-matrixGrid-to-fill-388ms
+
 8 String to Integer (atoi)
 https://leetcode.com/problems/string-to-integer-atoi/discuss/746714/javascript-solution-120ms
 
@@ -919,6 +922,11 @@ https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-eas
 942 DI String Match
 https://leetcode.com/problems/di-string-match/discuss/910145/javascript-continuously-swap-until-match-128ms
 
+943 Find the Shortest Superstring
+https://leetcode.com/problems/find-the-shortest-superstring/discuss/1232886/javascript-use-graph-bitmask-dp (0) -> (1)
+https://leetcode.com/problems/find-the-shortest-superstring/discuss/195487/python-bfs-solution-with-detailed-explanation(with-extra-Chinese-explanation)
+https://leetcode.com/discuss/general-discussion/546160/does-python-has-any-data-structure-corresponding-to-map-and-set-in-c-stl
+
 946 Validate Stack Sequences
 https://leetcode.com/problems/validate-stack-sequences/discuss/822778/javascript-endless-loop-88ms
 
@@ -1285,7 +1293,7 @@ https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/discu
 1424 Diagonal Traverse II
 https://leetcode.com/problems/diagonal-traverse-ii/discuss/1230922/javascript-ordered-map-496ms
 
-1437 Check If All 1's Are at Least Length K Places Away
+1437 Check If All 1's Are at Least Length K Places Away (0) -> (1)
 https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/discuss/1231024/javascript-direct-pre-check-92ms
 
 1447 Simplified Fractions
@@ -1812,3 +1820,12 @@ https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/disc
 1870 Minimum Speed to Arrive on Time
 https://leetcode.com/problems/minimum-speed-to-arrive-on-time/discuss/1224964/javascript-binary-search-244ms
 https://leetcode.com/problems/minimum-speed-to-arrive-on-time/discuss/1224892/javascript-binary-search (1)
+
+1876 Substrings of Size Three with Distinct Characters
+https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/discuss/1239302/javascript-direct-brute-force-152ms
+
+1877 Minimize Maximum Pair Sum in Array
+https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/discuss/1239327/javascript-min-max-with-sort
+
+1878 Get Biggest Three Rhombus Sums in a Grid
+https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/discuss/1239137/javascript-diagonal-traverse-with-four-edges-284ms
