@@ -81,6 +81,9 @@ https://leetcode.com/problems/powx-n/discuss/840631/javascript-cheating-64ms
 54 Spiral Matrix
 https://leetcode.com/problems/spiral-matrix/discuss/1224381/javascript-76ms
 
+56 Merge Intervals
+https://leetcode.com/problems/merge-intervals/discuss/1239679/javascript-92ms-70.21
+
 59 Spiral Matrix II
 https://leetcode.com/problems/spiral-matrix-ii/discuss/1224414/javascript-76ms-79.88
 
@@ -510,6 +513,9 @@ https://leetcode.com/problems/reverse-pairs/discuss/1202344/javascript-fenwick
 
 494 Target Sum
 https://leetcode.com/problems/target-sum/discuss/908810/JavaScript-DFS-DP
+
+495 Teemo Attacking
+https://leetcode.com/problems/teemo-attacking/discuss/1239632/javascript-merge-intervals-100ms
 
 496 Next Greater Element I
 https://leetcode.com/problems/next-greater-element-i/discuss/704481/javascript-solution
@@ -1693,7 +1699,7 @@ https://leetcode.com/problems/number-of-orders-in-the-backlog/discuss/1121741/ja
 1805 Number of Different Integers in a String
 https://leetcode.com/problems/number-of-different-integers-in-a-string/discuss/1130730/javascript-direct-way-116ms
 
-1806 Minimum Number of Operations to Reinitialize a Permutation (0) -> (1)
+1806 Minimum Number of Operations to Reinitialize a Permutation (0) -> (1) -> (2)
 https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/discuss/1130714/javascript-direct-way-with-endless-loop-96ms
 
 1807 Evaluate the Bracket Pairs of a String
@@ -1829,3 +1835,16 @@ https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/discuss/1239327
 
 1878 Get Biggest Three Rhombus Sums in a Grid
 https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/discuss/1239137/javascript-diagonal-traverse-with-four-edges-284ms
+
+1879 Minimum XOR Sum of Two Arrays
+https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/discuss/1239586/javascript-bitmask-dp-88ms
+
+1880 Check if Word Equals Summation of Two Words
+https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/discuss/1240432/javascript-direct-parse-76ms
+
+1881 Maximum Value after Insertion (0) -> (1)
+https://leetcode.com/problems/maximum-value-after-insertion/discuss/1240449/javascript-greedy-116ms
+https://leetcode.com/problems/maximum-value-after-insertion/discuss/1239981/1881-Insert-before-small-for-%2Bve-before-big-else-small-(in-reverse)-for-ve  (0) -> (1)
+
+1882 Process Tasks Using Servers
+https://leetcode.com/problems/process-tasks-using-servers/discuss/1240374/javascript-two-min-pq-1184ms
