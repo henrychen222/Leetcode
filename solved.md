@@ -415,6 +415,9 @@ https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-charac
 396 Rotate Function
 https://leetcode.com/problems/rotate-function/discuss/1084388/javascript-direct-solution
 
+397 Integer Replacement
+https://leetcode.com/problems/integer-replacement/discuss/1242106/javascript-easy-dfs-80ms
+
 400 Nth Digit
 https://leetcode.com/problems/nth-digit/discuss/1224499/javascript-72ms-95.74
 
@@ -558,6 +561,9 @@ https://leetcode.com/problems/student-attendance-record-i/discuss/799631/javascr
 
 559 Maximum Depth of N-ary Tree
 https://leetcode.com/problems/maximum-depth-of-n-ary-tree/discuss/712597/javascript-solution
+
+565 Array Nesting
+https://leetcode.com/problems/array-nesting/discuss/1242043/javascript-dfs-memo-168ms
 
 566 Reshape the Matrix
 https://leetcode.com/problems/reshape-the-matrix/discuss/796160/javascript-solution-104ms
@@ -1844,7 +1850,7 @@ https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/discus
 
 1881 Maximum Value after Insertion (0) -> (1)
 https://leetcode.com/problems/maximum-value-after-insertion/discuss/1240449/javascript-greedy-116ms
-https://leetcode.com/problems/maximum-value-after-insertion/discuss/1239981/1881-Insert-before-small-for-%2Bve-before-big-else-small-(in-reverse)-for-ve  (0) -> (1)
+https://leetcode.com/problems/maximum-value-after-insertion/discuss/1239981/1881-Insert-before-small-for-%2Bve-before-big-else-small-(in-reverse)-for-ve  (0) -> (2)
 
 1882 Process Tasks Using Servers
 https://leetcode.com/problems/process-tasks-using-servers/discuss/1240374/javascript-two-min-pq-1184ms
