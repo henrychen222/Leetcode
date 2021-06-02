@@ -84,6 +84,9 @@ https://leetcode.com/problems/spiral-matrix/discuss/1224381/javascript-76ms
 56 Merge Intervals
 https://leetcode.com/problems/merge-intervals/discuss/1239679/javascript-92ms-70.21
 
+57 Insert Interval
+https://leetcode.com/problems/insert-interval/discuss/1244203/javascript-direct-way-104ms
+
 59 Spiral Matrix II
 https://leetcode.com/problems/spiral-matrix-ii/discuss/1224414/javascript-76ms-79.88
 
