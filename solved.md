@@ -1152,6 +1152,9 @@ https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/discus
 1218 Longest Arithmetic Subsequence of Given Difference
 https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/977144/javascript-dp-120ms-97.06-fast
 
+1222 Queens That Can Attack the King
+https://leetcode.com/problems/queens-that-can-attack-the-king/discuss/1246324/javascript-direct-8-directions-search-first-queen-128ms
+
 1223 Dice Roll Simulation
 https://leetcode.com/problems/dice-roll-simulation/discuss/947015/javascript-dp-80ms-100-fast
 
@@ -1274,6 +1277,9 @@ https://leetcode.com/problems/increasing-decreasing-string/discuss/806355/javasc
 
 1372 Longest ZigZag Path in a Binary Tree
 https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/discuss/1066177/javascript-use-array-brute-force
+
+1375 Bulb Switcher III
+https://leetcode.com/problems/bulb-switcher-iii/discuss/1246377/javascript-greedy-sum-1-to-N-124ms
 
 1381 Design a Stack With Increment Operation
 https://leetcode.com/problems/design-a-stack-with-increment-operation/discuss/834894/javascript-solution-168ms
