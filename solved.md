@@ -112,7 +112,7 @@ https://leetcode.com/problems/combinations/discuss/1103735/javascript-dfs-and-it
 78 Subsets
 https://leetcode.com/problems/subsets/discuss/725759/javascript-solution
 
-79 Word Search
+79 Word Search (0) -> (2)
 https://leetcode.com/problems/word-search/discuss/905333/javascript-dfs-92ms
 
 80 Remove Duplicates from Sorted Array II
@@ -172,8 +172,11 @@ https://leetcode.com/problems/pascals-triangle/discuss/784960/javascript-72ms
 119 Pascal's Triangle II
 https://leetcode.com/problems/pascals-triangle-ii/discuss/786617/javascript-76ms
 
-121 Best Time to Buy and Sell Stock
+121 Best Time to Buy and Sell Stock (0) -> (-1)
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/792461/javascript-two-pointer
+
+128 Longest Consecutive Sequence
+https://leetcode.com/problems/longest-consecutive-sequence/discuss/1256255/javascript-use-set-96ms
 
 129 Sum Root to Leaf Numbers
 https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/1064860/javascript-use-array-with-paths-72ms-97.61-fast
@@ -193,7 +196,7 @@ https://leetcode.com/problems/reorder-list/discuss/994435/javascript-using-array
 144 Binary Tree Preorder Traversal
 https://leetcode.com/problems/binary-tree-preorder-traversal/discuss/1065966/javascript-dfs-80ms
 
-146 LRU Cache
+146 LRU Cache (0) -> (1)
 https://leetcode.com/problems/lru-cache/discuss/753891/typescript-double-linkedlist-solution
 
 147 Insertion Sort List
@@ -859,6 +862,9 @@ https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/783439
 856 Score of Parentheses
 https://leetcode.com/problems/score-of-parentheses/discuss/833444/javascript-stack-solution-72ms
 
+858 Mirror Reflection
+https://leetcode.com/problems/mirror-reflection/discuss/1250226/javascript-brain-tease-with-gcd-72ms-100
+
 859 Buddy Strings
 https://leetcode.com/problems/buddy-strings/discuss/796395/javascript-88ms
 
@@ -1022,6 +1028,9 @@ https://leetcode.com/problems/find-common-characters/discuss/770282/javascript-h
 
 1004 Max Consecutive Ones III
 https://leetcode.com/problems/max-consecutive-ones-iii/discuss/1092892/javascript-two-pointer-brute-force
+
+1006 Clumsy Factorial
+https://leetcode.com/problems/clumsy-factorial/discuss/1253810/javascript-104ms-seperate-with-*-and-%2B
 
 1007 Minimum Domino Rotations For Equal Row
 https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/723151/javascript-solution
@@ -1292,6 +1301,9 @@ https://leetcode.com/problems/bulb-switcher-iii/discuss/1246377/javascript-greed
 
 1381 Design a Stack With Increment Operation
 https://leetcode.com/problems/design-a-stack-with-increment-operation/discuss/834894/javascript-solution-168ms
+
+1383 Maximum Performance of a Team
+https://leetcode.com/problems/maximum-performance-of-a-team/discuss/1256279/javascript-greedy-with-min-pq-352ms
 
 1386 Cinema Seat Allocation
 https://leetcode.com/problems/cinema-seat-allocation/discuss/881190/javascript-solution-check-each-row
@@ -1810,7 +1822,7 @@ https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-val
 1850 Minimum Adjacent Swaps to Reach the Kth Smallest Number
 https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/discuss/1191993/javascript-next-permutation-%2B-adjacent-swap-160ms
 
-1854 Maximum Population Year
+1854 Maximum Population Year (0) -> (1)
 https://leetcode.com/problems/maximum-population-year/discuss/1198747/javascript-ordered-map-92ms
 
 1855 Maximum Distance Between a Pair of Values
@@ -1872,3 +1884,15 @@ https://leetcode.com/problems/maximum-value-after-insertion/discuss/1239981/1881
 
 1882 Process Tasks Using Servers
 https://leetcode.com/problems/process-tasks-using-servers/discuss/1240374/javascript-two-min-pq-1184ms
+
+1886 Determine Whether Matrix Can Be Obtained By Rotation
+https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/discuss/1254053/javascript-direct-4-times-clockwise-rotate-92ms
+
+1887 Reduction Operations to Make the Array Elements Equal
+https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/discuss/1254101/javascript-unique-array-(hashset)-for-step-count-to-min-280ms
+
+1888 Minimum Number of Flips to Make the Binary String Alternating
+https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/discuss/1254503/javascript-greedy-156ms
+
+1889 Minimum Space Wasted From Packaging
+https://leetcode.com/problems/minimum-space-wasted-from-packaging/discuss/1256321/javascript-lower_bound-binary-search-524ms
