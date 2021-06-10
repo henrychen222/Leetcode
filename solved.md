@@ -1014,6 +1014,9 @@ https://leetcode.com/problems/smallest-string-starting-from-leaf/discuss/1061367
 989 Add to Array-Form of Integer
 https://leetcode.com/problems/add-to-array-form-of-integer/discuss/777169/java-BigInteger-easy
 
+991 Broken Calculator
+https://leetcode.com/problems/broken-calculator/discuss/1258459/javascript-greedy-5-lines-76ms
+
 993 Cousins in Binary Tree
 https://leetcode.com/problems/cousins-in-binary-tree/discuss/717674/javascript-dfs-and-bfs-solution
 
