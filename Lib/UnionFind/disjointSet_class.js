@@ -1,26 +1,3 @@
-// 05/08/21 night
-// https://leetcode.com/problems/maximum-subarray-min-product  prefix sum
-function DJSet(a, n) {
-    let parent = Array(n).fill(0);
-    let sum = Array(n).fill(0n);
-    for (let i = 0; i < n; i++) parent[i] = i, sum[i] = BigInt(a[i]);
-    return { find, union, sm }
-    function find(x) {
-        return parent[x] == x ? x : parent[x] = find(parent[x]);
-    }
-    function union(x, y) {
-        x = find(x);
-        y = find(y);
-        if (x == y) return;
-        parent[x] = y;
-        sum[y] += sum[x];
-    }
-    function sm() {
-        return sum;
-    }
-}
-
-
 //////////////////////////////////////////////////////////////////////////////////
 // 10/24/20 night
 // https://leetcode.com/problems/path-with-minimum-effort/
@@ -59,7 +36,8 @@ class DJSet {
 
 
 /////////////////////////////////////////////////////////////////////////////////////
-// 1.17 evening
+// 01/17/21 evening
+// https://atcoder.jp/contests/arc111/submissions/19502445
 /////////////////////////// with cycle ///////////////////////////////
 class DJSet {
     constructor(n) {

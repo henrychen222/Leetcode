@@ -972,6 +972,9 @@ https://leetcode.com/problems/reveal-cards-in-increasing-order/discuss/926556/ja
 951 Flip Equivalent Binary Trees
 https://leetcode.com/problems/flip-equivalent-binary-trees/discuss/1066074/javascript-use-array-check-in-level-order-and-paths-84ms-66.13
 
+952 Largest Component Size by Common Factor
+https://leetcode.com/problems/largest-component-size-by-common-factor/discuss/1262344/javascript-union-find-with-lowest_prime_factors-556ms
+
 953 Verifying an Alien Dictionary
 https://leetcode.com/problems/verifying-an-alien-dictionary/discuss/803210/javascript-72ms-faster-than-79.86
 
