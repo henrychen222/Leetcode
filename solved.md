@@ -433,7 +433,7 @@ https://leetcode.com/problems/nth-digit/discuss/1224499/javascript-72ms-95.74
 412 Fizz Buzz
 https://leetcode.com/problems/fizz-buzz/discuss/774053/javascript-nested-if-else-84ms
 
-413 Arithmetic Slices
+413 Arithmetic Slices (0) -> (1)
 https://leetcode.com/problems/arithmetic-slices/discuss/897962/javascript-two-pointer-and-DP
 
 415 Add Strings
@@ -781,7 +781,7 @@ https://leetcode.com/problems/toeplitz-matrix/discuss/817560/javascript-JSON-dat
 775 Global and Local Inversions
 https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascript-two-pointer
 
-787 Cheapest Flights Within K Stops (1)
+787 Cheapest Flights Within K Stops (1) -> (2)
 https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/934002/javascript-Dijkstra-%2B-PQ-DFS-BFS-DP-solutions-overview
 
 790 Domino and Tromino Tiling
@@ -1167,7 +1167,7 @@ https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascr
 1192 Critical Connections in a Network
 https://leetcode.com/problems/critical-connections-in-a-network/discuss/1174923/javascript-Tarjandfs-728ms-73.55
 
-1206 Design Skiplist
+1206 Design Skiplist (0) -> (-1)
 https://leetcode.com/problems/design-skiplist/discuss/1156831/javascript-hashmap-168ms-100
 
 1209 Remove All Adjacent Duplicates in String II
@@ -1176,7 +1176,7 @@ https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/discus
 1218 Longest Arithmetic Subsequence of Given Difference
 https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/977144/javascript-dp-120ms-97.06-fast
 
-1222 Queens That Can Attack the King
+1222 Queens That Can Attack the King (0) -> (-1)
 https://leetcode.com/problems/queens-that-can-attack-the-king/discuss/1246324/javascript-direct-8-directions-search-first-queen-128ms
 
 1223 Dice Roll Simulation
@@ -1239,7 +1239,7 @@ https://leetcode.com/problems/xor-queries-of-a-subarray/discuss/733302/javascrip
 1311 Get Watched Videos by Your Friends
 https://leetcode.com/problems/get-watched-videos-by-your-friends/discuss/1165697/javascript-bfs-%2B-sort-228ms
 
-1314 Matrix Block Sum
+1314 Matrix Block Sum (0) -> (1)
 https://leetcode.com/problems/matrix-block-sum/discuss/894633/javascript-brute-force
 
 1315 Sum of Nodes with Even-Valued Grandparent
@@ -1314,7 +1314,7 @@ https://leetcode.com/problems/maximum-performance-of-a-team/discuss/1256279/java
 1386 Cinema Seat Allocation
 https://leetcode.com/problems/cinema-seat-allocation/discuss/881190/javascript-solution-check-each-row
 
-1387 Sort Integers by The Power Value
+1387 Sort Integers by The Power Value (0) -> (1)
 https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/javascript-solution
 
 1395 Count Number of Teams (2)
@@ -1362,7 +1362,7 @@ https://leetcode.com/problems/design-browser-history/discuss/1124802/javascript-
 1477 Find Two Non-overlapping Sub-arrays Each With Target Sum
 https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/discuss/982835/javascript-sliding-window-with-dp-table
 
-1481 Least Number of Unique Integers after K Removals (0) -> (1)
+1481 Least Number of Unique Integers after K Removals (0) -> (1) -> (2)
 https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/discuss/1064218/javascript-twp-solutions
 
 1487 Making File Names Unique
@@ -1374,7 +1374,7 @@ https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-s
 1492 The kth Factor of n
 https://leetcode.com/problems/the-kth-factor-of-n/discuss/1046895/javascript-direct-way-132ms
 
-1504 Count Submatrices With All Ones
+1504 Count Submatrices With All Ones (0) -> (1)
 https://leetcode.com/problems/count-submatrices-with-all-ones/discuss/973684/javascript-solutions
 
 1536 Minimum Swaps to Arrange a Binary Grid
@@ -1470,6 +1470,9 @@ https://leetcode.com/problems/split-two-strings-to-make-palindrome/discuss/88935
 1619 Mean of Array After Removing Some Elements (1)
 https://leetcode.com/problems/mean-of-array-after-removing-some-elements/discuss/899089/javascript-76ms
 
+1621 Number of Sets of K Non-Overlapping Line Segments
+https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/discuss/901559/JavaScript-BigInt-with-Math-combination-88ms
+
 1622 Fancy Sequence
 https://leetcode.com/problems/fancy-sequence/discuss/899613/javascript-brute-force
 
@@ -1478,9 +1481,6 @@ https://leetcode.com/problems/largest-substring-between-two-equal-characters/dis
 
 1625 Lexicographically Smallest String After Applying Operations
 https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/discuss/899798/javacript-DFS-with-endless-loop-768ms
-
-1621 Number of Sets of K Non-Overlapping Line Segments
-https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/discuss/901559/JavaScript-BigInt-with-Math-combination-88ms
 
 1629 Slowest Key (1)
 https://leetcode.com/problems/slowest-key/discuss/909180/javascript-sortedMap-100ms
