@@ -502,6 +502,9 @@ https://leetcode.com/problems/can-i-win/discuss/982539/javascript-dfs-with-bit-m
 467 Unique Substrings in Wraparound String
 https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/920115/javascript-dp-92ms
 
+473 Matchsticks to Square
+https://leetcode.com/problems/matchsticks-to-square/discuss/1275667/javascript-dfs-112ms
+
 474 Ones and Zeroes
 https://leetcode.com/problems/ones-and-zeroes/discuss/938741/javascript-dp-140ms
 
@@ -1917,8 +1920,9 @@ https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/discu
 https://leetcode.com/problems/largest-magic-square/discuss/1267589/javascript-use-topLeft-vertex-to-fix-other-three-vertex-700ms
 
 1897 Redistribute Characters to Make All Strings Equal
-https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1269245/javascript-direct-way-124ms
+https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1269245/javascript-direct-way-124ms (0) -> (-1)
 https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1268724/JavaScript-count-each-char
+https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1268928/JavaScript-Frequency-Counting-Characters
 
 1898 Maximum Number of Removable Characters
 https://leetcode.com/problems/maximum-number-of-removable-characters/discuss/1269151/javascript-binary-search-756ms
