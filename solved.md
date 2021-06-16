@@ -1569,6 +1569,9 @@ https://leetcode.com/problems/stone-game-vi/discuss/969659/javascript-268ms
 1688 Count of Matches in Tournament
 https://leetcode.com/problems/count-of-matches-in-tournament/discuss/970579/javascript-88ms
 
+1690 Stone Game VII
+https://leetcode.com/problems/stone-game-vii/discuss/1266234/javascript-bottom-up-%2B-top-down-dp-100
+
 1694 Reformat Phone Number
 https://leetcode.com/problems/reformat-phone-number/discuss/978600/javascript-84ms
 
@@ -1902,3 +1905,20 @@ https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-
 
 1889 Minimum Space Wasted From Packaging
 https://leetcode.com/problems/minimum-space-wasted-from-packaging/discuss/1256321/javascript-lower_bound-binary-search-524ms
+
+1893 Check if All the Integers in a Range Are Covered
+https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/discuss/1267652/javascript-direct-way-124ms
+
+1894 Find the Student that Will Replace the Chalk
+https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/discuss/1267507/javascript-mod-round-with-sum-104ms
+https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/discuss/1267376/Python-1-line
+
+1895 Largest Magic Square
+https://leetcode.com/problems/largest-magic-square/discuss/1267589/javascript-use-topLeft-vertex-to-fix-other-three-vertex-700ms
+
+1897 Redistribute Characters to Make All Strings Equal
+https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1269245/javascript-direct-way-124ms
+https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1268724/JavaScript-count-each-char
+
+1898 Maximum Number of Removable Characters
+https://leetcode.com/problems/maximum-number-of-removable-characters/discuss/1269151/javascript-binary-search-756ms
