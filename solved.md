@@ -30,6 +30,9 @@ https://leetcode.com/problems/4sum/discuss/734863/javascript-dumb-four-pointer-b
 19 Remove Nth Node From End of List (1)
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/993283/javascript-transfer-to-array-72ms-98.78-fast
 
+22 Generate Parentheses
+https://leetcode.com/problems/generate-parentheses/discuss/1278447/javascript-dfsbacktracking-72ms-95.87
+
 23 Merge k Sorted Lists
 https://leetcode.com/problems/merge-k-sorted-lists/discuss/1023674/javascript-using-array-104ms-91.53-fast
 
@@ -502,7 +505,7 @@ https://leetcode.com/problems/can-i-win/discuss/982539/javascript-dfs-with-bit-m
 467 Unique Substrings in Wraparound String
 https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/920115/javascript-dp-92ms
 
-473 Matchsticks to Square
+473 Matchsticks to Square (0) -> (1)
 https://leetcode.com/problems/matchsticks-to-square/discuss/1275667/javascript-dfs-112ms
 
 474 Ones and Zeroes
