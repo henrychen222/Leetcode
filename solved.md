@@ -643,6 +643,9 @@ https://leetcode.com/problems/swap-salary/discuss/773722/MySQL-faster-than-47.93
 628 Maximum Product of Three Numbers
 https://leetcode.com/problems/maximum-product-of-three-numbers/discuss/780189/javascript-sort()-solution
 
+629 K Inverse Pairs Array
+https://leetcode.com/problems/k-inverse-pairs-array/discuss/1284621/javascript-dp-112ms-83.33
+
 633 Sum of Square Numbers
 https://leetcode.com/problems/sum-of-square-numbers/discuss/682921/javascript-hashmap-solution
 
@@ -1173,7 +1176,7 @@ https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascr
 1192 Critical Connections in a Network
 https://leetcode.com/problems/critical-connections-in-a-network/discuss/1174923/javascript-Tarjandfs-728ms-73.55
 
-1206 Design Skiplist (0) -> (-1)
+1206 Design Skiplist (0) -> (-1) -> (-2)
 https://leetcode.com/problems/design-skiplist/discuss/1156831/javascript-hashmap-168ms-100
 
 1209 Remove All Adjacent Duplicates in String II
@@ -1915,17 +1918,23 @@ https://leetcode.com/problems/minimum-space-wasted-from-packaging/discuss/125632
 1893 Check if All the Integers in a Range Are Covered
 https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/discuss/1267652/javascript-direct-way-124ms
 
-1894 Find the Student that Will Replace the Chalk
+1894 Find the Student that Will Replace the Chalk (0) -> (-1)
 https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/discuss/1267507/javascript-mod-round-with-sum-104ms
 https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/discuss/1267376/Python-1-line
 
 1895 Largest Magic Square
 https://leetcode.com/problems/largest-magic-square/discuss/1267589/javascript-use-topLeft-vertex-to-fix-other-three-vertex-700ms
 
-1897 Redistribute Characters to Make All Strings Equal
-https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1269245/javascript-direct-way-124ms (0) -> (-1)
+1897 Redistribute Characters to Make All Strings Equal (0) -> (-1)
+https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1269245/javascript-direct-way-124ms
 https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1268724/JavaScript-count-each-char
 https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/discuss/1268928/JavaScript-Frequency-Counting-Characters
 
 1898 Maximum Number of Removable Characters
 https://leetcode.com/problems/maximum-number-of-removable-characters/discuss/1269151/javascript-binary-search-756ms
+
+1903 Largest Odd Number in String
+https://leetcode.com/problems/largest-odd-number-in-string/discuss/1284527/javascript-greedy-96ms
+
+1904 The Number of Full Rounds You Have Played
+https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/discuss/1284467/javascript-direct-way-96ms
