@@ -1,15 +1,40 @@
 /**
- * 03/22/21 evening
- * 
- * example question: https://leetcode.com/problems/number-of-orders-in-the-backlog/ 
+ * 06/21/21 evening
+ * https://leetcode.com/problems/my-calendar-ii/
  */
 
+// Accepted --- 3400ms 18.37%  06/22/21 night
+// reference: https://leetcode.com/problems/my-calendar-ii/discuss/1183353/Brute-force-and-built-in-sorted-dictionary
+// JS object is sorted, treemap, only key > 0
+function MyCalendarTwo() {
+    let tm = {};
+    return { book }
+    function book(start, end) {
+        tm[start] = (tm[start] || 0) + 1;
+        tm[end] = (tm[end] || 0) - 1;
+        let cnt = 0;
+        for (const k in tm) {
+            let occ = tm[k];
+            cnt += occ;
+            if (cnt == 3) {
+                // tm[start]--; // Accepted --- 3396ms 18.37%
+                // tm[end]++;
+                tm[start] = (tm[start] || 0) - 1;
+                tm[end] = (tm[end] || 0) + 1;
+                return false;
+            }
+        }
+        return true;
+    }
+}
+
+//////////////////////////////////////// 06/21/21 evening ////////////////////////////////////////////////////
 const show = (m) => {
     let res = [];
     m.forEach((v, k) => {
         res.push(k + " => " + v);
     })
-    return res;
+    console.log(res);
 };
 
 function TreeMap() {
@@ -159,3 +184,92 @@ function TreeMap() {
         return node;
     }
 }
+
+// WA
+// reference: https://www.cnblogs.com/grandyang/p/7968035.html
+function MyCalendarTwo2() {
+    let tm = new TreeMap(); // issue, treemap
+    return {
+        book
+    }
+
+    function book(start, end) {
+        // show(tm);
+        tm.set(start, (tm.get(start) || 0) + 1);
+        tm.set(end, (tm.get(end) || 0) - 1);
+        let cnt = 0;
+        let res = true;
+        let d = [];
+        tm.forEach((occ, k) => {
+            d.push([k, occ])
+            // pr(occ, k)
+            cnt += occ;
+            if (cnt == 3) {
+                tm.set(start, (tm.get(start) || 0) - 1);
+                tm.set(end, (tm.get(end) || 0) + 1);
+                res = false;
+                return;
+            }
+        });
+        return res;
+    }
+}
+
+// WA
+function MyCalendarTwo1() {
+    let d = [];
+    return {
+        book
+    }
+
+    function book(start, end) {
+        if (d.length == 0) {
+            d.push([start, end, 1]);
+            return true;
+        }
+        for (let i = 0; i < d.length; i++) {
+            let [curStart, curEnd, cnt] = d[i];
+            if (start >= curEnd || end <= curStart) {
+                continue;
+            }
+            if (cnt == 1) {
+                // pr("before", d)
+                d[i][0] = Math.max(curStart, start);
+                d[i][1] = Math.min(curEnd, end);
+                d[i][2] = 2;
+                // pr("after", d);
+                continue;
+            }
+            return false;
+        }
+        d.push([start, end, 1]);
+        // pr(d);
+        return true;
+    }
+}
+
+const pr = console.log;
+const main = () => {
+    let myCalendarTwo = new MyCalendarTwo();
+    pr(myCalendarTwo.book(10, 20)); // true
+    pr(myCalendarTwo.book(50, 60)); // true
+    pr(myCalendarTwo.book(10, 40)); // true 
+    pr(myCalendarTwo.book(5, 15)); // false
+    pr(myCalendarTwo.book(5, 10)); // true
+    pr(myCalendarTwo.book(25, 55)); // true
+};
+
+main()
+
+
+// let test = new Map();
+// test.set(1, 2);
+// test.set(2, 3);
+// test.set(3, 4);
+// show(test)
+// let res = [];
+// test.forEach((v, k) => {
+//     if (k == 3) return;
+//     res.push([k, v])
+// });
+// pr(res);

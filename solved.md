@@ -760,6 +760,9 @@ https://leetcode.com/problems/longest-word-in-dictionary/discuss/834101/javascri
 725 Split Linked List in Parts
 https://leetcode.com/problems/split-linked-list-in-parts/discuss/996372/javascript-using-array-92ms
 
+731 My Calendar II
+https://leetcode.com/problems/my-calendar-ii/discuss/1291579/javascriptjava-treemap
+
 733 Flood Fill
 https://leetcode.com/problems/flood-fill/discuss/910362/javascript-direct-solution-104ms
 
@@ -795,6 +798,9 @@ https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/934002/jav
 
 790 Domino and Tromino Tiling
 https://leetcode.com/problems/domino-and-tromino-tiling/discuss/934923/javascript-dp-88ms
+
+792 Number of Matching Subsequences
+https://leetcode.com/problems/number-of-matching-subsequences/discuss/1291682/javascript-check-isSubsequence-%2B-Set-memorization-144ms-91.79
 
 795 Number of Subarrays with Bounded Maximum
 https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/740058/javascript-sliding-window

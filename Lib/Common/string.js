@@ -29,3 +29,37 @@ const isPalindrome = (s) => {
     }
     return true;
 };
+
+/**
+ * Example  06/22/22 night
+ * https://leetcode.com/problems/maximum-number-of-removable-characters/
+ * https://leetcode.com/problems/number-of-matching-subsequences/
+ */
+ const isSubsequence = (s, t) => { // s: origin string, t: subsequence
+    let sn = s.length;
+    let tn = t.length;
+    let i = j = 0;
+    while (i < sn && j < tn) {
+        if (s[i] == t[j]) {
+            i++;
+            j++;
+        } else {
+            i++;
+        }
+    }
+    return j == tn;
+};
+
+const isSubsequence1 = (s, t) => {
+    let st = [];
+    let sn = s.length;
+    let tn = t.length;
+    for (let i = 0; i < tn; i++) st.push(t[i]);
+    for (let i = sn - 1; ~i; i--) {
+        if (st.length == 0) {
+            return true;
+        }
+        if (s[i] == st[st.length - 1]) st.pop();
+    }
+    return st.length == 0;
+};
