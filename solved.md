@@ -1944,3 +1944,6 @@ https://leetcode.com/problems/largest-odd-number-in-string/discuss/1284527/javas
 
 1904 The Number of Full Rounds You Have Played
 https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/discuss/1284467/javascript-direct-way-96ms
+
+1905 Count Sub Islands
+https://leetcode.com/problems/count-sub-islands/discuss/1292179/javascript-bfs-dfs-union-find
