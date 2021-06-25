@@ -51,3 +51,27 @@ function DJSet(n) {
         return parent;
     }
 }
+
+//////////////////////// standard one ///////////////////////////////////
+// 06/23/21 evening https://leetcode.com/problems/count-sub-islands/
+// 06/24/21 night https://leetcode.com/problems/redundant-connection/
+function DJSet(n) {
+    let parent = Array(n).fill(-1);
+    return { find, union, getParent }
+    function find(x) {
+        return parent[x] < 0 ? x : parent[x] = find(parent[x]);
+    }
+    function union(x, y) {
+        x = find(x);
+        y = find(y);
+        if (x != y) {
+            if (parent[x] < parent[y])[x, y] = [y, x];
+            parent[x] += parent[y];
+            parent[y] = x;
+        }
+        return x == y;
+    }
+    function getParent() {
+        return parent;
+    }
+}

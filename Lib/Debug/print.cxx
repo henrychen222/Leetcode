@@ -42,6 +42,13 @@ public:
         for (const auto &p : map) cout << "map[" << p.first << "] = " << p.second << '\n';
     }
 
+    void print_map(map<int, int> map) {
+        for (const auto &p : map) {
+            cout << " map[" << p.first << "] = " << p.second;
+        }
+        cout << '\n';
+    }
+
     void print_map_vector(unordered_map<int, vector<int>> map) {
         for (auto it = map.begin(); it != map.end(); ++it) {
             cout << it->first << " : ";

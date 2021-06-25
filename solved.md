@@ -718,6 +718,12 @@ https://leetcode.com/problems/valid-palindrome-ii/discuss/847078/javascript-recu
 682 Baseball Game
 https://leetcode.com/problems/baseball-game/discuss/705731/javascript-solution
 
+684 Redundant Connection
+https://leetcode.com/problems/redundant-connection/discuss/1295643/javascript-standard-union-find-84ms-83.22
+
+685 Redundant Connection II
+https://leetcode.com/problems/redundant-connection-ii/discuss/1295783/javascript-union-find-72ms-100
+
 686 Repeated String Match (1)
 https://leetcode.com/problems/repeated-string-match/discuss/797846/javascript-solution-endless-loop
 
@@ -762,6 +768,9 @@ https://leetcode.com/problems/split-linked-list-in-parts/discuss/996372/javascri
 
 731 My Calendar II
 https://leetcode.com/problems/my-calendar-ii/discuss/1291579/javascriptjava-treemap
+
+732 My Calendar III
+https://leetcode.com/problems/my-calendar-iii/discuss/1295136/javascript-treemap-1164ms
 
 733 Flood Fill
 https://leetcode.com/problems/flood-fill/discuss/910362/javascript-direct-solution-104ms
