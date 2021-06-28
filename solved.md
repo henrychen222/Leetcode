@@ -187,6 +187,9 @@ https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/1064860/javascrip
 134 Gas Station
 https://leetcode.com/problems/gas-station/discuss/853266/javascript-two-pointer-116ms
 
+135 Candy
+https://leetcode.com/problems/candy/discuss/1302159/javascript-greedy-80ms-92.55
+
 137 Single Number II
 https://leetcode.com/problems/single-number-ii/discuss/731356/javascript-3-solutions
 
@@ -1956,3 +1959,24 @@ https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/discuss/
 
 1905 Count Sub Islands
 https://leetcode.com/problems/count-sub-islands/discuss/1292179/javascript-bfs-dfs-union-find
+
+1909 Remove One Element to Make the Array Strictly Increasing
+https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/discuss/1298916/javascript-direct-way-172ms
+
+1910 Remove All Occurrences of a Substring
+https://leetcode.com/problems/remove-all-occurrences-of-a-substring/discuss/1298907/javascript-direct-way-88ms
+
+1911 Maximum Alternating Subsequence Sum
+https://leetcode.com/problems/maximum-alternating-subsequence-sum/discuss/1299327/javascript-116ms
+
+1912 Design Movie Rental System
+https://leetcode.com/problems/design-movie-rental-system/discuss/1299261/javascript-two-maps-brute-force
+
+1913 Maximum Product Difference Between Two Pairs
+https://leetcode.com/problems/maximum-product-difference-between-two-pairs/discuss/1300008/javascript-greedy-with-sort-128ms
+
+1914 Cyclically Rotating a Grid (0) -> (-1)
+https://leetcode.com/problems/cyclically-rotating-a-grid/discuss/1299849/javascript-use-Spiral-matrix-traverse-%2B-rotate-layer-160ms
+
+1915 Number of Wonderful Substrings
+https://leetcode.com/problems/number-of-wonderful-substrings/discuss/1300060/javascript-bitmask-108ms
