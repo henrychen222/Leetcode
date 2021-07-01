@@ -964,6 +964,9 @@ https://leetcode.com/problems/sort-array-by-parity-ii/discuss/928709/javascript-
 923 3Sum With Multiplicity
 https://leetcode.com/problems/3sum-with-multiplicity/discuss/1084679/javascript-use-hashmap-records-%2B-hashset-memo-%2B-Math-combination-260ms
 
+924 Minimize Malware Spread
+https://leetcode.com/problems/minimize-malware-spread/discuss/1308834/javascript-union-find-260ms
+
 930 Binary Subarrays With Sum
 https://leetcode.com/problems/binary-subarrays-with-sum/discuss/1074007/javascript-two-pointer-and-sliding-window
 
@@ -1963,13 +1966,13 @@ https://leetcode.com/problems/count-sub-islands/discuss/1292179/javascript-bfs-d
 1909 Remove One Element to Make the Array Strictly Increasing
 https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/discuss/1298916/javascript-direct-way-172ms
 
-1910 Remove All Occurrences of a Substring
+1910 Remove All Occurrences of a Substring (0) -> (1)
 https://leetcode.com/problems/remove-all-occurrences-of-a-substring/discuss/1298907/javascript-direct-way-88ms
 
 1911 Maximum Alternating Subsequence Sum
 https://leetcode.com/problems/maximum-alternating-subsequence-sum/discuss/1299327/javascript-116ms
 
-1912 Design Movie Rental System
+1912 Design Movie Rental System (0) -> (1)
 https://leetcode.com/problems/design-movie-rental-system/discuss/1299261/javascript-two-maps-brute-force
 
 1913 Maximum Product Difference Between Two Pairs
