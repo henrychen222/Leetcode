@@ -388,6 +388,9 @@ https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javas
 355 Design Twitter
 https://leetcode.com/problems/design-twitter/discuss/1154945/javascript-hashmap-%2B-hashset-%2B-array-sort-based-on-timestamp-76ms-91.09
 
+363 Max Sum of Rectangle No Larger Than K
+https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/discuss/1320556/javascript-2-solutions-dp-%2B-binary-search
+
 368 Largest Divisible Subset
 https://leetcode.com/problems/largest-divisible-subset/discuss/923944/javascript-dfs-and-dp
 
@@ -1293,6 +1296,9 @@ https://leetcode.com/problems/remove-palindromic-subsequences/discuss/926501/jav
 1333 Filter Restaurants by Vegan-Friendly, Price and Distance
 https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/discuss/726382/javascript-solution
 
+1338 Reduce Array Size to The Half
+https://leetcode.com/problems/reduce-array-size-to-the-half/discuss/1320426/javascript-direct-way-196ms
+
 1344 Angle Between Hands of a Clock
 https://leetcode.com/problems/angle-between-hands-of-a-clock/discuss/1107808/javascript-4-lines-76ms-76.34
 
@@ -1983,3 +1989,15 @@ https://leetcode.com/problems/cyclically-rotating-a-grid/discuss/1299849/javascr
 
 1915 Number of Wonderful Substrings
 https://leetcode.com/problems/number-of-wonderful-substrings/discuss/1300060/javascript-bitmask-108ms
+
+1920 Build Array from Permutation
+https://leetcode.com/problems/build-array-from-permutation/discuss/1314509/javascript-direct-way-108ms
+
+1921 Eliminate Maximum Number of Monsters
+https://leetcode.com/problems/eliminate-maximum-number-of-monsters/discuss/1314528/javascript-greedy-with-each-monster's-time-208ms
+
+1922 Count Good Numbers (0) -> (-1) -> (-2)
+https://leetcode.com/problems/count-good-numbers/discuss/1314461/javascript-math-number-of-ways-%2B-pow-mod-104ms
+
+1923 Longest Common Subpath
+https://leetcode.com/problems/longest-common-subpath/discuss/1314966/javascript-binary-search-%2B-rolling-hash

@@ -1,12 +1,9 @@
 /**
- * 05/02/21 night save links, 05/03/21 did
- * https://github.com/fukatani/TreeSet/blob/master/treeset.py
- * https://github.com/python/cpython/blob/3.9/Lib/bisect.py
- * https://docs.python.org/3/library/bisect.html
+ * 07/06/21 noon
+ * https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
  * 
- * Usage:
- * https://leetcode.com/problems/closest-room/
- * https://leetcode.com/problems/maximum-score-of-a-good-subarray/
+ * reference:
+ * https://www.cnblogs.com/grandyang/p/5617660.html
  */
 
 function Bisect() {
@@ -58,12 +55,12 @@ function TreeSet(elements) {
             se.add(e);
         }
     }
-    function ceiling(e) { // >=  c++ set lower_bound https://www.geeksforgeeks.org/set-lower_bound-function-in-c-stl/
+    function ceiling(e) {
         let idx = bisect.bisect_right(ts, e);
         if (ts[idx - 1] == e) return e;
         return ts[bisect.bisect_right(ts, e)];
     }
-    function floor(e) { // <= 
+    function floor(e) {
         let idx = bisect.bisect_left(ts, e);
         if (ts[idx] == e) {
             return e;
@@ -71,7 +68,7 @@ function TreeSet(elements) {
             return ts[bisect.bisect_left(ts, e) - 1];
         }
     }
-    function lower(e) { // <
+    function lower(e) {
         let idx = bisect.bisect_left(ts, e);
         if (ts[idx] < e) {
             return ts[idx];
@@ -99,18 +96,75 @@ function TreeSet(elements) {
     }
 }
 
+// Accepted --- 792ms 23.94%
+const maxSumSubmatrix1 = (g, k) => {
+    let [n, m, res] = [g.length, g[0].length, Number.MIN_SAFE_INTEGER];
+    for (let i = 0; i < m; i++) {
+        let sum = Array(n).fill(0);
+        for (let j = i; j < m; j++) {
+            for (let k = 0; k < n; k++) {
+                sum[k] += g[k][j];
+            }
+            let curSum = 0;
+            let ts = new TreeSet([0]);
+            for (const x of sum) {
+                curSum += x;
+                let tmp = ts.ceiling(curSum - k);
+                if (tmp != undefined) res = Math.max(res, curSum - tmp);
+                ts.add(curSum);
+            }
+        }
+    }
+    return res;
+};
+
+// 944ms 16.49%
+const maxSumSubmatrix = (g, k) => {
+    let [n, m, res] = [g.length, g[0].length, Number.MIN_SAFE_INTEGER];
+    let dp = initialize2DArrayNew(n, m);
+    for (let i = 0; i < n; i++) {
+        for (let j = 0; j < m; j++) {
+            let sum = g[i][j];
+            if (i > 0) sum += dp[i - 1][j];
+            if (j > 0) sum += dp[i][j - 1];
+            if (i > 0 && j > 0) sum -= dp[i - 1][j - 1];
+            dp[i][j] = sum;
+            for (let r = 0; r <= i; r++) {
+                for (let c = 0; c <= j; c++) {
+                    let curSum = dp[i][j];
+                    if (r > 0) curSum -= dp[r - 1][j];
+                    if (c > 0) curSum -= dp[i][c - 1];
+                    if (r > 0 && c > 0) curSum += dp[r - 1][c - 1];
+                    if (curSum <= k) res = Math.max(res, curSum);
+                }
+            }
+        }
+    }
+    return res;
+};
+
+const initialize2DArrayNew = (n, m) => {
+    let data = [];
+    for (let i = 0; i < n; i++) {
+        let tmp = Array(m).fill(0);
+        data.push(tmp);
+    }
+    return data;
+};
+
 const pr = console.log;
 const main = () => {
-    let ts = new TreeSet([3, 7, 7, 1, 3]);
-    pr(ts.toArray(ts));
-    pr(ts.floor(4)); // 3
-    pr(ts.ceiling(4)); // 7
-    pr(ts.ceiling(3)); // 3
-    pr(ts.ceiling(3)); // 3
-    pr(ts.ceiling(100)) // undefined
-    pr(ts.toArray(ts)); // [1, 3, 7];
-    ts.remove(3);
-    pr(ts.toArray(ts));
+    let matrix = [
+            [1, 0, 1],
+            [0, -2, 3]
+        ],
+        k = 2;
+    let matrix2 = [
+            [2, 2, -1]
+        ],
+        k2 = 3;
+    pr(maxSumSubmatrix(matrix, k));
+    pr(maxSumSubmatrix(matrix2, k2));
 };
 
 main()

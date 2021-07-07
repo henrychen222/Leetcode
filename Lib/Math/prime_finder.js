@@ -6,24 +6,6 @@
  * Usage Example: 
  * https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a8e6
  */
-
-const lge = Math.log;
-const sieveBySegment = (low, high, primes) => { // low: BigInt, high: BigInt, primes: int[]
-    let m = Number(high - low + 1n);
-    let isp = Array(m).fill(true);
-    if (low == 1n) isp[0] = false;
-    for (const p of primes) {
-        let pb = BigInt(p);
-        let ppb = pb * pb;
-        if (ppb > high) break;
-        let sp = (-low) % pb;
-        if (sp < 0) sp += pb;
-        if (sp + low <= ppb) sp = ppb - low;
-        for (let u = Number(sp); u < m; u += p) isp[u] = false;
-    }
-    return isp;
-};
-
 const sieveEratosthenes = (n) => { // n: int
     if (n < 32) {
         let primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31];
@@ -33,7 +15,7 @@ const sieveEratosthenes = (n) => { // n: int
         return primes;
     }
     let u = n + 32;
-    let lu = lge(u);
+    let lu = Math.log(u);
     let divide = u / lu;
     let divideT = divide / lu;
     let len = divide + divideT * 1.5;
@@ -66,4 +48,54 @@ const sieveEratosthenes = (n) => { // n: int
         }
     }
     return res.slice(0, pos);
+};
+
+/**
+ * 07/03/21 evening
+ * https://www.geeksforgeeks.org/sieve-of-eratosthenes/
+ * https://www.geeksforgeeks.org/sieve-eratosthenes-0n-time-complexity/
+ * 
+ * read:
+ * https://www.geeksforgeeks.org/segmented-sieve/
+ */
+const sieveEratosthenes2 = (n) => {
+    let prime = Array(n + 1).fill(true);
+    for (let p = 2; p * p <= n; p++) {
+        if (prime[p] == true) {
+            for (let i = p * p; i <= n; i += p) prime[i] = false;
+        }
+    }
+    let res = new Set();
+    for (let p = 2; p <= n; p++) {
+        if (prime[p]) res.add(p);
+    }
+    // return prime;
+    return res;
+};
+
+///////////////////////////////////////////////////////////////////////////////
+// https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/
+// Example: https://leetcode.com/problems/prime-palindrome/
+const millerRabin = (d, n) => {
+    let a = 2 + parseInt(Math.random() % (n - 4));
+    let x = Number(powmod(BigInt(a), BigInt(d), BigInt(n)));
+    if (x == 1 || x == n - 1) return true;
+    while (d != n - 1) {
+        x = (x * x) % n;
+        d *= 2;
+        if (x == 1) return false;
+        if (x == n - 1) return true;
+    }
+    return false;
+};
+
+const isPrime = (n, k = 4) => { // n < Number.MAX_SAFE_INTERGER
+    if (n <= 1 || n == 4) return false;
+    if (n <= 3) return true;
+    let d = n - 1;
+    while (d % 2 == 0) d = parseInt(d / 2);
+    for (let i = 0; i < k; i++) {
+        if (!millerRabin(d, n)) return false;
+    }
+    return true;
 };
