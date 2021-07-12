@@ -661,6 +661,9 @@ https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/713909/ty
 638 Shopping Offers
 https://leetcode.com/problems/shopping-offers/discuss/958702/javascript-76ms-100-fast
 
+639 Decode Ways II
+https://leetcode.com/problems/decode-ways-ii/discuss/1329960/javascript-clean-dp-124ms-100
+
 640 Solve the Equation
 https://leetcode.com/problems/solve-the-equation/discuss/1023947/javascript-72ms
 
@@ -870,6 +873,9 @@ https://leetcode.com/problems/flipping-an-image/discuss/773759/javascript-soluti
 
 837 New 21 Game
 https://leetcode.com/problems/new-21-game/discuss/983952/javascript-solutions-overview
+
+839 Similar String Groups
+https://leetcode.com/problems/similar-string-groups/discuss/1323121/javascript-union-find-184ms
 
 840 Magic Squares In Grid
 https://leetcode.com/problems/magic-squares-in-grid/discuss/817807/javascript-solution-80ms
@@ -1112,6 +1118,9 @@ https://leetcode.com/problems/matrix-cells-in-distance-order/discuss/679526/java
 
 1033 Moving Stones Until Consecutive
 https://leetcode.com/problems/moving-stones-until-consecutive/discuss/911685/javascript-84ms
+
+1041 Robot Bounded In Circle
+https://leetcode.com/problems/robot-bounded-in-circle/discuss/1329889/javascript-direct-way-84ms
 
 1047 Remove All Adjacent Duplicates In String
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/773787/javascript-stack-solution
@@ -2001,3 +2010,18 @@ https://leetcode.com/problems/count-good-numbers/discuss/1314461/javascript-math
 
 1923 Longest Common Subpath
 https://leetcode.com/problems/longest-common-subpath/discuss/1314966/javascript-binary-search-%2B-rolling-hash
+
+1925 Count Square Sum Triples
+https://leetcode.com/problems/count-square-sum-triples/discuss/1329366/javascript-brute-force
+
+1927 Sum Game
+https://leetcode.com/problems/sum-game/discuss/1329295/javascript-greedy-5-lines-84ms
+
+1929 Concatenation of Array
+https://leetcode.com/problems/concatenation-of-array/discuss/1330400/javascript-1-line-108ms
+
+1930 Unique Length-3 Palindromic Subsequences
+https://leetcode.com/problems/unique-length-3-palindromic-subsequences/discuss/1330385/javascript-hashset-%2B-hashmap-1336ms
+
+1931 Painting a Grid With Three Different Colors
+https://leetcode.com/problems/painting-a-grid-with-three-different-colors/discuss/1332044/javascript-dp-412ms
