@@ -319,7 +319,7 @@ https://leetcode.com/problems/peeking-iterator/discuss/1151213/javascript-use-ar
 290 Word Pattern
 https://leetcode.com/problems/word-pattern/discuss/748653/javascript-double-array-and-two-pointer
 
-295 Find Median from Data Stream
+295 Find Median from Data Stream (0) -> (2)
 https://leetcode.com/problems/find-median-from-data-stream/discuss/1116125/javascript-brute-force
 
 299 Bulls and Cows
@@ -1218,6 +1218,9 @@ https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/discus
 1218 Longest Arithmetic Subsequence of Given Difference
 https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/977144/javascript-dp-120ms-97.06-fast
 
+1220 Count Vowels Permutation
+https://leetcode.com/problems/count-vowels-permutation/discuss/1333553/javascript-easy-dp-152ms
+
 1222 Queens That Can Attack the King (0) -> (-1)
 https://leetcode.com/problems/queens-that-can-attack-the-king/discuss/1246324/javascript-direct-8-directions-search-first-queen-128ms
 
@@ -1380,6 +1383,9 @@ https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/j
 1410 HTML Entity Parser (-2)
 https://leetcode.com/problems/html-entity-parser/discuss/749981/javascript-solution
 
+1416 Restore The Array
+https://leetcode.com/problems/restore-the-array/discuss/1333663/javascript-dp-136ms
+
 1418 Display Table of Food Orders in a Restaurant
 https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/discuss/1149490/javascript-hashset-hashmap-sort-160ms-98.31
 
@@ -1407,7 +1413,7 @@ https://leetcode.com/problems/design-browser-history/discuss/1124802/javascript-
 1477 Find Two Non-overlapping Sub-arrays Each With Target Sum
 https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/discuss/982835/javascript-sliding-window-with-dp-table
 
-1481 Least Number of Unique Integers after K Removals (0) -> (1) -> (2)
+1481 Least Number of Unique Integers after K Removals (0) -> (1) -> (2) -> (3)
 https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/discuss/1064218/javascript-twp-solutions
 
 1487 Making File Names Unique
