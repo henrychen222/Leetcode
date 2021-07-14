@@ -832,6 +832,9 @@ https://leetcode.com/problems/champagne-tower/discuss/939954/javascript-2D-DP-%2
 801 Minimum Swaps To Make Sequences Increasing
 https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/discuss/931458/javascript-dfs-and-dp
 
+803 Bricks Falling When Hit
+https://leetcode.com/problems/bricks-falling-when-hit/discuss/1335706/javascript-dfs-248ms-71.43
+
 806 Number of Lines To Write String
 https://leetcode.com/problems/number-of-lines-to-write-string/discuss/914398/javascript-76ms
 
