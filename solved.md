@@ -811,11 +811,19 @@ https://leetcode.com/problems/toeplitz-matrix/discuss/817560/javascript-JSON-dat
 775 Global and Local Inversions
 https://leetcode.com/problems/global-and-local-inversions/discuss/738305/javascript-two-pointer
 
+778 Swim in Rising Water
+https://leetcode.com/problems/swim-in-rising-water/discuss/1340640/javascript-easy-bfs-92ms-85.45
+
 787 Cheapest Flights Within K Stops (1) -> (2)
 https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/934002/javascript-Dijkstra-%2B-PQ-DFS-BFS-DP-solutions-overview
 
 790 Domino and Tromino Tiling
 https://leetcode.com/problems/domino-and-tromino-tiling/discuss/934923/javascript-dp-88ms
+
+791 Custom Sort String
+https://leetcode.com/problems/custom-sort-string/discuss/1338813/javascript-direct-5-lines-88ms
+https://leetcode.com/problems/custom-sort-string/discuss/466866/JavaScript-1-liner
+https://leetcode.com/problems/custom-sort-string/discuss/1337901/Javascript-Hashmap-Easy-Solution-(0(N)-Space)-(0(N)-%2B-N(log(n))-Time)  (0) -> (3)
 
 792 Number of Matching Subsequences
 https://leetcode.com/problems/number-of-matching-subsequences/discuss/1291682/javascript-check-isSubsequence-%2B-Set-memorization-144ms-91.79
