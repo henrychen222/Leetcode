@@ -418,6 +418,9 @@ https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/834971/javascri
 381 Insert Delete GetRandom O(1) - Duplicates allowed
 https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/discuss/1168430/javascript-array-esay-%2B-hashmap-tricky-two-solutions
 
+384 Shuffle an Array
+https://leetcode.com/problems/shuffle-an-array/discuss/1351871/javascript-direct-way-268ms
+
 386 Lexicographical Numbers
 https://leetcode.com/problems/lexicographical-numbers/discuss/981327/javascript-two-solutions
 
@@ -875,6 +878,9 @@ https://leetcode.com/problems/friends-of-appropriate-ages/discuss/738407/javascr
 
 826 Most Profit Assigning Work
 https://leetcode.com/problems/most-profit-assigning-work/discuss/836396/javascript-brute-force
+
+827 Making A Large Island
+https://leetcode.com/problems/making-a-large-island/discuss/1351798/javascript-dfs-(paint-grid)-208ms-99.42
 
 830 Positions of Large Groups
 https://leetcode.com/problems/positions-of-large-groups/discuss/793980/javascript-stack-96ms
