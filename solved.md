@@ -987,6 +987,9 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1084679/javascript-
 924 Minimize Malware Spread
 https://leetcode.com/problems/minimize-malware-spread/discuss/1308834/javascript-union-find-260ms
 
+927 Three Equal Parts
+https://leetcode.com/problems/three-equal-parts/discuss/1344741/javascript-math-100ms
+
 930 Binary Subarrays With Sum
 https://leetcode.com/problems/binary-subarrays-with-sum/discuss/1074007/javascript-two-pointer-and-sliding-window
 
@@ -2042,3 +2045,15 @@ https://leetcode.com/problems/unique-length-3-palindromic-subsequences/discuss/1
 
 1931 Painting a Grid With Three Different Colors
 https://leetcode.com/problems/painting-a-grid-with-three-different-colors/discuss/1332044/javascript-dp-412ms
+
+1935 Maximum Number of Words You Can Type
+https://leetcode.com/problems/maximum-number-of-words-you-can-type/discuss/1345004/javascript-direct-way-103ms-use-set
+
+1936 Add Minimum Number of Rungs
+https://leetcode.com/problems/add-minimum-number-of-rungs/discuss/1345102/javascript-direct-way-88ms
+
+1937 Maximum Number of Points with Cost (0) -> (2)
+https://leetcode.com/problems/maximum-number-of-points-with-cost/discuss/1345021/javascript-easy-dp
+
+1938 Maximum Genetic Difference Query
+https://leetcode.com/problems/maximum-genetic-difference-query/discuss/1345306/javascript-dfs-1972ms
