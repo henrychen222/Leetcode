@@ -808,6 +808,9 @@ https://leetcode.com/problems/shortest-completing-word/discuss/834038/javascript
 764 Largest Plus Sign
 https://leetcode.com/problems/largest-plus-sign/discuss/946068/javascript-brute-force-and-dp
 
+765 Couples Holding Hands
+https://leetcode.com/problems/couples-holding-hands/discuss/1355502/javascript-union-find-greedy-two-solutions-76ms
+
 766 Toeplitz Matrix
 https://leetcode.com/problems/toeplitz-matrix/discuss/817560/javascript-JSON-data-check-diagonals-96ms
 
@@ -2063,3 +2066,12 @@ https://leetcode.com/problems/maximum-number-of-points-with-cost/discuss/1345021
 
 1938 Maximum Genetic Difference Query
 https://leetcode.com/problems/maximum-genetic-difference-query/discuss/1345306/javascript-dfs-1972ms
+
+1941 Check if All Characters Have Equal Number of Occurrences
+https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/discuss/1360096/javascript-use-set-92ms
+
+1942 The Number of the Smallest Unoccupied Chair
+https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/discuss/1360056/javascript-min-pq-200ms
+
+1944 Number of Visible People in a Queue
+https://leetcode.com/problems/number-of-visible-people-in-a-queue/discuss/1360131/javascript-two-pointer-brute-force

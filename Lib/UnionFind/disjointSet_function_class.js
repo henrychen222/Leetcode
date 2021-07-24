@@ -55,9 +55,12 @@ function DJSet(n) {
 //////////////////////// standard one ///////////////////////////////////
 // 06/23/21 evening https://leetcode.com/problems/count-sub-islands/
 // 06/24/21 night https://leetcode.com/problems/redundant-connection/
+// 07/22/21 moring https://leetcode.com/problems/couples-holding-hands/
 function DJSet(n) {
+    // parent[i] < 0, -parent[i] is the group size which root is i. example: (i -> parent[i] -> parent[parent[i]] -> parent[parent[parent[i]]] ...)
+    // parent[i] >= 0, i is not the root and parent[i] is i's parent. example: (... parent[parent[parent[i]]] -> parent[parent[i]] -> parent[i] -> i)
     let parent = Array(n).fill(-1);
-    return { find, union, getParent }
+    return { find, union, count, getParent }
     function find(x) {
         return parent[x] < 0 ? x : parent[x] = find(parent[x]);
     }
@@ -70,6 +73,9 @@ function DJSet(n) {
             parent[y] = x;
         }
         return x == y;
+    }
+    function count() { // total connected groups (value < 0)
+        return parent.filter(v => v < 0).length;
     }
     function getParent() {
         return parent;
