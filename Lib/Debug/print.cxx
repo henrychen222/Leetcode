@@ -49,6 +49,16 @@ public:
         cout << '\n';
     }
 
+    void print_map_vector(unordered_map<string, vector<string>> map) {
+        for (const auto &p : map) {
+            cout << p.first << " : [";
+            for (const auto &s : p.second) {
+                 cout << s << " ";
+            }
+            cout << "]" << endl;
+        }
+    }
+
     void print_map_vector(unordered_map<int, vector<int>> map) {
         for (auto it = map.begin(); it != map.end(); ++it) {
             cout << it->first << " : ";

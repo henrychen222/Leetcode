@@ -178,6 +178,12 @@ https://leetcode.com/problems/pascals-triangle-ii/discuss/786617/javascript-76ms
 121 Best Time to Buy and Sell Stock (0) -> (-1)
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/792461/javascript-two-pointer
 
+126 Word Ladder II
+https://leetcode.com/problems/word-ladder-ii/discuss/1360564/javascript-bfs-dfs-112ms
+
+127 Word Ladder
+https://leetcode.com/problems/word-ladder/discuss/1360583/javascript-BFS-%2B-DFS-280ms
+
 128 Longest Consecutive Sequence
 https://leetcode.com/problems/longest-consecutive-sequence/discuss/1256255/javascript-use-set-96ms
 
@@ -624,6 +630,9 @@ https://leetcode.com/problems/big-countries/discuss/773640/MySQL-faster-than-33.
 
 596 Classes More Than 5 Students
 https://leetcode.com/problems/classes-more-than-5-students/discuss/810339/MySQL-group-by-having
+
+600 Non-negative Integers without Consecutive Ones
+https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/discuss/1363396/javascript-84ms
 
 605 Can Place Flowers
 https://leetcode.com/problems/can-place-flowers/discuss/780317/javascript-solution-80ms
@@ -2061,7 +2070,7 @@ https://leetcode.com/problems/maximum-number-of-words-you-can-type/discuss/13450
 1936 Add Minimum Number of Rungs
 https://leetcode.com/problems/add-minimum-number-of-rungs/discuss/1345102/javascript-direct-way-88ms
 
-1937 Maximum Number of Points with Cost (0) -> (2)
+1937 Maximum Number of Points with Cost (0) -> (2) -> (1)
 https://leetcode.com/problems/maximum-number-of-points-with-cost/discuss/1345021/javascript-easy-dp
 
 1938 Maximum Genetic Difference Query
@@ -2075,3 +2084,12 @@ https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/discus
 
 1944 Number of Visible People in a Queue
 https://leetcode.com/problems/number-of-visible-people-in-a-queue/discuss/1360131/javascript-two-pointer-brute-force
+
+1945 Sum of Digits of String After Convert (0) -> (1)
+https://leetcode.com/problems/sum-of-digits-of-string-after-convert/discuss/1361144/javascript-direct-way-68ms
+
+1946 Largest Number After Mutating Substring (0) -> (1)
+https://leetcode.com/problems/largest-number-after-mutating-substring/discuss/1361123/javascript-greedy-204ms
+
+1947 Maximum Compatibility Score Sum
+https://leetcode.com/problems/maximum-compatibility-score-sum/discuss/1361083/javascript-next_permutation-1044ms

@@ -53,10 +53,10 @@ const spiralOrder_counter_clockwise = (g) => {
     return res;
 };
 
-const generateMatrix_counter_clockwise = (resource, n, m) => { // resource is 1D array  n: row, m: col
+const generateMatrix_counter_clockwise = (resource, n, m) => { // resource: 1D array  n: row, m: col
     let g = initialize2DArrayNew(n, m);
     let i = j = 0;
-    let move = 'd';
+    let move = 'd'; // down -> right -> up -> left
     let tot = n * m;
     while (tot--) {
         let x = resource.shift();
@@ -141,7 +141,7 @@ const spiralOrder_clockwise = (g) => {
             visit[i][j] = 1;
             if (i - 1 >= 0 && visit[i - 1][j] == 0) { // move up still valid
                 i--;
-            } else {  // not valid chage direction to right
+            } else { // not valid chage direction to right
                 move = 'r';
                 j++;
             }
@@ -150,27 +150,25 @@ const spiralOrder_clockwise = (g) => {
     return res;
 };
 
-// Example: https://leetcode.com/problems/spiral-matrix-ii/discuss/1224414/javascript-76ms-79.88
-const generateMatrix_clockwise = (n) => {
-    let g = initialize2DArrayNew(n, n);
+/**
+ * Example
+ * (1) https://leetcode.com/problems/spiral-matrix-ii/discuss/1224414/javascript-76ms-79.88
+ * (2) uber OA Q3
+ */
+const generateMatrix_clockwise = (resource, n, m) => { // resource: 1D array  n: row, m: col
+    let g = initialize2DArrayNew(n, m);
     let i = j = 0;
-    let move = 'r';
-    for (let x = 1; x <= n * n; x++) {
+    let move = 'r'; // right -> down -> left -> up
+    let tot = n * m;
+    while (tot--) {
+        let x = resource.shift();
         if (move == 'r') {
             g[i][j] = x;
-            if (j + 1 < n && g[i][j + 1] == 0) {
+            if (j + 1 < m && g[i][j + 1] == 0) {
                 j++;
             } else {
                 move = 'd';
                 i++;
-            }
-        } else if (move == 'l') {
-            g[i][j] = x;
-            if (j - 1 >= 0 && g[i][j - 1] == 0) {
-                j--;
-            } else {
-                move = 'u';
-                i--;
             }
         } else if (move == 'd') {
             g[i][j] = x;
@@ -179,6 +177,14 @@ const generateMatrix_clockwise = (n) => {
             } else {
                 move = 'l';
                 j--;
+            }
+        } else if (move == 'l') {
+            g[i][j] = x;
+            if (j - 1 >= 0 && g[i][j - 1] == 0) {
+                j--;
+            } else {
+                move = 'u';
+                i--;
             }
         } else if (move == 'u') {
             g[i][j] = x;
@@ -191,4 +197,27 @@ const generateMatrix_clockwise = (n) => {
         }
     }
     return g;
+};
+
+const removeLayerMark = (sp) => { // sp: spiral order data with layer/mark as starting point
+    /*
+      input: [[9,'layer'],1, 12, 20, 2, 0, -6, 5, -4, 7, [6,'layer'], 2]
+      output: [[9, 1, 12, 20, 2, 0, -6,  5, -4, 7], [ 6, 2 ]]
+    */
+    let d = [];
+    let prev = 0;
+    let i;
+    for (i = 1; i < sp.length; i++) {
+        if (sp[i].length == 2) {
+            let tmp = sp.slice(prev, i);
+            let first = tmp.shift();
+            tmp.unshift(first[0]);
+            d.push(tmp);
+            prev = i;
+        }
+    }
+    let last = sp.slice(prev);
+    last[0] = last[0][0];
+    d.push(last);
+    return d;
 };
