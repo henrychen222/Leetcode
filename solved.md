@@ -21,6 +21,9 @@ https://leetcode.com/problems/container-with-most-water/discuss/723025/javascrip
 12 Integer to Roman
 https://leetcode.com/problems/integer-to-roman/discuss/1103249/javascript-use-mod-144ms-97.46
 
+16 3Sum Closest
+https://leetcode.com/problems/3sum-closest/discuss/1369478/javascript-sliding-window-84ms
+
 17 Letter Combinations of a Phone Number
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/748548/javascript-72ms
 
@@ -951,6 +954,9 @@ https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/discuss/97
 876 Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascript-solution
 
+880 Decoded String at Index
+https://leetcode.com/problems/decoded-string-at-index/discuss/1369688/javascript-dp-76ms
+
 888 Fair Candy Swap
 https://leetcode.com/problems/fair-candy-swap/discuss/783921/javascript-solution
 
@@ -1013,6 +1019,9 @@ https://leetcode.com/problems/binary-subarrays-with-sum/discuss/1074007/javascri
 
 931 Minimum Falling Path Sum
 https://leetcode.com/problems/minimum-falling-path-sum/discuss/895173/javascript-dp
+
+932 Beautiful Array
+https://leetcode.com/problems/beautiful-array/discuss/1369387/javascript-even-odd-enlarge-from-1-80ms-100
 
 933 Number of Recent Calls
 https://leetcode.com/problems/number-of-recent-calls/discuss/912766/javascript-array-and-queue-solutions

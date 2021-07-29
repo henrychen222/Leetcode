@@ -1,10 +1,32 @@
 /**
- * 7.16 night
+ * 07/16/20 night  07/28/21 night complete
  * https://leetcode.com/problems/3sum-closest/
  */
 
+// Accepted --- 84ms 72.96%
+// reference: https://zxi.mytechroad.com/blog/two-pointers/leetcode-16-3sum-closest/
+const threeSumClosest = (a, target) => {
+    let n = a.length, minD = Number.MAX_SAFE_INTEGER, res = target;
+    a.sort((x, y) => x - y);
+    for (let i = 0; i < n - 2; i++) {
+        let left = i + 1, right = n - 1;
+        while (left < right) {
+            let sum = a[i] + a[left] + a[right];
+            if (sum == target) return target;
+            let diff = Math.abs(sum - target);
+            if (diff < minD) {
+                minD = diff;
+                res = sum;
+            }
+            sum > target ? right-- : left++;
+        }
+    }
+    return res;
+};
+
+///////////////////////////////////////////////////////////////////////
 // Time limit 59/131
-const threeSumClosest = (nums, target) => {
+const threeSumClosest3 = (nums, target) => {
     let res = [];
     let i = 0;
     while (i < nums.length) {
@@ -94,9 +116,9 @@ const main = () => {
     let nums_debug3 = [0, 2, 1, -3],
         target_debug3 = 1;
     console.log(threeSumClosest(nums, target));
-    console.log(threeSumClosest(nums_debug1, target_debug1));
-    console.log(threeSumClosest(nums_debug2, target_debug2));
-    console.log(threeSumClosest(nums_debug3, target_debug3));
+    console.log(threeSumClosest(nums_debug1, target_debug1)); // 0
+    console.log(threeSumClosest(nums_debug2, target_debug2)); // 1
+    console.log(threeSumClosest(nums_debug3, target_debug3)); // 0
 };
 
 main()
