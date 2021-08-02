@@ -63,6 +63,9 @@ https://leetcode.com/problems/valid-sudoku/discuss/1162273/javascript-direct-way
 41 First Missing Positive (0) -> (1)
 https://leetcode.com/problems/first-missing-positive/discuss/1117913/javascript-array-sort-%2B-HashSet-searching-76ms-91.44
 
+42 Trapping Rain Water
+https://leetcode.com/problems/trapping-rain-water/discuss/1375846/javascript-dp-80ms
+
 43 Multiply Strings (-1) -> (-2) -> (-3)
 https://leetcode.com/problems/multiply-strings/discuss/1043895/javascript-one-line-128ms
 
@@ -450,6 +453,9 @@ https://leetcode.com/problems/integer-replacement/discuss/1242106/javascript-eas
 
 400 Nth Digit
 https://leetcode.com/problems/nth-digit/discuss/1224499/javascript-72ms-95.74
+
+407 Trapping Rain Water II
+https://leetcode.com/problems/trapping-rain-water-ii/discuss/1377646/javascript-min-pqheap-152ms-95
 
 412 Fizz Buzz
 https://leetcode.com/problems/fizz-buzz/discuss/774053/javascript-nested-if-else-84ms
@@ -2102,3 +2108,15 @@ https://leetcode.com/problems/largest-number-after-mutating-substring/discuss/13
 
 1947 Maximum Compatibility Score Sum
 https://leetcode.com/problems/maximum-compatibility-score-sum/discuss/1361083/javascript-next_permutation-1044ms
+
+1952 Three Divisors
+https://leetcode.com/problems/three-divisors/discuss/1375684/javascript-direct-way-92ms
+
+1953 Maximum Number of Weeks for Which You Can Work
+https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/discuss/1375616/javascript-greedy-4-lines
+
+1954 Minimum Garden Perimeter to Collect Enough Apples
+https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/discuss/1375668/javascript-binary-search-6-lines
+
+1955 Count Number of Special Subsequences
+https://leetcode.com/problems/count-number-of-special-subsequences/discuss/1377603/javascript-dp-124ms
