@@ -1,3 +1,5 @@
+1 Two Sum
+https://leetcode.com/problems/two-sum/discuss/1379953/javascript-hashmap-84ms
 
 2 Add Two Numbers
 https://leetcode.com/problems/add-two-numbers/discuss/993258/javascript-transfer-to-array-and-using-BigInt-140ms
@@ -297,6 +299,9 @@ https://leetcode.com/problems/summary-ranges/discuss/738277/javascript-solution
 
 229 Majority Element II
 https://leetcode.com/problems/majority-element-ii/discuss/735001/javascript-solution
+
+233 Number of Digit One
+https://leetcode.com/problems/number-of-digit-one/discuss/1382328/javascript-72ms
 
 234 Palindrome Linked List
 https://leetcode.com/problems/palindrome-linked-list/discuss/707551/typescript-solution
