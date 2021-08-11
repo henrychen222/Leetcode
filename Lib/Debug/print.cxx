@@ -66,6 +66,14 @@ public:
             cout << endl;
         }
     }
+    
+    void print_map_vector_pair (map<int, vector<pair<int, int>>> map) {
+        for (const auto &p : map) {
+            cout << p.first << " : [";
+            for (const auto &[x, y] : p.second) cout << "[" << x << " " << y << "]";
+            cout << "]" << endl;
+        }
+    }
 
     ////////////////////////////// Set ////////////////////////////////////////////
     void print_set(set<int> s) {

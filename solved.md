@@ -470,6 +470,7 @@ https://leetcode.com/problems/arithmetic-slices/discuss/897962/javascript-two-po
 
 415 Add Strings
 https://leetcode.com/problems/add-strings/discuss/804734/javascript-112ms
+https://leetcode.com/problems/add-strings/discuss/1392684/javascipt-bigInt-1-line-84ms
 
 416 Partition Equal Subset Sum
 https://leetcode.com/problems/partition-equal-subset-sum/discuss/941291/javascript-solutions-overview
@@ -1021,6 +1022,9 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1084679/javascript-
 
 924 Minimize Malware Spread
 https://leetcode.com/problems/minimize-malware-spread/discuss/1308834/javascript-union-find-260ms
+
+926 Flip String to Monotone Increasing
+https://leetcode.com/problems/flip-string-to-monotone-increasing/discuss/1396570/javascript-greedy-%2B-lower_bound-116ms
 
 927 Three Equal Parts
 https://leetcode.com/problems/three-equal-parts/discuss/1344741/javascript-math-100ms
@@ -1594,6 +1598,9 @@ https://leetcode.com/problems/arithmetic-subarrays/discuss/909185/javascript-248
 1631 Path With Minimum Effort
 https://leetcode.com/problems/path-with-minimum-effort/discuss/909263/javascript-Union-Find-248ms
 
+1632 Rank Transform of a Matrix
+https://leetcode.com/problems/rank-transform-of-a-matrix/discuss/1392854/javascript-union-find-%2B-ordered-map-696ms
+
 1636 Sort Array by Increasing Frequency (1)
 https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/917808/javascript-hashmap-96ms
 
@@ -1878,7 +1885,7 @@ https://leetcode.com/problems/minimum-absolute-sum-difference/discuss/1190388/ja
 1822 Sign of the Product of an Array (0) -> (2)
 https://leetcode.com/problems/sign-of-the-product-of-an-array/discuss/1152657/javascript-just-negative-count-84ms
 
-1823 Find the Winner of the Circular Game (0) -> (1)
+1823 Find the Winner of the Circular Game (0) -> (1) -> (2)
 https://leetcode.com/problems/find-the-winner-of-the-circular-game/discuss/1152631/javascript-Joseph-Ring-(rotated-array)-100ms
 
 1825 Finding MK Average
@@ -2125,3 +2132,18 @@ https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/
 
 1955 Count Number of Special Subsequences
 https://leetcode.com/problems/count-number-of-special-subsequences/discuss/1377603/javascript-dp-124ms
+
+1957 Delete Characters to Make Fancy String
+https://leetcode.com/problems/delete-characters-to-make-fancy-string/discuss/1392240/javascript-direct-way-176ms
+
+1961 Check If String Is a Prefix of Array
+https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/discuss/1390332/javascript-direct-way-117ms
+
+1962 Remove Stones to Minimize the Total (0) -> (1)
+https://leetcode.com/problems/remove-stones-to-minimize-the-total/discuss/1390349/javascript-greedy-with-max-pqheap
+
+1963 Minimum Number of Swaps to Make the String Balanced
+https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/discuss/1390399/javascript-greedy-159ms
+
+1964 Find the Longest Valid Obstacle Course at Each Position
+https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/discuss/1390613/javascript-lower_bound-408ms
