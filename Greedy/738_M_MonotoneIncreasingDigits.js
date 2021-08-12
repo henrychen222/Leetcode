@@ -1,8 +1,27 @@
 /**
- * 9.22 evening
+ * 09/22/20 evening  08/11/21 night complete
  * https://leetcode.com/problems/monotone-increasing-digits/
  */
 
+// Accepted --- 84ms 18.52%
+// reference: https://www.cnblogs.com/grandyang/p/8068326.html
+const monotoneIncreasingDigits = (N) => {
+    let a = (N + '').split("");
+    // console.log(a);
+    let n = a.length;
+    let j = n;
+    for (let i = n - 1; i > 0; i--) {
+        if (a[i - 1] <= a[i]) continue;
+        a[i - 1]--;
+        j = i;
+    }
+    // console.log(a);
+    for (let i = j; i < n; i++) a[i] = 9;
+    return a.join("") - '0';
+};
+
+
+/////////////////////////// 09/22/20 evening ///////////////////////////
 // Time limit 212/302
 const monotoneIncreasingDigits1 = (N) => {
     for (let item = N;; item--) {

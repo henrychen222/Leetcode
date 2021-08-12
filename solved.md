@@ -814,6 +814,9 @@ https://leetcode.com/problems/flood-fill/discuss/910362/javascript-direct-soluti
 735 Asteroid Collision
 https://leetcode.com/problems/asteroid-collision/discuss/1136947/javascript-stack-88ms-90.34
 
+738 Monotone Increasing Digits
+https://leetcode.com/problems/monotone-increasing-digits/discuss/1398816/javascript-greedy-84ms
+
 739 Daily Temperatures (0) -> (1)
 https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-pointer
 
@@ -1072,6 +1075,9 @@ https://leetcode.com/problems/largest-component-size-by-common-factor/discuss/12
 
 953 Verifying an Alien Dictionary
 https://leetcode.com/problems/verifying-an-alien-dictionary/discuss/803210/javascript-72ms-faster-than-79.86
+
+954 Array of Doubled Pairs
+https://leetcode.com/problems/array-of-doubled-pairs/discuss/1398726/javascript-ordered-map-dynamical-deletion-172ms
 
 962 Maximum Width Ramp (0) -> (-1)
 https://leetcode.com/problems/maximum-width-ramp/discuss/739736/javascript-two-pointer
