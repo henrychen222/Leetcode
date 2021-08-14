@@ -1520,6 +1520,9 @@ https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/discuss/79
 1556 Thousand Separator
 https://leetcode.com/problems/thousand-separator/discuss/805893/javascript-solution
 
+1559 Detect Cycles in 2D Grid
+https://leetcode.com/problems/detect-cycles-in-2d-grid/discuss/1402176/javascript-bfs-180ms
+
 1560 Most Visited Sector in a Circular Track
 https://leetcode.com/problems/most-visited-sector-in-a-circular-track/discuss/806952/javascript-hashMap-solution
 
@@ -2142,7 +2145,7 @@ https://leetcode.com/problems/count-number-of-special-subsequences/discuss/13776
 1957 Delete Characters to Make Fancy String
 https://leetcode.com/problems/delete-characters-to-make-fancy-string/discuss/1392240/javascript-direct-way-176ms
 
-1961 Check If String Is a Prefix of Array
+1961 Check If String Is a Prefix of Array (0) -> (1) -> (2)
 https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/discuss/1390332/javascript-direct-way-117ms
 
 1962 Remove Stones to Minimize the Total (0) -> (1)
