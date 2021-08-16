@@ -117,6 +117,9 @@ https://leetcode.com/problems/set-matrix-zeroes/discuss/905167/javascript-JSON-d
 74 Search a 2D Matrix
 https://leetcode.com/problems/search-a-2d-matrix/discuss/736803/javascript-easy-linear-search
 
+76 Minimum Window Substring
+https://leetcode.com/problems/minimum-window-substring/discuss/1407277/javascript-sliding-window-%2B-hashmap-92ms
+
 77 Combinations
 https://leetcode.com/problems/combinations/discuss/1103735/javascript-dfs-and-iterative-116ms-86.49
 
@@ -2156,3 +2159,15 @@ https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balance
 
 1964 Find the Longest Valid Obstacle Course at Each Position
 https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/discuss/1390613/javascript-lower_bound-408ms
+
+1967 Number of Strings That Appear as Substrings in Word
+https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/discuss/1404222/javascript-direct-way-107ms
+
+1968 Array With Elements Not Equal to Average of Neighbors
+https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/discuss/1404247/javascipt-greedy-sort-and-swap-520ms
+
+1969 Minimum Non-Zero Product of the Array Elements
+https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/discuss/1404294/javascript-pow-mod-64ms
+
+1970 Last Day Where You Can Still Cross
+https://leetcode.com/problems/last-day-where-you-can-still-cross/discuss/1404203/javascript-binary-search-%2B-bfs-336ms
