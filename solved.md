@@ -1376,6 +1376,9 @@ https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-dis
 1338 Reduce Array Size to The Half
 https://leetcode.com/problems/reduce-array-size-to-the-half/discuss/1320426/javascript-direct-way-196ms
 
+1339 Maximum Product of Splitted Binary Tree
+https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/discuss/1414094/javascript-dfs-accumulate-subtree-sum-156ms
+
 1344 Angle Between Hands of a Clock
 https://leetcode.com/problems/angle-between-hands-of-a-clock/discuss/1107808/javascript-4-lines-76ms-76.34
 
@@ -1498,6 +1501,9 @@ https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/discuss/887
 
 1546 Maximum Number of Non-Overlapping Subarrays With Sum Equals Target
 https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/discuss/986783/javascript-136ms
+
+1584 Min Cost to Connect All Points
+https://leetcode.com/problems/min-cost-to-connect-all-points/discuss/1413872/javascript-kruskal-mst-with-union-find-992ms
 
 1594 Maximum Non Negative Product in a Matrix
 https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/discuss/890723/javascript-dp
@@ -2166,7 +2172,7 @@ https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-wor
 1968 Array With Elements Not Equal to Average of Neighbors
 https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/discuss/1404247/javascipt-greedy-sort-and-swap-520ms
 
-1969 Minimum Non-Zero Product of the Array Elements
+1969 Minimum Non-Zero Product of the Array Elements (0) -> (-1)
 https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/discuss/1404294/javascript-pow-mod-64ms
 
 1970 Last Day Where You Can Still Cross
