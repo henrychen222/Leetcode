@@ -62,6 +62,9 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 36 Valid Sudoku
 https://leetcode.com/problems/valid-sudoku/discuss/1162273/javascript-direct-way-104ms
 
+37 Sudoku Solver
+https://leetcode.com/problems/sudoku-solver/discuss/1418518/javascript-dfsbacktracking-228ms
+
 41 First Missing Positive (0) -> (1)
 https://leetcode.com/problems/first-missing-positive/discuss/1117913/javascript-array-sort-%2B-HashSet-searching-76ms-91.44
 
@@ -2177,3 +2180,12 @@ https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/dis
 
 1970 Last Day Where You Can Still Cross
 https://leetcode.com/problems/last-day-where-you-can-still-cross/discuss/1404203/javascript-binary-search-%2B-bfs-336ms
+
+1974 Minimum Time to Type Word Using Special Typewriter
+https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/discuss/1418290/javascript-greedy-124ms
+
+1975 Maximum Matrix Sum
+https://leetcode.com/problems/maximum-matrix-sum/discuss/1418281/javascript-greedy-131ms
+
+1976 Number of Ways to Arrive at Destination
+https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/discuss/1418253/javascript-dijkstra-132ms
