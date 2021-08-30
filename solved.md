@@ -390,6 +390,9 @@ https://leetcode.com/problems/odd-even-linked-list/discuss/997849/javascript-usi
 329 Longest Increasing Path in a Matrix
 https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/1151349/javascript-dfs-%2B-memo-100ms-93.73
 
+330 Patching Array
+https://leetcode.com/problems/patching-array/discuss/1433987/javascript-greedy-103ms
+
 336 Palindrome Pairs
 https://leetcode.com/problems/palindrome-pairs/discuss/1219796/javascript-brute-force-%2B-hashmap
 
@@ -561,6 +564,9 @@ https://leetcode.com/problems/max-consecutive-ones/discuss/788802/javascript-sta
 
 486 Predict the Winner
 https://leetcode.com/problems/predict-the-winner/discuss/975826/javascript-dfs-and-dp
+
+491 Increasing Subsequences
+https://leetcode.com/problems/increasing-subsequences/discuss/1434010/javascript-bitmask-brute-force-375ms
 
 493 Reverse Pairs
 https://leetcode.com/problems/reverse-pairs/discuss/1202344/javascript-fenwick
