@@ -948,6 +948,9 @@ https://leetcode.com/problems/shifting-letters/discuss/1046728/javascript-brute-
 849 Maximize Distance to Closest Person
 https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/783439/javascript-two-pointer-left-and-right-search-84ms
 
+850 Rectangle Area II
+https://leetcode.com/problems/rectangle-area-ii/discuss/1420610/javascript-dfs-68ms-100
+
 856 Score of Parentheses
 https://leetcode.com/problems/score-of-parentheses/discuss/833444/javascript-stack-solution-72ms
 
@@ -2187,5 +2190,29 @@ https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter
 1975 Maximum Matrix Sum
 https://leetcode.com/problems/maximum-matrix-sum/discuss/1418281/javascript-greedy-131ms
 
-1976 Number of Ways to Arrive at Destination
+1976 Number of Ways to Arrive at Destination (0) -> (2)
 https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/discuss/1418253/javascript-dijkstra-132ms
+
+1979 Find Greatest Common Divisor of Array (0) -> (2)
+https://leetcode.com/problems/find-greatest-common-divisor-of-array/discuss/1418809/javascript-direct-way-77ms
+
+1980 Find Unique Binary String
+https://leetcode.com/problems/find-unique-binary-string/discuss/1418791/javascript-binary-decimal-conversions-452ms
+
+1981 Minimize the Difference Between Target and Chosen Elements
+https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/discuss/1418776/javascript-dp
+
+1984 Minimum Difference Between Highest and Lowest of K Scores
+https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/discuss/1431925/javascript-greedy-142ms
+
+1985 Find the Kth Largest Integer in the Array
+https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/discuss/1431902/javascript-large-number-sort-167ms
+
+1984 Minimum Difference Between Highest and Lowest of K Scores
+https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/discuss/1431925/javascript-greedy-142ms
+
+1986 Minimum Number of Work Sessions to Finish the Tasks (0) -> (1)
+https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/discuss/1432132/javascript-bitmask-dp-144ms
+
+1987 Number of Unique Good Subsequences
+https://leetcode.com/problems/number-of-unique-good-subsequences/discuss/1431978/javascript-O(1)-space-dp-141ms
