@@ -65,6 +65,12 @@ https://leetcode.com/problems/valid-sudoku/discuss/1162273/javascript-direct-way
 37 Sudoku Solver
 https://leetcode.com/problems/sudoku-solver/discuss/1418518/javascript-dfsbacktracking-228ms
 
+39 Combination Sum
+https://leetcode.com/problems/combination-sum/discuss/1435980/javascript-dfs-151ms
+
+40 Combination Sum II
+https://leetcode.com/problems/combination-sum-ii/discuss/1435950/javascript-dfs-128ms
+
 41 First Missing Positive (0) -> (1)
 https://leetcode.com/problems/first-missing-positive/discuss/1117913/javascript-array-sort-%2B-HashSet-searching-76ms-91.44
 
@@ -296,6 +302,9 @@ https://leetcode.com/problems/design-add-and-search-words-data-structure/discuss
 
 215 Kth Largest Element in an Array
 https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/838343/javascript-one-line-80ms
+
+216 Combination Sum III
+https://leetcode.com/problems/combination-sum-iii/discuss/1436005/javascript-dfs-146ms
 
 220 Contains Duplicate III (-1)
 https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
@@ -1418,7 +1427,7 @@ https://leetcode.com/problems/number-of-substrings-containing-all-three-characte
 1360 Number of Days Between Two Dates (-1)
 https://leetcode.com/problems/number-of-days-between-two-dates/discuss/778894/javascript-80ms-compared-with-01-01-1971
 
-1366 Rank Teams by Votes
+1366 Rank Teams by Votes (0) -> (1)
 https://leetcode.com/problems/rank-teams-by-votes/discuss/1144523/javascript-count-map-custom-sort-100ms
 
 1367 Linked List in Binary Tree
