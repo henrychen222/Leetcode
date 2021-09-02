@@ -1056,6 +1056,9 @@ https://leetcode.com/problems/flip-string-to-monotone-increasing/discuss/1396570
 927 Three Equal Parts
 https://leetcode.com/problems/three-equal-parts/discuss/1344741/javascript-math-100ms
 
+928 Minimize Malware Spread II
+https://leetcode.com/problems/minimize-malware-spread-ii/discuss/1437974/javascript-union-find-281ms
+
 930 Binary Subarrays With Sum
 https://leetcode.com/problems/binary-subarrays-with-sum/discuss/1074007/javascript-two-pointer-and-sliding-window
 
