@@ -60,7 +60,7 @@ function DJSet(n) {
     // parent[i] < 0, -parent[i] is the group size which root is i. example: (i -> parent[i] -> parent[parent[i]] -> parent[parent[parent[i]]] ...)
     // parent[i] >= 0, i is not the root and parent[i] is i's parent. example: (... parent[parent[parent[i]]] -> parent[parent[i]] -> parent[i] -> i)
     let parent = Array(n).fill(-1);
-    return { find, union, count, getParent }
+    return { find, union, count, equiv, getParent }
     function find(x) {
         return parent[x] < 0 ? x : parent[x] = find(parent[x]);
     }
@@ -76,6 +76,9 @@ function DJSet(n) {
     }
     function count() { // total connected groups (value < 0)
         return parent.filter(v => v < 0).length;
+    }
+    function equiv(x, y) {
+        return find(x) == find(y);
     }
     function getParent() {
         return parent;

@@ -1511,6 +1511,9 @@ https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/d
 1487 Making File Names Unique
 https://leetcode.com/problems/making-file-names-unique/discuss/1178459/javascript-hashmap-%2B-hashset-156ms-100
 
+1489 Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/discuss/1439779/javascript-union-find-%2B-LCA-242ms-100
+
 1491 Average Salary Excluding the Minimum and Maximum Salary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709478/javascript-solution-100
 
