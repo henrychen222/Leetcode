@@ -646,6 +646,9 @@ https://leetcode.com/problems/out-of-boundary-paths/discuss/984238/javascript-dp
 581 Shortest Unsorted Continuous Subarray
 https://leetcode.com/problems/shortest-unsorted-continuous-subarray/discuss/780222/javascript-92ms-faster-than-83.06
 
+587 Erect the Fence
+https://leetcode.com/problems/erect-the-fence/discuss/1443353/javascript-convex-Hull-with-Graham-Scan-127ms
+
 589 N-ary Tree Preorder Traversal
 https://leetcode.com/problems/n-ary-tree-preorder-traversal/discuss/711030/javascript-solution
 
@@ -2214,7 +2217,7 @@ https://leetcode.com/problems/maximum-matrix-sum/discuss/1418281/javascript-gree
 1976 Number of Ways to Arrive at Destination (0) -> (2)
 https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/discuss/1418253/javascript-dijkstra-132ms
 
-1979 Find Greatest Common Divisor of Array (0) -> (2)
+1979 Find Greatest Common Divisor of Array (0) -> (2) -> (3)
 https://leetcode.com/problems/find-greatest-common-divisor-of-array/discuss/1418809/javascript-direct-way-77ms
 
 1980 Find Unique Binary String
@@ -2229,11 +2232,17 @@ https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k
 1985 Find the Kth Largest Integer in the Array
 https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/discuss/1431902/javascript-large-number-sort-167ms
 
-1984 Minimum Difference Between Highest and Lowest of K Scores
-https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/discuss/1431925/javascript-greedy-142ms
-
 1986 Minimum Number of Work Sessions to Finish the Tasks (0) -> (1)
 https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/discuss/1432132/javascript-bitmask-dp-144ms
 
 1987 Number of Unique Good Subsequences
 https://leetcode.com/problems/number-of-unique-good-subsequences/discuss/1431978/javascript-O(1)-space-dp-141ms
+
+1991 Find the Middle Index in Array
+https://leetcode.com/problems/find-the-middle-index-in-array/discuss/1444511/javascript-direct-way-120ms
+
+1992 Find All Groups of Farmland
+https://leetcode.com/problems/find-all-groups-of-farmland/discuss/1444458/javascript-dfs-487ms
+
+1994 The Number of Good Subsets
+https://leetcode.com/problems/the-number-of-good-subsets/discuss/1444437/javascipt-bitmask-dp-with-pow-mod-152ms
