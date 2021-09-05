@@ -942,6 +942,9 @@ https://leetcode.com/problems/positions-of-large-groups/discuss/793980/javascrip
 832 Flipping an Image
 https://leetcode.com/problems/flipping-an-image/discuss/773759/javascript-solution
 
+834 Sum of Distances in Tree
+https://leetcode.com/problems/sum-of-distances-in-tree/discuss/1445065/javascript-dfs-355ms
+
 837 New 21 Game
 https://leetcode.com/problems/new-21-game/discuss/983952/javascript-solutions-overview
 
@@ -2246,3 +2249,12 @@ https://leetcode.com/problems/find-all-groups-of-farmland/discuss/1444458/javasc
 
 1994 The Number of Good Subsets
 https://leetcode.com/problems/the-number-of-good-subsets/discuss/1444437/javascipt-bitmask-dp-with-pow-mod-152ms
+
+1995 Count Special Quadruplets
+https://leetcode.com/problems/count-special-quadruplets/discuss/1445311/javascript-direct-way-175ms
+
+1996 The Number of Weak Characters in the Game
+https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/discuss/1445290/javascript-greedy-467ms
+
+1998 GCD Sort of an Array
+https://leetcode.com/problems/gcd-sort-of-an-array/discuss/1445464/javascript-union-find-644ms
