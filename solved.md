@@ -1023,6 +1023,9 @@ https://leetcode.com/problems/monotonic-array/discuss/783828/javascript-every()-
 897 Increasing Order Search Tree
 https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javascript-solution
 
+899 Orderly Queue
+https://leetcode.com/problems/orderly-queue/discuss/1449149/javascript-direct-way-131ms
+
 901 Online Stock Span
 https://leetcode.com/problems/online-stock-span/discuss/831084/javascript-two-pointer-solution
 
@@ -1639,6 +1642,9 @@ https://leetcode.com/problems/largest-substring-between-two-equal-characters/dis
 
 1625 Lexicographically Smallest String After Applying Operations
 https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/discuss/899798/javacript-DFS-with-endless-loop-768ms
+
+1627 Graph Connectivity With Threshold
+https://leetcode.com/problems/graph-connectivity-with-threshold/discuss/1454992/javascript-union-find-272ms-100
 
 1629 Slowest Key (1)
 https://leetcode.com/problems/slowest-key/discuss/909180/javascript-sortedMap-100ms
