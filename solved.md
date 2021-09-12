@@ -1002,6 +1002,9 @@ https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascrip
 880 Decoded String at Index
 https://leetcode.com/problems/decoded-string-at-index/discuss/1369688/javascript-dp-76ms
 
+882 Reachable Nodes In Subdivided Graph
+https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/discuss/1459224/javascript-dijkstra-with-pq-266ms-100
+
 888 Fair Candy Swap
 https://leetcode.com/problems/fair-candy-swap/discuss/783921/javascript-solution
 
@@ -2264,3 +2267,15 @@ https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/discuss/
 
 1998 GCD Sort of an Array
 https://leetcode.com/problems/gcd-sort-of-an-array/discuss/1445464/javascript-union-find-644ms
+
+2000 Reverse Prefix of Word
+https://leetcode.com/problems/reverse-prefix-of-word/discuss/1458442/javascript-direct-way-101ms
+
+2001 Number of Pairs of Interchangeable Rectangles
+https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/discuss/1458471/javascript-Math-combination-589ms
+
+2002 Maximum Product of the Length of Two Palindromic Subsequences
+https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/discuss/1458502/javascript-bitmask-brute-force-1239ms
+
+2003 Smallest Missing Genetic Value in Each Subtree
+https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/discuss/1458623/javascript-dfs-876ms
