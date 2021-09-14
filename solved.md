@@ -1002,7 +1002,7 @@ https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascrip
 880 Decoded String at Index
 https://leetcode.com/problems/decoded-string-at-index/discuss/1369688/javascript-dp-76ms
 
-882 Reachable Nodes In Subdivided Graph
+882 Reachable Nodes In Subdivided Graph (0) - (2) -> (7)
 https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/discuss/1459224/javascript-dijkstra-with-pq-266ms-100
 
 888 Fair Candy Swap
@@ -1052,6 +1052,9 @@ https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/discuss/784226/java
 
 915 Partition Array into Disjoint Intervals
 https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/739772/javascript-solution
+
+917 Reverse Only Letters
+https://leetcode.com/problems/reverse-only-letters/discuss/1463375/javascript-direct-way-96ms
 
 922 Sort Array By Parity II
 https://leetcode.com/problems/sort-array-by-parity-ii/discuss/928709/javascript-136ms
@@ -1517,6 +1520,9 @@ https://leetcode.com/problems/design-browser-history/discuss/1124802/javascript-
 1477 Find Two Non-overlapping Sub-arrays Each With Target Sum
 https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/discuss/982835/javascript-sliding-window-with-dp-table
 
+1579 Remove Max Number of Edges to Keep Graph Fully Traversable
+https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/discuss/1463614/javascript-union-find-370ms-100
+
 1481 Least Number of Unique Integers after K Removals (0) -> (1) -> (2) -> (3)
 https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/discuss/1064218/javascript-twp-solutions
 
@@ -1750,6 +1756,9 @@ https://leetcode.com/problems/maximum-erasure-value/discuss/978720/javascript-sl
 
 1696 Jump Game VI
 https://leetcode.com/problems/jump-game-vi/discuss/981037/javascript-SegmentTreeRMQ-312ms
+
+1697 Checking Existence of Edge Length Limited Paths
+https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/discuss/1463290/javascript-union-find-492ms
 
 1700 Number of Students Unable to Eat Lunch
 https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/discuss/987417/javascript-84ms
