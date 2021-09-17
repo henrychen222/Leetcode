@@ -1589,6 +1589,9 @@ https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-time
 1567 Maximum Length of Subarray With Positive Product
 https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/discuss/819658/javascript-100ms
 
+1569 Number of Ways to Reorder Array to Get Same BST
+https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/discuss/1467929/javascript-dfs-%2B-Math-combination-825ms
+
 1576 Replace All ?'s to Avoid Consecutive Repeating Characters (0) -> (-1)
 https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/discuss/831802/javascript-replace()-solution
 
