@@ -189,6 +189,9 @@ https://leetcode.com/problems/path-sum-ii/discuss/1061384/javascript-using-array
 114 Flatten Binary Tree to Linked List
 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/1061633/javascript-using-array-%2B-BFS-to-create-new-Tree-100ms
 
+115 Distinct Subsequences
+https://leetcode.com/problems/distinct-subsequences/discuss/1474042/javascript-188ms
+
 118 Pascal's Triangle
 https://leetcode.com/problems/pascals-triangle/discuss/784960/javascript-72ms
 
@@ -300,11 +303,17 @@ https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascrip
 211 Design Add and Search Words Data Structure
 https://leetcode.com/problems/design-add-and-search-words-data-structure/discuss/1111460/javascript-use-Set-%2B-Map-memorization-176ms-97.90-fast
 
+212 Word Search II
+https://leetcode.com/problems/word-search-ii/discuss/1479728/javascript-dfs-4380ms
+
 215 Kth Largest Element in an Array
 https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/838343/javascript-one-line-80ms
 
 216 Combination Sum III
 https://leetcode.com/problems/combination-sum-iii/discuss/1436005/javascript-dfs-146ms
+
+218 The Skyline Problem
+https://leetcode.com/problems/the-skyline-problem/discuss/1477969/javascript-multiset-2408ms
 
 220 Contains Duplicate III (-1)
 https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
@@ -347,6 +356,9 @@ https://leetcode.com/problems/perfect-squares/discuss/950476/javascript-dp-and-M
 
 284 Peeking Iterator
 https://leetcode.com/problems/peeking-iterator/discuss/1151213/javascript-use-array-80ms
+
+282 Expression Add Operators
+https://leetcode.com/problems/expression-add-operators/discuss/1479596/javascript-dfs-116ms-89.74
 
 290 Word Pattern
 https://leetcode.com/problems/word-pattern/discuss/748653/javascript-double-array-and-two-pointer
@@ -419,6 +431,7 @@ https://leetcode.com/problems/top-k-frequent-elements/discuss/767821/javascript-
 
 350 Intersection of Two Arrays II   (1)
 https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/702929/javascript-hashmap-solution 
+https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/1469722/javascript-two-maps-direct-clean-way-90ms
 
 355 Design Twitter
 https://leetcode.com/problems/design-twitter/discuss/1154945/javascript-hashmap-%2B-hashset-%2B-array-sort-based-on-timestamp-76ms-91.09
@@ -2091,7 +2104,7 @@ https://leetcode.com/problems/minimum-space-wasted-from-packaging/discuss/125632
 1893 Check if All the Integers in a Range Are Covered
 https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/discuss/1267652/javascript-direct-way-124ms
 
-1894 Find the Student that Will Replace the Chalk (0) -> (-1)
+1894 Find the Student that Will Replace the Chalk (0) -> (-1) -> (0)
 https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/discuss/1267507/javascript-mod-round-with-sum-104ms
 https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/discuss/1267376/Python-1-line
 
@@ -2291,3 +2304,24 @@ https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-s
 
 2003 Smallest Missing Genetic Value in Each Subtree
 https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/discuss/1458623/javascript-dfs-876ms
+
+2006 Count Number of Pairs With Absolute Difference K
+https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/discuss/1471107/javascript-direct-way-216ms
+
+2007 Find Original Array From Doubled Array (0) -> (1)
+https://leetcode.com/problems/find-original-array-from-doubled-array/discuss/1471091/javascript-greedy-493ms
+
+2008 Maximum Earnings From Taxi
+https://leetcode.com/problems/maximum-earnings-from-taxi/discuss/1471069/javascript-build-graph-with-dp-977ms
+
+2009 Minimum Number of Operations to Make Array Continuous
+https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/discuss/1471026/javascript-sort-%2B-sliding-window-268ms
+
+2011 Final Value of Variable After Performing Operations
+https://leetcode.com/problems/final-value-of-variable-after-performing-operations/discuss/1472091/javascript-direct-way-112ms
+
+2012 Sum of Beauty in the Array
+https://leetcode.com/problems/sum-of-beauty-in-the-array/discuss/1472070/javascript-left-right-record-153ms
+
+2013 Detect Squares
+https://leetcode.com/problems/detect-squares/discuss/1472040/javascript-direct-way-four-directions-check-1833ms

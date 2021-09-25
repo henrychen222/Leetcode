@@ -1,16 +1,9 @@
 /**
- * 03/22/21 evening
+ * 09/21/21 evening
+ * https://leetcode.com/problems/the-skyline-problem/
  * 
- * example question: https://leetcode.com/problems/number-of-orders-in-the-backlog/ 
+ * reference: https://www.cnblogs.com/grandyang/p/4534586.html
  */
-
-const show = (m) => {
-    let res = [];
-    m.forEach((v, k) => {
-        res.push(k + " => " + v);
-    })
-    return res;
-};
 
 function TreeMap() {
     let root = null;
@@ -129,3 +122,100 @@ function TreeMap() {
         return node;
     }
 }
+
+function MultiSet() {
+    let tm = new TreeMap();
+    return { insert, eraseOne, erase, contains, first, last, show }
+    function insert(x) {
+        tm.set(x, tm.get(x) + 1 || 1);
+    }
+    function eraseOne(x) {
+        let occ = tm.get(x);
+        occ > 1 ? tm.set(x, occ - 1) : tm.remove(x);
+    }
+    function erase(x) {
+        tm.remove(x);
+    }
+    function contains(x) {
+        return tm.get(x) ? 1 : 0;
+    }
+    function first() {
+        return tm.minKey();
+    }
+    function last() {
+        return tm.maxKey();
+    }
+    function show() {
+        let res = [];
+        tm.forEach((v, k) => {
+            res.push(k + " => " + v);
+        })
+        console.log(res);
+    };
+}
+
+////////////////////////////////////////////////////////////////////////////////////
+// Accepted --- 2408ms 6.73%
+function MultiSet2() {
+    let tm = {}; // works for key >= 0
+    return { insert, eraseOne, erase, contains, first, last, show }
+    function insert(x) {
+        tm[x] ? tm[x]++ : tm[x] = 1;
+    }
+    function eraseOne(x) {
+        let occ = tm[x];
+        occ > 1 ? tm[x]-- : delete tm[x];
+    }
+    function erase(x) {
+        delete tm[x];
+    }
+    function contains(x) {
+        return tm[x] ? 1 : 0;
+    }
+    function first() {
+        let a = Object.keys(tm);
+        return a[0] - '0';
+    }
+    function last() {
+        let a = Object.keys(tm);
+        return a[a.length - 1] - '0';
+    }
+    function show() {
+        console.log(tm);
+    };
+}
+
+// Accepted --- 2300ms 7.69%
+// Accepted --- 2308ms 7.69%
+const getSkyline = (buildings) => {
+    let d = [];
+    for (const [left, right, height] of buildings) {
+        d.push([left, -height]);
+        d.push([right, height]);
+    }
+    d.sort((x, y) => x[0] == y[0] ? x[1] - y[1] : x[0] - y[0]);
+    let m = new MultiSet();
+    m.insert(0);
+    let pre = cur = 0;
+    let res = [];
+    for (const [location, height] of d) {
+        height < 0 ? m.insert(-height) : m.eraseOne(height);
+        cur = m.last();
+        if (cur != pre) {
+            res.push([location, cur]);
+            pre = cur;
+        }
+        // m.show();
+    }
+    return res;
+};
+
+const pr = console.log;
+const main = () => {
+    let buildings = [[2, 9, 10], [3, 7, 15], [5, 12, 12], [15, 20, 10], [19, 24, 8]];
+    let buildings2 = [[0, 2, 3], [2, 5, 3]];
+    pr(getSkyline(buildings))
+    pr(getSkyline(buildings2))
+};
+
+main()

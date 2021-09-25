@@ -96,6 +96,11 @@ public:
         cout << endl;
     }
 
+    void print_multiset(multiset<int> &m) {
+        for (auto x: m) cout << x << ' ';
+        cout << endl;
+    }
+
 };
 
 int main()
