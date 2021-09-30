@@ -1087,6 +1087,9 @@ https://leetcode.com/problems/three-equal-parts/discuss/1344741/javascript-math-
 928 Minimize Malware Spread II
 https://leetcode.com/problems/minimize-malware-spread-ii/discuss/1437974/javascript-union-find-281ms
 
+929 Unique Email Addresses
+https://leetcode.com/problems/unique-email-addresses/discuss/1490386/javascript-direct-way-88ms
+
 930 Binary Subarrays With Sum
 https://leetcode.com/problems/binary-subarrays-with-sum/discuss/1074007/javascript-two-pointer-and-sliding-window
 
@@ -1385,6 +1388,9 @@ https://leetcode.com/problems/remove-covered-intervals/discuss/874675/javascript
 
 1290 Convert Binary Number in a Linked List to Integer
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/discuss/709693/javascript-solution
+
+1293 Shortest Path in a Grid with Obstacles Elimination
+https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/discuss/1490641/javascript-bfs-148ms
 
 1296 Divide Array in Sets of K Consecutive Numbers
 https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/discuss/876066/javascript-ordered-map-(mock-java-treemap)-solution
@@ -2325,3 +2331,15 @@ https://leetcode.com/problems/sum-of-beauty-in-the-array/discuss/1472070/javascr
 
 2013 Detect Squares
 https://leetcode.com/problems/detect-squares/discuss/1472040/javascript-direct-way-four-directions-check-1833ms
+
+2014 Longest Subsequence Repeated k Times
+https://leetcode.com/problems/longest-subsequence-repeated-k-times/discuss/1490475/javascript-generate-sub-and-check-448ms
+
+2016 Maximum Difference Between Increasing Elements
+https://leetcode.com/problems/maximum-difference-between-increasing-elements/discuss/1486434/javascript-direct-way-128ms
+
+2017 Grid Game
+https://leetcode.com/problems/grid-game/discuss/1486397/javascript-prefix-sum-196ms
+
+2018 Check if Word Can Be Placed In Crossword
+https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/discuss/1486585/javascript-check-%2B-rotate-check-168ms
