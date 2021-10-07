@@ -372,6 +372,9 @@ https://leetcode.com/problems/bulls-and-cows/discuss/810523/javascript-HashMap-a
 300 Longest Increasing Subsequence
 https://leetcode.com/problems/longest-increasing-subsequence/discuss/977286/javascript-dp-and-binary-search
 
+301 Remove Invalid Parentheses
+https://leetcode.com/problems/remove-invalid-parentheses/discuss/1497960/javascript-bfs-140ms-86.58
+
 303 Range Sum Query - Immutable
 https://leetcode.com/problems/range-sum-query-immutable/discuss/810365/javascript-easy-solution
 
@@ -586,6 +589,9 @@ https://leetcode.com/problems/max-consecutive-ones/discuss/788802/javascript-sta
 
 486 Predict the Winner
 https://leetcode.com/problems/predict-the-winner/discuss/975826/javascript-dfs-and-dp
+
+488 Zuma Game
+https://leetcode.com/problems/zuma-game/discuss/1497935/javascript-dfsbacktracking-1512ms
 
 491 Increasing Subsequences
 https://leetcode.com/problems/increasing-subsequences/discuss/1434010/javascript-bitmask-brute-force-375ms
@@ -2343,3 +2349,24 @@ https://leetcode.com/problems/grid-game/discuss/1486397/javascript-prefix-sum-19
 
 2018 Check if Word Can Be Placed In Crossword
 https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/discuss/1486585/javascript-check-%2B-rotate-check-168ms
+
+2022 Convert 1D Array Into 2D Array
+https://leetcode.com/problems/convert-1d-array-into-2d-array/discuss/1500637/javascript-direct-way
+
+2023 Number of Pairs of Strings With Concatenation Equal to Target
+https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/discuss/1500639/javascript-direct-way-99ms
+
+2024 Maximize the Confusion of an Exam
+https://leetcode.com/problems/maximize-the-confusion-of-an-exam/discuss/1500648/javascript-sliding-window-116ms
+
+2027 Minimum Moves to Convert String
+https://leetcode.com/problems/minimum-moves-to-convert-string/discuss/1500366/javascript-greedy-direct-way-68ms
+
+2028 Find Missing Observations
+https://leetcode.com/problems/find-missing-observations/discuss/1500389/javascript-math-linear-equation-462ms
+
+2029 Stone Game IX  (0) -> (1)
+https://leetcode.com/problems/stone-game-ix/discuss/1500588/javascript-greedy-112ms
+
+2030 Smallest K-Length Subsequence With Occurrences of a Letter (0) -> (1)
+https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/discuss/1500564/javascript-mock-stack-996ms
