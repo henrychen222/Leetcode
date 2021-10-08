@@ -812,6 +812,9 @@ https://leetcode.com/problems/longest-univalue-path/discuss/719207/javascript-re
 690 Employee Importance
 https://leetcode.com/problems/employee-importance/discuss/911504/javascript-dfs-100ms
 
+691 Stickers to Spell Word
+https://leetcode.com/problems/stickers-to-spell-word/discuss/1508541/javascript-bitmask-dp-464ms
+
 692 Top K Frequent Words
 https://leetcode.com/problems/top-k-frequent-words/discuss/766175/javascript-96ms
 
