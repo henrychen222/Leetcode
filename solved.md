@@ -869,6 +869,9 @@ https://leetcode.com/problems/daily-temperatures/discuss/768428/javascript-two-p
 740 Delete and Earn
 https://leetcode.com/problems/delete-and-earn/discuss/950618/javascript-76ms-100
 
+741 Cherry Pickup
+https://leetcode.com/problems/cherry-pickup/discuss/1517931/javascript-dp-96ms-100
+
 745 Prefix and Suffix Search
 https://leetcode.com/problems/prefix-and-suffix-search/discuss/1191792/javascript-ordered-map-1188ms
 
@@ -939,6 +942,9 @@ https://leetcode.com/problems/largest-sum-of-averages/discuss/892364/javascript-
 
 817 Linked List Components
 https://leetcode.com/problems/linked-list-components/discuss/1053345/javascript-using-array-80ms-96.72-fast
+
+818 Race Car
+https://leetcode.com/problems/race-car/discuss/1516889/javascript-bfs-%2B-dp
 
 820 Short Encoding of Words
 https://leetcode.com/problems/short-encoding-of-words/discuss/1096716/javascript-continuously-search-hashset-filter-words
@@ -1409,6 +1415,9 @@ https://leetcode.com/problems/deepest-leaves-sum/discuss/719225/javascript-parse
 
 1305 All Elements in Two Binary Search Trees
 https://leetcode.com/problems/all-elements-in-two-binary-search-trees/discuss/719247/javascript-dfs-to-array
+
+1307 Verbal Arithmetic Puzzle
+https://leetcode.com/problems/verbal-arithmetic-puzzle/discuss/1518133/javascript-dfsbacktracking-3013ms-100
 
 1310 XOR Queries of a Subarray
 https://leetcode.com/problems/xor-queries-of-a-subarray/discuss/733302/javascript-solution
@@ -2373,3 +2382,15 @@ https://leetcode.com/problems/stone-game-ix/discuss/1500588/javascript-greedy-11
 
 2030 Smallest K-Length Subsequence With Occurrences of a Letter (0) -> (1)
 https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/discuss/1500564/javascript-mock-stack-996ms
+
+2032 Two Out of Three
+https://leetcode.com/problems/two-out-of-three/discuss/1513547/javascript-direct-way-use-set-199ms
+
+2033 Minimum Operations to Make a Uni-Value Grid
+https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/discuss/1513581/javascript-greedy-308ms
+
+2034 Stock Price Fluctuation
+https://leetcode.com/problems/stock-price-fluctuation/discuss/1513504/java-TreeSet-Node-%2B-TreeMap-182ms
+
+2035 Partition Array Into Two Arrays to Minimize Sum Difference
+https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/discuss/1513836/javascript-bitmask-%2B-binary-search-1132ms
