@@ -11,7 +11,7 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/dis
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1046838/javascript-direct-solution-160ms
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/868822/JS-faster-than-95 (0) -> (1)
 
-6 ZigZag Conversion
+6 ZigZag Conversion (0) -> (1)
 https://leetcode.com/problems/zigzag-conversion/discuss/1232446/javascript-use-matrixGrid-to-fill-388ms
 
 8 String to Integer (atoi)
@@ -565,6 +565,9 @@ https://leetcode.com/problems/island-perimeter/discuss/815931/javascript-JSON-da
 
 464 Can I Win
 https://leetcode.com/problems/can-i-win/discuss/982539/javascript-dfs-with-bit-mask-124ms-98.21-fast
+
+466 Count The Repetitions
+https://leetcode.com/problems/count-the-repetitions/discuss/1526914/javascript-brute-force-4228ms
 
 467 Unique Substrings in Wraparound String
 https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/920115/javascript-dp-92ms
@@ -1172,6 +1175,9 @@ https://leetcode.com/problems/squares-of-a-sorted-array/discuss/679593/javascrip
 
 978 Longest Turbulent Subarray
 https://leetcode.com/problems/longest-turbulent-subarray/discuss/946173/javascript-two-pointer-brute-force
+
+980 Unique Paths III
+https://leetcode.com/problems/unique-paths-iii/discuss/1521579/javascript-dfs-95ms
 
 981 Time Based Key-Value Store
 https://leetcode.com/problems/time-based-key-value-store/discuss/1146437/javascript-map-directly-420ms-82.64
@@ -2308,7 +2314,7 @@ https://leetcode.com/problems/find-all-groups-of-farmland/discuss/1444458/javasc
 1994 The Number of Good Subsets
 https://leetcode.com/problems/the-number-of-good-subsets/discuss/1444437/javascipt-bitmask-dp-with-pow-mod-152ms
 
-1995 Count Special Quadruplets
+1995 Count Special Quadruplets (0) -> (1)
 https://leetcode.com/problems/count-special-quadruplets/discuss/1445311/javascript-direct-way-175ms
 
 1996 The Number of Weak Characters in the Game
@@ -2394,3 +2400,34 @@ https://leetcode.com/problems/stock-price-fluctuation/discuss/1513504/java-TreeS
 
 2035 Partition Array Into Two Arrays to Minimize Sum Difference
 https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/discuss/1513836/javascript-bitmask-%2B-binary-search-1132ms
+
+2037 Minimum Number of Moves to Seat Everyone
+https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/discuss/1524632/javascript-sort-84ms
+
+2038 Remove Colored Pieces if Both Neighbors are the Same Color
+https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/discuss/1524617/javascript-cut-consecutive-substring-172ms
+
+2040 Kth Smallest Product of Two Sorted Arrays
+https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/discuss/1524595/javascript-binary-search-%2B-lower_bound-5064ms
+
+2042 Check if Numbers Are Ascending in a Sentence
+https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/discuss/1525433/javascript-direct-way-78ms
+
+2043 Simple Bank System
+https://leetcode.com/problems/simple-bank-system/discuss/1525451/javascript-direct-way-645ms
+
+2044 Count Number of Maximum Bitwise-OR Subsets
+https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/discuss/1525461/javascript-bitmask-with-map-484ms
+
+2045 Second Minimum Time to Reach Destination
+https://leetcode.com/problems/second-minimum-time-to-reach-destination/discuss/1525429/javascript-min-pq-%2B-dijkstra-1955ms
+
+2047 Number of Valid Words in a Sentence
+https://leetcode.com/problems/number-of-valid-words-in-a-sentence/discuss/1537644/javascript-direct-way-104ms
+
+2048 Next Greater Numerically Balanced Number
+https://leetcode.com/problems/next-greater-numerically-balanced-number/discuss/1537687/javascript-direct-way-1888ms
+
+2049 Count Nodes With the Highest Score
+https://leetcode.com/problems/count-nodes-with-the-highest-score/discuss/1537725/javascript-dfs-372ms
+
