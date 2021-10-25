@@ -2431,3 +2431,5 @@ https://leetcode.com/problems/next-greater-numerically-balanced-number/discuss/1
 2049 Count Nodes With the Highest Score
 https://leetcode.com/problems/count-nodes-with-the-highest-score/discuss/1537725/javascript-dfs-372ms
 
+2050 Parallel Courses III
+https://leetcode.com/problems/parallel-courses-iii/discuss/1539355/javascript-Topology-sort-with-bfs-502ms
