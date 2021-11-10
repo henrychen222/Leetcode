@@ -1063,6 +1063,9 @@ https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javasc
 899 Orderly Queue
 https://leetcode.com/problems/orderly-queue/discuss/1449149/javascript-direct-way-131ms
 
+900 RLE Iterator
+https://leetcode.com/problems/rle-iterator/discuss/1569693/javascript-hashmap-80ms-68.87
+
 901 Online Stock Span
 https://leetcode.com/problems/online-stock-span/discuss/831084/javascript-two-pointer-solution
 
@@ -1360,7 +1363,7 @@ https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascr
 https://leetcode.com/problems/critical-connections-in-a-network/discuss/1174923/javascript-Tarjandfs-728ms-73.55
 
 1201 Ugly Number III
-https://leetcode.com/problems/ugly-number-iii/discuss/1569253/javascript-binary-with-with-LCM-76ms
+https://leetcode.com/problems/ugly-number-iii/discuss/1569253/javascript-binary-search-with-with-LCM-76ms
 
 1203 Sort Items by Groups Respecting Dependencies
 https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/discuss/1544925/javascript-topological-sort-456ms
