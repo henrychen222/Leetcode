@@ -1033,6 +1033,9 @@ https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascrip
 880 Decoded String at Index
 https://leetcode.com/problems/decoded-string-at-index/discuss/1369688/javascript-dp-76ms
 
+881 Boats to Save People
+https://leetcode.com/problems/boats-to-save-people/discuss/1562114/javascript-sort-%2B-greedy-168ms
+
 882 Reachable Nodes In Subdivided Graph (0) - (2) -> (7)
 https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/discuss/1459224/javascript-dijkstra-with-pq-266ms-100
 
@@ -1154,6 +1157,9 @@ https://leetcode.com/problems/verifying-an-alien-dictionary/discuss/803210/javas
 
 954 Array of Doubled Pairs
 https://leetcode.com/problems/array-of-doubled-pairs/discuss/1398726/javascript-ordered-map-dynamical-deletion-172ms
+
+957 Prison Cells After N Days
+https://leetcode.com/problems/prison-cells-after-n-days/discuss/1562029/javascript-direct-way-with-mod-14-76ms-87.18
 
 962 Maximum Width Ramp (0) -> (-1)
 https://leetcode.com/problems/maximum-width-ramp/discuss/739736/javascript-two-pointer
@@ -1287,6 +1293,9 @@ https://leetcode.com/problems/duplicate-zeros/discuss/788831/javascript-stack-so
 1093 Statistics from a Large Sample
 https://leetcode.com/problems/statistics-from-a-large-sample/discuss/1090671/javascript-solution-kth-element-84ms
 
+1095 Find in Mountain Array
+https://leetcode.com/problems/find-in-mountain-array/discuss/1569340/javascript-binary-search-76ms
+
 1103 Distribute Candies to People
 https://leetcode.com/problems/distribute-candies-to-people/discuss/803598/javascript-brute-force-calculate-each-step-100ms
 
@@ -1349,6 +1358,12 @@ https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascr
 
 1192 Critical Connections in a Network
 https://leetcode.com/problems/critical-connections-in-a-network/discuss/1174923/javascript-Tarjandfs-728ms-73.55
+
+1201 Ugly Number III
+https://leetcode.com/problems/ugly-number-iii/discuss/1569253/javascript-binary-with-with-LCM-76ms
+
+1203 Sort Items by Groups Respecting Dependencies
+https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/discuss/1544925/javascript-topological-sort-456ms
 
 1206 Design Skiplist (0) -> (-1) -> (-2)
 https://leetcode.com/problems/design-skiplist/discuss/1156831/javascript-hashmap-168ms-100
@@ -2428,8 +2443,38 @@ https://leetcode.com/problems/number-of-valid-words-in-a-sentence/discuss/153764
 2048 Next Greater Numerically Balanced Number
 https://leetcode.com/problems/next-greater-numerically-balanced-number/discuss/1537687/javascript-direct-way-1888ms
 
-2049 Count Nodes With the Highest Score
+2049 Count Nodes With the Highest Score (0) -> (1)
 https://leetcode.com/problems/count-nodes-with-the-highest-score/discuss/1537725/javascript-dfs-372ms
 
 2050 Parallel Courses III
 https://leetcode.com/problems/parallel-courses-iii/discuss/1539355/javascript-Topology-sort-with-bfs-502ms
+
+2053 Kth Distinct String in an Array (0) -> (1) -> (0)
+https://leetcode.com/problems/kth-distinct-string-in-an-array/discuss/1549218/javascript-direct-way-194ms
+
+2054 Two Best Non-Overlapping Events (0) -> (1)
+https://leetcode.com/problems/two-best-non-overlapping-events/discuss/1549193/javascript-sort-%2B-pre-max-sum-876ms
+
+2055 Plates Between Candles (0) -> (1)
+https://leetcode.com/problems/plates-between-candles/discuss/1549350/javascript-cut-max-consective-substring-%2B-binary-search-3692ms
+
+2057 Smallest Index With Equal Value
+https://leetcode.com/problems/smallest-index-with-equal-value/discuss/1550228/javascript-direct-way-121ms
+
+2058 Find the Minimum and Maximum Number of Nodes Between Critical Points
+https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/discuss/1550221/javascript-using-array-351ms
+
+2059 Minimum Operations to Convert Number
+https://leetcode.com/problems/minimum-operations-to-convert-number/discuss/1550214/javascript-bfs-192ms
+
+2062 Count Vowel Substrings of a String
+https://leetcode.com/problems/count-vowel-substrings-of-a-string/discuss/1563893/javascript-direct-way-286ms
+
+2063 Vowels of All Substrings
+https://leetcode.com/problems/vowels-of-all-substrings/discuss/1563849/javascript-count-based-on-each-vowel-151ms
+
+2064 Minimized Maximum of Products Distributed to Any Store
+https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/discuss/1563918/javascript-binary-search
+
+2065 Maximum Path Quality of a Graph
+https://leetcode.com/problems/maximum-path-quality-of-a-graph/discuss/1563988/javascript-typical-dfs-212ms

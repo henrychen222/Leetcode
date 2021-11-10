@@ -101,6 +101,15 @@ public:
         cout << endl;
     }
 
+    ////////////////////////////// Queue ////////////////////////////////////////////
+    void print_queue(queue<int> q) {
+        while (!q.empty()) {
+          cout << q.front() << " ";
+          q.pop();
+        }
+        cout << endl;
+    }
+
 };
 
 int main()
