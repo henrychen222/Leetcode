@@ -44,7 +44,7 @@ function TreeSet(elements) {
     let se = new Set();
     let bisect = new Bisect();
     if (elements) addAll(elements);
-    return { add, floor, ceiling, lower, remove, contains, size, clear, toArray };
+    return { add, floor, ceiling, lower, higher, remove, contains, size, clear, toArray };
     function addAll(elements) {
         for (const e of elements) {
             if (se.has(e)) continue;
@@ -58,26 +58,21 @@ function TreeSet(elements) {
             se.add(e);
         }
     }
-    function ceiling(e) { // >=  c++ set lower_bound https://www.geeksforgeeks.org/set-lower_bound-function-in-c-stl/
+    function ceiling(e) { // >=  c++ set lower_bound
         let idx = bisect.bisect_right(ts, e);
-        if (ts[idx - 1] == e) return e;
-        return ts[bisect.bisect_right(ts, e)];
+        return ts[idx - 1] == e ? e : ts[bisect.bisect_right(ts, e)];
     }
     function floor(e) { // <= 
         let idx = bisect.bisect_left(ts, e);
-        if (ts[idx] == e) {
-            return e;
-        } else {
-            return ts[bisect.bisect_left(ts, e) - 1];
-        }
+        return ts[idx] == e ? e : ts[bisect.bisect_left(ts, e) - 1];
     }
     function lower(e) { // <
         let idx = bisect.bisect_left(ts, e);
-        if (ts[idx] < e) {
-            return ts[idx];
-        } else {
-            return ts[bisect.bisect_left(ts, e) - 1];
-        }
+        return ts[idx] < e ? ts[idx] : ts[bisect.bisect_left(ts, e) - 1];
+    }
+    function higher(e) { // >  c++ set upper_bound
+        let idx = bisect.bisect_right(ts, e);
+        return ts[idx] > e ? ts[idx] : ts[bisect.bisect_right(ts, e) + 1];
     }
     function remove(e) {
         let res = new Set(ts);
@@ -103,11 +98,35 @@ const pr = console.log;
 const main = () => {
     let ts = new TreeSet([3, 7, 7, 1, 3]);
     pr(ts.toArray(ts));
+    pr("\nfloor")
+    pr(ts.floor(0)); // undefined   java is null
+    pr(ts.floor(2)); // 1
+    pr(ts.floor(3)); // 3
     pr(ts.floor(4)); // 3
+    pr(ts.floor(100)); // 7
+
+    pr("\nlower")
+    pr(ts.lower(0)); // undefined
+    pr(ts.lower(2)); // 1
+    pr(ts.lower(3)); // 1
+    pr(ts.lower(4)); // 3
+    pr(ts.lower(100)); // 7
+
+    pr("\nceiling")
+    pr(ts.ceiling(100)); // undefined
+    pr(ts.ceiling(7)); // 7
     pr(ts.ceiling(4)); // 7
     pr(ts.ceiling(3)); // 3
-    pr(ts.ceiling(3)); // 3
-    pr(ts.ceiling(100)) // undefined
+    pr(ts.ceiling(0)); // 1
+
+    pr("\nhigher")
+    pr(ts.higher(100)); // undefined
+    pr(ts.higher(7)); // undefined
+    pr(ts.higher(4)); // 7
+    pr(ts.higher(3)); // 7
+    pr(ts.higher(0)); // 1
+
+    pr("")
     pr(ts.toArray(ts)); // [1, 3, 7];
     ts.remove(3);
     pr(ts.toArray(ts));

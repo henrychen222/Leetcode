@@ -110,6 +110,9 @@ https://leetcode.com/problems/insert-interval/discuss/1244203/javascript-direct-
 59 Spiral Matrix II
 https://leetcode.com/problems/spiral-matrix-ii/discuss/1224414/javascript-76ms-79.88
 
+60 Permutation Sequence
+https://leetcode.com/problems/permutation-sequence/discuss/1578895/javascript-easy-next_permutation-152ms
+
 61 Rotate List
 https://leetcode.com/problems/rotate-list/discuss/993225/javascript-transfer-to-array-88ms-88.21-fast
 
@@ -1003,6 +1006,9 @@ https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/783439
 850 Rectangle Area II
 https://leetcode.com/problems/rectangle-area-ii/discuss/1420610/javascript-dfs-68ms-100
 
+855 Exam Room
+https://leetcode.com/problems/exam-room/discuss/1570762/javascript-direct-way-112ms-95
+
 856 Score of Parentheses
 https://leetcode.com/problems/score-of-parentheses/discuss/833444/javascript-stack-solution-72ms
 
@@ -1532,6 +1538,9 @@ https://leetcode.com/problems/cinema-seat-allocation/discuss/881190/javascript-s
 
 1387 Sort Integers by The Power Value (0) -> (1)
 https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/javascript-solution
+
+1390 Four Divisors
+https://leetcode.com/problems/four-divisors/discuss/1578967/javascript-find-all-factors-128ms-73.53
 
 1395 Count Number of Teams (2)
 https://leetcode.com/problems/count-number-of-teams/discuss/720817/javascript-three-pointer
@@ -2481,3 +2490,24 @@ https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-s
 
 2065 Maximum Path Quality of a Graph
 https://leetcode.com/problems/maximum-path-quality-of-a-graph/discuss/1563988/javascript-typical-dfs-212ms
+
+2068 Check Whether Two Strings are Almost Equivalent
+https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/discuss/1576054/javascript-direcy-way-72ms
+
+2069 Walking Robot Simulation II
+https://leetcode.com/problems/walking-robot-simulation-ii/discuss/1576140/javascript-direct-way-300ms (0) -> (1)
+https://leetcode.com/problems/walking-robot-simulation-ii/discuss/1575896/Hidden-Test-Case-REVEALED! (0) -> (1)
+https://leetcode.com/problems/walking-robot-simulation-ii/discuss/1575926/Worst-Question-ever-Java-Solution-with-Explanation (0) -> (1) -> (2)
+https://leetcode.com/problems/walking-robot-simulation-ii/discuss/1576053/TLE-During-Contest-LC-OJ-problem (0) -> (2)
+
+2070 Most Beautiful Item for Each Query
+https://leetcode.com/problems/most-beautiful-item-for-each-query/discuss/1576042/javascript-preMax-%2B-binary-search-with-upper_bound-389ms
+
+2073 Time Needed to Buy Tickets
+https://leetcode.com/problems/time-needed-to-buy-tickets/discuss/1577490/javascript-direct-way-131ms
+
+2074 Reverse Nodes in Even Length Groups
+https://leetcode.com/problems/reverse-nodes-in-even-length-groups/discuss/1577510/javascript-using-array-2992ms
+
+2075 Decode the Slanted Ciphertext
+https://leetcode.com/problems/decode-the-slanted-ciphertext/discuss/1578849/javascript-matrix-diagonal-traverse-180ms
