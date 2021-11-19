@@ -3,6 +3,7 @@
  * https://leetcode.com/problems/four-divisors/
  */
 
+// Accepted --- 128ms 74.29%
 const sumFourDivisors = (a) => {
     let res = 0;
     for (const x of a) {

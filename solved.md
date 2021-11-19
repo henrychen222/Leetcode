@@ -1608,6 +1608,9 @@ https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-s
 1492 The kth Factor of n
 https://leetcode.com/problems/the-kth-factor-of-n/discuss/1046895/javascript-direct-way-132ms
 
+1494 Parallel Courses II
+https://leetcode.com/problems/parallel-courses-ii/discuss/1584904/javascript-bitmask-dp-176ms-100
+
 1504 Count Submatrices With All Ones (0) -> (1)
 https://leetcode.com/problems/count-submatrices-with-all-ones/discuss/973684/javascript-solutions
 
