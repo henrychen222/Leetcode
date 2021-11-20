@@ -1090,6 +1090,9 @@ https://leetcode.com/problems/online-election/discuss/1214969/javascript-binary-
 912 Sort an Array (0) -> (-1) -> (-2)
 https://leetcode.com/problems/sort-an-array/discuss/1126467/javascript-1-line-116ms
 
+913 Cat and Mouse
+https://leetcode.com/problems/cat-and-mouse/discuss/1587124/javascript-dfs-%2B-memo-144ms-100
+
 914 X of a Kind in a Deck of Cards
 https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/discuss/784226/javascript-solution-104ms
 
@@ -1205,6 +1208,9 @@ https://leetcode.com/problems/string-without-aaa-or-bbb/discuss/850112/javascrip
 
 985 Sum of Even Numbers After Queries
 https://leetcode.com/problems/sum-of-even-numbers-after-queries/discuss/777239/javascript-132ms-faster-than-72.94
+
+987 Vertical Order Traversal of a Binary Tree
+https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/1587405/javascript-inorder-traverse-%2B-sort-76ms-88.56
 
 988 Smallest String Starting From Leaf
 https://leetcode.com/problems/smallest-string-starting-from-leaf/discuss/1061367/javascript-using-array-from-tree-paths-108ms
@@ -1523,6 +1529,9 @@ https://leetcode.com/problems/increasing-decreasing-string/discuss/806355/javasc
 
 1372 Longest ZigZag Path in a Binary Tree
 https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/discuss/1066177/javascript-use-array-brute-force
+
+1377 Frog Position After T Seconds
+https://leetcode.com/problems/frog-position-after-t-seconds/discuss/1587312/javascript-bfs-100ms
 
 1375 Bulb Switcher III
 https://leetcode.com/problems/bulb-switcher-iii/discuss/1246377/javascript-greedy-sum-1-to-N-124ms
@@ -2440,7 +2449,7 @@ https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-sa
 2040 Kth Smallest Product of Two Sorted Arrays
 https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/discuss/1524595/javascript-binary-search-%2B-lower_bound-5064ms
 
-2042 Check if Numbers Are Ascending in a Sentence
+2042 Check if Numbers Are Ascending in a Sentence (0) -> (1)
 https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/discuss/1525433/javascript-direct-way-78ms
 
 2043 Simple Bank System
