@@ -524,6 +524,9 @@ https://leetcode.com/problems/reconstruct-original-digits-from-english/discuss/1
 424 Longest Repeating Character Replacement
 https://leetcode.com/problems/longest-repeating-character-replacement/discuss/1092739/javascript-sliding-window
 
+429 N-ary Tree Level Order Traversal
+https://leetcode.com/problems/n-ary-tree-level-order-traversal/discuss/1588851/javascript-bfs-direct-way-96ms-80.13
+
 430 Flatten a Multilevel Doubly Linked List
 https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/discuss/1053210/javascript-using-array-with-DFS-84ms
 
@@ -763,6 +766,9 @@ https://leetcode.com/problems/2-keys-keyboard/discuss/955487/javascript-dfs-dp
 
 653 Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/710948/typescript-solution
+
+655 Print Binary Tree
+https://leetcode.com/problems/print-binary-tree/discuss/1588794/javascript-bfs-%2B-dfs-76ms-67.71
 
 658 Find K Closest Elements
 https://leetcode.com/problems/find-k-closest-elements/discuss/840146/javascript-one-line-code-108ms-faster-than-82.32
@@ -1415,6 +1421,9 @@ https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/804868/j
 
 1260 Shift 2D Grid
 https://leetcode.com/problems/shift-2d-grid/discuss/796102/javascript-solution-120ms
+
+1261 Find Elements in a Contaminated Binary Tree
+https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/discuss/1588885/javascript-inorder-dfs-124ms-62.22
 
 1262 Greatest Sum Divisible by Three
 https://leetcode.com/problems/greatest-sum-divisible-by-three/discuss/974570/javascript-128ms
