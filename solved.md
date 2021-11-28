@@ -420,6 +420,9 @@ https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/115134
 330 Patching Array
 https://leetcode.com/problems/patching-array/discuss/1433987/javascript-greedy-103ms
 
+332 Reconstruct Itinerary
+https://leetcode.com/problems/reconstruct-itinerary/discuss/1598198/javascript-map-%2B-pq-236ms
+
 336 Palindrome Pairs
 https://leetcode.com/problems/palindrome-pairs/discuss/1219796/javascript-brute-force-%2B-hashmap
 
@@ -892,6 +895,9 @@ https://leetcode.com/problems/min-cost-climbing-stairs/discuss/918250/javascript
 
 748 Shortest Completing Word
 https://leetcode.com/problems/shortest-completing-word/discuss/834038/javascript-92ms-faster-than-81.42
+
+753 Cracking the Safe
+https://leetcode.com/problems/cracking-the-safe/discuss/1599691/javascript-dfsrecursion-and-iteration-95ms
 
 764 Largest Plus Sign
 https://leetcode.com/problems/largest-plus-sign/discuss/946068/javascript-brute-force-and-dp
@@ -2377,7 +2383,7 @@ https://leetcode.com/problems/reverse-prefix-of-word/discuss/1458442/javascript-
 2001 Number of Pairs of Interchangeable Rectangles
 https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/discuss/1458471/javascript-Math-combination-589ms
 
-2002 Maximum Product of the Length of Two Palindromic Subsequences
+2002 Maximum Product of the Length of Two Palindromic Subsequences (0) -> (1)
 https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/discuss/1458502/javascript-bitmask-brute-force-1239ms
 
 2003 Smallest Missing Genetic Value in Each Subtree
@@ -2532,3 +2538,21 @@ https://leetcode.com/problems/reverse-nodes-in-even-length-groups/discuss/157751
 
 2075 Decode the Slanted Ciphertext
 https://leetcode.com/problems/decode-the-slanted-ciphertext/discuss/1578849/javascript-matrix-diagonal-traverse-180ms
+
+2078 Two Furthest Houses With Different Colors
+https://leetcode.com/problems/two-furthest-houses-with-different-colors/discuss/1589117/javascript-direct-way-90ms
+
+2079 Watering Plants
+https://leetcode.com/problems/watering-plants/discuss/1589150/javascript-direct-way-113ms
+
+2080 Range Frequency Queries (0) -> (1)
+https://leetcode.com/problems/range-frequency-queries/discuss/1589168/javascript-hashmap-%2B-lower_bound-%2B-upper_bound-740ms
+
+2081 Sum of k-Mirror Numbers
+https://leetcode.com/problems/sum-of-k-mirror-numbers/discuss/1589322/javascript-build-number-via-base-1540ms
+
+2085 Count Common Words With One Occurrence
+https://leetcode.com/problems/count-common-words-with-one-occurrence/discuss/1599159/javascript-direct-way-82ms
+
+2086 Minimum Number of Buckets Required to Collect Rainwater from Houses
+https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/discuss/1599132/javascript-direct-way-greedy-88ms
