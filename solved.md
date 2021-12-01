@@ -297,11 +297,17 @@ https://leetcode.com/problems/isomorphic-strings/discuss/761606/javascript-two-p
 206 Reverse Linked List
 https://leetcode.com/problems/reverse-linked-list/discuss/709681/javascript
 
+207 Course Schedule
+https://leetcode.com/problems/course-schedule/discuss/1601837/javascript-topological-sort-with-bfs-96ms
+
 208 Implement Trie (Prefix Tree)  (0) -> (-1) -> (-2)
 https://leetcode.com/problems/implement-trie-prefix-tree/discuss/1115906/javascript-use-HashSet-easy-256ms
 
 209 Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascript-two-pointer-solution
+
+210 Course Schedule II
+https://leetcode.com/problems/course-schedule-ii/discuss/1601855/javascript-topological-sort-with-bfs-100ms
 
 211 Design Add and Search Words Data Structure
 https://leetcode.com/problems/design-add-and-search-words-data-structure/discuss/1111460/javascript-use-Set-%2B-Map-memorization-176ms-97.90-fast
@@ -357,7 +363,7 @@ https://leetcode.com/problems/first-bad-version/discuss/910187/javascript-binary
 279 Perfect Squares
 https://leetcode.com/problems/perfect-squares/discuss/950476/javascript-dp-and-Math-number-theory
 
-284 Peeking Iterator
+284 Peeking Iterator (0) -> (-1)
 https://leetcode.com/problems/peeking-iterator/discuss/1151213/javascript-use-array-80ms
 
 282 Expression Add Operators
@@ -2119,6 +2125,9 @@ https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/discuss/
 1856 Maximum Subarray Min-Product (0) -> (1)
 https://leetcode.com/problems/maximum-subarray-min-product/discuss/1199112/javascript-union-find-600ms
 
+1857 Largest Color Value in a Directed Graph
+https://leetcode.com/problems/largest-color-value-in-a-directed-graph/discuss/1601800/javascript-topological-sort-with-bfs-912ms
+
 1859 Sorting the Sentence (0) -> (-1)
 https://leetcode.com/problems/sorting-the-sentence/discuss/1210284/javascript-direct-way-96ms
 https://leetcode.com/problems/sorting-the-sentence/discuss/1210659/TypescriptJavaScript-~-(64-ms-39.1-MB)-Functional-approach-with-lodash-sortBy-and-map (0) -> (1)
@@ -2556,3 +2565,17 @@ https://leetcode.com/problems/count-common-words-with-one-occurrence/discuss/159
 
 2086 Minimum Number of Buckets Required to Collect Rainwater from Houses
 https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/discuss/1599132/javascript-direct-way-greedy-88ms
+
+2089 Find Target Indices After Sorting Array
+https://leetcode.com/problems/find-target-indices-after-sorting-array/discuss/1600186/javascript-direct-way-109ms
+
+2090 K Radius Subarray Averages
+https://leetcode.com/problems/k-radius-subarray-averages/discuss/1600172/javascript-prefix-sum-573ms
+https://leetcode.com/problems/k-radius-subarray-averages/discuss/1599974/JavaScript-Sliding-Window
+
+2091 Removing Minimum and Maximum From Array
+https://leetcode.com/problems/removing-minimum-and-maximum-from-array/discuss/1600161/javascript-greedy-3-conditions
+
+2092 Find All People With Secret
+https://leetcode.com/problems/find-all-people-with-secret/discuss/1600133/javascript-graph-bfs-with-pq-684ms
+
