@@ -1,27 +1,72 @@
 /**
- * 7.10 afternoon
+ * 07/10/20 afternoon  12/01/21 evening complete
  * https://leetcode.com/problems/bitwise-ors-of-subarrays/
  */
 
-// Time Limit 70/83 
-const subarrayBitwiseORs = (A) => {
-    let res = [];
-    for (let i = 0; i < A.length; i++) {
-        for (let j = i; j < A.length; j++) {
-            let subarr = A.slice(i, j + 1);
-            res.push(sumXOR(subarr));
-        }
+// Accepted --- 364ms 44.44%
+// TC  O(n * 32)  
+// bitwise or in 32 bit, needs 1 bit to be different then will generate a different number, so for each total different number is 32
+/**
+ * reference:
+ * https://leetcode.com/contest/weekly-contest-100/ranking/1/
+ * https://www.cnblogs.com/grandyang/p/10982534.html
+ * https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-898-bitwise-ors-of-subarrays/
+ * https://leetcode.com/problems/bitwise-ors-of-subarrays/discuss/165881/C%2B%2BJavaPython-O(30N)
+ */
+const subarrayBitwiseORs = (a) => {
+    let res = new Set(), cur = new Set();
+    for (const x of a) {
+        // pr(res, cur);
+        let t = new Set([x]);
+        for (const y of cur) t.add(x | y); // 32
+        cur = t;
+        for (const y of cur) res.add(y);
     }
-    return [...new Set(res)].length;
+    return res.size;
 };
 
-const sumXOR = (arr) => {
-    let res;
-    for (const i of arr) {
-        res = res | i;
+// reference: https://www.geeksforgeeks.org/number-of-subarrays-have-bitwise-or-k/
+function SegmentTreeRBQ(a) { // range bitwise query
+    let n = a.length, h = Math.ceil(Math.log2(n));
+    const MAX = 2 * 2 ** h - 1;
+    let tree = Array(MAX).fill(0);
+    build(a, 1, 0, n - 1);
+    return { query }
+    function build(a, i, tl, tr) {
+        if (tl == tr) {
+            tree[i] = a[tl];
+            return;
+        }
+        let mid = tl + tr >> 1;
+        build(a, 2 * i, tl, mid);
+        build(a, 2 * i + 1, mid + 1, tr);
+        tree[i] = tree[2 * i] | tree[2 * i + 1];
     }
-    return res;
+    function query(i, tl, tr, l, r) {
+        if (l > tr || r < tl) return 0; // out of range
+        if (l <= tl && r >= tr) return tree[i]; // inside
+        let mid = tl + tr >> 1;
+        let q1 = query(2 * i, tl, mid, l, r);
+        let q2 = query(2 * i + 1, mid + 1, tr, l, r);
+        return q1 | q2;
+    }
+}
+
+// TLE
+const subarrayBitwiseORs1 = (a) => {
+    let n = a.length, res = new Set();
+    let rbq = new SegmentTreeRBQ(a);
+    for (let i = 0; i < n; i++) {
+        for (let j = i; j < n; j++) {
+            let or = rbq.query(1, 0, n - 1, i, j);
+            res.add(or);
+        }
+    }
+    return res.size;
 };
+
+const pr = console.log;
+
 
 const main = () => {
     let A = [0];
@@ -41,3 +86,24 @@ const main = () => {
 };
 
 main()
+
+////////////////////////////// 07/10/20 afternoon /////////////////////
+// Time Limit 70/83 
+// const subarrayBitwiseORs = (A) => {
+//     let res = [];
+//     for (let i = 0; i < A.length; i++) {
+//         for (let j = i; j < A.length; j++) {
+//             let subarr = A.slice(i, j + 1);
+//             res.push(sumXOR(subarr));
+//         }
+//     }
+//     return [...new Set(res)].length;
+// };
+
+// const sumXOR = (arr) => {
+//     let res;
+//     for (const i of arr) {
+//         res = res | i;
+//     }
+//     return res;
+// };

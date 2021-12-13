@@ -98,8 +98,14 @@ https://leetcode.com/problems/group-anagrams/discuss/750368/javascript-solution
 50 Pow(x, n)  (-2)
 https://leetcode.com/problems/powx-n/discuss/840631/javascript-cheating-64ms
 
+53 Maximum Subarray
+https://leetcode.com/problems/maximum-subarray/discuss/1606867/javascript-easy-dp-104ms
+
 54 Spiral Matrix
 https://leetcode.com/problems/spiral-matrix/discuss/1224381/javascript-76ms
+
+55 Jump Game
+https://leetcode.com/problems/jump-game/discuss/1607026/javascript-dfs-%2B-memo-80ms-92.89
 
 56 Merge Intervals
 https://leetcode.com/problems/merge-intervals/discuss/1239679/javascript-92ms-70.21
@@ -1084,6 +1090,9 @@ https://leetcode.com/problems/monotonic-array/discuss/783828/javascript-every()-
 897 Increasing Order Search Tree
 https://leetcode.com/problems/increasing-order-search-tree/discuss/712553/javascript-solution
 
+898 Bitwise ORs of Subarrays
+https://leetcode.com/problems/bitwise-ors-of-subarrays/discuss/1607215/javascript-364ms
+
 899 Orderly Queue
 https://leetcode.com/problems/orderly-queue/discuss/1449149/javascript-direct-way-131ms
 
@@ -1119,6 +1128,9 @@ https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/73
 
 917 Reverse Only Letters
 https://leetcode.com/problems/reverse-only-letters/discuss/1463375/javascript-direct-way-96ms
+
+918 Maximum Sum Circular Subarray
+https://leetcode.com/problems/maximum-sum-circular-subarray/discuss/1606889/javascript-dp-%2B-tranform-question-in-formula-112ms
 
 922 Sort Array By Parity II
 https://leetcode.com/problems/sort-array-by-parity-ii/discuss/928709/javascript-136ms
@@ -2497,7 +2509,7 @@ https://leetcode.com/problems/count-nodes-with-the-highest-score/discuss/1537725
 2050 Parallel Courses III
 https://leetcode.com/problems/parallel-courses-iii/discuss/1539355/javascript-Topology-sort-with-bfs-502ms
 
-2053 Kth Distinct String in an Array (0) -> (1) -> (0)
+2053 Kth Distinct String in an Array (0) -> (1) -> (0) -> (1)
 https://leetcode.com/problems/kth-distinct-string-in-an-array/discuss/1549218/javascript-direct-way-194ms
 
 2054 Two Best Non-Overlapping Events (0) -> (1)
@@ -2571,7 +2583,7 @@ https://leetcode.com/problems/find-target-indices-after-sorting-array/discuss/16
 
 2090 K Radius Subarray Averages
 https://leetcode.com/problems/k-radius-subarray-averages/discuss/1600172/javascript-prefix-sum-573ms
-https://leetcode.com/problems/k-radius-subarray-averages/discuss/1599974/JavaScript-Sliding-Window
+https://leetcode.com/problems/k-radius-subarray-averages/discuss/1599974/JavaScript-Sliding-Window (0) -> (1) -> (2)
 
 2091 Removing Minimum and Maximum From Array
 https://leetcode.com/problems/removing-minimum-and-maximum-from-array/discuss/1600161/javascript-greedy-3-conditions
@@ -2579,3 +2591,36 @@ https://leetcode.com/problems/removing-minimum-and-maximum-from-array/discuss/16
 2092 Find All People With Secret
 https://leetcode.com/problems/find-all-people-with-secret/discuss/1600133/javascript-graph-bfs-with-pq-684ms
 
+2094 Finding 3-Digit Even Numbers
+https://leetcode.com/problems/finding-3-digit-even-numbers/discuss/1612517/javascript-brute-force
+
+2095 Delete the Middle Node of a Linked List
+https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/discuss/1612505/javascript-using-array-1055ms
+
+2096 Step-By-Step Directions From a Binary Tree Node to Another
+https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/discuss/1612434/javascript-get-selected-paths-%2B-find-LCA-988ms
+
+2097 Valid Arrangement of Pairs
+https://leetcode.com/problems/valid-arrangement-of-pairs/discuss/1614515/javascript-Eulerian-Path-via-stack-1004ms
+
+2099 Find Subsequence of Length K With the Largest Sum
+https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/discuss/1623713/javascript-greedy-111ms
+
+2100 Find Good Days to Rob the Bank
+https://leetcode.com/problems/find-good-days-to-rob-the-bank/discuss/1623810/javascript-prefix-suffix-record-longest-non-increasing-164ms
+
+2102 Sequentially Ordinal Rank Tracker
+https://leetcode.com/problems/sequentially-ordinal-rank-tracker/discuss/1623770/javascript-two-pq-880ms
+
+2103 Rings and Rods
+https://leetcode.com/problems/rings-and-rods/discuss/1624445/javascript-hashset-in-hashmap-74ms
+
+2104 Sum of Subarray Ranges
+https://leetcode.com/problems/sum-of-subarray-ranges/discuss/1624426/javascript-direct-way-100ms
+https://leetcode.com/problems/sequentially-ordinal-rank-tracker/discuss/1623314/Javascript-AVL-tree (1)
+
+2105 Watering Plants II
+https://leetcode.com/problems/watering-plants-ii/discuss/1624399/javascript-reuse-logic-92ms
+
+Interview:
+https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
