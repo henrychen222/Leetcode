@@ -1,8 +1,31 @@
 /**
- * 7.11 afternoon
+ * 07/11/20 afternoon   01/24/22 night fix
  * https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
  */
 
+// Accepted --- 68ms 100%
+let res;
+const numSteps = (s) => {
+    res = Number.MAX_SAFE_INTEGER;
+    let cur = BigInt('0b' + s);
+    dfs(0, cur);
+    return res;
+};
+
+const dfs = (step, x) => {
+    if (x == 1) {
+        res = Math.min(res, step);
+        return;
+    }
+    if (x % 2n == 1) {
+        dfs(step + 1, x + 1n);
+    } else {
+        dfs(step + 1, x / 2n);
+    }
+};
+
+
+/////////////////////////////////////////////////////////////////////
 // need to fix for large number
 const numSteps = (s) => {
     let num = parseInt(s, 2);
