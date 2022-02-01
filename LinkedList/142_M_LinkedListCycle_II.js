@@ -1,5 +1,5 @@
 /**
- * 12.30 afternoon
+ * 12/30/20 afternoon   01/31/22 night completed
  * https://leetcode.com/problems/linked-list-cycle-ii/
  */
 
@@ -8,6 +8,32 @@ function ListNode(val, next) {
     this.next = (next === undefined ? null : next)
 }
 
+// Accepted --- 109ms 52.87%
+// reference: https://www.cnblogs.com/grandyang/p/4137302.html
+const detectCycle = (head) => {
+    let slow = head, fast = head;
+    while (fast != null && fast.next != null) {
+        slow = slow.next;
+        fast = fast.next.next;
+        if (slow == fast) {
+            break;
+        }
+    }
+    /*
+     head到环起点+环的起点到他们相遇的点的距离 = 环一圈的距离
+     -> head到环起点 = 相遇点到环起点
+     */
+    if (!fast || !fast.next) return null;
+    slow = head;
+    while (slow != fast) { // head到环起点 = 相遇点到环起点
+        slow = slow.next;
+        fast = fast.next;
+    }
+    return fast;
+};
+
+
+////////////////////////////////////////////////////////////////////////
 const printLArray = (list) => {
     let res = [];
     let current = list;

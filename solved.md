@@ -243,6 +243,9 @@ https://leetcode.com/problems/single-number-ii/discuss/731356/javascript-3-solut
 141 Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/discuss/707585/javascript-slow-fast-pointer
 
+142 Linked List Cycle II
+https://leetcode.com/problems/linked-list-cycle-ii/discuss/1735743/javascript-slow-fast-pointer-109ms
+
 143 Reorder List
 https://leetcode.com/problems/reorder-list/discuss/994435/javascript-using-array-168ms
 
@@ -499,6 +502,9 @@ https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/834971/javascri
 381 Insert Delete GetRandom O(1) - Duplicates allowed
 https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/discuss/1168430/javascript-array-esay-%2B-hashmap-tricky-two-solutions
 
+382 Linked List Random Node
+https://leetcode.com/problems/linked-list-random-node/discuss/1735435/javascript-using-array-and-randn-202ms
+
 384 Shuffle an Array
 https://leetcode.com/problems/shuffle-an-array/discuss/1351871/javascript-direct-way-268ms
 
@@ -519,6 +525,9 @@ https://leetcode.com/problems/rotate-function/discuss/1084388/javascript-direct-
 
 397 Integer Replacement
 https://leetcode.com/problems/integer-replacement/discuss/1242106/javascript-easy-dfs-80ms
+
+398 Random Pick Index
+https://leetcode.com/problems/random-pick-index/discuss/1735403/javascript-hashmap-%2B-randN()-246ms
 
 400 Nth Digit
 https://leetcode.com/problems/nth-digit/discuss/1224499/javascript-72ms-95.74
@@ -604,6 +613,9 @@ https://leetcode.com/problems/count-the-repetitions/discuss/1526914/javascript-b
 
 467 Unique Substrings in Wraparound String
 https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/920115/javascript-dp-92ms
+
+470 Implement Rand10() Using Rand7()
+https://leetcode.com/problems/implement-rand10-using-rand7/discuss/1735399/javascript-183ms
 
 473 Matchsticks to Square (0) -> (1)
 https://leetcode.com/problems/matchsticks-to-square/discuss/1275667/javascript-dfs-112ms
@@ -1862,6 +1874,9 @@ https://leetcode.com/problems/design-an-ordered-stream/discuss/936227/javascript
 
 1657 Determine if Two Strings Are Close
 https://leetcode.com/problems/determine-if-two-strings-are-close/discuss/1717465/javascript-greedy-check-char-and-frequency-258ms
+
+1658 Minimum Operations to Reduce X to Zero
+https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/discuss/1735929/javascript-sliding-window-84ms-100
 
 1662 Check If Two String Arrays are Equivalent
 https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/discuss/944656/javascript-easy-80ms
