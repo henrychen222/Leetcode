@@ -1677,6 +1677,9 @@ https://leetcode.com/problems/rearrange-words-in-a-sentence/discuss/726284/javas
 1452 People Whose List of Favorite Companies Is Not a Subset of Another List
 https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/discuss/727707/javascript-solution
 
+1462 Course Schedule IV
+https://leetcode.com/problems/course-schedule-iv/discuss/1743818/javascript-topological-sort-132ms-100
+
 1472 Design Browser History
 https://leetcode.com/problems/design-browser-history/discuss/1124802/javascript-use-array-directly-200ms-72.68-fast
 
@@ -2789,10 +2792,31 @@ https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-a
 
 2156 Find Substring With Given Hash Value
 https://leetcode.com/problems/find-substring-with-given-hash-value/discuss/1730523/javascript-Rabin-Karp-387ms
-https://leetcode.com/problems/find-substring-with-given-hash-value/discuss/1730206/Didnt-Work-%3A( (0) -> (3)
+https://leetcode.com/problems/find-substring-with-given-hash-value/discuss/1730206/Didnt-Work-%3A( (0) -> (3) -> (4)
     
 2157 Groups of Strings
 https://leetcode.com/problems/groups-of-strings/discuss/1730651/javascript-union-find-%2B-bitmask-1556ms
+
+2160 Minimum Sum of Four Digit Number After Splitting Digits
+https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/discuss/1747462/javascript-greedy-109ms
+
+2161 Partition Array According to Given Pivot
+https://leetcode.com/problems/partition-array-according-to-given-pivot/discuss/1747442/javascript-direct-way-599ms
+
+2162 Minimum Cost to Set Cooking Time
+https://leetcode.com/problems/minimum-cost-to-set-cooking-time/discuss/1747419/javascript-dfsbacktracking-build-clock-string-792ms
+
+2164 Sort Even and Odd Indices Independently
+https://leetcode.com/problems/sort-even-and-odd-indices-independently/discuss/1748914/javascript-direct-way-134ms
+https://leetcode.com/problems/sort-even-and-odd-indices-independently/discuss/1748568/JavaScript-Very-brute-force (0) -> (1)
+
+2165 Smallest Value of the Rearranged Number
+https://leetcode.com/problems/smallest-value-of-the-rearranged-number/discuss/1748879/javascript-direct-build-115ms
+
+2166 Design Bitset
+https://leetcode.com/problems/design-bitset/discuss/1748832/javascript-decide-by-flip-1110ms
+https://leetcode.com/problems/design-bitset/discuss/1748711/JavaScript-2166.-Design-Bitset (0) -> (1)
+https://leetcode.com/problems/design-bitset/discuss/1751750/Why-this-javascript-code-does-not-work-Can-anyone-tell
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
