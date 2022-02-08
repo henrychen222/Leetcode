@@ -348,6 +348,9 @@ https://leetcode.com/problems/the-skyline-problem/discuss/1477969/javascript-mul
 220 Contains Duplicate III (-1)
 https://leetcode.com/problems/contains-duplicate-iii/discuss/724142/javascript-two-pointer
 
+223 Rectangle Area
+https://leetcode.com/problems/rectangle-area/discuss/1753976/javascript-math-120ms-94.67-decide-overlap-area
+
 228 Summary Ranges
 https://leetcode.com/problems/summary-ranges/discuss/738277/javascript-solution
 
@@ -592,6 +595,9 @@ https://leetcode.com/problems/4sum-ii/discuss/1080260/javascript-136ms-98.30-fas
 
 456 132 Pattern
 https://leetcode.com/problems/132-pattern/discuss/1139923/javascript-stack-two-pointer-sliding-window-three-ways-review
+
+457 Circular Array Loop
+https://leetcode.com/problems/circular-array-loop/discuss/1754321/javascript-hashmap-98ms
 
 460 LFU Cache
 https://leetcode.com/problems/lfu-cache/discuss/1158428/javascript-hashmap-records-%2B-array-sort
@@ -1251,6 +1257,9 @@ https://leetcode.com/problems/maximum-width-ramp/discuss/739736/javascript-two-p
 965 Univalued Binary Tree
 https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tree-to-array-solution
 
+967 Numbers With Same Consecutive Differences
+https://leetcode.com/problems/numbers-with-same-consecutive-differences/discuss/1752728/javascript-dfsbacktracking-152ms
+
 970 Powerful Integers
 https://leetcode.com/problems/powerful-integers/discuss/811935/javascript-64ms-faster-than-100.00
 
@@ -1652,6 +1661,9 @@ https://leetcode.com/problems/queries-on-a-permutation-with-key/discuss/720793/j
 
 1410 HTML Entity Parser (-2)
 https://leetcode.com/problems/html-entity-parser/discuss/749981/javascript-solution
+
+1415 The k-th Lexicographical String of All Happy Strings of Length n
+https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/discuss/1753260/javascript-dfsbacktracking-1337ms
 
 1416 Restore The Array
 https://leetcode.com/problems/restore-the-array/discuss/1333663/javascript-dp-136ms
