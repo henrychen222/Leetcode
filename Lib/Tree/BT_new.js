@@ -55,3 +55,69 @@ const dfs = (node, path, res) => {
     dfs(node.right, path, res);
     path.pop();
 };
+
+
+/**
+ * 02/27/22 evening
+ * reference: 
+ * https://www.geeksforgeeks.org/deletion-binary-tree/
+ */
+
+const bt = require("./buildTree");
+
+// BT (binary tree)
+function deletion(root, v) {
+    if (!root) return;
+    if (!root.left && !root.right) {
+        if (v == root.val) root = null;
+        return;
+    }
+    let q = [root], cur = null, find = null;
+    while (q.length > 0) {
+        cur = q.shift();
+        if (cur.val == v) find = cur;
+        if (cur.left) q.push(cur.left);
+        if (cur.right) q.push(cur.right);
+    }
+    if (find) {
+        let x = cur.val;
+        deleteDeepest(root, cur);
+        find.val = x;
+    }
+}
+function deleteDeepest(root, delNode) {
+    let q = [root];
+    while (q.length > 0) {
+        let cur = q.shift();
+        if (cur == delNode) {
+            cur = null;
+            return;
+        }
+        if (cur.right) {
+            if (cur.right == delNode) {
+                cur.right = null;
+                return;
+            } else {
+                q.push(cur.right);
+            }
+        }
+        if (cur.left) {
+            if (cur.left == delNode) {
+                cur.left = null;
+                return;
+            } else {
+                q.push(cur.left);
+            }
+        }
+    }
+}
+
+const main = () => {
+    let a = [13, 12, 10, 4, 19, 16, 9];
+    let root = bt.buildTree(a);
+    bt.printTree(root); // [13,12,10,4,19,16,9]
+    deletion(root, 12);
+    bt.printTree(root); // [13,9,10,4,19,16]
+};
+
+main()

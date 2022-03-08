@@ -1,5 +1,5 @@
 /**
- * 7.1 night
+ * 07/01/20 night
  * https://leetcode.com/problems/search-in-a-binary-search-tree/
  * reference: https://www.cnblogs.com/grandyang/p/9912434.html
  */
@@ -10,6 +10,15 @@ function TreeNode(val, left, right) {
     this.right = (right === undefined ? null : right)
 }
 
+function search(root, v) { // 02/27/22 evening
+    if (!root || root.val == v) return root;
+    return v < root.val ? search(root.left, v) : search(root.right, v);
+}
+
+// Accepted --- 96ms 75.94%
+const searchBST2 = (root, val) => search(root, val);
+
+////////////////////////////////////////////////////////////////
 // Accepted --- 92ms 42.2MB 46.83%
 const searchBST = (root, val) => {
     if (!root) return null;
