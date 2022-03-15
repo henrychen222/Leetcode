@@ -66,6 +66,15 @@ public:
             cout << endl;
         }
     }
+
+    void print_map_array(map<array<int, 2>, int> m) {
+        cout << "{ ";
+        for (auto it = m.begin(); it != m.end(); ++it) {
+            cout << "[" << it->first[0] << "," << it->first[1] << "]:";
+            cout << it->second << " | ";
+        }
+        cout << "}";
+    }
     
     void print_map_vector_pair (map<int, vector<pair<int, int>>> map) {
         for (const auto &p : map) {
@@ -105,6 +114,14 @@ public:
     void print_queue(queue<int> q) {
         while (!q.empty()) {
           cout << q.front() << " ";
+          q.pop();
+        }
+        cout << endl;
+    }
+
+    void print_queue(queue<array<int, 2>> q) {
+        while (!q.empty()) {
+          cout << "[" << q.front()[0] << "," << q.front()[1] << "]";
           q.pop();
         }
         cout << endl;

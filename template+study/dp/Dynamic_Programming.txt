@@ -1,0 +1,166 @@
+
+Created Feb 28, 2019    2:39 PM
+
+--- 02/28/19 afternoon
+https://medium.com/@codingfreak/top-50-dynamic-programming-practice-problems-4208fed71aa3 (very good)
+https://www.geeksforgeeks.org/dynamic-programming/  (Very good)
+https://en.wikipedia.org/wiki/Dynamic_programming
+
+
+
+----- 11/18/20 evening Need to Read
+
+*************************** Main Concepts *********************************
+(Tabulation vs Memoization) DP table array vs dfs recursion
+https://www.geeksforgeeks.org/tabulation-vs-memoization/
+
+(Overlapping Subproblems)
+https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/
+
+(Optimal Substructure)
+https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/
+ 
+(Bitmask)
+https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/
+https://www.geeksforgeeks.org/bitmasking-dynamic-programming-set-2-tsp/
+
+
+
+****************************** Basic Problems **************************
+(Ugly Numbers)
+https://www.geeksforgeeks.org/ugly-numbers/
+
+(Fibonacci numbers)
+https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+
+(nth Catalan Number)
+https://www.geeksforgeeks.org/program-nth-catalan-number/
+
+(Binomial Coefficient)
+https://www.geeksforgeeks.org/binomial-coefficient-dp-9/
+
+(Bell Numbers)
+https://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/
+
+(Permutation Coefficient)
+https://www.geeksforgeeks.org/permutation-coefficient/
+
+(Tiling)
+https://www.geeksforgeeks.org/tiling-problem/
+
+(Gold Mine)
+https://www.geeksforgeeks.org/gold-mine-problem/
+
+(Coin Change)
+https://www.geeksforgeeks.org/coin-change-dp-7/
+
+
+
+
+
+
+
+
+
+
+
+
+************************** DP Category *************************
+https://blog.csdn.net/sinat_37765046/article/details/78660846
+https://medium.com/@algo.monster.hello/types-of-dynamic-programming-questions-84e0621c7a28
+
+(dp 划分型)  dp Partition
+https://blog.csdn.net/fuyukai/article/details/43898333
+https://www.jianshu.com/p/6483dcfaa8e6
+https://leetcode-cn.com/problems/perfect-squares/solution/hua-fen-xing-dong-tai-gui-hua-by-darrenchan/
+https://www.cnblogs.com/GuanHuaEdison/p/6617688.html   good
+https://stomachache007.wordpress.com/2017/10/31/%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%B3%95%E9%AB%98%E7%BA%A7%E7%8F%AD%E7%AC%94%E8%AE%B05-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%88%E4%B8%8A%EF%BC%89/   read
+
+
+(dp 矩阵型 / 棋盘型/ 坐标型)  dp Grid
+https://www.cnblogs.com/GuanHuaEdison/p/6617688.html
+https://stomachache007.wordpress.com/2017/10/31/%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%B3%95%E9%AB%98%E7%BA%A7%E7%8F%AD%E7%AC%94%E8%AE%B05-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%88%E4%B8%8A%EF%BC%89/    read
+https://jerry.zone/2019/12/02/%E5%9D%90%E6%A0%87%E5%9E%8B%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/
+https://blog.csdn.net/roufoo/article/details/107578894
+https://liut2.gitbooks.io/crazystuff/content/zuo_biao_xing_dp.html
+https://yuanfanz.gitbooks.io/padawan-algorithm/content/zuo-biao-xing-dp.html
+https://blog.csdn.net/u013325815/article/details/104047256
+https://www.codenong.com/cs105867141/
+https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/solution/zuo-biao-xing-dp-by-minux/
+
+(dp 序列型)   dp Sequence
+https://leetcode-cn.com/circle/article/kQfS5s/
+https://my.oschina.net/u/4416800/blog/3397108
+https://blog.csdn.net/roufoo/article/details/107710656
+
+(dp 双序列型)   dp Two Sequences
+https://yuanfanz.gitbooks.io/padawan-algorithm/content/shuang-xu-lie-xing-dong-tai-gui-hua.html
+https://leetcode-cn.com/problems/edit-distance/solution/cdong-tai-gui-hua-shuang-xu-lie-xing-dp-by-zb121/
+https://leetcode-cn.com/problems/longest-common-subsequence/solution/shuang-xu-lie-xing-dong-tai-gui-hua-by-darrenchan/
+https://www.cnblogs.com/holidays/p/leetcode_note5.html
+https://blog.csdn.net/XindiOntheWay/article/details/81610254
+https://blog.csdn.net/CrazyMooo/article/details/107237874
+https://wnjxyk.tech/336.html
+https://marian5211.github.io/2017/11/18/%E3%80%90%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E7%8F%AD%E3%80%91%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/
+https://stomachache007.wordpress.com/2017/10/31/%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%B3%95%E9%AB%98%E7%BA%A7%E7%8F%AD%E7%AC%94%E8%AE%B05-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%88%E4%B8%8A%EF%BC%89/  read
+
+(dp 区间型)  interval
+https://blog.csdn.net/fuyukai/article/details/43793863
+https://blog.csdn.net/my_sunshine26/article/details/77141398
+https://leetcode-cn.com/problems/longest-palindromic-subsequence/solution/mix-qu-jian-xing-dp-by-minux/
+https://oi-wiki.org/dp/interval/
+https://zhuanlan.zhihu.com/p/126546914
+https://www.jianshu.com/p/9c6401ea2f9b
+https://www.cnblogs.com/GuanHuaEdison/p/6617688.html
+https://www.cnblogs.com/zzyh/category/1023952.html
+https://www.mscto.com/game/335750.html
+
+(dp 背包型)
+https://oi-wiki.org/dp/knapsack/
+https://zhuanlan.zhihu.com/p/93857890
+https://www.cnblogs.com/jinkun113/p/12539607.html
+https://www.cnblogs.com/GuanHuaEdison/p/6617688.html
+https://blog.csdn.net/sizaif/article/details/70147689
+https://dxoca.cn/Algorithm/255.html
+https://jerry.zone/2019/12/02/%E8%83%8C%E5%8C%85%E5%9E%8B%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/
+http://www.yikanggao.com/blog/2017/06/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E7%BB%86%E8%8A%82%E6%8E%A2%E6%9E%90.html
+https://blog.nowcoder.net/n/3ae2828dac364e9f86ff1b39ae87dd77
+
+(dp 状态压缩型)
+https://oi-wiki.org/dp/state/
+https://zhuanlan.zhihu.com/p/131585177
+https://blog.csdn.net/u011077606/article/details/43487421
+https://blog.csdn.net/cjc211322/article/details/22720351
+https://www.cnblogs.com/ibilllee/p/7651971.html
+https://blog.nowcoder.net/n/fcc30eadb2b44395862194814e819315
+https://developer.aliyun.com/article/465330
+https://wangdh15.github.io/2020/04/14/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9DP/
+https://leetcode-cn.com/problems/maximum-students-taking-exam/solution/dong-tai-gui-hua-zhuang-tai-ya-suo-dp-by-mikchy/
+
+(dp 树型)
+https://oi-wiki.org/dp/tree/
+https://blog.csdn.net/txl199106/article/details/45373507
+https://leetcode-cn.com/problems/house-robber-iii/solution/shu-xing-dp-by-enda-2/
+https://leetcode-cn.com/problems/sum-of-distances-in-tree/solution/python-shu-xing-dp-by-hao-shou-bu-juan/
+https://www.cnblogs.com/mhpp/p/6628548.html
+https://www.luogu.com.cn/problem/P1352
+https://zhuanlan.zhihu.com/p/115857661
+https://criskaa.github.io/2016/10/26/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%88%E4%BA%8C%EF%BC%89%E6%A0%91%E5%BD%A2DP/
+
+
+(dp 数位)
+https://oi-wiki.org/dp/number/
+https://blog.csdn.net/wust_zzwh/article/details/52100392
+https://www.jianshu.com/p/1434fd741362
+https://blog.nowcoder.net/n/ec605c08900140019698e33059b20873
+https://zhuanlan.zhihu.com/p/50791875
+https://zhuanlan.zhihu.com/p/128138969
+https://leetcode-cn.com/problems/number-of-digit-one/solution/shu-wei-dp-by-fu-ru-dong-hai/
+https://www.lagou.com/lgeduarticle/9599.html
+https://www.cnblogs.com/Judge/p/9567971.html
+
+
+
+
+(leetcode DP 分类)
+https://leetcode-cn.com/circle/article/NfHhXD/

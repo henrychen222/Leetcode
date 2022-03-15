@@ -1,0 +1,49 @@
+
+----- Created 07/25/20
+
+(segment tree)
+https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/    use
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/
+https://cp-algorithms.com/data_structures/segment_tree.html
+https://codeforces.com/blog/entry/18051
+https://codeforces.com/blog/entry/15890
+
+(segment tree) baidu
+https://blog.csdn.net/johnny901114/article/details/80643017
+https://www.jianshu.com/p/6fd130084a43
+https://www.cnblogs.com/zhengchang/p/xianduanshu.html
+https://blog.csdn.net/WilsonSong1024/article/details/82318431
+https://www.cnblogs.com/gogoflower/p/10613867.html
+https://www.wmathor.com/index.php/archives/1175/
+https://www.jianshu.com/p/91f2c503e62f?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+https://segmentfault.com/a/1190000016900304
+
+
+
+------05/01/21 afternoon
+(SegmentTreeRSQ  range sum query)  
+https://algs4.cs.princeton.edu/99misc/SegmentTree.java.html  range sum range min
+
+------05/02/21 night
+(segment tree RMQ range maximum query)
+https://www.geeksforgeeks.org/segment-tree-set-2-range-maximum-query-node-update/
+https://www.geeksforgeeks.org/iterative-segment-tree-range-maximum-query-with-node-update/
+https://cp-algorithms.com/data_structures/segment_tree.html  same, read   use
+https://github.com/amulyagaur/Segment-Tree/blob/master/range-max-query.cpp
+https://www.hackerearth.com/practice/notes/segment-trees-for-beginners/
+https://medium.com/nybles/understanding-range-queries-and-updates-segment-tree-lazy-propagation-and-mos-algorithm-d2cd2f6586d8
+https://iq.opengenus.org/range-minimum-query-segment-tree/
+
+(segment tree RMQ range minimum query)
+https://www.geeksforgeeks.org/iterative-segment-tree-range-minimum-query/
+https://gsourcecode.wordpress.com/2014/03/12/introduction-to-segment-trees-range-minimum-query/
+https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor
+https://github.com/amulyagaur/Segment-Tree/blob/master/range-min-query.cpp
+
+(Segment tree vs Fenwick tree/BIT)
+https://stackoverflow.com/questions/64190332/fenwick-tree-vs-segment-tree
+   https://cp-algorithms.com/sequences/rmq.html  (Fenwick tree can only be used for queries with L=1, not applicable to many problems)
+     https://cp-algorithms.com/data_structures/segment_tree.html
+     https://cp-algorithms.com/data_structures/fenwick.html
+
+

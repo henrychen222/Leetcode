@@ -1,0 +1,8 @@
+https://brilliant.org/wiki/greedy-algorithm/
+https://en.wikipedia.org/wiki/Greedy_algorithm
+https://www.geeksforgeeks.org/greedy-algorithms/
+https://medium.com/cracking-the-data-science-interview/greedy-algorithm-and-dynamic-programming-a8c019928405 (very good)
+http://everythingcomputerscience.com/algorithms/Greedy_Algorithm.html
+https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm
+http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Greedy/greedyIntro.htm
+https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/

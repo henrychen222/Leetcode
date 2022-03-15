@@ -177,6 +177,9 @@ https://leetcode.com/problems/subsets-ii/discuss/725831/javascript-solution
 92 Reverse Linked List II
 https://leetcode.com/problems/reverse-linked-list-ii/discuss/996101/javascript-88ms-using-array
 
+93 Restore IP Addresses
+https://leetcode.com/problems/restore-ip-addresses/discuss/1838144/javascript-dfsbacktracking-348ms
+
 94 Binary Tree Inorder Traversal
 https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/1708310/javascript-easy-dfs-112ms
 
@@ -650,6 +653,9 @@ https://leetcode.com/problems/heaters/discuss/813881/javascript-two-pointer-with
 477 Total Hamming Distance
 https://leetcode.com/problems/total-hamming-distance/discuss/1145952/javascript-96ms
 
+481 Magical String
+https://leetcode.com/problems/magical-string/discuss/1831076/javascript-direct-build-2135ms
+
 482 License Key Formatting
 https://leetcode.com/problems/license-key-formatting/discuss/810436/javascript-solution
 
@@ -1089,6 +1095,9 @@ https://leetcode.com/problems/magic-squares-in-grid/discuss/817807/javascript-so
 
 841 Keys and Rooms
 https://leetcode.com/problems/keys-and-rooms/discuss/1117991/javascript-dfs-84ms-69.38
+
+842 Split Array into Fibonacci Sequence
+https://leetcode.com/problems/split-array-into-fibonacci-sequence/discuss/1838419/javascript-dfsbacktracking-756ms
 
 844 Backspace String Compare
 https://leetcode.com/problems/backspace-string-compare/discuss/779205/javascript-stack-two-solutions
@@ -1880,6 +1889,9 @@ https://leetcode.com/problems/largest-substring-between-two-equal-characters/dis
 
 1625 Lexicographically Smallest String After Applying Operations
 https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/discuss/899798/javacript-DFS-with-endless-loop-768ms
+
+1626 Best Team With No Conflicts
+https://leetcode.com/problems/best-team-with-no-conflicts/discuss/1831201/javascript-sort-%2B-dp-401ms
 
 1627 Graph Connectivity With Threshold
 https://leetcode.com/problems/graph-connectivity-with-threshold/discuss/1454992/javascript-union-find-272ms-100
@@ -2949,6 +2961,18 @@ https://leetcode.com/problems/create-binary-tree-from-descriptions/discuss/18241
 
 2197 Replace Non-Coprime Numbers in Array
 https://leetcode.com/problems/replace-non-coprime-numbers-in-array/discuss/1824285/javascript-stack-%2B-gcd-398ms
+
+2200 Find All K-Distant Indices in an Array
+https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/discuss/1844635/javascript-direct-way-96ms
+
+2201 Count Artifacts That Can Be Extracted
+https://leetcode.com/problems/count-artifacts-that-can-be-extracted/discuss/1844604/javascript-direct-way-378ms
+
+2202 Maximize the Topmost Element After K Moves
+https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/discuss/1844536/javascript-greedy-89ms
+
+2203 Minimum Weighted Subgraph With the Required Paths
+https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/discuss/1845553/javascript-dijkstra-1363ms
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
