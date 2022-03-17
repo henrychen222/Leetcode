@@ -1773,6 +1773,9 @@ https://leetcode.com/problems/parallel-courses-ii/discuss/1584904/javascript-bit
 1504 Count Submatrices With All Ones (0) -> (1)
 https://leetcode.com/problems/count-submatrices-with-all-ones/discuss/973684/javascript-solutions
 
+1514 Path with Maximum Probability
+https://leetcode.com/problems/path-with-maximum-probability/discuss/1850532/javascript-dijkstra-389ms
+
 1536 Minimum Swaps to Arrange a Binary Grid
 https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/discuss/887726/javascript-92ms
 
@@ -2973,6 +2976,7 @@ https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/discuss
 
 2203 Minimum Weighted Subgraph With the Required Paths
 https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/discuss/1845553/javascript-dijkstra-1363ms
+https://leetcode-cn.com/problems/minimum-weighted-subgraph-with-the-required-paths/solution/javascript-dijkstra-1363ms-by-henrychen2-axwd/
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
