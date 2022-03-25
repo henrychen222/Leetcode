@@ -1,5 +1,47 @@
+/*
+Created 07/25/20   5:59PM
+
+Read:
+https://www.geeksforgeeks.org/window-sliding-technique/
+https://medium.com/leetcode-patterns/leetcode-pattern-2-sliding-windows-for-strings-e19af105316b
+https://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples
+https://www.educative.io/edpresso/how-to-implement-a-sliding-window-algorithm-in-cpp
+https://www.cnblogs.com/cpaulyz/p/12401581.html
+https://www.jianshu.com/p/869f6d00d962
+https://www.cnblogs.com/RioTian/articles/12425981.html
+https://blog.csdn.net/kingmax54212008/article/details/103531887
+https://blog.csdn.net/lm278858445/article/details/88189212
+
+https://walkccc.github.io/CS/JavaScript/01/slidingWindow/  used
+
+
+---- Example Problems
+https://www.techiedelight.com/sliding-window-problems/
+https://www.geeksforgeeks.org/tag/sliding-window/
+
+Subarray
+53    https://leetcode.com/problems/maximum-subarray/
+209   https://leetcode.com/problems/minimum-size-subarray-sum/
+560   https://leetcode.com/problems/subarray-sum-equals-k/
+795  https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
+907  https://leetcode.com/problems/sum-of-subarray-minimums/
+918  https://leetcode.com/problems/maximum-sum-circular-subarray/
+974  https://leetcode.com/problems/subarray-sums-divisible-by-k/
+978  https://leetcode.com/problems/longest-turbulent-subarray/
+1493 https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+
+Substring
+3   https://leetcode.com/problems/longest-substring-without-repeating-characters/
+1358  https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+Subsequence:
+1498  https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/   contest 195
+
+*/
+
+
 /**
- * 7.15 morning
+ * 07/15/20 morning
  */
 
 // lc 53  https://leetcode.com/problems/maximum-subarray/

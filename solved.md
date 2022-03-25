@@ -962,6 +962,9 @@ https://leetcode.com/problems/delete-and-earn/discuss/950618/javascript-76ms-100
 741 Cherry Pickup
 https://leetcode.com/problems/cherry-pickup/discuss/1517931/javascript-dp-96ms-100
 
+743 Network Delay Time
+https://leetcode.com/problems/network-delay-time/discuss/1857695/javascript-dijkstra-199ms
+
 745 Prefix and Suffix Search
 https://leetcode.com/problems/prefix-and-suffix-search/discuss/1191792/javascript-ordered-map-1188ms
 
@@ -1619,6 +1622,9 @@ https://leetcode.com/problems/remove-palindromic-subsequences/discuss/926501/jav
 
 1333 Filter Restaurants by Vegan-Friendly, Price and Distance
 https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/discuss/726382/javascript-solution
+
+1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/discuss/1857780/javascript-dijkstra-267ms (0) -> (1)
 
 1338 Reduce Array Size to The Half
 https://leetcode.com/problems/reduce-array-size-to-the-half/discuss/1320426/javascript-direct-way-196ms
@@ -2936,6 +2942,7 @@ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagra
 
 2187 Minimum Time to Complete Trips (0) -> (1) -> (2)
 https://leetcode.com/problems/minimum-time-to-complete-trips/discuss/1802789/javascript-binary-search-916ms
+https://leetcode.com/problems/minimum-time-to-complete-trips/discuss/1814591/JavaScript-Easy-to-understand-binary-search-with-detailed-explanation
 
 2188 Minimum Time to Finish the Race (0) -> (2)
 https://leetcode.com/problems/minimum-time-to-finish-the-race/discuss/1802937/javascript-dp-440ms
@@ -2977,6 +2984,24 @@ https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/discuss
 2203 Minimum Weighted Subgraph With the Required Paths
 https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/discuss/1845553/javascript-dijkstra-1363ms
 https://leetcode-cn.com/problems/minimum-weighted-subgraph-with-the-required-paths/solution/javascript-dijkstra-1363ms-by-henrychen2-axwd/
+
+2206 Divide Array Into Equal Pairs
+https://leetcode.com/problems/divide-array-into-equal-pairs/discuss/1864035/javascript-direct-way-68ms
+
+2207 Maximize Number of Subsequences in a String
+https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/discuss/1864144/javascript-greedy-%2B-upper_bound-501ms
+
+2208 Minimum Operations to Halve Array Sum
+https://leetcode.com/problems/minimum-operations-to-halve-array-sum/discuss/1864083/javascript-greedy-with-max-heappq-1246ms
+
+2209 Minimum White Tiles After Covering With Carpets
+https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/discuss/1864579/javascript-dp-652ms
+
+2210 Count Hills and Valleys in an Array
+https://leetcode.com/problems/count-hills-and-valleys-in-an-array/discuss/1865891/javascript-cut-longest-consecutive-substring-108ms
+
+2211 Count Collisions on a Road
+https://leetcode.com/problems/count-collisions-on-a-road/discuss/1865838/javascript-cut-longest-Consecutive-291ms
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome

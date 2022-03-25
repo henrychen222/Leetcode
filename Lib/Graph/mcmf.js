@@ -1,12 +1,18 @@
-/**
- * 02/12/21 night
- * https://leetcode.com/problems/maximum-and-sum-of-array/
- * 
- * read:
- * https://en.wikipedia.org/wiki/Minimum-cost_flow_problem
- * https://cp-algorithms.com/graph/min_cost_flow.html
- * https://www.geeksforgeeks.org/minimum-cost-maximum-flow-from-a-graph-using-bellman-ford-algorithm/
- */
+/*
+02/12/21 night
+
+Read:
+https://en.wikipedia.org/wiki/Minimum-cost_flow_problem
+https://cp-algorithms.com/graph/min_cost_flow.html
+https://www.geeksforgeeks.org/minimum-cost-maximum-flow-from-a-graph-using-bellman-ford-algorithm/
+https://www.programmersought.com/article/69371888737/
+https://www.hackerearth.com/practice/algorithms/graphs/minimum-cost-maximum-flow/tutorial/
+
+Example Questions:
+https://leetcode.com/problems/maximum-and-sum-of-array/
+https://codeforces.com/contest/1525/problem/D
+
+*/
 function edge(from, to, cost, cap) {
     this.from = from;
     this.to = to;

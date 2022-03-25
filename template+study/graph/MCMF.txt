@@ -1,9 +1,0 @@
-
-05/15 night
-Example: https://codeforces.com/contest/1525/problem/D
-
-(Minimum Cost Maximum Flow) MCMF
-https://www.programmersought.com/article/69371888737/
-https://www.hackerearth.com/practice/algorithms/graphs/minimum-cost-maximum-flow/tutorial/
-https://cp-algorithms.com/graph/min_cost_flow.html
-https://www.geeksforgeeks.org/minimum-cost-maximum-flow-from-a-graph-using-bellman-ford-algorithm/
