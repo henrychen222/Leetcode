@@ -704,6 +704,9 @@ https://leetcode.com/problems/continuous-subarray-sum/discuss/911549/javascript-
 524 Longest Word in Dictionary through Deleting
 https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/discuss/1079723/javascript-use-hashmap-116ms-54.78
 
+525 Contiguous Array
+https://leetcode.com/problems/contiguous-array/discuss/1881315/javascript-prefix-sum-%2B-hashmap
+
 528 Random Pick with Weight
 https://leetcode.com/problems/random-pick-with-weight/discuss/1146047/javascript-binary-search-180ms-90.92
 
@@ -1144,6 +1147,9 @@ https://leetcode.com/problems/leaf-similar-trees/discuss/713870/typescript-tree-
 873 Length of Longest Fibonacci Subsequence
 https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/discuss/976821/javascript-three-pointer-brute-force
 
+875 Koko Eating Bananas
+https://leetcode.com/problems/koko-eating-bananas/discuss/1886519/javascript-binary-search-72ms-97.97
+
 876 Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/discuss/709666/javascript-solution
 
@@ -1368,6 +1374,9 @@ https://leetcode.com/problems/clumsy-factorial/discuss/1253810/javascript-104ms-
 1007 Minimum Domino Rotations For Equal Row
 https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/723151/javascript-solution
 
+1011 Capacity To Ship Packages Within D Days
+https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/1886582/javascript-binary-search-130ms
+
 1013 Partition Array Into Three Parts With Equal Sum
 https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/discuss/792308/javascript-92ms
 
@@ -1562,6 +1571,9 @@ https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/dis
 
 1277 Count Square Submatrices with All Ones
 https://leetcode.com/problems/count-square-submatrices-with-all-ones/discuss/973281/javascript-dp-104ms
+
+1283 Find the Smallest Divisor Given a Threshold
+https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/discuss/1886495/javascript-binary-search-68ms-100
 
 1286 Iterator for Combination
 https://leetcode.com/problems/iterator-for-combination/discuss/1125002/javascript-dfs-112ms-79.03

@@ -3,6 +3,23 @@
  * https://leetcode.com/problems/binary-subarrays-with-sum/
  */
 
+
+// Accepted --- 99ms 63.64%   03/24/22 night prefix sum
+const numSubarraysWithSum = (a, k) => subarraySumEqualKCnt(a, k);
+
+const addOneOrManyMap = (m, x, cnt = 1) => m.set(x, m.get(x) + cnt || cnt);
+const subarraySumEqualKCnt = (a, k) => {
+     let m = new Map([[0, 1]]), sum = 0, res = 0;
+     for (const x of a) {
+         sum += x;
+         let lsum = sum - k;
+         if (m.has(lsum)) res += m.get(lsum);
+         addOneOrManyMap(m, sum);
+     }
+     return res;
+};
+
+///////////////////////////////////////////////////////////////////////
 // Accepted --- 92ms 53.13%
 const numSubarraysWithSum = (A, S) => {
     let res = sum = 0;
