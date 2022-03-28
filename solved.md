@@ -1770,6 +1770,9 @@ https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-tra
 1481 Least Number of Unique Integers after K Removals (0) -> (1) -> (2) -> (3)
 https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/discuss/1064218/javascript-twp-solutions
 
+1482 Minimum Number of Days to Make m Bouquets
+https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/discuss/1890287/javascript-binary-search-797ms
+
 1487 Making File Names Unique
 https://leetcode.com/problems/making-file-names-unique/discuss/1178459/javascript-hashmap-%2B-hashset-156ms-100
 
@@ -1787,6 +1790,9 @@ https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 
 1494 Parallel Courses II
 https://leetcode.com/problems/parallel-courses-ii/discuss/1584904/javascript-bitmask-dp-176ms-100
+
+1498 Number of Subsequences That Satisfy the Given Sum Condition
+https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/discuss/1890409/javascript-sort-%2B-upper_bound-2575ms
 
 1504 Count Submatrices With All Ones (0) -> (1)
 https://leetcode.com/problems/count-submatrices-with-all-ones/discuss/973684/javascript-solutions
@@ -3014,6 +3020,18 @@ https://leetcode.com/problems/count-hills-and-valleys-in-an-array/discuss/186589
 
 2211 Count Collisions on a Road
 https://leetcode.com/problems/count-collisions-on-a-road/discuss/1865838/javascript-cut-longest-Consecutive-291ms
+
+2215 Find the Difference of Two Arrays
+https://leetcode.com/problems/find-the-difference-of-two-arrays/discuss/1887145/javascript-direct-way-121ms
+
+2216 Minimum Deletions to Make Array Beautiful
+https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/discuss/1887177/javascript-greedy-179ms
+
+2217 Find Palindrome With Fixed Length
+https://leetcode.com/problems/find-palindrome-with-fixed-length/discuss/1887550/javascript-2-lines-426ms
+
+2218 Maximum Value of K Coins From Piles
+https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/discuss/1887606/javascript-dp-307ms
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
