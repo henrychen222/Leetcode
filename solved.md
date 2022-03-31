@@ -511,7 +511,7 @@ https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/83
 380 Insert Delete GetRandom O(1)
 https://leetcode.com/problems/insert-delete-getrandom-o1/discuss/834971/javascript-array-shuffle
 
-381 Insert Delete GetRandom O(1) - Duplicates allowed
+381 Insert Delete GetRandom O(1) - Duplicates allowed (0) -> (-1)
 https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/discuss/1168430/javascript-array-esay-%2B-hashmap-tricky-two-solutions
 
 382 Linked List Random Node
@@ -550,7 +550,7 @@ https://leetcode.com/problems/random-pick-index/discuss/1735403/javascript-hashm
 400 Nth Digit
 https://leetcode.com/problems/nth-digit/discuss/1224499/javascript-72ms-95.74
 
-407 Trapping Rain Water II
+407 Trapping Rain Water II (0) -> (1)
 https://leetcode.com/problems/trapping-rain-water-ii/discuss/1377646/javascript-min-pqheap-152ms-95
 
 412 Fizz Buzz
@@ -634,6 +634,9 @@ https://leetcode.com/problems/count-the-repetitions/discuss/1526914/javascript-b
 
 467 Unique Substrings in Wraparound String
 https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/920115/javascript-dp-92ms
+
+468 Validate IP Address
+https://leetcode.com/problems/validate-ip-address/discuss/1892869/javascript-direct-check-88ms
 
 470 Implement Rand10() Using Rand7()
 https://leetcode.com/problems/implement-rand10-using-rand7/discuss/1735399/javascript-183ms
@@ -1001,7 +1004,7 @@ https://leetcode.com/problems/swap-adjacent-in-lr-string/discuss/1705670/javascr
 778 Swim in Rising Water
 https://leetcode.com/problems/swim-in-rising-water/discuss/1340640/javascript-easy-bfs-92ms-85.45
 
-779 K-th Symbol in Grammar
+779 K-th Symbol in Grammar (0) -> (-1)
 https://leetcode.com/problems/k-th-symbol-in-grammar/discuss/1779377/javascript-bitCount-1-line-89ms
 
 787 Cheapest Flights Within K Stops (1) -> (2)
@@ -1323,7 +1326,7 @@ https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/816163/javasc
 977 Squares of a Sorted Array
 https://leetcode.com/problems/squares-of-a-sorted-array/discuss/679593/javascript-easy-99.58
 
-978 Longest Turbulent Subarray
+978 Longest Turbulent Subarray (0) -> (-1)
 https://leetcode.com/problems/longest-turbulent-subarray/discuss/946173/javascript-two-pointer-brute-force
 
 980 Unique Paths III
@@ -2122,7 +2125,7 @@ https://leetcode.com/problems/count-number-of-homogenous-substrings/discuss/1064
 1760 Minimum Limit of Balls in a Bag
 https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/discuss/1064786/javascript-binary-search-204ms
 
-1763 Longest Nice Substring (0) -> (1)
+1763 Longest Nice Substring (0) -> (1) -> (2)
 https://leetcode.com/problems/longest-nice-substring/discuss/1076734/javascript-direct-way-200ms
 
 1764 Form Array by Concatenating Subarrays of Another Array
@@ -2194,6 +2197,9 @@ https://leetcode.com/problems/maximum-ascending-subarray-sum/discuss/1121533/jav
 1801 Number of Orders in the Backlog
 https://leetcode.com/problems/number-of-orders-in-the-backlog/discuss/1121741/java-two-TreeMap-(increase-%2B-decrease-order)-54ms
 
+1802 Maximum Value at a Given Index in a Bounded Array
+https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/discuss/1892948/javascript-binary-search-%2B-greedy-111ms
+
 1805 Number of Different Integers in a String
 https://leetcode.com/problems/number-of-different-integers-in-a-string/discuss/1130730/javascript-direct-way-116ms
 
@@ -2209,7 +2215,7 @@ https://leetcode.com/problems/maximize-number-of-nice-divisors/discuss/1130822/j
 1812 Determine Color of a Chessboard Square
 https://leetcode.com/problems/determine-color-of-a-chessboard-square/discuss/1140712/javascript-direct-odd-even-check-76ms
 
-1813 Sentence Similarity III
+1813 Sentence Similarity III (0) -> (1)
 https://leetcode.com/problems/sentence-similarity-iii/discuss/1140688/javascript-left-right-remove-80ms
 
 1814 Count Nice Pairs in an Array
@@ -2747,7 +2753,7 @@ https://leetcode.com/problems/k-radius-subarray-averages/discuss/1599974/JavaScr
 2091 Removing Minimum and Maximum From Array
 https://leetcode.com/problems/removing-minimum-and-maximum-from-array/discuss/1600161/javascript-greedy-3-conditions
 
-2092 Find All People With Secret
+2092 Find All People With Secret (0) -> (-1)
 https://leetcode.com/problems/find-all-people-with-secret/discuss/1600133/javascript-graph-bfs-with-pq-684ms
 
 2094 Finding 3-Digit Even Numbers
