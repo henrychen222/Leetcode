@@ -1,6 +1,13 @@
 /*
 Example Problems:
 https://leetcode.com/problems/minimum-time-to-complete-trips/
+https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+https://leetcode.com/problems/koko-eating-bananas/
+https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
+https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
 */
 
 //////////////////////////// Binary Seach Template ///////////

@@ -1010,6 +1010,9 @@ https://leetcode.com/problems/k-th-symbol-in-grammar/discuss/1779377/javascript-
 787 Cheapest Flights Within K Stops (1) -> (2)
 https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/934002/javascript-Dijkstra-%2B-PQ-DFS-BFS-DP-solutions-overview
 
+789 Escape The Ghosts
+https://leetcode.com/problems/escape-the-ghosts/discuss/1899403/javascript-Manhattan-distance-compare-79ms
+
 790 Domino and Tromino Tiling
 https://leetcode.com/problems/domino-and-tromino-tiling/discuss/934923/javascript-dp-88ms
 
@@ -1344,6 +1347,9 @@ https://leetcode.com/problems/string-without-aaa-or-bbb/discuss/850112/javascrip
 985 Sum of Even Numbers After Queries
 https://leetcode.com/problems/sum-of-even-numbers-after-queries/discuss/777239/javascript-132ms-faster-than-72.94
 
+986 Interval List Intersections
+https://leetcode.com/problems/interval-list-intersections/discuss/1899217/javascript-binary-search-261ms
+
 987 Vertical Order Traversal of a Binary Tree
 https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/1587405/javascript-inorder-traverse-%2B-sort-76ms-88.56
 
@@ -1437,6 +1443,9 @@ https://leetcode.com/problems/previous-permutation-with-one-swap/discuss/864908/
 1054 Distant Barcodes
 https://leetcode.com/problems/distant-barcodes/discuss/1228119/javascript-priority-queue-212ms
 
+1072 Flip Columns For Maximum Number of Equal Rows
+https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/discuss/1899071/javascript-hashmap-169ms-83.33
+
 1073 Adding Two Negabinary Numbers
 https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/1044015/javascript-use-BigInt-96ms
 
@@ -1515,7 +1524,7 @@ https://leetcode.com/problems/k-concatenation-maximum-sum/discuss/968762/javascr
 1192 Critical Connections in a Network
 https://leetcode.com/problems/critical-connections-in-a-network/discuss/1174923/javascript-Tarjandfs-728ms-73.55
 
-1201 Ugly Number III
+1201 Ugly Number III (0) -> (1)
 https://leetcode.com/problems/ugly-number-iii/discuss/1569253/javascript-binary-search-with-with-LCM-76ms
 
 1203 Sort Items by Groups Respecting Dependencies
@@ -1587,11 +1596,17 @@ https://leetcode.com/problems/remove-covered-intervals/discuss/874675/javascript
 1290 Convert Binary Number in a Linked List to Integer
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/discuss/709693/javascript-solution
 
+1292 Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/discuss/1901633/javascript-binary-search-template-2508ms
+
 1293 Shortest Path in a Grid with Obstacles Elimination
 https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/discuss/1490641/javascript-bfs-148ms
 
 1296 Divide Array in Sets of K Consecutive Numbers
 https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/discuss/876066/javascript-ordered-map-(mock-java-treemap)-solution
+
+1300 Sum of Mutated Array Closest to Target
+https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/discuss/1901706/javascript-binary-search-60ms-100
 
 1302 Deepest Leaves Sum
 https://leetcode.com/problems/deepest-leaves-sum/discuss/719225/javascript-parse-to-array-solution
@@ -2389,6 +2404,9 @@ https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 1898 Maximum Number of Removable Characters
 https://leetcode.com/problems/maximum-number-of-removable-characters/discuss/1269151/javascript-binary-search-756ms
 
+1901 Find a Peak Element II
+https://leetcode.com/problems/find-a-peak-element-ii/discuss/1901597/javascript-direct-way-96ms
+
 1903 Largest Odd Number in String
 https://leetcode.com/problems/largest-odd-number-in-string/discuss/1284527/javascript-greedy-96ms
 
@@ -3038,6 +3056,27 @@ https://leetcode.com/problems/find-palindrome-with-fixed-length/discuss/1887550/
 
 2218 Maximum Value of K Coins From Piles
 https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/discuss/1887606/javascript-dp-307ms
+
+2220 Minimum Bit Flips to Convert Number
+https://leetcode.com/problems/minimum-bit-flips-to-convert-number/discuss/1909610/javascript-direct-way-111ms
+
+2221 Find Triangular Sum of an Array
+https://leetcode.com/problems/find-triangular-sum-of-an-array/discuss/1909621/javascript-direct-way-176ms
+
+2222 Number of Ways to Select Buildings (0) -> (1)
+https://leetcode.com/problems/number-of-ways-to-select-buildings/discuss/1909645/javascript-101-010-selection-581ms
+
+2224 Minimum Number of Operations to Convert Time
+https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/discuss/1908895/javascript-greedy-84ms
+
+2225 Find Players With Zero or One Losses
+https://leetcode.com/problems/find-players-with-zero-or-one-losses/discuss/1908978/javascript-direct-way-use-set-890ms
+
+2226 Maximum Candies Allocated to K Children
+https://leetcode.com/problems/maximum-candies-allocated-to-k-children/discuss/1909042/javascript-binary-search-template-815ms
+
+2227 Encrypt and Decrypt Strings
+https://leetcode.com/problems/encrypt-and-decrypt-strings/discuss/1909405/javascript-brain-teaser-390ms
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
