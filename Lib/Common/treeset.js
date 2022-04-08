@@ -40,9 +40,7 @@ function Bisect() {
 }
 
 function TreeSet(elements) {
-    let ts = [];
-    let se = new Set();
-    let bisect = new Bisect();
+    let ts = [], se = new Set(), bisect = new Bisect();
     if (elements) addAll(elements);
     return { add, floor, ceiling, lower, higher, remove, contains, size, clear, toArray };
     function addAll(elements) {
@@ -75,9 +73,11 @@ function TreeSet(elements) {
         return ts[idx] > e ? ts[idx] : ts[bisect.bisect_right(ts, e) + 1];
     }
     function remove(e) {
-        let res = new Set(ts);
-        res.delete(e);
-        ts = [...res];
+        // let res = new Set(ts);
+        // res.delete(e);
+        // ts = [...res];
+        let idx = bisect.bisect_left(ts, e);
+        if (ts[idx] == e) ts.splice(idx, 1);
         se.delete(e);
     }
     function contains(e) {

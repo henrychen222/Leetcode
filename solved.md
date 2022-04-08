@@ -1794,6 +1794,9 @@ https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/discuss/
 1487 Making File Names Unique
 https://leetcode.com/problems/making-file-names-unique/discuss/1178459/javascript-hashmap-%2B-hashset-156ms-100
 
+1488 Avoid Flood in The City
+https://leetcode.com/problems/avoid-flood-in-the-city/discuss/1925573/javascript-treeset-1295ms
+
 1489 Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/discuss/1439779/javascript-union-find-%2B-LCA-242ms-100
 
