@@ -68,7 +68,7 @@ https://leetcode.com/problems/valid-sudoku/discuss/1162273/javascript-direct-way
 37 Sudoku Solver (0) -> (1)
 https://leetcode.com/problems/sudoku-solver/discuss/1418518/javascript-dfsbacktracking-228ms
 
-39 Combination Sum
+39 Combination Sum (0) -> (2)
 https://leetcode.com/problems/combination-sum/discuss/1435980/javascript-dfs-151ms
 
 40 Combination Sum II
@@ -725,6 +725,9 @@ https://leetcode.com/problems/reverse-string-ii/discuss/797805/javascript-64ms-f
 542 01 Matrix
 https://leetcode.com/problems/01-matrix/discuss/1710976/javascript-bfs-286ms
 
+547 Number of Provinces
+https://leetcode.com/problems/number-of-provinces/discuss/1961757/javascript-union-find-80ms
+
 551 Student Attendance Record I
 https://leetcode.com/problems/student-attendance-record-i/discuss/799631/javascript-80ms
 
@@ -1168,6 +1171,9 @@ https://leetcode.com/problems/boats-to-save-people/discuss/1562114/javascript-so
 882 Reachable Nodes In Subdivided Graph (0) - (2) -> (7)
 https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/discuss/1459224/javascript-dijkstra-with-pq-266ms-100
 
+885 Spiral Matrix III
+https://leetcode.com/problems/spiral-matrix-iii/discuss/1944594/javascript-direct-simulation-99ms-91.18-fast
+
 887 Super Egg Drop
 https://leetcode.com/problems/super-egg-drop/discuss/1705642/javascript-easy-dp-123ms
 
@@ -1401,6 +1407,9 @@ https://leetcode.com/problems/convert-to-base-2/discuss/1046761/javascript-72ms-
 1019 Next Greater Node In Linked List
 https://leetcode.com/problems/next-greater-node-in-linked-list/discuss/1023564/javascript-transfer-to-array-384ms
 
+1020 Number of Enclaves
+https://leetcode.com/problems/number-of-enclaves/discuss/1961120/javascript-bfs-141ms
+
 1021 Remove Outermost Parentheses
 https://leetcode.com/problems/remove-outermost-parentheses/discuss/833748/javascript-stack-84ms
 
@@ -1562,6 +1571,9 @@ https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-uniqu
 
 1252 Cells with Odd Values in a Matrix
 https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/804868/javascript-72ms-fast-than-92.69
+
+1254 Number of Closed Islands
+https://leetcode.com/problems/number-of-closed-islands/discuss/1961256/javascript-bfs-75ms-87.78
 
 1260 Shift 2D Grid
 https://leetcode.com/problems/shift-2d-grid/discuss/796102/javascript-solution-120ms
@@ -1874,6 +1886,9 @@ https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/d
 
 1569 Number of Ways to Reorder Array to Get Same BST
 https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/discuss/1467929/javascript-dfs-%2B-Math-combination-825ms
+
+1574 Shortest Subarray to be Removed to Make Array Sorted
+https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/discuss/1945188/javascript-binary-search-155ms
 
 1576 Replace All ?'s to Avoid Consecutive Repeating Characters (0) -> (-1)
 https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/discuss/831802/javascript-replace()-solution
@@ -3069,7 +3084,7 @@ https://leetcode.com/problems/find-triangular-sum-of-an-array/discuss/1909621/ja
 2222 Number of Ways to Select Buildings (0) -> (1)
 https://leetcode.com/problems/number-of-ways-to-select-buildings/discuss/1909645/javascript-101-010-selection-581ms
 
-2224 Minimum Number of Operations to Convert Time
+2224 Minimum Number of Operations to Convert Time (0) -> (1)
 https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/discuss/1908895/javascript-greedy-84ms
 
 2225 Find Players With Zero or One Losses
@@ -3080,6 +3095,33 @@ https://leetcode.com/problems/maximum-candies-allocated-to-k-children/discuss/19
 
 2227 Encrypt and Decrypt Strings
 https://leetcode.com/problems/encrypt-and-decrypt-strings/discuss/1909405/javascript-brain-teaser-390ms
+
+2231 Largest Number After Digit Swaps by Parity
+https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/discuss/1931064/javascript-even-odd-sort-81ms
+
+2232 Minimize Result by Adding Parentheses to Expression
+https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/discuss/1931123/javascript-direct-way-86ms
+
+2233 Maximum Product After K Increments
+https://leetcode.com/problems/maximum-product-after-k-increments/discuss/1931186/java-treemap-greedy-1089ms
+
+2234 Maximum Total Beauty of the Gardens
+https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/discuss/1932014/javascript-binary-search-1532ms
+
+2239 Find Closest Number to Zero
+https://leetcode.com/problems/find-closest-number-to-zero/discuss/1955817/javascript-sort-113ms
+
+2240 Number of Ways to Buy Pens and Pencils
+https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/discuss/1955836/javascript-direct-way-380ms
+
+2241 Design an ATM Machine
+https://leetcode.com/problems/design-an-atm-machine/discuss/1955901/javascript-direct-simulation-329ms
+
+2243 Calculate Digit Sum of a String (0) -> (1)
+https://leetcode.com/problems/calculate-digit-sum-of-a-string/discuss/1955694/javascript-direct-way-84ms
+
+2244 Minimum Rounds to Complete All Tasks
+https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/discuss/1955616/javascript-greedy-%2B-math-138ms
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome

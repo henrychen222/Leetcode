@@ -3,34 +3,6 @@
  * https://leetcode.com/problems/count-sub-islands/
  */
 
-// Accepted --- 152ms 89.32%  06/23/21 evening
-let n, m, a, b;
-const countSubIslands = (g1, g2) => {
-    [n, m, a, b] = [g1.length, g1[0].length, g1, g2];
-    let res = 0;
-    for (let i = 0; i < n; i++) {
-        for (let j = 0; j < m; j++) {
-            if (b[i][j]) {
-                if (dfs(i, j)) res++;
-            }
-        }
-    }
-    return res;
-};
-
-const dfs = (x, y) => {
-    let res = true;
-    if (!a[x][y]) res = false;
-    b[x][y] = 0;
-    for (let k = 0; k < 4; k++) {
-        let [xx, yy] = [x + dx[k], y + dy[k]];
-        if (xx >= 0 && xx < n && yy >= 0 && yy < m && b[xx][yy]) {
-            if (!dfs(xx, yy)) res = false;
-        }
-    }
-    return res;
-};
-
 // Accepted --- 200ms 63.64%
 const dx = [-1, 0, 1, 0], dy = [0, 1, 0, -1];
 const countSubIslands2 = (g1, g2) => {
@@ -39,9 +11,7 @@ const countSubIslands2 = (g1, g2) => {
     for (let i = 0; i < n; i++) {
         for (let j = 0; j < m; j++) {
             if (visit[i][j] || !g2[i][j]) continue;
-            let q = [
-                [i, j]
-            ];
+            let q = [[i, j]];
             visit[i][j] = 1;
             let cnt = 1;
             while (q.length) {
@@ -71,18 +41,13 @@ const initialize2DArrayNew = (n, m) => {
     return data;
 };
 
+////////////////////////////////////////////////////////////////////////////////
 function DJSet(n) {
     let parent = Array(n).fill(-1);
-    return {
-        find,
-        union,
-        getParent
-    }
-
+    return { find, union, getParent }
     function find(x) {
         return parent[x] < 0 ? x : parent[x] = find(parent[x]);
     }
-
     function union(x, y) {
         x = find(x);
         y = find(y);
@@ -93,7 +58,6 @@ function DJSet(n) {
         }
         return x == y;
     }
-
     function getParent() {
         return parent;
     }
@@ -145,6 +109,35 @@ const countSubIslands1 = (g1, g2) => {
     for (let i = 0; i < n; i++) {
         for (let j = 0; j < m; j++) {
             if (d[i * m + j] >= 0) res++;
+        }
+    }
+    return res;
+};
+
+//////////////////////////////////////////////////////////////////////////////////
+// Accepted --- 152ms 89.32%  06/23/21 evening
+let n, m, a, b;
+const countSubIslands = (g1, g2) => {
+    [n, m, a, b] = [g1.length, g1[0].length, g1, g2];
+    let res = 0;
+    for (let i = 0; i < n; i++) {
+        for (let j = 0; j < m; j++) {
+            if (b[i][j]) {
+                if (dfs(i, j)) res++;
+            }
+        }
+    }
+    return res;
+};
+
+const dfs = (x, y) => {
+    let res = true;
+    if (!a[x][y]) res = false;
+    b[x][y] = 0;
+    for (let k = 0; k < 4; k++) {
+        let [xx, yy] = [x + dx[k], y + dy[k]];
+        if (xx >= 0 && xx < n && yy >= 0 && yy < m && b[xx][yy]) {
+            if (!dfs(xx, yy)) res = false;
         }
     }
     return res;
