@@ -234,6 +234,9 @@ https://leetcode.com/problems/longest-consecutive-sequence/discuss/1256255/javas
 129 Sum Root to Leaf Numbers
 https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/1064860/javascript-use-array-with-paths-72ms-97.61-fast
 
+130 Surrounded Regions
+https://leetcode.com/problems/surrounded-regions/discuss/1964953/javascript-bfs-%2B-union-find
+
 134 Gas Station
 https://leetcode.com/problems/gas-station/discuss/853266/javascript-two-pointer-116ms
 
@@ -1174,6 +1177,9 @@ https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/discuss/145922
 885 Spiral Matrix III
 https://leetcode.com/problems/spiral-matrix-iii/discuss/1944594/javascript-direct-simulation-99ms-91.18-fast
 
+886 Possible Bipartition
+https://leetcode.com/problems/possible-bipartition/discuss/1965350/javascript-bfs-%2B-union-find
+
 887 Super Egg Drop
 https://leetcode.com/problems/super-egg-drop/discuss/1705642/javascript-easy-dp-123ms
 
@@ -1364,6 +1370,9 @@ https://leetcode.com/problems/smallest-string-starting-from-leaf/discuss/1061367
 
 989 Add to Array-Form of Integer
 https://leetcode.com/problems/add-to-array-form-of-integer/discuss/777169/java-BigInteger-easy
+
+990 Satisfiability of Equality Equations
+https://leetcode.com/problems/satisfiability-of-equality-equations/discuss/1965083/javascript-union-find-147ms
 
 991 Broken Calculator
 https://leetcode.com/problems/broken-calculator/discuss/1258459/javascript-greedy-5-lines-76ms
@@ -3122,6 +3131,18 @@ https://leetcode.com/problems/calculate-digit-sum-of-a-string/discuss/1955694/ja
 
 2244 Minimum Rounds to Complete All Tasks
 https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/discuss/1955616/javascript-greedy-%2B-math-138ms
+
+2248 Intersection of Multiple Arrays
+https://leetcode.com/problems/intersection-of-multiple-arrays/discuss/1977600/javascript-direct-way-91ms
+
+2249 Count Lattice Points Inside a Circle
+https://leetcode.com/problems/count-lattice-points-inside-a-circle/discuss/1977636/javascript-math-in-circle-checking-961ms
+
+2250 Count Number of Rectangles Containing Each Point
+https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/discuss/1977526/javascript-binary-search-based-on-height-1215ms
+
+2251 Number of Flowers in Full Bloom
+https://leetcode.com/problems/number-of-flowers-in-full-bloom/discuss/1977865/javascript-rearrange-intervals-626ms
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
