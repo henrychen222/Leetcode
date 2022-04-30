@@ -312,6 +312,9 @@ https://leetcode.com/problems/repeated-dna-sequences/discuss/1032393/javascript-
 190 Reverse Bits
 https://leetcode.com/problems/reverse-bits/discuss/692079/javascript-string-way
 
+200 Number of Islands
+https://leetcode.com/problems/number-of-islands/discuss/1676171/javascript-bfs-reuse-code-96ms
+
 201 Bitwise AND of Numbers Range
 https://leetcode.com/problems/bitwise-and-of-numbers-range/discuss/1224246/javascript-check-if-pow-of-2-in-range-208ms
 
@@ -1102,6 +1105,9 @@ https://leetcode.com/problems/flipping-an-image/discuss/773759/javascript-soluti
 834 Sum of Distances in Tree
 https://leetcode.com/problems/sum-of-distances-in-tree/discuss/1445065/javascript-dfs-355ms
 
+835 Image Overlap
+https://leetcode.com/problems/image-overlap/discuss/1991913/javascript-brute-force-4517ms
+
 837 New 21 Game
 https://leetcode.com/problems/new-21-game/discuss/983952/javascript-solutions-overview
 
@@ -1278,6 +1284,9 @@ https://leetcode.com/problems/beautiful-array/discuss/1369387/javascript-even-od
 
 933 Number of Recent Calls
 https://leetcode.com/problems/number-of-recent-calls/discuss/912766/javascript-array-and-queue-solutions
+
+934 Shortest Bridge
+https://leetcode.com/problems/shortest-bridge/discuss/1991984/javascript-bfs-%2B-Manhattan-Distance-491ms
 
 941 Valid Mountain Array
 https://leetcode.com/problems/valid-mountain-array/discuss/679591/javascript-easy
@@ -3143,6 +3152,15 @@ https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/d
 
 2251 Number of Flowers in Full Bloom
 https://leetcode.com/problems/number-of-flowers-in-full-bloom/discuss/1977865/javascript-rearrange-intervals-626ms
+
+2255 Count Prefixes of a Given String
+https://leetcode.com/problems/count-prefixes-of-a-given-string/discuss/1994869/javascript-direct-way-77ms
+
+2256 Minimum Average Difference
+https://leetcode.com/problems/minimum-average-difference/discuss/1994826/javascript-direct-way-420ms
+
+2257 Count Unguarded Cells in the Grid
+https://leetcode.com/problems/count-unguarded-cells-in-the-grid/discuss/1994737/javascript-java-direct-way
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
