@@ -39,12 +39,13 @@ build
 https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 https://leetcode.com/problems/beautiful-arrangement/
+https://leetcode.com/problems/sequential-digits/
 */
 const dfs = (cur) => { // cur can be used either with string build or array build
     for (let i = '0'; i <= '9'; i++) { // build digits  ++ will make string to number
-        cur += i;  // cur.push(i);
+        cur.push(i); // cur += i; 
         if (ok(cur)) dfs(cur);
-        cur = cur.slice(-1); // cur.pop();
+        cur.pop(); // cur = cur.slice(0, -1);
     }
 };
 

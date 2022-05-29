@@ -6,7 +6,9 @@
  * 
  * Usage:
  * https://leetcode.com/problems/closest-room/
+ * https://leetcode.com/problems/minimum-absolute-sum-difference/
  * https://leetcode.com/problems/maximum-score-of-a-good-subarray/
+ * https://leetcode.com/problems/avoid-flood-in-the-city/
  */
 
 function Bisect() {
@@ -41,13 +43,16 @@ function Bisect() {
 
 function TreeSet(elements) {
     let ts = [], se = new Set(), bisect = new Bisect();
-    if (elements) addAll(elements);
+    build();
     return { add, floor, ceiling, lower, higher, remove, contains, size, clear, toArray };
-    function addAll(elements) {
-        for (const e of elements) {
-            if (se.has(e)) continue;
-            add(e);
-            se.add(e);
+    function build() {
+        if (elements) {
+            for (const e of elements) {
+                if (!se.has(e)) {
+                    bisect.insort_right(ts, e);
+                    se.add(e);
+                }
+            }
         }
     }
     function add(e) {
@@ -56,26 +61,27 @@ function TreeSet(elements) {
             se.add(e);
         }
     }
-    function ceiling(e) { // >=  c++ set lower_bound
+    function ceiling(e) { // >= lower_bound
         let idx = bisect.bisect_right(ts, e);
-        return ts[idx - 1] == e ? e : ts[bisect.bisect_right(ts, e)];
+        let res = ts[idx - 1] == e ? e : ts[bisect.bisect_right(ts, e)];
+        return res == undefined ? null : res;
+    }
+    function higher(e) { // > upper_bound
+        let idx = bisect.bisect_right(ts, e);
+        let res = ts[idx] > e ? ts[idx] : ts[bisect.bisect_right(ts, e) + 1];
+        return res == undefined ? null : res;
     }
     function floor(e) { // <= 
         let idx = bisect.bisect_left(ts, e);
-        return ts[idx] == e ? e : ts[bisect.bisect_left(ts, e) - 1];
+        let res = ts[idx] == e ? e : ts[bisect.bisect_left(ts, e) - 1];
+        return res == undefined ? null : res;
     }
     function lower(e) { // <
         let idx = bisect.bisect_left(ts, e);
-        return ts[idx] < e ? ts[idx] : ts[bisect.bisect_left(ts, e) - 1];
-    }
-    function higher(e) { // >  c++ set upper_bound
-        let idx = bisect.bisect_right(ts, e);
-        return ts[idx] > e ? ts[idx] : ts[bisect.bisect_right(ts, e) + 1];
+        let res = ts[idx] < e ? ts[idx] : ts[bisect.bisect_left(ts, e) - 1];
+        return res == undefined ? null : res;
     }
     function remove(e) {
-        // let res = new Set(ts);
-        // res.delete(e);
-        // ts = [...res];
         let idx = bisect.bisect_left(ts, e);
         if (ts[idx] == e) ts.splice(idx, 1);
         se.delete(e);
@@ -88,6 +94,7 @@ function TreeSet(elements) {
     }
     function clear() {
         ts = [];
+        se.clear();
     }
     function toArray() {
         return ts;
@@ -99,29 +106,29 @@ const main = () => {
     let ts = new TreeSet([3, 7, 7, 1, 3]);
     pr(ts.toArray(ts));
     pr("\nfloor")
-    pr(ts.floor(0)); // undefined   java is null
+    pr(ts.floor(0)); // null
     pr(ts.floor(2)); // 1
     pr(ts.floor(3)); // 3
     pr(ts.floor(4)); // 3
     pr(ts.floor(100)); // 7
 
     pr("\nlower")
-    pr(ts.lower(0)); // undefined
+    pr(ts.lower(0)); // null
     pr(ts.lower(2)); // 1
     pr(ts.lower(3)); // 1
     pr(ts.lower(4)); // 3
     pr(ts.lower(100)); // 7
 
     pr("\nceiling")
-    pr(ts.ceiling(100)); // undefined
+    pr(ts.ceiling(100)); // null
     pr(ts.ceiling(7)); // 7
     pr(ts.ceiling(4)); // 7
     pr(ts.ceiling(3)); // 3
     pr(ts.ceiling(0)); // 1
 
     pr("\nhigher")
-    pr(ts.higher(100)); // undefined
-    pr(ts.higher(7)); // undefined
+    pr(ts.higher(100)); // null
+    pr(ts.higher(7)); // null
     pr(ts.higher(4)); // 7
     pr(ts.higher(3)); // 7
     pr(ts.higher(0)); // 1
@@ -129,6 +136,8 @@ const main = () => {
     pr("")
     pr(ts.toArray(ts)); // [1, 3, 7];
     ts.remove(3);
+    pr(ts.toArray(ts));
+    ts.add(7);
     pr(ts.toArray(ts));
 };
 

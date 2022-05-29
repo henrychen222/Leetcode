@@ -29,12 +29,11 @@ function DJSet(n) {
     function union(x, y) {
         x = find(x);
         y = find(y);
-        if (x != y) {
-            if (parent[x] < parent[y])[x, y] = [y, x];
-            parent[x] += parent[y];
-            parent[y] = x;
-        }
-        return x == y;
+        if (x == y) return false;
+        if (parent[x] < parent[y])[x, y] = [y, x];
+        parent[x] += parent[y];
+        parent[y] = x;
+        return true;
     }
     function count() { // total groups
         return parent.filter(v => v < 0).length;
@@ -60,13 +59,12 @@ function DJSet(n) {
     function union(x, y) {
         x = find(x);
         y = find(y);
-        if (x != y) {
-            if (parent[x] < parent[y])[x, y] = [y, x];
-            parent[x] += parent[y];
-            parent[y] = x;
-            size[x] += size[y];
-        }
-        return x == y;
+        if (x == y) return false;
+        if (parent[x] < parent[y])[x, y] = [y, x];
+        parent[x] += parent[y];
+        parent[y] = x;
+        size[x] += size[y];
+        return true;
     }
     function updatesz(idx, v) {
         size[idx] = v;
@@ -84,6 +82,7 @@ function DJSet(n) {
 /*
 https://atcoder.jp/contests/arc111/submissions/19502445 (01/17/21 evening)
    https://atcoder.jp/contests/arc111/submissions/31086124 (04/18/22 morning)
+   https://atcoder.jp/contests/arc111/submissions/31476862 (05/06/22 afternoon)
 */
 function DJSet(n) {
     let parent = Array(n).fill(-1);
@@ -95,15 +94,16 @@ function DJSet(n) {
     function union(x, y) {
         x = find(x);
         y = find(y);
-        if (x != y) {
+        if (x == y) {
+            cycle[x] = true;
+            return false;
+        } else {
             if (parent[x] < parent[y]) [x, y] = [y, x];
             parent[x] += parent[y];
             parent[y] = x;
             cycle[x] |= cycle[y];
-        } else {
-            cycle[x] = true;
+            return true;
         }
-        return x == y;
     }
     function count() { // total groups
         return parent.filter(v => v < 0).length;
