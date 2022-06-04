@@ -569,6 +569,9 @@ https://leetcode.com/problems/random-pick-index/discuss/1735403/javascript-hashm
 400 Nth Digit
 https://leetcode.com/problems/nth-digit/discuss/1224499/javascript-72ms-95.74
 
+402 Remove K Digits
+https://leetcode.com/problems/remove-k-digits/discuss/2105476/javascript-greedy-%2B-monotonic-stack-91ms
+
 407 Trapping Rain Water II (0) -> (1)
 https://leetcode.com/problems/trapping-rain-water-ii/discuss/1377646/javascript-min-pqheap-152ms-95
 
@@ -2066,6 +2069,9 @@ https://leetcode.com/problems/defuse-the-bomb/discuss/935741/javascript-sliced-a
 1653 Minimum Deletions to Make String Balanced
 https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/discuss/935713/javascript-greedy-172ms
 
+1654 Minimum Jumps to Reach Home
+https://leetcode.com/problems/minimum-jumps-to-reach-home/discuss/2092842/javascript-bfs
+
 1656 Design an Ordered Stream
 https://leetcode.com/problems/design-an-ordered-stream/discuss/936227/javascript-solution
 
@@ -2152,6 +2158,12 @@ https://leetcode.com/problems/maximum-units-on-a-truck/discuss/999412/javascript
 
 1711 Count Good Meals (-1)
 https://leetcode.com/problems/count-good-meals/discuss/999305/javascript-136ms-using-map
+
+1712 Ways to Split Array Into Three Subarrays
+https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/discuss/2104697/javascript-prefix-sum-%2B-binary-search-550ms
+
+1713 Minimum Operations to Make a Subsequence
+https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/discuss/2104921/javascript-LIS-256ms
 
 1716 Calculate Money in Leetcode Bank
 https://leetcode.com/problems/calculate-money-in-leetcode-bank/discuss/1009903/javascript-116ms-Math
@@ -3268,7 +3280,7 @@ https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/discuss/20
 2281 Sum of Total Strength of Wizards
 https://leetcode.com/problems/sum-of-total-strength-of-wizards/discuss/2062632/javascript-union-find-992ms
 
-2283 Check if Number Has Equal Digit Count and Digit Value
+2283 Check if Number Has Equal Digit Count and Digit Value (0) -> (2)
 https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/discuss/2084130/javascript-counter-105ms
 
 2284 Sender With Largest Word Count
@@ -3282,14 +3294,14 @@ https://leetcode.com/problems/booking-concert-tickets-in-groups/discuss/2084492/
 https://leetcode.com/problems/booking-concert-tickets-in-groups/discuss/2084983/javascript-BITfenwick-tree-4665ms
 https://leetcode.com/problems/booking-concert-tickets-in-groups/discuss/2085140/javascript-segment-tree-(range-min-query)-%2B-fenwick-(query-prefix-sum)-560ms
 
-2287 Rearrange Characters to Make Target String
+2287 Rearrange Characters to Make Target String (0) -> (1)
 https://leetcode.com/problems/rearrange-characters-to-make-target-string/discuss/2085988/javascript-hashmap-simulation-72ms
 
-2288 Apply Discount to Prices
+2288 Apply Discount to Prices (0) -> (1)
 https://leetcode.com/problems/apply-discount-to-prices/discuss/2085942/javascript-direct-way-230ms
 https://leetcode.com/problems/apply-discount-to-prices/discuss/2085758/Easy-solution-split-array-few-lines
 
-2289 Steps to Make Array Non-decreasing
+2289 Steps to Make Array Non-decreasing (0) -> (1)
 https://leetcode.com/problems/steps-to-make-array-non-decreasing/discuss/2086171/javascript-monotonic-stack-156ms
 
 2290 Minimum Obstacle Removal to Reach Corner

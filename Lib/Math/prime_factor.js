@@ -19,3 +19,18 @@ const lowestPrimeFactors = (n) => {
     }
     return lpf;
 };
+
+
+// https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/
+const findAllPrimeFactors = (n) => {
+    let res = new Set(), c = 2;
+    while (n > 1) {
+        if (n % c == 0) {
+            res.add(c);
+            n /= c;
+        } else {
+            c++;
+        }
+    }
+    return res;
+};
