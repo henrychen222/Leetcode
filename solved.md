@@ -445,6 +445,9 @@ https://leetcode.com/problems/range-sum-query-mutable/discuss/2047963/javascript
 309 Best Time to Buy and Sell Stock with Cooldown
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/949505/javascript-80ms-82.12-fast
 
+313 Super Ugly Number
+https://leetcode.com/problems/super-ugly-number/discuss/2120606/javascript-dp-170ms-75
+
 315 Count of Smaller Numbers After Self
 https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/1204643/javascript-segment-tree-676ms
 
@@ -1566,6 +1569,9 @@ https://leetcode.com/problems/stone-game-ii/discuss/986939/javascript-dfs-%2B-me
 
 1143 Longest Common Subsequence
 https://leetcode.com/problems/longest-common-subsequence/discuss/957504/javascript-dp-112ms
+
+1144 Decrease Elements To Make Array Zigzag
+https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/discuss/2121136/javascript-greedy-70ms
 
 1147 Longest Chunked Palindrome Decomposition
 https://leetcode.com/problems/longest-chunked-palindrome-decomposition/discuss/1696758/javascript-dfs-115ms

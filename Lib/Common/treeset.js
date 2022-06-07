@@ -43,9 +43,9 @@ function Bisect() {
 
 function TreeSet(elements) {
     let ts = [], se = new Set(), bisect = new Bisect();
-    build();
-    return { add, floor, ceiling, lower, higher, remove, contains, size, clear, toArray };
-    function build() {
+    initialize();
+    return { add, first, last, poll, pollLast, floor, ceiling, lower, higher, remove, contains, size, clear, show };
+    function initialize() {
         if (elements) {
             for (const e of elements) {
                 if (!se.has(e)) {
@@ -60,6 +60,23 @@ function TreeSet(elements) {
             bisect.insort_right(ts, e);
             se.add(e);
         }
+    }
+    function first() {
+        return ts[0];
+    }
+    function last() {
+        return ts[ts.length - 1];
+    }
+    function poll() {
+        let res = ts[0];
+        ts.splice(0, 1);
+        se.delete(res);
+        return res;
+    }
+    function pollLast() {
+        let res = ts.pop();
+        se.delete(res);
+        return res;
     }
     function ceiling(e) { // >= lower_bound
         let idx = bisect.bisect_right(ts, e);
@@ -96,7 +113,7 @@ function TreeSet(elements) {
         ts = [];
         se.clear();
     }
-    function toArray() {
+    function show() {
         return ts;
     }
 }
