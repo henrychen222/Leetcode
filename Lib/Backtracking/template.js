@@ -9,8 +9,7 @@ const solve = (A_OR_S) => {
 };
 
 /*
-split
-拆分String/Array
+split String/Array to K subArray
 https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 https://leetcode.com/problems/additive-number/
 https://leetcode.com/problems/palindrome-partitioning/
@@ -20,7 +19,7 @@ https://leetcode.com/problems/restore-ip-addresses/
 const dfs = (pos, cur) => {
     if (pos == n && ok(cur)) {
         res = cur;
-        find = true;
+        find = true; // find one case
         return;
     }
     for (let i = pos; i < n; i++) {
@@ -30,6 +29,27 @@ const dfs = (pos, cur) => {
         dfs(i + 1, cur);
         if (find) break;
         cur.pop();
+    }
+};
+
+
+/*
+Split Array into K subsequence/Subset
+2305 https://leetcode.com/problems/fair-distribution-of-cookies/
+1723 https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/ (same problem to 2305)
+https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+*/
+const dfs = (pos, cur) => { // save picked up index in cur[i]
+    if (pos == n) {
+        let v = maxSumArray(cur);
+        res = Math.min(res, v);
+        return;
+    }
+    for (let i = 0; i < k; i++) { // select k subsequence
+        cur[i].add(pos);
+        dfs(pos + 1, cur);
+        cur[i].delete(pos);
+        if (cur[i].size == 0) break;
     }
 };
 

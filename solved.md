@@ -1044,6 +1044,9 @@ https://leetcode.com/problems/swim-in-rising-water/discuss/1340640/javascript-ea
 779 K-th Symbol in Grammar (0) -> (-1)
 https://leetcode.com/problems/k-th-symbol-in-grammar/discuss/1779377/javascript-bitCount-1-line-89ms
 
+785 Is Graph Bipartite?
+https://leetcode.com/problems/is-graph-bipartite/discuss/2146920/javascript-bfs-%2B-union-find-two-solutions
+
 787 Cheapest Flights Within K Stops (1) -> (2)
 https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/934002/javascript-Dijkstra-%2B-PQ-DFS-BFS-DP-solutions-overview
 
@@ -1273,6 +1276,9 @@ https://leetcode.com/problems/sort-array-by-parity/discuss/679588/javascript-92m
 
 907 Sum of Subarray Minimums
 https://leetcode.com/problems/sum-of-subarray-minimums/discuss/1055398/javascript-two-pointer-brute-force
+
+909 Snakes and Ladders
+https://leetcode.com/problems/snakes-and-ladders/discuss/2147796/javascript-bfs-361ms
 
 911 Online Election
 https://leetcode.com/problems/online-election/discuss/1214969/javascript-binary-search-332ms
@@ -1729,6 +1735,9 @@ https://leetcode.com/problems/distinct-echo-substrings/discuss/1691605/javascrip
 1318 Minimum Flips to Make a OR b Equal to c
 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/discuss/731454/javascript-String-solution-faster-than-68.18-100-memory
 
+1319 Number of Operations to Make Network Connected
+https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/2146703/javascript-easy-union-find-207ms
+
 1324 print Words Vertically
 https://leetcode.com/problems/print-words-vertically/discuss/751858/javascript-solution-68ms
 
@@ -1794,6 +1803,9 @@ https://leetcode.com/problems/increasing-decreasing-string/discuss/806355/javasc
 
 1372 Longest ZigZag Path in a Binary Tree
 https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/discuss/1066177/javascript-use-array-brute-force
+
+1376 Time Needed to Inform All Employees
+https://leetcode.com/problems/time-needed-to-inform-all-employees/discuss/2146840/javascript-graph-bfs-453ms
 
 1377 Frog Position After T Seconds
 https://leetcode.com/problems/frog-position-after-t-seconds/discuss/1587312/javascript-bfs-100ms
@@ -2264,6 +2276,9 @@ https://leetcode.com/problems/longest-nice-substring/discuss/1076734/javascript-
 
 1764 Form Array by Concatenating Subarrays of Another Array
 https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/discuss/1076884/javascript-greedy
+
+1765 Map of Highest Peak
+https://leetcode.com/problems/map-of-highest-peak/discuss/2146420/javascript-bfs-with-fast-queue-973ms
 
 1768 Merge Strings Alternately
 https://leetcode.com/problems/merge-strings-alternately/discuss/1075640/javascript-136ms-one-pointer
@@ -3334,7 +3349,7 @@ https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/discuss/2
 2293 Min Max Game
 https://leetcode.com/problems/min-max-game/discuss/2112235/javascript-direct-way-102ms
 
-2294 Partition Array Such That Maximum Difference Is K
+2294 Partition Array Such That Maximum Difference Is K (0) -> (1)
 https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/discuss/2112276/javascript-greedy-%2B-sort-397ms
 
 2295 Replace Elements in an Array
@@ -3343,6 +3358,28 @@ https://leetcode.com/problems/replace-elements-in-an-array/discuss/2112314/javas
 2296 Design a Text Editor
 https://leetcode.com/problems/design-a-text-editor/discuss/2113469/javascript-LR-string-tracking-653ms
 https://leetcode.com/problems/design-a-text-editor/discuss/2112361/JavaScript-Using-Array-and-Splice
+
+2299 Strong Password Checker II (0) -> (1)
+https://leetcode.com/problems/strong-password-checker-ii/discuss/2139049/javascript-direct-way-151ms
+
+2300 Successful Pairs of Spells and Potions
+https://leetcode.com/problems/successful-pairs-of-spells-and-potions/discuss/2139082/javascript-binary-search-564ms
+
+2301 Match Substring After Replacement
+https://leetcode.com/problems/match-substring-after-replacement/discuss/2139328/javascript-direct-way-1742ms
+
+2302 Count Subarrays With Score Less Than K
+https://leetcode.com/problems/count-subarrays-with-score-less-than-k/discuss/2139167/javascript-sliding-window-186ms
+
+2303 Calculate Amount Paid in Taxes
+https://leetcode.com/problems/calculate-amount-paid-in-taxes/discuss/2141467/javascript-direct-way-100ms
+
+2305 Fair Distribution of Cookies
+https://leetcode.com/problems/fair-distribution-of-cookies/discuss/2141872/javascript-backtrackingdfs-146ms
+https://leetcode.com/problems/fair-distribution-of-cookies/discuss/2149678/same-contest-problem
+
+2306 Naming a Company
+https://leetcode.com/problems/naming-a-company/discuss/2142294/javascript-bitmask-%2B-hashmap-1426ms
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
