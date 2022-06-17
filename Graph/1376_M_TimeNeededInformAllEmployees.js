@@ -8,7 +8,9 @@ const pr = console.log;
 const initializeGraph = (n) => { let g = []; for (let i = 0; i < n; i++) { g.push([]); } return g; };
 
 // Accepted --- 453ms 55.53%
-const numOfMinutes = (n, headID, manager, informTime) => {
+const numOfMinutes = (n, headID, manager, informTime) => minDisGlobal(n, headID, manager, informTime);
+
+const minDisGlobal = (n, headID, manager, informTime) => {
     let g = initializeGraph(n), time = Array(n).fill(Number.MAX_SAFE_INTEGER), q = [], res = Number.MIN_SAFE_INTEGER;
     for (let i = 0; i < n; i++) manager[i] == -1 ? q.push(i) : g[manager[i]].push(i);
     // pr(g);

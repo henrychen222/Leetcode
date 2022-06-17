@@ -509,6 +509,9 @@ https://leetcode.com/problems/design-twitter/discuss/1154945/javascript-hashmap-
 363 Max Sum of Rectangle No Larger Than K
 https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/discuss/1320556/javascript-2-solutions-dp-%2B-binary-search
 
+365 Water and Jug Problem
+https://leetcode.com/problems/water-and-jug-problem/discuss/2158559/javascript-simple-bfs-263ms
+
 368 Largest Divisible Subset
 https://leetcode.com/problems/largest-divisible-subset/discuss/923944/javascript-dfs-and-dp
 
@@ -1387,6 +1390,9 @@ https://leetcode.com/problems/univalued-binary-tree/discuss/713696/typescript-tr
 967 Numbers With Same Consecutive Differences
 https://leetcode.com/problems/numbers-with-same-consecutive-differences/discuss/1752728/javascript-dfsbacktracking-152ms
 
+969 Pancake Sorting
+https://leetcode.com/problems/pancake-sorting/discuss/2158826/javascript-greedy-sort-by-max-122ms
+
 970 Powerful Integers
 https://leetcode.com/problems/powerful-integers/discuss/811935/javascript-64ms-faster-than-100.00
 
@@ -1561,6 +1567,9 @@ https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/discuss/2
 1124 Longest Well-Performing Interval
 https://leetcode.com/problems/longest-well-performing-interval/discuss/821293/javascript-prefix-sum-80ms-100
 
+1129 Shortest Path with Alternating Colors
+https://leetcode.com/problems/shortest-path-with-alternating-colors/discuss/2155235/javascript-bfs-80ms
+
 1131 Maximum of Absolute Value Expression
 https://leetcode.com/problems/maximum-of-absolute-value-expression/discuss/731413/javascript-two-pointer
 
@@ -1714,6 +1723,9 @@ https://leetcode.com/problems/deepest-leaves-sum/discuss/719225/javascript-parse
 1305 All Elements in Two Binary Search Trees
 https://leetcode.com/problems/all-elements-in-two-binary-search-trees/discuss/719247/javascript-dfs-to-array
 
+1306 Jump Game III
+https://leetcode.com/problems/jump-game-iii/discuss/2158666/javascript-simple-bfs-136ms
+
 1307 Verbal Arithmetic Puzzle
 https://leetcode.com/problems/verbal-arithmetic-puzzle/discuss/1518133/javascript-dfsbacktracking-3013ms-100
 
@@ -1800,6 +1812,9 @@ https://leetcode.com/problems/linked-list-in-binary-tree/discuss/1058639/javascr
 
 1370 Increasing Decreasing String
 https://leetcode.com/problems/increasing-decreasing-string/discuss/806355/javascript-stack-brute-force-solution
+
+1371 Find the Longest Substring Containing Vowels in Even Counts
+https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/discuss/2161265/javascript-bitmask-%2B-prefix-sum-173ms
 
 1372 Longest ZigZag Path in a Binary Tree
 https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/discuss/1066177/javascript-use-array-brute-force
@@ -2643,7 +2658,7 @@ https://leetcode.com/problems/count-number-of-special-subsequences/discuss/13776
 1957 Delete Characters to Make Fancy String
 https://leetcode.com/problems/delete-characters-to-make-fancy-string/discuss/1392240/javascript-direct-way-176ms
 
-1961 Check If String Is a Prefix of Array (0) -> (1) -> (2) -> (6)
+1961 Check If String Is a Prefix of Array (0) -> (1) -> (2) -> (6) -> (9)
 https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/discuss/1390332/javascript-direct-way-117ms
 
 1962 Remove Stones to Minimize the Total (0) -> (1)
@@ -3375,7 +3390,7 @@ https://leetcode.com/problems/count-subarrays-with-score-less-than-k/discuss/213
 https://leetcode.com/problems/calculate-amount-paid-in-taxes/discuss/2141467/javascript-direct-way-100ms
 
 2305 Fair Distribution of Cookies
-https://leetcode.com/problems/fair-distribution-of-cookies/discuss/2141872/javascript-backtrackingdfs-146ms
+https://leetcode.com/problems/fair-distribution-of-cookies/discuss/2141872/javascript-backtrackingdfs-146ms (0) -> (-1)
 https://leetcode.com/problems/fair-distribution-of-cookies/discuss/2149678/same-contest-problem
 
 2306 Naming a Company
