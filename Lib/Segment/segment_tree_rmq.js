@@ -4,18 +4,21 @@ example problem:
 https://leetcode.com/problems/booking-concert-tickets-in-groups/
 https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 https://leetcode.com/problems/jump-game-vi/
+https://leetcode.com/problems/longest-increasing-subsequence-ii/
 
 use this version, from uwi, exactly same way of highestOneBit to get h and len
 */
+
+// ------------------------------- range min query -----------------------------------------------------
 function SegmentTreeRMQ(n) {
     let h = Math.ceil(Math.log2(n)), len = 2 * 2 ** h, a = Array(len).fill(Number.MAX_SAFE_INTEGER);
     h = 2 ** h;
     return { update, minx, indexOf, tree }
     function update(pos, v) {
         a[h + pos] = v;
-        for (let i = parent(h + pos); i >= 1; i = parent(i)) propagate(i);
+        for (let i = parent(h + pos); i >= 1; i = parent(i)) pushup(i);
     }
-    function propagate(i) {
+    function pushup(i) {
         a[i] = Math.min(a[left(i)], a[right(i)]);
     }
     function minx(l, r) {
@@ -65,13 +68,13 @@ function SegmentTreeRMQ(A) { // array constructor
     return { update, minx, indexOf, tree }
     function initializeFromArray() {
         for (let i = 0; i < n; i++) a[h + i] = A[i];
-        for (let i = h - 1; i >= 1; i--) propagate(i);
+        for (let i = h - 1; i >= 1; i--) pushup(i);
     }
     function update(pos, v) {
         a[h + pos] = v;
-        for (let i = parent(h + pos); i >= 1; i = parent(i)) propagate(i);
+        for (let i = parent(h + pos); i >= 1; i = parent(i)) pushup(i);
     }
-    function propagate(i) {
+    function pushup(i) {
         a[i] = Math.min(a[left(i)], a[right(i)]);
     }
     function minx(l, r) {
@@ -114,15 +117,64 @@ function SegmentTreeRMQ(A) { // array constructor
 }
 
 
+// ------------------------------- range max query -----------------------------------------------------
+// 09/18/22 evening
+function SegmentTreeRMQ(n) {
+    let h = Math.ceil(Math.log2(n)), len = 2 * 2 ** h, a = Array(len).fill(Number.MIN_SAFE_INTEGER);
+    h = 2 ** h;
+    return { update, maxx, indexOf, tree }
+    function update(pos, v) {
+        a[h + pos] = v;
+        for (let i = parent(h + pos); i >= 1; i = parent(i)) pushup(i);
+    }
+    function pushup(i) {
+        a[i] = Math.max(a[left(i)], a[right(i)]);
+    }
+    function maxx(l, r) {
+        let max = Number.MIN_SAFE_INTEGER;
+        if (l >= r) return max;
+        l += h;
+        r += h;
+        for (; l < r; l = parent(l), r = parent(r)) {
+            if (l & 1) max = Math.max(max, a[l++]);
+            if (r & 1) max = Math.max(max, a[--r]);
+        }
+        return max;
+    }
+    function indexOf(l, v) {
+        if (l >= h) return -1;
+        let cur = h + l;
+        while (1) {
+            if (a[cur] <= v) {
+                if (cur >= h) return cur - h;
+                cur = left(cur);
+            } else {
+                cur++;
+                if ((cur & cur - 1) == 0) return -1;
+                if (cur % 2 == 0) cur = parent(cur);
+            }
+        }
+    }
+    function parent(i) {
+        return i >> 1;
+    }
+    function left(i) {
+        return 2 * i;
+    }
+    function right(i) {
+        return 2 * i + 1;
+    }
+    function tree() {
+        return a;
+    }
+}
 
 
 
 
 
 
-
-
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////// Old version ////////////////////////////////////////////////////
 // 05/08/21 night
 // https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/

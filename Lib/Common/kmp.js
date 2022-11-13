@@ -6,38 +6,37 @@
  * https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
  * http://benwendt.ca/articles/the-knuth-morris-pratt-algorithm-implemented-in-javascript/
  * https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/string/knuth-morris-pratt/knuthMorrisPratt.js
+ * 
+ * example problem:
+ * https://leetcode.com/problems/longest-happy-prefix/
  */
-const longestPrefix = (s) => {
-    let prefixTable = new Array(s.length);
-    let maxPrefix = 0;
-    prefixTable[0] = 0; // start the prefix at 0
-    for (let i = 1; i < s.length; i++) {
-        // decrement the prefix value as long as there are mismatches
-        while (s[i] != s[maxPrefix] && maxPrefix > 0) {
-            maxPrefix = prefixTable[maxPrefix - 1];
+const buildKMPTable = (s) => { // longest prefix which is also the suffix of each substring (0, i)
+    let n = s.length, pre = Array(n), l = 0;
+    pre[0] = 0;
+    for (let i = 1; i < n; i++) {
+        while (s[i] != s[l] && l > 0) {
+            l = pre[l - 1];
         }
-        if (s[maxPrefix] == s[i]) maxPrefix++; // strings match, can update it
-        prefixTable[i] = maxPrefix; // set the prefix
+        if (s[l] == s[i]) l++;
+        pre[i] = l;
     }
-    return prefixTable;
+    return pre;
 };
 
 const KMP = (s, pattern) => {
-    let prefixTable = longestPrefix(s); // build the prefix table
-    let patternIdx = 0;
-    let sIdx = 0;
-    while (sIdx < s.length) {
-        if (s[sIdx] != pattern[patternIdx]) { // Case 1: the characters are different
-            if (patternIdx != 0) {
-                patternIdx = prefixTable[patternIdx - 1]; // use the prefix table if possible
+    let pre = buildKMPTable(s), i = 0, j = 0, n = s.length;
+    while (i < n) {
+        if (s[i] != pattern[j]) {
+            if (j != 0) {
+                j = pre[j - 1];
             } else {
-                sIdx++; // increment the str index to next character
+                i++;
             }
-        } else { // Case 2: the characters are same
-            sIdx++;
-            patternIdx++;
+        } else {
+            i++;
+            j++;
         }
-        if (patternIdx == pattern.length) return true; // found the pattern
+        if (j == pattern.length) return true;
     }
     return false;
 };

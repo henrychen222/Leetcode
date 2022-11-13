@@ -15,6 +15,11 @@ public:
         cout << endl;
     }
 
+    void print_array_pair(pair<int,int> a[], int n) {
+        for (int i = 0; i < n; i++) cout << "[" << a[i].first << " " << a[i].second << "] ";
+        cout << endl;
+    }
+
     ////////////////////////////// Vector ///////////////////////////////////////////
     void print_vector(vector<int> const &input) {
         for (int i = 0; i < input.size(); i++) cout << input.at(i) << ' ';

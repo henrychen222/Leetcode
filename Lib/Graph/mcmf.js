@@ -11,6 +11,7 @@ https://www.hackerearth.com/practice/algorithms/graphs/minimum-cost-maximum-flow
 Example Questions:
 https://leetcode.com/problems/maximum-and-sum-of-array/
 https://codeforces.com/contest/1525/problem/D
+https://leetcode.com/problems/minimum-total-distance-traveled (11/05/22)
 
 */
 function edge(from, to, cost, cap) {
