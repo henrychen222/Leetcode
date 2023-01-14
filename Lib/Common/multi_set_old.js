@@ -1,6 +1,5 @@
 /**
  * 09/21/21 night
- * example: https://leetcode.com/problems/the-skyline-problem/
  */
 // multiset can be mocked using treemap
 function MultiSet() {

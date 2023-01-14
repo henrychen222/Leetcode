@@ -1,11 +1,20 @@
 /**
  * 04/03//22 night
  * https://leetcode.com/problems/sequentially-ordinal-rank-tracker/discuss/1623314/Javascript-AVL-tree
+ * https://leetcode.com/problems/closest-room/solutions/1190160/javascript-avl-treeset-self-balancing-bst-solution/
  * 
  * https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
  * https://www.geeksforgeeks.org/avl-tree-set-2-deletion/
  */
 
+class Node {
+    constructor(val, left = null, right = null, parent = null, bf = 0, height = 0) {
+        this.val = val
+        this.left = left, this.right = right, this.parent = parent
+        this.bf = bf, this.height = height
+        this.SubTreeNodes = 1
+    }
+}
 class AVL {
     constructor() {
         this.nodeCount = 0
@@ -21,6 +30,7 @@ class AVL {
     }
     nodify(val) {
         return new this.node(val)
+        // return new Node(val);
     }
     comparator = (node1, node2) => {
         if (node1.val[1] === node2.val[1]) {
@@ -110,7 +120,8 @@ class AVL {
     }
     findNextSmaller(node) {
         node = this.nodify(node)
-        let cur = this.root, result = null
+        let cur = this.root,
+            result = null
         while (cur !== null) {
             if (this.comparator(cur, node) < 0) {
                 result = cur, cur = cur.right
@@ -122,7 +133,8 @@ class AVL {
     }
     findNextBigger(node) {
         node = this.nodify(node)
-        let cur = this.root, result = null
+        let cur = this.root,
+            result = null
         while (cur !== null) {
             if (this.comparator(cur, node) <= 0) {
                 cur = cur.right
@@ -163,6 +175,7 @@ class AVL {
     }
     ins(tree, value) {
         if (tree === null) return value
+        // target is bigger? insert it to the left: else to the right
         if (this.comparator(tree, value) > 0) {
             tree.left = this.ins(tree.left, value)
         } else {
@@ -198,4 +211,57 @@ class AVL {
         this.update(node)
         return this.rebalance(node)
     }
+    tree() {
+        return this.root;
+    }
+    size() {
+        return this.nodeCount;
+    }
 }
+
+const printTree = (root) => { // level order bfs with null
+    let q = [root],
+        a = [];
+    while (q.length) {
+        let cur = q.shift();
+        a.push(cur != null ? cur.val : null);
+        if (cur != null) {
+            q.push(cur.left);
+            q.push(cur.right);
+        }
+    }
+    while (a[a.length - 1] == null) a.pop();
+    console.log(JSON.stringify(a));
+};
+
+const pr = console.log;
+
+const main = () => {
+    let avl = new AVL();
+    let A = [2, 1, 4, 5, 9, 3, 6, 7]
+    // let A = [3, 2, -1, 6, 5, 7, -2]; // unique
+    for (const x of A) {
+        pr(x, avl.size())
+        avl.insert(x);
+    }
+    printTree(avl.tree());
+    A.sort((x, y) => x - y);
+    pr(A)
+    pr(avl.min(), avl.max())
+    pr(avl.findKthNode(1))
+    pr(avl.findKthNode(2))
+    pr(avl.findKthNode(3))
+    pr(avl.findKthNode(4))
+    pr(avl.findKthNode(5))
+    pr(avl.findKthNode(6))
+
+    printTree(avl.tree());
+
+    pr(avl.findNextBigger(5).val)
+
+    avl.remove(5);
+    printTree(avl.tree());
+    pr(avl.size())
+};
+
+main()

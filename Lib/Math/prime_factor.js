@@ -34,3 +34,20 @@ const findAllPrimeFactors = (n) => {
     }
     return res;
 };
+
+// 
+const prime_factorization = (n) => { // 质因式分解
+    let res = [];
+    while (n % 2 === 0) {
+        res.push(2);
+        n /= 2;
+    }
+    for (let i = 3; i * i <= n; i += 2) {
+        while (n % i === 0) {
+            res.push(i);
+            n /= i;
+        }
+    }
+    if (n > 2) res.push(n);
+    return res;
+};

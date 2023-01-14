@@ -4,6 +4,7 @@
 Example:
 https://leetcode.com/problems/count-the-number-of-ideal-arrays/
 https://atcoder.jp/contests/abc208/tasks/abc208_f
+https://leetcode.com/problems/count-anagrams/
 
 comb_init(): prepare large number mod combination, which is C(n, k) % mod.
 comb():
@@ -19,13 +20,11 @@ fact: factorial
 ifact: inverse factorial
 */
 
-const ll = BigInt, mod = ll(1e9 + 7), N = 1005;
+const ll = BigInt, mod = ll(1e9 + 7), N = 1e5 + 5;
 
 let fact, ifact, inv;
 const comb_init = () => {
-    fact = Array(N).fill(0);
-    ifact = Array(N).fill(0);
-    inv = Array(N).fill(0);
+    fact = Array(N), ifact = Array(N), inv = Array(N);
     fact[0] = ifact[0] = inv[1] = 1n;
     for (let i = 2; i < N; i++) inv[i] = (mod - mod / ll(i)) * inv[mod % ll(i)] % mod;
     for (let i = 1; i < N; i++) {

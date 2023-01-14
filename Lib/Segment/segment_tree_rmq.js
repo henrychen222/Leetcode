@@ -5,6 +5,8 @@ https://leetcode.com/problems/booking-concert-tickets-in-groups/
 https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 https://leetcode.com/problems/jump-game-vi/
 https://leetcode.com/problems/longest-increasing-subsequence-ii/
+https://leetcode.com/problems/dinner-plate-stacks/
+https://leetcode.com/problems/falling-squares/
 
 use this version, from uwi, exactly same way of highestOneBit to get h and len
 */
@@ -13,15 +15,15 @@ use this version, from uwi, exactly same way of highestOneBit to get h and len
 function SegmentTreeRMQ(n) {
     let h = Math.ceil(Math.log2(n)), len = 2 * 2 ** h, a = Array(len).fill(Number.MAX_SAFE_INTEGER);
     h = 2 ** h;
-    return { update, minx, indexOf, tree }
+    return { update, minx, firstle, lastle, tree }
     function update(pos, v) {
         a[h + pos] = v;
         for (let i = parent(h + pos); i >= 1; i = parent(i)) pushup(i);
     }
     function pushup(i) {
-        a[i] = Math.min(a[left(i)], a[right(i)]);
+        a[i] = Math.min(a[left(i)], a[right(i)]); // [min .... max]
     }
-    function minx(l, r) {
+    function minx(l, r) { // [L, R)
         let min = Number.MAX_SAFE_INTEGER;
         if (l >= r) return min;
         l += h;
@@ -32,7 +34,7 @@ function SegmentTreeRMQ(n) {
         }
         return min;
     }
-    function indexOf(l, v) {
+    function firstle(l, v) { // find closest idx >= l when a[idx] <= v
         if (l >= h) return -1;
         let cur = h + l;
         while (1) {
@@ -43,6 +45,20 @@ function SegmentTreeRMQ(n) {
                 cur++;
                 if ((cur & cur - 1) == 0) return -1;
                 if (cur % 2 == 0) cur = parent(cur);
+            }
+        }
+    }
+    function lastle(l, v) { // find closest idx <= l when a[idx] > v
+        if (l < 0) return -1;
+        let cur = h + l;
+        while (1) {
+            if (a[cur] <= v) {
+                if (cur >= h) return cur - h;
+                cur = right(cur);
+            } else {
+                if ((cur & cur - 1) == 0) return -1;
+                cur--;
+                if (cur % 2 != 0) cur = parent(cur);
             }
         }
     }
@@ -65,7 +81,7 @@ function SegmentTreeRMQ(A) { // array constructor
     let n = A.length, h = Math.ceil(Math.log2(n)), len = 2 * 2 ** h, a = Array(len).fill(Number.MAX_SAFE_INTEGER);
     h = 2 ** h;
     initializeFromArray();
-    return { update, minx, indexOf, tree }
+    return { update, minx, firstle, lastle, tree }
     function initializeFromArray() {
         for (let i = 0; i < n; i++) a[h + i] = A[i];
         for (let i = h - 1; i >= 1; i--) pushup(i);
@@ -88,7 +104,7 @@ function SegmentTreeRMQ(A) { // array constructor
         }
         return min;
     }
-    function indexOf(l, v) {
+    function firstle(l, v) {
         if (l >= h) return -1;
         let cur = h + l;
         while (1) {
@@ -99,6 +115,20 @@ function SegmentTreeRMQ(A) { // array constructor
                 cur++;
                 if ((cur & cur - 1) == 0) return -1;
                 if (cur % 2 == 0) cur = parent(cur);
+            }
+        }
+    }
+    function lastle(l, v) {
+        if (l < 0) return -1;
+        let cur = h + l;
+        while (1) {
+            if (a[cur] <= v) {
+                if (cur >= h) return cur - h;
+                cur = right(cur);
+            } else {
+                if ((cur & cur - 1) == 0) return -1;
+                cur--;
+                if (cur % 2 != 0) cur = parent(cur);
             }
         }
     }
@@ -122,15 +152,15 @@ function SegmentTreeRMQ(A) { // array constructor
 function SegmentTreeRMQ(n) {
     let h = Math.ceil(Math.log2(n)), len = 2 * 2 ** h, a = Array(len).fill(Number.MIN_SAFE_INTEGER);
     h = 2 ** h;
-    return { update, maxx, indexOf, tree }
+    return { update, maxx, firstle, tree }
     function update(pos, v) {
         a[h + pos] = v;
         for (let i = parent(h + pos); i >= 1; i = parent(i)) pushup(i);
     }
     function pushup(i) {
-        a[i] = Math.max(a[left(i)], a[right(i)]);
+        a[i] = Math.max(a[left(i)], a[right(i)]);  // [max .... min]
     }
-    function maxx(l, r) {
+    function maxx(l, r) { // [L, R)
         let max = Number.MIN_SAFE_INTEGER;
         if (l >= r) return max;
         l += h;
@@ -141,7 +171,7 @@ function SegmentTreeRMQ(n) {
         }
         return max;
     }
-    function indexOf(l, v) {
+    function firstle(l, v) {
         if (l >= h) return -1;
         let cur = h + l;
         while (1) {

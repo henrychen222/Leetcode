@@ -1,13 +1,51 @@
-
-/** 
- * Example problem: 
- * https://leetcode.com/problems/the-skyline-problem/
- * https://leetcode.com/problems/number-of-pairs-satisfying-inequality/ 01/12/23 evening
- * https://leetcode.com/problems/sliding-window-median/  01/13/23 evening
- * https://leetcode.com/problems/find-median-from-data-stream/ 01/13/23 night
- * https://leetcode.com/problems/finding-mk-average/ 01/13/23 night
+/*
+ * 01/12/23 afternoon evening
+ * https://leetcode.com/problems/number-of-pairs-satisfying-inequality
  */
 
+const pr = console.log;
+
+function Fenwick(n) {
+    let a = Array(n).fill(0);
+    return { query, update, rangeSum, tree }
+    function query(i) {
+        let sum = 0;
+        for (i++; i > 0; i = parent(i)) sum += a[i];
+        return sum;
+    }
+    function update(i, v) {
+        for (i++; i < n; i = next(i)) a[i] += v;
+    }
+    function rangeSum(l, r) {
+        return query(r) - query(l - 1);
+    }
+    function parent(x) {
+        return x - lowestOneBit(x);
+    }
+    function next(x) {
+        return x + lowestOneBit(x);
+    }
+    function lowestOneBit(x) {
+        return x & -x;
+    }
+    function tree() {
+        return a;
+    }
+}
+
+// Accepted --- 145ms 100%
+// reference: https://leetcode.com/contest/biweekly-contest-88/ranking cpp_template
+const numberOfPairs = (a, b, diff) => {
+    let n = a.length, res = 0, st = new Fenwick(1e5), offset = 1e5 / 2;
+    for (let i = 0; i < n; i++) {
+        let x = a[i] - b[i], y = x + diff;
+        res += st.rangeSum(0, y + offset);
+        st.update(x + offset, 1)
+    }
+    return res;
+};
+
+//////////////////////////////////////////////////////////////////////
 function Bisect() {
     return { insort_right, insort_left, bisect_left, bisect_right }
     function insort_right(a, x, lo = 0, hi = null) {
@@ -41,7 +79,7 @@ function Bisect() {
 function MultiSet(elements) {
     let a = [], m = new Map(), bi = new Bisect();
     initialize();
-    return { insert, first, last, get, search, poll, pollLast, lower_bound, upper_bound, findKth, eraseByIndex, eraseOne, eraseAll, contains, size, clear, show };
+    return { insert, first, last, get, search, poll, pollLast, lower_bound, upper_bound, findKth, eraseByIndex, eraseAll, contains, size, clear, show };
     function initialize() {
         if (elements) {
             for (const x of elements) {
@@ -90,11 +128,6 @@ function MultiSet(elements) {
         removeOneOrManyMap(m, a[idx]);
         a.splice(idx, 1);
     }
-    function eraseOne(x) {
-        let idx = lower_bound(x);
-        if (a[idx] == x) a.splice(idx, 1);
-        removeOneOrManyMap(m, x);
-    }
     function eraseAll(x) {
         if (contains(x)) {
             let idx = search(x), occ = m.get(x);
@@ -121,40 +154,37 @@ function MultiSet(elements) {
     }
 }
 
-const pr = console.log;
+// Accepted --- 515ms 28.57%
+// Accepted --- 534ms (rewrite multiSet)  01/13/23 night
+// reference: https://leetcode.com/problems/number-of-pairs-satisfying-inequality/solutions/2646606/python-reverse-pairs/
+const numberOfPairs2 = (a, b, diff) => {
+    let s = new MultiSet(), n = a.length, res = 0;
+    for (let i = 0; i < n; i++) {
+        let v = a[i] - b[i] + diff, idx = s.upper_bound(v);
+        // pr(v, s.show(), idx);
+        res += idx;
+        s.add(a[i] - b[i]);
+    }
+    return res;
+};
+
+/////////////////////////////////////////////////////////////////////////////////
+// TLE 59/61
+const numberOfPairs1 = (a, b, diff) => {
+    let n = a.length, res = 0;
+    for (let i = 0; i < n; i++) {
+        for (let j = i + 1; j < n; j++) {
+            if (a[i] - a[j] <= b[i] - b[j] + diff) res++;
+        }
+    }
+    return res;
+};
 
 const main = () => {
-    let s = new MultiSet();
-    s.insert(3);
-    s.insert(2);
-    s.insert(7);
-    s.insert(-5);
-    s.insert(-4);
-    s.insert(9);
-    s.insert(6);
-    s.insert(10);
-    s.insert(6);
-    s.insert(6);
-    s.insert(6);
-    pr("after insertion", s.show(), s.size())
-
-    pr("search", s.search(6), s.search(10), s.search(11)); // 4 10 11
-    pr(s.lower_bound(-6), s.lower_bound(-5), s.lower_bound(1), s.lower_bound(2), s.lower_bound(3), s.lower_bound(4)); // 0 0 2 2 3 4
-
-    pr(s.upper_bound(-5), s.upper_bound(-4), s.upper_bound(2), s.upper_bound(6)); // 1 2 3 8
-
-    pr("before erase index 8", "value", s.get(8), s.show());
-    s.eraseByIndex(8)
-    pr("after erase index 8", s.show());
-
-    pr();
-    pr("before eraseAll", s.show())
-    s.eraseAll(6);
-    pr("after eraseAll", s.show())
-
-    s.eraseAll(9);
-    pr("after eraseAll222", s.show())
-}
+    let a = [3, 2, 5], b = [2, 2, 1], diff = 1;
+    let a2 = [3, -1], b2 = [-2, 2], diff2 = -1;
+    pr(numberOfPairs(a, b, diff))
+    pr(numberOfPairs(a2, b2, diff2))
+};
 
 main()
-

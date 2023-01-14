@@ -185,6 +185,124 @@ function MultiSet2() {
     };
 }
 
+////////////////////////////// new MultiSet 01/13/23 evening ///////////////////////////////////////////////////////////
+function Bisect() {
+    return { insort_right, insort_left, bisect_left, bisect_right }
+    function insort_right(a, x, lo = 0, hi = null) {
+        lo = bisect_right(a, x, lo, hi);
+        a.splice(lo, 0, x);
+    }
+    function bisect_right(a, x, lo = 0, hi = null) { // > upper_bound
+        if (lo < 0) throw new Error('lo must be non-negative');
+        if (hi == null) hi = a.length;
+        while (lo < hi) {
+            let mid = parseInt((lo + hi) / 2);
+            a[mid] > x ? hi = mid : lo = mid + 1;
+        }
+        return lo;
+    }
+    function insort_left(a, x, lo = 0, hi = null) {
+        lo = bisect_left(a, x, lo, hi);
+        a.splice(lo, 0, x);
+    }
+    function bisect_left(a, x, lo = 0, hi = null) { // >= lower_bound
+        if (lo < 0) throw new Error('lo must be non-negative');
+        if (hi == null) hi = a.length;
+        while (lo < hi) {
+            let mid = parseInt((lo + hi) / 2);
+            a[mid] < x ? lo = mid + 1 : hi = mid;
+        }
+        return lo;
+    }
+}
+
+// Accepted --- 188ms 80.87% (old version)
+// Accepted --- 180ms 81.74%
+function MultiSet(elements) {
+    let a = [], m = new Map(), bi = new Bisect();
+    initialize();
+    return { insert, first, last, get, search, poll, pollLast, lower_bound, upper_bound, findKth, eraseByIndex, eraseOne, eraseAll, contains, size, clear, show };
+    function initialize() {
+        if (elements) {
+            for (const x of elements) {
+                bi.insort_right(a, x);
+                m.set(x, m.get(x) + 1 || 1);
+            }
+        }
+    }
+    function insert(x) {
+        bi.insort_right(a, x);
+        m.set(x, m.get(x) + 1 || 1);
+    }
+    function first() {
+        return a[0];
+    }
+    function last() {
+        return a[a.length - 1];
+    }
+    function get(i) {
+        return a[i];
+    }
+    function poll() {
+        let res = a[0];
+        a.splice(0, 1);
+        removeOneOrManyMap(m, res);
+        return res;
+    }
+    function pollLast() {
+        let res = a.pop();
+        removeOneOrManyMap(m, res);
+        return res;
+    }
+    function lower_bound(x) {
+        return bi.bisect_left(a, x);
+    }
+    function upper_bound(x) {
+        return bi.bisect_right(a, x);
+    }
+    function findKth(k) {
+        return a[k - 1];
+    }
+    function search(x) {
+        return lower_bound(x);
+    }
+    function eraseByIndex(idx) {
+        removeOneOrManyMap(m, a[idx]);
+        a.splice(idx, 1);
+    }
+    function eraseOne(x) {
+        let idx = lower_bound(x);
+        if (a[idx] == x) a.splice(idx, 1);
+        removeOneOrManyMap(m, x);
+    }
+    function eraseAll(x) {
+        if (contains(x)) {
+            let idx = search(x), occ = m.get(x);
+            while (occ--) a.splice(idx, 1);
+            m.delete(x);
+        }
+    }
+    function removeOneOrManyMap(m, x, cnt = 1) {
+        let occ = m.get(x);
+        occ > cnt ? m.set(x, occ - cnt) : m.delete(x);
+    }
+    function contains(x) {
+        return m.has(x);
+    }
+    function size() {
+        return a.length;
+    }
+    function clear() {
+        a = [];
+        m.clear();
+    }
+    function show() {
+        return a;
+    }
+}
+
+
+/////////////////////////////////////////////////////////////////////////////////
 // Accepted --- 2300ms 7.69%
 // Accepted --- 2308ms 7.69%
 const getSkyline = (buildings) => {

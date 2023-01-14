@@ -17,12 +17,25 @@ const getAllLevels = (root, level, data) => {
 
 
 //////////////////////////////// DFS /////////////////////////////////////
-const inOrder_DFS = (root) => {
-    if (!root) return [];
-    let left = inOrder_DFS(root.left);
-    let right = inOrder_DFS(root.right);
-    return left.concat(root.val).concat(right);
+const inOrder_DFS = (root) => { // fast
+    let d = [];
+    dfs(root, d);
+    return d;
 };
+
+const dfs = (node, d) => {
+    if (!node) return;
+    dfs(node.left, d);
+    d.push(node.val);
+    dfs(node.right, d);
+};
+
+// const inOrder_DFS = (root) => { // slow
+//     if (!root) return [];
+//     let left = inOrder_DFS(root.left);
+//     let right = inOrder_DFS(root.right);
+//     return left.concat(root.val).concat(right);
+// };
 
 const preOrder_DFS = (root) => {
     if (!root) return [];
@@ -43,16 +56,16 @@ const postOrder_DFS = (root) => {
 const getAllPathNew = (root) => {
     let res = [];
     let path = [];
-    dfs(root, path, res);
+    DFS(root, path, res);
     return res;
 };
 
-const dfs = (node, path, res) => {
+const DFS = (node, path, res) => {
     if (!node) return;
     path.push(node.val);
     if (!node.left && !node.right) res.push([...path]);
-    dfs(node.left, path, res);
-    dfs(node.right, path, res);
+    DFS(node.left, path, res);
+    DFS(node.right, path, res);
     path.pop();
 };
 
