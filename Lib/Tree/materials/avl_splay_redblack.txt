@@ -1,0 +1,54 @@
+
+-------- 04/10/21 night created   01/17/23 evening clean and reorganize
+
+(Self-Balancing Tree)
+https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
+https://www.geeksforgeeks.org/self-balancing-binary-search-trees-comparisons/
+
+
+(Splay Tree)  
+is BST, main difference to AVL and Red-Black is Splay. Roughly balanced trees
+benefits: quick access to frequently accessed items
+https://en.wikipedia.org/wiki/Splay_tree
+https://www.geeksforgeeks.org/splay-tree-set-1-insert/
+https://www.javatpoint.com/splay-tree  good
+https://www.educative.io/edpresso/definition-splay-tree  good, have code
+https://brilliant.org/wiki/splay-tree/
+https://www.ics.uci.edu/~dan/class/165/notes/splay.html   good
+http://www.btechsmartclass.com/data_structures/splay-trees.html
+https://inst.eecs.berkeley.edu/~cs61bl/r//cur/balanced-search-trees/splay-trees?topic=lab27.topic&step=5&course=
+http://www.cs.cornell.edu/courses/cs3110/2011sp/Recitations/rec25-splay/splay.htm
+
+
+
+(AVL Tree)
+Is self-balancing BST,  heights difference of left and right subtrees at most one
+https://en.wikipedia.org/wiki/AVL_tree
+https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
+https://www.geeksforgeeks.org/avl-tree-set-2-deletion/
+https://www.tutorialspoint.com/data_structures_algorithms/avl_tree_algorithm.htm
+https://www.cs.auckland.ac.nz/software/AlgAnim/AVL.html
+https://www.codesdope.com/course/data-structures-avl-trees/
+https://www.freecodecamp.org/news/avl-tree-insertion-rotation-and-balance-factor/
+https://www.educative.io/edpresso/common-avl-rotation-techniques
+https://algorithms.tutorialhorizon.com/avl-tree-insertion/
+
+
+(Red-Black Tree)
+Is self-balancing BST, root and leaf are always black, no two adjacent red nodes
+https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/
+https://www.geeksforgeeks.org/red-black-tree-set-2-insert/
+https://computepatterns.com/problem-solving/data-structures/binary-tree/binary-search-tree-bst/splay-tree-and-red-black-tree/  good
+https://www.cs.auckland.ac.nz/software/AlgAnim/red_black.html
+https://www.freecodecamp.org/news/red-black-trees/
+https://brilliant.org/wiki/red-black-tree/
+
+
+
+************************* Comparison *************************
+(AVL VS Red-Black VS Splay)
+https://programmersought.com/article/55523237189/
+
+(AVL VS Red-Black)
+https://www.geeksforgeeks.org/red-black-tree-vs-avl-tree/

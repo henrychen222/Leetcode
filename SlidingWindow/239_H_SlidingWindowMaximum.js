@@ -877,7 +877,7 @@ class AVLTree {
 }
 
 // Accepted --- 816ms 46.19%
-const maxSlidingWindow = (a, k) => {
+const maxSlidingWindow6 = (a, k) => {
     let res = [], n = a.length, tree = new AVLTree();
     for (let i = 0; i < n; i++) {
         tree.insert(a[i]);
@@ -885,6 +885,22 @@ const maxSlidingWindow = (a, k) => {
         if (l >= 0) {
             res.push(tree.maxx());
             tree.remove(a[l]);
+        }
+    }
+    return res;
+};
+
+
+//////////////////////////// 01/15/22 afternoon /////////////////////////////
+// TLE C++ Accepted
+const maxSlidingWindow = (a, k) => {
+    let res = [], n = a.length, s = new MultiSet();
+    for (let i = 0; i < n; i++) {
+        s.insert(a[i]);
+        let l = i - k + 1;
+        if (l >= 0) {
+            res.push(s.last());
+            s.eraseOne(a[l]);
         }
     }
     return res;

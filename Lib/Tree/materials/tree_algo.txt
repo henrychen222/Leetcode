@@ -1,0 +1,90 @@
+
+07/04/20   10:38 AM
+
+(DFS BFS inorder preorder postorder)
+https://blog.csdn.net/u010305706/article/details/50768170  good
+https://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/  good
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+
+*************************** Binary Search Tree ******************************
+(Binary Search Tree)
+https://www.geeksforgeeks.org/binary-search-tree-data-structure/
+https://en.wikipedia.org/wiki/Binary_search_tree
+
+(Binary Search Tree insertion)
+https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
+https://www.geeksforgeeks.org/insert-a-node-in-binary-search-tree-iteratively/
+https://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.htm
+
+(binary search tree search)
+https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
+https://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.htm
+
+(Binary Search Tree deletion)
+https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
+https://www.techiedelight.com/deletion-from-bst/
+https://www.codesdope.com/course/data-structures-binary-search-trees/
+http://www.algolist.net/Data_structures/Binary_search_tree/Removal
+
+(Full Binary Tree)
+https://baike.baidu.com/item/%E6%BB%A1%E4%BA%8C%E5%8F%89%E6%A0%91/7773283?fr=aladdin
+https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/
+
+(Complete Binary Tree)
+https://baike.baidu.com/item/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91/7773232?fr=aladdin
+https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/
+
+
+
+*************************** B-Tree ******************************
+(B-Tree)
+https://www.geeksforgeeks.org/introduction-of-b-tree-2/
+
+
+*************************** Van Emde Boas Tree ******************************
+(Van Emde Boas Tree)
+https://www.geeksforgeeks.org/van-emde-boas-tree-set-1-basics-and-construction/
+https://en.wikipedia.org/wiki/Van_Emde_Boas_tree
+
+
+
+*************************** Heap/ Priority Queue ******************************
+(Heap)
+https://www.geeksforgeeks.org/heap-data-structure/
+https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm
+https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/tutorial/
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html
+(Priority Queue)
+https://www.geeksforgeeks.org/priority-queue-set-1-introduction/
+https://algs4.cs.princeton.edu/24pq/
+
+(Binary Heap)
+https://en.wikipedia.org/wiki/Binary_heap
+https://www.geeksforgeeks.org/binary-heap/
+https://runestone.academy/runestone/books/published/pythonds/Trees/BinaryHeapImplementation.html
+https://brilliant.org/wiki/binary-heap/
+https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_binary_heap.htm
+
+(d-Heaps)
+https://en.wikipedia.org/wiki/D-ary_heap
+https://www.quora.com/What-is-a-d-heap-data-structure
+https://www.geeksforgeeks.org/k-ary-heap/
+http://www.programming-algorithms.net/article/41909/D-ary-heap
+https://stackoverflow.com/questions/29126428/binary-heaps-vs-d-ary-heaps
+https://www.cs.princeton.edu/courses/archive/spring13/cos423/lectures/BinomialHeaps.pdf
+(Leftist Heap)
+https://www.geeksforgeeks.org/leftist-tree-leftist-heap/
+https://en.wikipedia.org/wiki/Leftist_tree
+
+(Skew Heap)
+https://www.geeksforgeeks.org/skew-heap/
+https://en.wikipedia.org/wiki/Skew_heap
+
+(Binomial Queue/ Binomial Heap)
+https://en.wikipedia.org/wiki/Binomial_heap
+https://www.geeksforgeeks.org/binomial-heap-2/
+
+(Fibonacci Heaps)
+https://en.wikipedia.org/wiki/Fibonacci_heap
+https://www.geeksforgeeks.org/fibonacci-heap-set-1-introduction/
+

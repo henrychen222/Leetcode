@@ -89,13 +89,27 @@ const millerRabin = (d, n) => {
     return false;
 };
 
-const isPrime = (n, k = 4) => { // n < Number.MAX_SAFE_INTERGER
+const isPrime1 = (n, k = 4) => { // n < Number.MAX_SAFE_INTERGER
     if (n <= 1 || n == 4) return false;
     if (n <= 3) return true;
     let d = n - 1;
     while (d % 2 == 0) d = parseInt(d / 2);
     for (let i = 0; i < k; i++) {
         if (!millerRabin(d, n)) return false;
+    }
+    return true;
+};
+
+
+/////////////////////// 03/18/23 morning ///////////////////////////////
+// reference: https://www.geeksforgeeks.org/check-whether-number-exactly-three-distinct-factors-not/
+// example problem: https://www.acwing.com/problem/content/4877/
+const isPrime = (n) => {
+    if (n <= 1) return false;
+    if (n <= 3) return true;
+    if (n % 2 == 0 || n % 3 == 0) return false;
+    for (let i = 5; i * i <= n; i += 6) {
+        if (n % i == 0 || n % (i + 2) == 0) return false;
     }
     return true;
 };
