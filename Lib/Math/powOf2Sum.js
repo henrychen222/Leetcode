@@ -12,3 +12,24 @@ const powerOf2Sum = (x) => {
     }
     return res;
 };
+
+// binary search, min factorization (smallest total cnt), max factorization is all 1's (2 ^ 0)
+const SumOfPower2Factorization = (x) => {
+    let i = 0, bit = 2 ** i, v = [], res = new Set(), cur = x;
+    while (bit <= x) {
+        v.push(bit);
+        i++;
+        bit = 2 ** i;
+    }
+    while (cur != 0) {
+        let idx = v.findIndex((element) => element > cur);
+        if (idx === -1) {
+            idx = v.length - 1;
+        } else {
+            idx--;
+        }
+        res.add(idx);
+        cur -= v[idx];
+    }
+    return res;
+};

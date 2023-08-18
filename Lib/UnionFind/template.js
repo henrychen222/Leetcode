@@ -16,13 +16,13 @@ https://atcoder.jp/contests/abc190/submissions/20270717 (02/19/21 night)
 Array
 https://leetcode.com/problems/couples-holding-hands/ (07/22/21 morning)
 https://leetcode.com/problems/find-latest-group-of-size-m/ (08/23/20 night  04/18/22 morning)
-
+https://leetcode.com/problems/smallest-string-with-swaps/ (07/14/23 night)
 */
+// parent[i] < 0, -parent[i] is the group size which root is i. example: (i -> parent[i] -> parent[parent[i]] -> parent[parent[parent[i]]] ...)
+// parent[i] >= 0, i is not the root and parent[i] is i's parent. example: (... parent[parent[parent[i]]] -> parent[parent[i]] -> parent[i] -> i)
 function DJSet(n) {
-    // parent[i] < 0, -parent[i] is the group size which root is i. example: (i -> parent[i] -> parent[parent[i]] -> parent[parent[parent[i]]] ...)
-    // parent[i] >= 0, i is not the root and parent[i] is i's parent. example: (... parent[parent[parent[i]]] -> parent[parent[i]] -> parent[i] -> i)
     let parent = Array(n).fill(-1);
-    return { find, union, count, equiv, par }
+    return { find, union, count, equiv, par, grp }
     function find(x) {
         return parent[x] < 0 ? x : parent[x] = find(parent[x]);
     }
@@ -43,6 +43,12 @@ function DJSet(n) {
     }
     function par() {
         return parent;
+    }
+    function grp() { // generate all groups (nlogn)
+        let groups = [];
+        for (let i = 0; i < n; i++) groups.push([]);
+        for (let i = 0; i < n; i++) groups[find(i)].push(i); // sorted and unique
+        return groups;
     }
 }
 

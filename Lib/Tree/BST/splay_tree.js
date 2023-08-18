@@ -3,8 +3,6 @@
 reference:https://leetcode.com/contest/biweekly-contest-88/ranking liouzhou_101
 */
 
-const { size } = require("lodash");
-
 class SplayNode {
     constructor(value) {
         this.parent = null;
@@ -81,7 +79,7 @@ class SplayTree {
         this.zag(x);
         this.zig(x);
     }
-    splay(node, guard = null) { // splay a "node" just under a "guard", which is default to splay to the "root".
+    splay(node, guard = null) { // splay node under guard, default splay to root
         while (!node.isRoot(guard)) {
             if (node.parent.isRoot(guard)) {
                 if (node.isLeft()) {
@@ -105,7 +103,7 @@ class SplayTree {
                 }
             }
         }
-        if (guard == null) this.root = node; // reset "root" to "node".
+        if (guard == null) this.root = node;
     }
     LastNode(x) {
         this.splay(x);
@@ -214,7 +212,7 @@ class SplayTree {
     }
 
     // -------------------------------- Public Usage --------------------------------------
-    insert(value) { // allow duplicates, tree nodes allow same value O(logN)
+    insert(value) { // allow duplicates  LST.set()
         if (this.root == null) {
             this.root = this.make(value);
             return this.root;
@@ -242,7 +240,7 @@ class SplayTree {
         this.splay(node);
         return node;
     }
-    remove(value) { // remove one node, not remove all O(logN)
+    remove(value) { // remove one node, not all   LST.unset()
         let node = this.find(value);
         if (node == null) return false;
         this.splay(node);
@@ -268,10 +266,10 @@ class SplayTree {
         last_node.update();
         return true;
     }
-    has(value) { // O(logN)
+    has(value) { // LST.get()
         return this.count(value) > 0;
     }
-    count(value) { // O(logN)
+    count(value) {
         let x = this.findFirstOf(value);
         if (x == null) return 0;
         let rank_x = this.findRankOf(x);
@@ -279,21 +277,27 @@ class SplayTree {
         let rank_y = this.findRankOf(y);
         return rank_y - rank_x + 1;
     }
-    rankOf(value) { // The number of elements strictly less than value O(logN)
+    rankOf(value) { // The number of elements strictly less than value
         let x = this.findPrecursorOf(value);
         return x == null ? 0 : this.findRankOf(x) + 1;
     }
-    findKth(rank) { // (0-indexed) O(logN)
+    findKth(rank) { // (0-indexed)
         let x = this.findKthNode(rank);
         return x == null ? null : (x.val);
     }
-    higher(value) { // > upper_bound  O(logN)
+    higher(value) { // > upper_bound()  LST.next(value)
         let node = this.findSuccessorOf(value);
         return node == null ? null : (node.val);
     }
-    lower(value) { // <  O(logN)
+    lower(value) { // <  LST.prev(value - 1)
         let node = this.findPrecursorOf(value);
         return node == null ? null : (node.val);
+    }
+    ceiling(value) { // >=
+        return this.has(value) ? value : this.higher(value);
+    }
+    floor(value) { // <= 
+        return this.has(value) ? value : this.lower(value);
     }
     first() {
         return this.findKth(0);
@@ -317,7 +321,7 @@ class SplayTree {
     isEmpty() {
         return this.root == null;
     }
-    show() {  // Get sorted values in the splay tree O(n).
+    show() {
         let res = [];
         const dfs = (x) => {
             if (x == null) return;

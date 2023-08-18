@@ -1,4 +1,48 @@
 /*
+08/03/23 night
+
+reference:
+https://en.wikipedia.org/wiki/Hungarian_algorithm
+https://yasenh.github.io/post/hungarian-algorithm-1/
+https://yasenh.github.io/post/hungarian-algorithm-2/
+https://www.geeksforgeeks.org/hungarian-algorithm-for-assignment-problem-set-2-implementation/
+
+https://www.renfei.org/blog/bipartite-matching.html
+https://liam.page/2016/04/03/Hungarian-algorithm-in-the-maximum-matching-problem-of-bigraph/
+https://blog.csdn.net/dark_scope/article/details/8880547
+
+Example problem:
+https://leetcode.com/problems/maximum-students-taking-exam/
+*/
+
+function HungarianBipartiteGraph(g) {
+    let vis = new Set(), n = g.length, match = Array(n).fill(-1);
+    return { maxMatch }
+    function maxMatch() {
+        let res = 0;
+        for (let i = 0; i < n; i++) {
+            vis.clear();
+            res += dfs(i);
+        }
+        return res;
+    }
+    function dfs(cur) {
+        for (const child of g[cur]) {
+            if (vis.has(child)) continue;
+            vis.add(child);
+            if (match[child] < 0 || dfs(match[child])) {
+                match[child] = cur;
+                return true;
+            }
+        }
+        return false;
+    }
+}
+
+
+
+
+/*
 12/05/22 evening
 https://www.geeksforgeeks.org/hungarian-algorithm-assignment-problem-set-1-introduction/
 */

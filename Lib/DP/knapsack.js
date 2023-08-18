@@ -1,4 +1,6 @@
 /*
+06/13/22 night
+
 背包DP --- knapsack
 https://tangshusen.me/2019/11/24/knapsack-problem/  (use)
 https://en.wikipedia.org/wiki/Knapsack_problem (read)
@@ -6,6 +8,7 @@ https://baike.baidu.com/item/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/2416931 (read)
 
 https://oi-wiki.org/dp/knapsack/
 https://leetcode.com/discuss/study-guide/1152328/01-Knapsack-Problem-and-Dynamic-Programming
+https://usaco.guide/gold/knapsack
 */
 
 /*

@@ -1055,6 +1055,7 @@ https://leetcode.com/problems/cherry-pickup/discuss/1517931/javascript-dp-96ms-1
 
 743 Network Delay Time
 https://leetcode.com/problems/network-delay-time/discuss/1857695/javascript-dijkstra-199ms
+https://leetcode.com/problems/network-delay-time/solutions/3496053/javascript-floyd-warshall-144ms/
 
 745 Prefix and Suffix Search
 https://leetcode.com/problems/prefix-and-suffix-search/discuss/1191792/javascript-ordered-map-1188ms
@@ -1582,8 +1583,15 @@ https://leetcode.com/problems/moving-stones-until-consecutive/discuss/911685/jav
 1034 Coloring A Border
 https://leetcode.com/problems/coloring-a-border/discuss/2117500/javascript-bfs-filtering-areas-109ms
 
+1035 Uncrossed Lines
+https://leetcode.com/problems/uncrossed-lines/solutions/3747587/javascript-lcs-81ms/
+
 1041 Robot Bounded In Circle
 https://leetcode.com/problems/robot-bounded-in-circle/discuss/1329889/javascript-direct-way-84ms
+
+1044 Longest Duplicate Substring
+https://leetcode.com/problems/longest-duplicate-substring/solutions/3924965/javascript-rolling-hash-binary-search-871ms/
+https://leetcode.com/problems/longest-duplicate-substring/solutions/1994113/can-anyone-explain-this-rolling-hash/
 
 1047 Remove All Adjacent Duplicates In String
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/773787/javascript-stack-solution
@@ -1599,6 +1607,9 @@ https://leetcode.com/problems/previous-permutation-with-one-swap/discuss/864908/
 
 1054 Distant Barcodes
 https://leetcode.com/problems/distant-barcodes/discuss/1228119/javascript-priority-queue-212ms
+
+1061 Lexicographically Smallest Equivalent String
+https://leetcode.com/problems/lexicographically-smallest-equivalent-string/solutions/3766207/javascript-union-find/
 
 1072 Flip Columns For Maximum Number of Equal Rows
 https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/discuss/1899071/javascript-hashmap-169ms-83.33
@@ -1623,6 +1634,9 @@ https://leetcode.com/problems/distribute-candies-to-people/discuss/803598/javasc
 
 1105 Filling Bookcase Shelves
 https://leetcode.com/problems/filling-bookcase-shelves/discuss/963528/javascript-dp
+
+1109 Corporate Flight Bookings
+https://leetcode.com/problems/corporate-flight-bookings/solutions/3772444/javascript-difference-array-165ms/
 
 1114 Print in Order
 https://leetcode.com/problems/print-in-order/discuss/913919/java-Thread-sleep()-solution-11ms
@@ -1707,6 +1721,9 @@ https://leetcode.com/problems/critical-connections-in-a-network/discuss/1174923/
 
 1201 Ugly Number III (0) -> (1)
 https://leetcode.com/problems/ugly-number-iii/discuss/1569253/javascript-binary-search-with-with-LCM-76ms
+
+1202 Smallest String With Swaps
+https://leetcode.com/problems/smallest-string-with-swaps/solutions/3766628/javascript-union-find-194ms/
 
 1203 Sort Items by Groups Respecting Dependencies
 https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/discuss/1544925/javascript-topological-sort-456ms
@@ -1845,6 +1862,7 @@ https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-dis
 
 1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance
 https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/discuss/1857780/javascript-dijkstra-267ms (0) -> (1)
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/solutions/3496143/javascript-floyd-warshall-108ms/
 
 1338 Reduce Array Size to The Half
 https://leetcode.com/problems/reduce-array-size-to-the-half/discuss/1320426/javascript-direct-way-196ms
@@ -1926,6 +1944,9 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/discuss/727640/ja
 
 1390 Four Divisors
 https://leetcode.com/problems/four-divisors/discuss/1578967/javascript-find-all-factors-128ms-73.53
+
+1391 Check if There is a Valid Path in a Grid
+https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/solutions/3766424/javascript-union-find-475ms/
 
 1392 Longest Happy Prefix
 https://leetcode.com/problems/longest-happy-prefix/discuss/2611031/javascript-brute-force-4946ms
@@ -2216,6 +2237,9 @@ https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/discuss/
 
 1654 Minimum Jumps to Reach Home
 https://leetcode.com/problems/minimum-jumps-to-reach-home/discuss/2092842/javascript-bfs
+
+1655 Distribute Repeating Integers
+https://leetcode.com/problems/distribute-repeating-integers/solutions/3540265/javascript-dfs-dp-backtracking-discretization-518ms/
 
 1656 Design an Ordered Stream
 https://leetcode.com/problems/design-an-ordered-stream/discuss/936227/javascript-solution
@@ -4086,6 +4110,167 @@ https://leetcode.com/problems/minimum-reverse-operations/solutions/3372849/javas
 
 2646 Minimize the Total Price of the Trips
 https://leetcode.com/problems/minimize-the-total-price-of-the-trips/solutions/3422313/javascript-tree-dp-114ms/
+
+2656 Maximum Sum With Exactly K Elements
+https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/solutions/3513771/javascript-greedy-max-heap-pq-nlogn-183ms/
+
+2657 Find the Prefix Common Array of Two Arrays
+https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/3513743/javascript-3-hashset-114ms/
+https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/3466782/beats-100-javascript-solution/
+
+2658 Maximum Number of Fish in a Grid
+https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/solutions/3513601/javascript-bfs-template-182ms/
+
+2659 Make Array Empty
+https://leetcode.com/problems/make-array-empty/solutions/3514029/javascript-segmenttree-range-sum-query-fenwick-bit-two-solutions/
+
+2660 Determine the Winner of a Bowling Game
+https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/solutions/3468306/javascript-direct-way-78ms/
+
+2661 First Completely Painted Row or Column
+https://leetcode.com/problems/first-completely-painted-row-or-column/solutions/3468340/javascript-timestamp-sorting-346ms/
+
+2662 Minimum Cost of a Path With Special Roads
+https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/solutions/3496182/javascript-build-graph-dijkstra-245ms/
+
+2670 Find the Distinct Difference Array
+https://leetcode.com/problems/find-the-distinct-difference-array/solutions/3495117/javascript-direct-way-177ms/
+
+2671 Frequency Tracker
+https://leetcode.com/problems/frequency-tracker/solutions/3495153/javascript-two-hashmap-550ms/
+
+2672 Number of Adjacent Elements With the Same Color
+https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/solutions/3495182/javascript-l-r-tracking-326ms/
+
+2673 Make Costs of Paths Equal in a Binary Tree
+https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/solutions/3495330/javascript-greedy-dfs-140ms/
+
+2682 Find the Losers of the Circular Game
+https://leetcode.com/problems/find-the-losers-of-the-circular-game/solutions/3522064/javascript-direct-way-79ms/
+
+2683 Neighboring Bitwise XOR
+https://leetcode.com/problems/neighboring-bitwise-xor/solutions/3522090/javascript-greedy-two-conditions-244ms/
+
+2685 Count the Number of Complete Components
+https://leetcode.com/problems/count-the-number-of-complete-components/solutions/3522115/javascript-union-find-457ms/
+
+2696 Minimum String Length After Removing Substrings
+https://leetcode.com/problems/minimum-string-length-after-removing-substrings/solutions/3547037/javascript-direct-way-127ms/
+
+2697 Lexicographically Smallest Palindrome
+https://leetcode.com/problems/lexicographically-smallest-palindrome/solutions/3547046/javascript-greedy-167ms/
+
+2698 Find the Punishment Number of an Integer
+https://leetcode.com/problems/find-the-punishment-number-of-an-integer/solutions/3547059/javascript-dfs-backtracking-315ms/
+
+2699 Modify Graph Edge Weights
+https://leetcode.com/problems/modify-graph-edge-weights/solutions/3547805/javascript-dijkstra-twice-811ms/
+
+2710 Remove Trailing Zeros From a String
+https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3570492/javascript-direct-way-69ms/
+
+2711 Difference of Number of Distinct Values on Diagonals
+https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/solutions/3570419/javascript-direct-way-130ms/
+
+2712 Minimum Cost to Make All Characters Equal
+https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/solutions/3570409/javascript-greedy-85ms/
+
+2713 Maximum Strictly Increasing Cells in a Matrix
+https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/solutions/3570594/javascript-dp-sort-1059ms/
+
+2716 Minimize String Length
+https://leetcode.com/problems/minimize-string-length/solutions/3595278/javascript-greedy-1-line-146ms/
+
+2717 Semi-Ordered Permutation
+https://leetcode.com/problems/semi-ordered-permutation/solutions/3595316/javascript-greedy-85ms/
+
+2718 Sum of Matrix After Queries
+https://leetcode.com/problems/sum-of-matrix-after-queries/solutions/3595210/javascript-reverse-thinking-270ms/
+
+2719 Count of Integers
+https://leetcode.com/problems/count-of-integers/solutions/3595917/javascript-buttom-up-4d-dp-459ms/
+
+2733 Neither Minimum nor Maximum
+https://leetcode.com/problems/neither-minimum-nor-maximum/solutions/3627921/javascript-simple-1-line-227ms/
+
+2734 Lexicographically Smallest String After Substring Operation
+https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/solutions/3627904/javascript-greedy-268ms/
+
+2748 Number of Beautiful Pairs
+https://leetcode.com/problems/number-of-beautiful-pairs/solutions/3679350/javascript-direct-way-168ms/
+
+2749 Minimum Operations to Make the Integer Zero
+https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/solutions/3686818/javascript-math-formula-transition-90ms-power-2-factorization/
+
+2750 Ways to Split Array Into Good Subarrays
+https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/solutions/3686809/javascript-math-dp-two-solutions/
+
+2751 Robot Collisions
+https://leetcode.com/problems/robot-collisions/solutions/3686797/javascript-asteroid-collision-extension-567ms/
+
+2760 Longest Even Odd Subarray With Threshold
+https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/solutions/3706427/javascript-direct-way-186ms/
+
+2761 Prime Pairs With Target Sum
+https://leetcode.com/problems/prime-pairs-with-target-sum/solutions/3706456/javascript-sieveeratosthenes/
+
+2762 Continuous Subarrays
+https://leetcode.com/problems/continuous-subarrays/solutions/3706579/javascript-splaytree-multiset-sliding-window-523ms/
+
+2766 Relocate Marbles
+https://leetcode.com/problems/relocate-marbles/solutions/3738679/javascript-direct-way-381ms/
+
+2769 Find the Maximum Achievable Number
+https://leetcode.com/problems/find-the-maximum-achievable-number/solutions/3739138/javascript-brain-teaser-101ms/
+
+2770 Maximum Number of Jumps to Reach the Last Index
+https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/solutions/3739040/javascript-build-graph-bfs-max-distance-2982ms/
+
+2778 Sum of Squares of Special Elements
+https://leetcode.com/problems/sum-of-squares-of-special-elements/solutions/3772007/javascript-direct-way-69ms/
+
+2781 Length of the Longest Valid Substring
+https://leetcode.com/problems/length-of-the-longest-valid-substring/solutions/3790047/java-sliding-window-trie-88ms/
+
+2784 Check if Array is Good
+https://leetcode.com/problems/check-if-array-is-good/solutions/3802812/javascript-direct-way-80ms/
+
+2785 Sort Vowels in a String
+https://leetcode.com/problems/sort-vowels-in-a-string/solutions/3802756/javascript-separate-sort-255ms/
+
+2789 Largest Element in an Array after Merge Operations
+https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/solutions/3804141/javascript-greedy-105ms/
+
+2790 Maximum Number of Groups With Increasing Length
+https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/solutions/3804132/javascript-greedy-281ms/
+
+2791 Count Paths That Can Form a Palindrome in a Tree
+https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/solutions/3804119/javascript-dfs-memo-574ms/
+
+2798 Number of Employees Who Met the Target
+https://leetcode.com/problems/number-of-employees-who-met-the-target/solutions/3836196/javascript-one-line-40ms/
+
+2799 Count Complete Subarrays in an Array
+https://leetcode.com/problems/count-complete-subarrays-in-an-array/solutions/3836214/javascript-hashset-277ms/
+
+2800 Shortest String That Contains Three Strings
+https://leetcode.com/problems/shortest-string-that-contains-three-strings/solutions/3836593/javascript-greedy-sort-176ms/
+
+2812 Find the Safest Path in a Grid
+https://leetcode.com/problems/find-the-safest-path-in-a-grid/solutions/3879862/javascript-bfs-min-distance-union-find-2837ms/
+
+2815 Max Pair Sum in an Array
+https://leetcode.com/problems/max-pair-sum-in-an-array/solutions/3902099/javascript-direct-way-573ms/
+
+2816 Double a Number Represented as a Linked List
+https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/solutions/3901839/javascript-add-string-190ms/
+
+2817 Minimum Absolute Difference Between Elements With Constraint
+https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/solutions/3902072/javascript-fix-sliding-window-multiset-splaytree-497ms/
+https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/solutions/3902354/javascript-segment-tree-range-max-query-565ms/
+
+2818 Apply Operations to Maximize Score
+https://leetcode.com/problems/apply-operations-to-maximize-score/solutions/3909818/javascript-monotonic-stack-lpf-pow-mod-841ms/
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
