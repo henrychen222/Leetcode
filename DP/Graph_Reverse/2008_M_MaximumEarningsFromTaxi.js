@@ -1,13 +1,34 @@
 /**
  * 09/18/21 morning
  * https://leetcode.com/contest/biweekly-contest-61/problems/maximum-earnings-from-taxi/
+ * https://leetcode.com/problems/maximum-earnings-from-taxi/
  */
 
 const pr = console.log;
 
 const initializeGraph = (n) => { let G = []; for (let i = 0; i < n; i++) { G.push([]); } return G; };
 
-const maxTaxiEarnings = (n, rides) => {
+// Accepted --- 293ms
+const maxTaxiEarnings = (n, rides) => { // 08/19/23 night rewrite in template
+    let g = initializeGraph(n + 1);
+    for (const [u, v, cost] of rides) g[v].push([u, v - u + cost]);
+    return reverse_direct_graph_dp(g, 1);
+};
+
+const reverse_direct_graph_dp = (g, start) => {
+    let n = g.length, dp = Array(n).fill(0);
+    for (let cur = start; cur < n; cur++) {
+        dp[cur] = Math.max(dp[cur], dp[cur - 1]);
+        for (const [pre, cost] of g[cur]) {
+            dp[cur] = Math.max(dp[cur], dp[pre] + cost);
+        }
+    }
+    return dp[n - 1];
+};
+
+//////////////////////////////////////////////////////////////////////////////
+// Accepted
+const maxTaxiEarnings1 = (n, rides) => {
     let g = initializeGraph(n);
     for (const [u, v, cost] of rides) g[v - 1].push([u - 1, v - u + cost]);
     // pr(g);

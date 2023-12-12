@@ -21,65 +21,66 @@ https://leetcode.com/problems/smallest-string-with-swaps/ (07/14/23 night)
 // parent[i] < 0, -parent[i] is the group size which root is i. example: (i -> parent[i] -> parent[parent[i]] -> parent[parent[parent[i]]] ...)
 // parent[i] >= 0, i is not the root and parent[i] is i's parent. example: (... parent[parent[parent[i]]] -> parent[parent[i]] -> parent[i] -> i)
 function DJSet(n) {
-    let parent = Array(n).fill(-1);
+    let p = Array(n).fill(-1);
     return { find, union, count, equiv, par, grp }
     function find(x) {
-        return parent[x] < 0 ? x : parent[x] = find(parent[x]);
+        return p[x] < 0 ? x : p[x] = find(p[x]);
     }
     function union(x, y) {
         x = find(x);
         y = find(y);
         if (x == y) return false;
-        if (parent[x] < parent[y])[x, y] = [y, x];
-        parent[x] += parent[y];
-        parent[y] = x;
+        if (p[x] < p[y])[x, y] = [y, x];
+        p[x] += p[y];
+        p[y] = x;
         return true;
     }
     function count() { // total groups
-        return parent.filter(v => v < 0).length;
+        return p.filter(v => v < 0).length;
     }
     function equiv(x, y) { // isConnected
         return find(x) == find(y);
     }
     function par() {
-        return parent;
+        return p;
     }
     function grp() { // generate all groups (nlogn)
-        let groups = [];
-        for (let i = 0; i < n; i++) groups.push([]);
-        for (let i = 0; i < n; i++) groups[find(i)].push(i); // sorted and unique
-        return groups;
+        let g = [];
+        for (let i = 0; i < n; i++) g.push([]);
+        for (let i = 0; i < n; i++) g[find(i)].push(i); // sorted and unique
+        return g;
     }
 }
 
 
-///////////////////////////////// with size //////////////////////////////////////////////
+///////////////////////////////// with prefix sum //////////////////////////////////////////////
 // https://leetcode.com/problems/largest-component-size-by-common-factor/ (06/09/21 night)
+// https://leetcode.com/problems/maximum-segment-sum-after-removals/ (08/22/23 night)
+// https://leetcode.com/problems/maximum-subarray-min-product (05/08/21 night 04/18/22 morning 08/22/23 night)
 function DJSet(n) {
-    let parent = Array(n).fill(-1);
-    let size = Array(n).fill(0);
-    return { find, union, updatesz, sz, par }
+    let p = Array(n).fill(-1), s = Array(n).fill(0); // s: group prefix sum
+    return { find, union, update, sum, par }
     function find(x) {
-        return parent[x] < 0 ? x : parent[x] = find(parent[x]);
+        return p[x] < 0 ? x : p[x] = find(p[x]);
     }
     function union(x, y) {
         x = find(x);
         y = find(y);
         if (x == y) return false;
-        if (parent[x] < parent[y])[x, y] = [y, x];
-        parent[x] += parent[y];
-        parent[y] = x;
-        size[x] += size[y];
+        if (p[x] < p[y]) [x, y] = [y, x];
+        p[x] += p[y];
+        p[y] = x;
+        s[x] += s[y];
         return true;
     }
-    function updatesz(idx, v) {
-        size[idx] = v;
+    function update(idx, v) {
+        s[idx] += v;
     }
-    function sz() {
-        return size;
+    function sum() {
+        return s;
     }
     function par() {
-        return parent;
+        return p;
     }
 }
 
@@ -122,30 +123,5 @@ function DJSet(n) {
     }
     function cyc() {
         return cycle;
-    }
-}
-
-
-
-/////////////////////////// other usage //////////////////////////////////////////////
-// https://leetcode.com/problems/maximum-subarray-min-product (05/08/21 night 04/18/22 morning)
-function DJSet(a, n) {
-    let parent = Array(n).fill(0), sum = Array(n).fill(0n);
-    for (let i = 0; i < n; i++) parent[i] = i, sum[i] = BigInt(a[i]);
-    return { find, union, search }
-    function find(x) {
-        return parent[x] == x ? x : parent[x] = find(parent[x]);
-    }
-    function union(x, y) {
-        x = find(x);
-        y = find(y);
-        if (x != y) {
-            parent[x] = y;
-            sum[y] += sum[x];
-        }
-        return x == y;
-    }
-    function search(i) {
-        return sum[i];
     }
 }

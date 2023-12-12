@@ -1,5 +1,5 @@
 /**
- * 05/24/21 evening
+ * 05/24/21 evening 09/10/23 night rewrite and clean
  * 
  * example:
  * https://leetcode.com/problems/sort-the-matrix-diagonally/
@@ -7,89 +7,35 @@
  * https://leetcode.com/problems/diagonal-traverse-ii/
  */
 
-const diagonal_traverse_bottomLeft_to_topRight2 = (g) => {
-    let n = g.length;
-    let m = g[0].length;
-    let ma = new Map();
-    for (let i = 0; i < n; i++) {
-        for (let j = 0; j < m; j++) {
-            let sum = i + j;
-            if (!ma.has(sum)) ma.set(sum, []);
-            ma.get(sum).push([g[i][j], j]);
-        }
+const diagonal_traverse_with_middle_bottomLeft_to_topRight = (g) => {
+    let n = g.length, m = g[0].length, res = [];
+    for (let i = 0; i < n; i++) { // first col as starting point, contains middle diagonal
+        let cur = [];
+        for (let y = 0; i - y >= 0 && y < m; y++) cur.push(g[i - y][y]);
+        res.push(cur);
     }
-    let res = [];
-    for (const [, a] of ma) {
-        a.sort((x, y) => x[1] - y[1]);
-        let tmp = [];
-        for (const e of a) tmp.push(e[0]);
-        res.push(tmp);
+    for (let j = 1; j < m; j++) { // last row as starting point
+        let cur = [];
+        for (let x = n - 1, y = 0; x >= 0 && j + y < m; x--, y++) cur.push(g[x][j + y]);
+        res.push(cur);
     }
     return res;
 };
 
-const diagonal_traverse_bottomLeft_to_topRight = (g) => { // think in middle diagonal
-    let n = g.length;
-    let m = g[0].length;
-    let down = []; // down part
-    for (let j = 1; j < m; j++) { // last row as starting point, j = 1, ignore the middle diagonal, has in top
-        let tmp = [];
-        let rde = n - 1; // row control
-        let cin = 0; // col control
-        while (rde >= 0 && j + cin < m) { // read diagonally
-            tmp.push(g[rde][j + cin]); // row-- col++
-            rde--;
-            cin++;
-        }
-        down.push(tmp);
-    }
-    let top = []; // top part
-    for (let i = n - 1; ~i; i--) { // first col as starting point
-        let tmp = [];
-        let share = 0; // shared increase control
-        while (i - share >= 0 && share < m) { // read diagonally
-            tmp.push(g[i - share][share]); // row-- col++
-            share++;
-        }
-        top.unshift(tmp);
-    }
-    // for (let i = 0; i < n; i++) { // also works
-    //     let tmp = [];
-    //     let share = 0;
-    //     while (i - share >= 0 && share < m) {
-    //         tmp.push(g[i - share][share]);
-    //         share++;
-    //     }
-    //     top.push(tmp);
-    // }
-    return top.concat(down);
-};
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-const diagonal_traverse_topLeft_to_bottomRight = (g) => { // think in middle diagonal
-    let n = g.length;
-    let m = g[0].length;
-    let top = [];
-    for (let j = 0; j < m; j++) { // first row as starting point
-        let tmp = [];
-        let share = 0; // shared increase control
-        while (share < n && j + share < m) { // read Diagonally
-            tmp.push(g[share][j + share]); // row++ col++
-            share++;
-        }
-        top.push(tmp);
+const diagonal_traverse_with_middle_topLeft_to_bottomRight = (g) => {
+    let n = g.length, m = g[0].length, res = [];
+    for (let i = n - 1; i > 0; i--) { // first col starting point
+        let cur = [];
+        for (let y = 0; i + y < n && y < m; y++) cur.push(g[i + y][y]);
+        res.push(cur);
     }
-    let down = [];
-    for (let i = 1; i < n; i++) { // first col starting point, i = 1, ignore the middle diagonal, has in top
-        let tmp = [];
-        let share = 0; // shared increase control
-        while (i + share < n && share < m) { // read Diagonally
-            tmp.push(g[i + share][share]);
-            share++;
-        }
-        down.unshift(tmp);
+    for (let j = 0; j < m; j++) { // first row as starting point, contain middle diagonal
+        let cur = [];
+        for (let x = 0; x < n && x + j < m; x++) cur.push(g[x][x + j]);
+        res.push(cur);
     }
-    return down.concat(top);
+    return res;
 };
 
 const pr = console.log;
@@ -99,8 +45,8 @@ const main = () => {
         [4, 5, 6],
         [7, 8, 9]
     ];
-    pr(diagonal_traverse_bottomLeft_to_topRight(mat));
-    pr(diagonal_traverse_topLeft_to_bottomRight(mat));
+    pr(diagonal_traverse_with_middle_bottomLeft_to_topRight(mat)); // [ [ 1 ], [ 4, 2 ], [ 7, 5, 3 ], [ 8, 6 ], [ 9 ] ]
+    pr(diagonal_traverse_with_middle_topLeft_to_bottomRight(mat)); // [ [ 7 ], [ 4, 8 ], [ 1, 5, 9 ], [ 2, 6 ], [ 3 ] ]
 };
 
 main()

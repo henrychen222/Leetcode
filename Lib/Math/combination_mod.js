@@ -20,20 +20,39 @@ fact: factorial
 ifact: inverse factorial
 */
 
-const ll = BigInt, mod = ll(1e9 + 7), N = 1e5 + 5;
 
-let fact, ifact, inv;
-const comb_init = () => {
-    fact = Array(N), ifact = Array(N), inv = Array(N);
-    fact[0] = ifact[0] = inv[1] = 1n;
-    for (let i = 2; i < N; i++) inv[i] = (mod - mod / ll(i)) * inv[mod % ll(i)] % mod;
-    for (let i = 1; i < N; i++) {
-        fact[i] = fact[i - 1] * ll(i) % mod;
-        ifact[i] = ifact[i - 1] * inv[i] % mod;
+function Combinatorics(N, mod) {
+    let fact = Array(N), ifact = Array(N), inv = Array(N);
+    comb_init();
+    return { comb }
+    function comb_init() {
+        fact[0] = ifact[0] = inv[1] = 1n;
+        for (let i = 2; i < N; i++) inv[i] = (mod - mod / ll(i)) * inv[mod % ll(i)] % mod;
+        for (let i = 1; i < N; i++) {
+            fact[i] = fact[i - 1] * ll(i) % mod;
+            ifact[i] = ifact[i - 1] * inv[i] % mod;
+        }
     }
-};
+    function comb(n, k) {
+        if (n < k || k < 0) return 0n;
+        return fact[n] * ifact[k] % mod * ifact[n - k] % mod;
+    }
+}
 
-const comb = (n, k) => {
-    if (n < k || k < 0) return 0;
-    return fact[n] * ifact[k] % mod * ifact[n - k] % mod;
-};
+// const ll = BigInt, mod = ll(1e9 + 7), N = 1e5 + 5;
+
+// let fact, ifact, inv;
+// const comb_init = () => {
+//     fact = Array(N), ifact = Array(N), inv = Array(N);
+//     fact[0] = ifact[0] = inv[1] = 1n;
+//     for (let i = 2; i < N; i++) inv[i] = (mod - mod / ll(i)) * inv[mod % ll(i)] % mod;
+//     for (let i = 1; i < N; i++) {
+//         fact[i] = fact[i - 1] * ll(i) % mod;
+//         ifact[i] = ifact[i - 1] * inv[i] % mod;
+//     }
+// };
+
+// const comb = (n, k) => {
+//     if (n < k || k < 0) return 0n;
+//     return fact[n] * ifact[k] % mod * ifact[n - k] % mod;
+// };

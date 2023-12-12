@@ -344,6 +344,7 @@ https://leetcode.com/problems/course-schedule/discuss/1601837/javascript-topolog
 
 208 Implement Trie (Prefix Tree)  (0) -> (-1) -> (-2)
 https://leetcode.com/problems/implement-trie-prefix-tree/discuss/1115906/javascript-use-HashSet-easy-256ms
+https://leetcode.com/problems/implement-trie-prefix-tree/solutions/4282904/javascript-167ms/
 
 209 Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/discuss/736867/javascript-two-pointer-solution
@@ -3672,6 +3673,9 @@ https://leetcode.com/problems/count-special-integers/discuss/2422756/javascript-
 2380 Time Needed to Rearrange a Binary String
 https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/discuss/2456215/javascript-direct-way-453ms
 
+2382 Maximum Segment Sum After Removals
+https://leetcode.com/problems/maximum-segment-sum-after-removals/solutions/3948236/javascript-reverse-union-find-377ms/
+
 2383 Minimum Hours of Training to Win a Competition
 https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/discuss/2456733/javascript-direct-way-114ms
 
@@ -3974,6 +3978,7 @@ https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an
 
 2536 Increment Submatrices by One
 https://leetcode.com/problems/increment-submatrices-by-one/solutions/3052913/javascript-brute-force-2135ms/
+https://leetcode.com/problems/increment-submatrices-by-one/solutions/3942735/javascript-2d-difference-array-358ms/
 
 2544 Alternating Digit Sum
 https://leetcode.com/problems/alternating-digit-sum/solutions/3083872/javascript-direct-way-81ms/
@@ -4271,6 +4276,102 @@ https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-
 
 2818 Apply Operations to Maximize Score
 https://leetcode.com/problems/apply-operations-to-maximize-score/solutions/3909818/javascript-monotonic-stack-lpf-pow-mod-841ms/
+
+2828 Check if a String Is an Acronym of Words
+https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/solutions/3934741/javascript-direct-way-77ms/
+
+2829 Determine the Minimum Sum of a k-avoiding Array
+https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/solutions/3934726/javascript-greedy-89ms/
+
+2830 Maximize the Profit as the Salesman
+https://leetcode.com/problems/maximize-the-profit-as-the-salesman/solutions/3934515/javascript-graph-dp-264ms/
+
+2831 Find the Longest Equal Subarray
+https://leetcode.com/problems/find-the-longest-equal-subarray/solutions/3934898/javascript-unfixed-sliding-window-hashmap-259ms/
+
+2833 Furthest Point From Origin
+https://leetcode.com/problems/furthest-point-from-origin/solutions/3965401/javascript-greedy-61ms/
+
+2834 Find the Minimum Possible Sum of a Beautiful Array
+https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/solutions/3965353/javascript-greedy-141ms/
+
+2835 Minimum Operations to Form Subsequence With Target Sum
+https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/solutions/3965346/javascript-greedy-hashmap-69ms/
+
+2839 Check if Strings Can be Made Equal With Operations I
+https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/solutions/3997989/javascript-three-conditions-74ms/
+
+2840 Check if Strings Can be Made Equal With Operations II
+https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/solutions/3997977/javascript-greedy-318ms/
+
+2841 Maximum Sum of Almost Unique Subarray
+https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/solutions/3997738/javascript-fixed-sliding-window-prefix-sum-108ms/
+
+2842 Count K-Subsequences of a String With Maximum Beauty
+https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/solutions/3997906/javascript-greedy-combination-1026ms/
+
+2869 Minimum Operations to Collect Elements
+https://leetcode.com/problems/minimum-operations-to-collect-elements/solutions/4110382/javascript-direct-way-61ms/
+
+2870 Minimum Number of Operations to Make Array Empty
+https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/solutions/4110303/javascript-greedy-103ms/
+
+2871 Split Array Into Maximum Number of Subarrays
+https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/solutions/4110318/javascript-greedy-99ms/
+
+2872 Maximum Number of K-Divisible Components
+https://leetcode.com/problems/maximum-number-of-k-divisible-components/solutions/4110510/javascript-tree-dp-168ms/
+
+2899 Last Visited Integers
+https://leetcode.com/problems/last-visited-integers/solutions/4168270/javascript-direct-way-76ms/
+
+2900 Longest Unequal Adjacent Groups Subsequence I
+https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/solutions/4168287/javascript-greedy-sort-68ms/
+
+2901 Longest Unequal Adjacent Groups Subsequence II
+https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/solutions/4168449/javascript-dp-166ms/
+
+2902 Count of Sub-Multisets With Bounded Sum
+https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/4168669/javascript-multi-knapsack/
+
+2923 Find Champion I
+https://leetcode.com/problems/find-champion-i/solutions/4250500/javascript-direct-way-68ms/
+
+2924 Find Champion II
+https://leetcode.com/problems/find-champion-ii/solutions/4250534/javascript-direct-way-103ms/
+
+2930 Number of Strings Which Can Be Rearranged to Contain Substring
+https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/solutions/4277057/javascript-inclusion-exclusion-principle-71ms/
+
+2933 High-Access Employees
+https://leetcode.com/problems/high-access-employees/solutions/4278736/javascript-hashmap-date-129ms/
+
+2946 Matrix Similarity After Cyclic Shifts
+https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/solutions/4330611/javascript-direct-way-68ms/
+
+2947 Count Beautiful Substrings I
+https://leetcode.com/problems/count-beautiful-substrings-i/solutions/4330585/javascript-brute-force-293ms/
+
+2948 Make Lexicographically Smallest Array by Swapping Elements
+https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/solutions/4330565/javascript-union-find-sort-594ms/
+
+2953 Count Complete Substrings
+https://leetcode.com/problems/count-complete-substrings/solutions/4381039/javascript-sliding-window-hashmap-1994ms/
+
+2954 Count the Number of Infection Sequences
+https://leetcode.com/problems/count-the-number-of-infection-sequences/solutions/4380808/java-combinatorics-437ms/
+
+2960 Count Tested Devices After Test Operations
+https://leetcode.com/problems/count-tested-devices-after-test-operations/solutions/4384436/javascript-direct-way-55ms/
+
+2961 Double Modular Exponentiation
+https://leetcode.com/problems/double-modular-exponentiation/solutions/4384458/javascript-bigint-65ms/
+
+2962 Count Subarrays Where Max Element Appears at Least K Times
+https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/solutions/4384492/javascript-binary-search-269ms/
+
+2963 Count the Number of Good Partitions
+https://leetcode.com/problems/count-the-number-of-good-partitions/solutions/4384838/javascript-record-last-index-173ms/
 
 Interview:
 https://leetcode.com/discuss/interview-question/431933/rubrik-oa-2019-scatter-palindrome
